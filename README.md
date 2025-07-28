@@ -70,7 +70,7 @@ Challenge_1b/
 - **File:** `step1_paddle.py`
 - **Input:** PDFs in each collection's `PDFs/` folder.
 - **Output:** `outputs/Collection X/PDF_NAME/parallel_layout_results1.json`
-- **Description:** Uses PaddleOCR to detect layout elements (titles, headings, text blocks) in each PDF page. Results are saved per PDF.
+- **Description:** Uses PaddleOCR to detect layout elements (titles, headings, text blocks) in each PDF page. Results are saved per PDF. Multiprocessing is used with 4 workers initialised for optimal approach.
 
 ---
 
@@ -86,7 +86,7 @@ Challenge_1b/
 - **File:** `step2_extract_only_texts.py`
 - **Input:** `outputs/`
 - **Output:** `extracted_texts/Collection X/PDF_NAME/parallel_layout_results1.json`
-- **Description:** Extracts and structures text blocks under each heading from layout results, saving them per collection and PDF.
+- **Description:** Extracts, structures, and combines the text blocks under each heading from layout results, saving them per collection and PDF.
 
 ---
 
@@ -94,7 +94,7 @@ Challenge_1b/
 - **File:** `step3_embeddings.py`
 - **Input:** `outputs/`
 - **Output:** `section_embeddings/Collection X.jsonl`
-- **Description:** For each collection, creates embeddings for each section (heading + content) using SentenceTransformer. Each line is a section with its embedding.
+- **Description:** For each collection, creates embeddings for each (doc_title + heading) using SentenceTransformer. Each line is a section with its embedding.
 
 ---
 
@@ -173,4 +173,4 @@ Challenge_1b/
 
 ## Contact
 
-For issues or questions, please contact
+For issues or questions, please contact Hansawani Saini (hansawani07@gmail.com), Rishav Sachdeva (sachdevarishav449@gmail.com), Sushweta Bhattacharya (sushwetabm@gmail.com).
