@@ -1,0 +1,4822 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Export_1.pdf",
+  "total_pages": 30,
+  "processing_time": "101.85s",
+  "layout_time_total": "161.90s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "chart",
+          "confidence": 0.745,
+          "text": "",
+          "coordinates": [
+            0.32388854026794434,
+            2.3452141284942627,
+            612.0,
+            788.8677368164062
+          ]
+        }
+      ],
+      "element_counts": {
+        "chart": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.72,
+          "text": "Export",
+          "coordinates": [
+            71.07837677001953,
+            79.12041473388672,
+            149.59375,
+            101.65631866455078
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "You can save your changes to an Adobe PDF or PDF Portfolio in the original PDF or in a copy\nof the PDF. You can also save individual PDFs to other file formats, including text, XML, \nHTML, and Microsoft Word.",
+          "coordinates": [
+            68.40473937988281,
+            118.30561065673828,
+            536.230712890625,
+            159.62680053710938
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "Saving a PDF in text format allows you to use the content with a screen reader, screen\nmagnifier, or other assistive technology.",
+          "coordinates": [
+            68.68293762207031,
+            171.20570373535156,
+            498.1600036621094,
+            200.59007263183594
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "If you don’t have access to the source files that created an Adobe PDF, you can still copy \nimages and text from the PDF to use elsewhere. You can also export the PDF to a reusable\nformat, or export images in a PDF to another format.",
+          "coordinates": [
+            68.64773559570312,
+            213.3392333984375,
+            521.4397583007812,
+            259.2855529785156
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "Adobe Acrobat Reader users can save a copy of a PDF or PDF Portfolio if the creator of the\ndocument has enabled usage rights. If a document has additional or restricted usage rights, \nthe document message bar under the toolbar area describes the assigned restrictions or \nprivileges.",
+          "coordinates": [
+            68.63228607177734,
+            272.1703186035156,
+            528.1476440429688,
+            336.7496643066406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.834,
+          "text": "Save a PDF",
+          "coordinates": [
+            69.49431610107422,
+            382.29412841796875,
+            148.1508331298828,
+            394.1953125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "Use this method to save PDFs, including PDF Portfolios, and PDFs in which you have added\ncomments, form field entries, and digital signatures.",
+          "coordinates": [
+            69.07757568359375,
+            410.2314453125,
+            528.69677734375,
+            440.6661071777344
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.596,
+          "text": "Note:",
+          "coordinates": [
+            69.18017578125,
+            453.9232177734375,
+            101.18283081054688,
+            463.6927795410156
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "Saving a digitally signed PDF invalidates the signature.",
+          "coordinates": [
+            68.97135162353516,
+            478.5074768066406,
+            341.3092956542969,
+            490.9695129394531
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.56,
+          "text": "1. Do one of the following:",
+          "coordinates": [
+            86.94532012939453,
+            503.4625549316406,
+            230.41944885253906,
+            515.231201171875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.528,
+          "text": "1. Do one of the following:",
+          "coordinates": [
+            86.94532012939453,
+            503.4625549316406,
+            230.41944885253906,
+            515.231201171875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nTo save changes, select Save to computer   from the upper right. Alternatively\nyou can also select the hamburger menu  and select Save. For macOS, \nselect File > Save.",
+          "coordinates": [
+            122.95338439941406,
+            528.4979248046875,
+            532.2205810546875,
+            574.3226928710938
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "• \nTo save a copy of a PDF in Windows, select the hamburger menu   and then\nselect Save As. For macOS, select File > Save As.",
+          "coordinates": [
+            123.17212677001953,
+            588.5091552734375,
+            519.2056884765625,
+            616.6197509765625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "• \nIn Acrobat Reader, for Windows, select the hamburger menu   and then\nselect> Save As. For macOS, select File > Save as Text.",
+          "coordinates": [
+            123.25634765625,
+            630.600341796875,
+            502.1064453125,
+            658.520751953125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.855,
+          "text": "• \nTo save a copy of a PDF Portfolio, select File >Save.",
+          "coordinates": [
+            122.95331573486328,
+            673.4508666992188,
+            400.8007507324219,
+            685.1005249023438
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "text": 11
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.629,
+          "text": "Note:",
+          "coordinates": [
+            69.85638427734375,
+            74.46569061279297,
+            100.94216918945312,
+            84.05628967285156
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "If you are viewing a PDF in a web browser, the Acrobat File menu is not available. Use the\nSave A Copy button in the Acrobat toolbar to save the PDF.",
+          "coordinates": [
+            69.0712661743164,
+            98.44125366210938,
+            516.6268920898438,
+            127.69755554199219
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 1
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.688,
+          "text": "Recover the last saved version",
+          "coordinates": [
+            70.43260955810547,
+            91.37330627441406,
+            383.2086181640625,
+            111.63538360595703
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.674,
+          "text": "1. On Windows, choose the hamburger   Menu > Undo, Redo & more > Revert.",
+          "coordinates": [
+            100.79312133789062,
+            133.99996948242188,
+            492.2239685058594,
+            144.98782348632812
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.679,
+          "text": "On macOS, select the File menu > Revert.",
+          "coordinates": [
+            117.7370834350586,
+            155.86814880371094,
+            322.9971618652344,
+            166.3336639404297
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.812,
+          "text": "About the Autosave feature",
+          "coordinates": [
+            69.33779907226562,
+            211.61734008789062,
+            256.3874816894531,
+            223.97389221191406
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.704,
+          "text": "You can apply autosave changes to the original files when you restart Acrobat. When you \nclose, save manually, or revert to the last-saved version of a file, the autosave file is deleted.",
+          "coordinates": [
+            68.74022674560547,
+            370.7564697265625,
+            525.81884765625,
+            397.3727722167969
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.555,
+          "text": "Note:",
+          "coordinates": [
+            69.26667022705078,
+            407.9956359863281,
+            101.04752349853516,
+            418.1737365722656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "If you use assistive technology, such as a screen reader, you may want to disable the Autosave\nfeature so that you don’t lose your place when the file is reloaded.",
+          "coordinates": [
+            68.61505126953125,
+            429.347412109375,
+            537.2752685546875,
+            456.3945007324219
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.692,
+          "text": "The Autosave feature won’t work in the following cases:",
+          "coordinates": [
+            69.3980712890625,
+            467.3094787597656,
+            351.78045654296875,
+            479.1006164550781
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "• \nA document that has its security changed. You must save the document to re-enable\nautomatic saving of document changes.",
+          "coordinates": [
+            87.03565979003906,
+            492.3218078613281,
+            527.6075439453125,
+            521.7493286132812
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "• \nA document created using the Web Capture feature or extracted from a larger PDF \n(All tools > Organize Pages > Extract). You must save the document to enable \nautomatic saving of changes.",
+          "coordinates": [
+            86.94942474365234,
+            534.1424560546875,
+            521.1034545898438,
+            580.3671875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.899,
+          "text": "• \nA document displayed in a web browser or incorporated into a container document \nthat supports Object Linking and Embedding (OLE). This document appears outside\nthe default file system and cannot support automatic saving.",
+          "coordinates": [
+            87.3140640258789,
+            594.3450927734375,
+            527.543212890625,
+            641.0778198242188
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.762,
+          "text": "Recover lost changes",
+          "coordinates": [
+            69.76559448242188,
+            653.787109375,
+            177.54446411132812,
+            665.571044921875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.914,
+          "text": "To prevent lost changes after an unexpected interruption, enable the Autosave feature, which\nis the default setting.",
+          "coordinates": [
+            68.82080841064453,
+            678.2750854492188,
+            535.9616088867188,
+            707.7328491210938
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "text": 9,
+        "paragraph_title": 3
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.873,
+          "text": "Set up automatic saving",
+          "coordinates": [
+            69.1408462524414,
+            75.3540267944336,
+            237.29248046875,
+            90.52796936035156
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "1. In the Preferences dialog box under Categories, select Documents.",
+          "coordinates": [
+            86.91949462890625,
+            104.48625183105469,
+            438.4856872558594,
+            116.75867462158203
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "2. Select Automatically Save Document Changes To Temporary File Every xx Minutes (1-\n99), and specify the number of minutes.",
+          "coordinates": [
+            87.06683349609375,
+            129.32972717285156,
+            533.733642578125,
+            158.32901000976562
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.879,
+          "text": "Recover lost changes after an unexpected shutdown",
+          "coordinates": [
+            69.54088592529297,
+            203.7643585205078,
+            431.266845703125,
+            219.32615661621094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "1. Start Acrobat or open the file you were working on last.",
+          "coordinates": [
+            87.09391021728516,
+            233.52720642089844,
+            385.7300109863281,
+            245.65660095214844
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "2. When prompted, click Yes to open the autosave file or files. If multiple files were open,\nAcrobat opens all of the files for you.",
+          "coordinates": [
+            86.77103424072266,
+            258.1440124511719,
+            537.667236328125,
+            287.8078308105469
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.689,
+          "text": "3. Save the file or files with the same names as the files you were originally working on.\nTo control changes and quality trade-oﬀs, use PDF Optimizer in Acrobat Pro, which makes \nmore options available. You can also easily convert from other file formats to PDF using our \nonline tools such as Word to PDF and Convert PDF.",
+          "coordinates": [
+            68.98139953613281,
+            300.3453063964844,
+            529.3416137695312,
+            370.7369689941406
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.604,
+          "text": "To control changes and quality trade-oﬀs, use PDF Optimizer in Acrobat Pro, which makes \nmore options available. You can also easily convert from other file formats to PDF using our \nonline tools such as Word to PDF and Convert PDF.",
+          "coordinates": [
+            68.7468490600586,
+            325.3980712890625,
+            528.2977294921875,
+            371.0072021484375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "You can easily convert your PDF files into Microsoft Word (DOC or DOCX) using Adobe\nAcrobat.",
+          "coordinates": [
+            68.69486999511719,
+            385.1009826660156,
+            505.6234130859375,
+            413.0506591796875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.873,
+          "text": "Convert PDF to DOCX",
+          "coordinates": [
+            69.47669219970703,
+            460.0482482910156,
+            223.8501739501953,
+            472.65032958984375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "1.\nOpen the PDF in Acrobat.",
+          "coordinates": [
+            86.87946319580078,
+            488.5401306152344,
+            235.7696990966797,
+            499.3688049316406
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "2. From the global bar, select Convert.",
+          "coordinates": [
+            86.81282043457031,
+            514.4764404296875,
+            288.5224304199219,
+            526.235107421875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "3. From the left pane, Select DOCX from the drop-down menu next to Microsoft Word.\nThen select Convert to DOCX.",
+          "coordinates": [
+            86.57840728759766,
+            539.1886596679688,
+            530.0562133789062,
+            567.16259765625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.966,
+          "text": "",
+          "coordinates": [
+            89.1076889038086,
+            72.87451934814453,
+            463.3544616699219,
+            310.4849853515625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "figure_title",
+          "confidence": 0.84,
+          "text": "",
+          "coordinates": [
+            87.37173461914062,
+            325.08966064453125,
+            499.2894592285156,
+            352.3960266113281
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.826,
+          "text": "Convert PDF to DOC",
+          "coordinates": [
+            69.66645050048828,
+            389.248779296875,
+            214.5441131591797,
+            401.5426025390625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.831,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            100.96863555908203,
+            407.5458679199219,
+            248.93174743652344,
+            418.6251220703125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.86,
+          "text": "2. From the global bar, select Convert.",
+          "coordinates": [
+            101.02056121826172,
+            429.4129943847656,
+            300.8428955078125,
+            440.9764099121094
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.922,
+          "text": "3. From the left pane, Select DOC from the drop-down menu next to Microsoft Word.\nThen select Convert to DOC.",
+          "coordinates": [
+            100.83975219726562,
+            451.996337890625,
+            535.1176147460938,
+            478.07415771484375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "image",
+          "confidence": 0.97,
+          "text": "",
+          "coordinates": [
+            103.20329284667969,
+            487.8248291015625,
+            393.9241943359375,
+            673.6841430664062
+          ]
+        },
+        {
+          "id": 8,
+          "type": "figure_title",
+          "confidence": 0.871,
+          "text": "",
+          "coordinates": [
+            100.95320129394531,
+            686.2194213867188,
+            514.914794921875,
+            711.9722290039062
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 2,
+        "figure_title": 2,
+        "paragraph_title": 1,
+        "text": 3
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.667,
+          "text": "For PDF to Word conversion settings, go to File format options for PDF export.",
+          "coordinates": [
+            69.14038848876953,
+            73.20696258544922,
+            451.39935302734375,
+            84.09696197509766
+          ]
+        },
+        {
+          "id": 2,
+          "type": "header",
+          "confidence": 0.57,
+          "text": "",
+          "coordinates": [
+            69.14038848876953,
+            73.20696258544922,
+            451.39935302734375,
+            84.09696197509766
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.938,
+          "text": "You can easily convert your PDF files into Microsoft Powerpoint (PPT/PPTX) using Adobe\nAcrobat.",
+          "coordinates": [
+            68.94446563720703,
+            95.41152954101562,
+            517.5414428710938,
+            123.23381805419922
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.864,
+          "text": "Convert PDF to PPTX",
+          "coordinates": [
+            69.4512939453125,
+            170.0962677001953,
+            219.95791625976562,
+            182.59915161132812
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.0623550415039,
+            199.29910278320312,
+            236.14614868164062,
+            210.7365264892578
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "2. Select Convert from the globar bar.",
+          "coordinates": [
+            86.77960968017578,
+            224.12112426757812,
+            285.49560546875,
+            236.1268768310547
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "3. From the Convert menu in the left pane, select Microsoft PowerPoint PPTX.",
+          "coordinates": [
+            87.41297149658203,
+            249.29872131347656,
+            489.53570556640625,
+            260.5472412109375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "image",
+          "confidence": 0.971,
+          "text": "",
+          "coordinates": [
+            89.89804077148438,
+            273.94964599609375,
+            449.9958190917969,
+            506.1947326660156
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.601,
+          "text": "4. Select Convert to PPTX.",
+          "coordinates": [
+            87.67672729492188,
+            518.7431030273438,
+            228.58987426757812,
+            529.1201171875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.539,
+          "text": "4. Select Convert to PPTX.",
+          "coordinates": [
+            87.67672729492188,
+            518.7431030273438,
+            228.58987426757812,
+            529.1201171875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "5. In the dialog, select the location where you want to save the file and, if necessary,\nchange the file name.",
+          "coordinates": [
+            87.25077056884766,
+            540.3198852539062,
+            510.5337829589844,
+            567.0664672851562
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.742,
+          "text": "6. Select Save.",
+          "coordinates": [
+            87.88638305664062,
+            578.6654052734375,
+            167.4861297607422,
+            588.8604125976562
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 8,
+        "header": 1,
+        "paragraph_title": 2,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.59,
+          "text": "File format opƟons for PDF export in Acrobat",
+          "coordinates": [
+            70.20480346679688,
+            76.36210632324219,
+            517.8406372070312,
+            96.9736099243164
+          ]
+        },
+        {
+          "id": 2,
+          "type": "doc_title",
+          "confidence": 0.527,
+          "text": "File format opƟons for PDF export in Acrobat",
+          "coordinates": [
+            70.20480346679688,
+            76.36210632324219,
+            517.8406372070312,
+            96.9736099243164
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "To convert a PDF to different file formats, select Convert from the global bar. Each file format\nincludes unique conversion settings. Alternatively, you can use the Export a PDF tool from \nthe All tools menu.",
+          "coordinates": [
+            68.70477294921875,
+            110.00320434570312,
+            534.1514892578125,
+            150.75209045410156
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.851,
+          "text": "Adobe PDF options",
+          "coordinates": [
+            69.49668884277344,
+            195.6632080078125,
+            205.2142333984375,
+            210.69189453125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "You can resave PDFs as optimized PDFs using settings in the PDF Optimizer dialog box. \nThe PDF Optimizer lets you change the compatibility version of your PDFs so they can be \nviewed using older versions of Acrobat or Acrobat Reader. When you change the \ncompatibility setting, newer features may be unavailable in the PDF. For an explanation of \neach compatibility setting, view PDF compatibility levels.",
+          "coordinates": [
+            68.7877197265625,
+            228.9984893798828,
+            518.9849853515625,
+            300.5708312988281
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.731,
+          "text": "Note:",
+          "coordinates": [
+            69.40692138671875,
+            318.09539794921875,
+            100.63849639892578,
+            327.7442626953125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "If you want to use the same settings every time you convert PDFs to a particular format, \nspecify those settings in the Preferences dialog box. In the Convert From PDF panel, select a\nfile format from the list and select Edit Settings. You can select the Defaults at the top of \nthe Save as Settings dialog box to revert to the default settings.",
+          "coordinates": [
+            68.67823028564453,
+            346.4892578125,
+            532.3748168945312,
+            402.58819580078125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.844,
+          "text": "Image conversion settings",
+          "coordinates": [
+            69.35747528076172,
+            447.3149719238281,
+            251.26255798339844,
+            462.3341979980469
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.712,
+          "text": "JPEG and JPEG 2000 conversion settings",
+          "coordinates": [
+            69.08507537841797,
+            479.2242736816406,
+            276.02655029296875,
+            491.3031005859375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.846,
+          "text": "In Acrobat, select All tools > Export a PDF and select Image format. From the drop-down\nmenu next to Image format, select the format you want your image to be. You",
+          "coordinates": [
+            68.9388656616211,
+            502.1136474609375,
+            518.9198608398438,
+            529.0154418945312
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.774,
+          "text": "get JPEG and JPEG 2000 options. Select the \nsettings icon to change the export \npreferences.",
+          "coordinates": [
+            69.18695831298828,
+            542.8241577148438,
+            487.3048095703125,
+            570.2098388671875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.779,
+          "text": "File settings",
+          "coordinates": [
+            69.70582580566406,
+            601.8171997070312,
+            154.3657989501953,
+            617.6289672851562
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.907,
+          "text": "• \nGrayscale/Color: Specifies a compression setting that balances file size with image\nquality. The smaller the file, the lesser the image quality.",
+          "coordinates": [
+            87.5665283203125,
+            624.4551391601562,
+            520.41943359375,
+            651.6874389648438
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "• \nTile Size: Divides the image being compressed into tiles of the given size. (If the image\nheight or width is not an even multiple of the tile size, partial tiles are used on the \nedges.) Image data for each tile is individually compressed and can be individually",
+          "coordinates": [
+            86.90390014648438,
+            658.2874145507812,
+            537.256103515625,
+            699.7726440429688
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "doc_title": 1,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "decompressed. The default value of 256 is recommended. This option is available only\nfor JPEG 2000 format.",
+          "coordinates": [
+            104.5827865600586,
+            73.06794738769531,
+            537.6375122070312,
+            99.3755874633789
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "• \nFormat: Determines how the file is displayed. Available only in JPEG format. It \nprovides the following options:",
+          "coordinates": [
+            87.70795440673828,
+            107.28092193603516,
+            498.88836669921875,
+            134.50364685058594
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.921,
+          "text": "• \nBaseline (Standard): Displays the image when it has fully downloaded. This\nJPEG format is recognizable to most web browsers.",
+          "coordinates": [
+            123.56751251220703,
+            141.0710906982422,
+            522.7649536132812,
+            167.92581176757812
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "• \nBaseline (Optimized): Optimizes color quality of the image and produces \nsmaller file sizes but is not supported by all web browsers.",
+          "coordinates": [
+            123.4991455078125,
+            175.326171875,
+            512.6233520507812,
+            201.7733917236328
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "• \nProgressive (3 scans-5 scans): Downloads the image first as a low-resolution\nimage, with incremental quality improvements as downloading continues.",
+          "coordinates": [
+            123.60566711425781,
+            209.2383270263672,
+            529.5737915039062,
+            237.0791015625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.86,
+          "text": "Color management",
+          "coordinates": [
+            69.7031478881836,
+            265.2931823730469,
+            205.16085815429688,
+            279.6900939941406
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.745,
+          "text": "RGB/CMYK/Grayscale",
+          "coordinates": [
+            69.53141021728516,
+            290.3077392578125,
+            186.36019897460938,
+            301.155517578125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "Specifies the type of color management to be applied to the output file and whether to\nembed an ICC profile.",
+          "coordinates": [
+            68.91793060302734,
+            313.1293640136719,
+            502.92974853515625,
+            338.7998046875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.7,
+          "text": "Note:",
+          "coordinates": [
+            69.31849670410156,
+            350.88543701171875,
+            101.19005584716797,
+            360.7681579589844
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "If you use the Export To or Export All Images command on a PDF that contains JPEG and \nJPEG 2000 images, and export the content to JPEG or JPEG 2000 format, the resulting image\nmay look different when opened in Acrobat. This can happen if the images have a color \nprofile included at the page level but not inside the image data. In this case, Acrobat cannot \nbring the page-level color profile into the resulting saved image.",
+          "coordinates": [
+            68.8583755493164,
+            375.0235595703125,
+            533.3707885742188,
+            447.1112060546875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.854,
+          "text": "Conversion",
+          "coordinates": [
+            69.69914245605469,
+            478.6478271484375,
+            149.56236267089844,
+            490.1744079589844
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.797,
+          "text": "Colorspace/Resolution",
+          "coordinates": [
+            69.49043273925781,
+            503.3683776855469,
+            190.3548126220703,
+            514.3831176757812
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.825,
+          "text": "Specifies a color space and resolution for the output file. You can let Acrobat determine these\nsettings automatically. To convert color images in the file to shades of gray, choose Grayscale.\nNote:",
+          "coordinates": [
+            68.83661651611328,
+            525.7745361328125,
+            535.5817260742188,
+            568.6827392578125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.922,
+          "text": "Higher resolutions, such as 2400 pixels per inch (ppi), are suitable only for small page sizes\n(up to 6.826 inches or 173.380 millimeters).",
+          "coordinates": [
+            68.5238037109375,
+            588.0226440429688,
+            520.9434814453125,
+            614.1175537109375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.601,
+          "text": "PDF to PNG conversion settings",
+          "coordinates": [
+            69.36074829101562,
+            625.2061157226562,
+            231.2742919921875,
+            636.8700561523438
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "paragraph_title": 5
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.7,
+          "text": "PNG format is useful for images that are used on the web.",
+          "coordinates": [
+            69.61127471923828,
+            73.17827606201172,
+            356.5234680175781,
+            85.14523315429688
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.854,
+          "text": "File settings",
+          "coordinates": [
+            69.63802337646484,
+            97.09941101074219,
+            153.8152618408203,
+            112.3343505859375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.812,
+          "text": "Interlace",
+          "coordinates": [
+            69.45775604248047,
+            122.63584899902344,
+            117.43600463867188,
+            132.65419006347656
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.977,
+          "text": "Specifies if the image is interlaced. None creates an image that displays in a web browser only\nafter downloading is complete. Adam7 creates an image that displays low-resolution versions\nin a browser while the full image file is downloading. Adam7 can make downloading time \nseem shorter and assures viewers that downloading is in progress; however, it increases file \nsize.",
+          "coordinates": [
+            68.66338348388672,
+            144.9926300048828,
+            535.9078369140625,
+            214.7341766357422
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.625,
+          "text": "Filter: Lets you select a filtering algorithm.",
+          "coordinates": [
+            69.52863311767578,
+            226.17367553710938,
+            282.43682861328125,
+            238.5443878173828
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nNone: Compresses the image without a filter. Recommended for indexed-color\nand Bitmap-mode images.",
+          "coordinates": [
+            87.55039978027344,
+            248.24343872070312,
+            502.421142578125,
+            275.0841979980469
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "• \nSub: Optimizes the compression of images with even horizontal patterns or blends.",
+          "coordinates": [
+            87.43142700195312,
+            282.0837097167969,
+            522.2033081054688,
+            294.36090087890625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.83,
+          "text": "• \nUp: Optimizes the compression of images with even vertical patterns.",
+          "coordinates": [
+            87.7726058959961,
+            302.2382507324219,
+            454.9678039550781,
+            314.46514892578125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "• \nAverage: Optimizes the compression of low-level noise by averaging the color values\nof adjacent pixels.",
+          "coordinates": [
+            87.58292388916016,
+            321.54705810546875,
+            532.9789428710938,
+            347.8359069824219
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "• \nPaeth: Optimizes the compression of low-level noise by reassigning adjacent color \nvalues.",
+          "coordinates": [
+            87.89409637451172,
+            355.1532287597656,
+            520.5858154296875,
+            380.8729248046875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "• \nAdaptive: Applies the filtering algorithm—Sub, Up, Average, or Paeth—best suited for\nthe image. Select Adaptive if you are unsure of which filter to use.",
+          "coordinates": [
+            87.49700164794922,
+            390.1989440917969,
+            536.4173583984375,
+            416.48760986328125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.866,
+          "text": "Color management",
+          "coordinates": [
+            69.91997528076172,
+            445.0498962402344,
+            205.02101135253906,
+            459.6903381347656
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.787,
+          "text": "RGB/Grayscale",
+          "coordinates": [
+            69.66312408447266,
+            471.4465026855469,
+            150.09808349609375,
+            481.9947814941406
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "Specifies the type of color management for the output file and whether to embed an ICC\nprofile.",
+          "coordinates": [
+            68.91841888427734,
+            493.177001953125,
+            510.7464294433594,
+            518.9172973632812
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.859,
+          "text": "Conversion",
+          "coordinates": [
+            69.87629699707031,
+            551.3425903320312,
+            149.72930908203125,
+            563.4763793945312
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.787,
+          "text": "Colorspace/Resolution",
+          "coordinates": [
+            69.68388366699219,
+            577.4818115234375,
+            190.3373260498047,
+            588.291015625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.804,
+          "text": "Specifies a color space and resolution for the output file. You can let Acrobat determine these\nsettings automatically. To convert color images in the file to shades of gray, choose Grayscale.",
+          "coordinates": [
+            68.7851333618164,
+            599.1557006835938,
+            535.5904541015625,
+            630.840576171875
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.667,
+          "text": "Note:",
+          "coordinates": [
+            69.61845397949219,
+            636.9767456054688,
+            100.55513763427734,
+            646.7527465820312
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "Higher resolutions, such as 2400 ppi, are suitable only for small page sizes (up to 6.826 inches\nor 173.380 millimeters).",
+          "coordinates": [
+            68.95511627197266,
+            661.2006225585938,
+            537.441162109375,
+            687.5418701171875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 11,
+        "paragraph_title": 8
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.507,
+          "text": "PDF to TIFF conversion settings",
+          "coordinates": [
+            69.5845718383789,
+            73.61056518554688,
+            229.58053588867188,
+            84.82301330566406
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "In Acrobat, select All tools > Export a PDF and select Image format. From the drop-down\nmenu next to Image format, select TIFF. Select the \nsettings icon to change the export\npreferences.",
+          "coordinates": [
+            68.72979736328125,
+            95.03654479980469,
+            518.8033447265625,
+            149.18063354492188
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "TIFF is a flexible bitmap image format supported by virtually all paint, image-editing, and\npage-layout applications. Resolution is determined automatically.",
+          "coordinates": [
+            68.97755432128906,
+            158.10528564453125,
+            512.7107543945312,
+            185.7533416748047
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.855,
+          "text": "File settings",
+          "coordinates": [
+            69.82318878173828,
+            216.95384216308594,
+            154.0700225830078,
+            232.1477508544922
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.783,
+          "text": "Monochrome",
+          "coordinates": [
+            69.49082946777344,
+            242.85597229003906,
+            142.8773193359375,
+            252.548583984375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "Specifies a compression format. CCITTG4 is the default and generally produces the smallest\nfile size. ZIP compression also produces a small file.",
+          "coordinates": [
+            68.68930053710938,
+            264.3352355957031,
+            525.2467651367188,
+            291.1471862792969
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.692,
+          "text": "Note:",
+          "coordinates": [
+            69.40933990478516,
+            303.00445556640625,
+            100.79796600341797,
+            312.5599365234375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "Some applications cannot open TIFF files that are saved with JPEG or ZIP compression. In\nthese cases, LZW compression is recommended.",
+          "coordinates": [
+            68.88577270507812,
+            327.2959899902344,
+            514.9486083984375,
+            352.87469482421875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.832,
+          "text": "Color management",
+          "coordinates": [
+            69.8582534790039,
+            385.26995849609375,
+            205.62344360351562,
+            399.5540771484375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.623,
+          "text": "RGB/CMYK/Grayscale/Other",
+          "coordinates": [
+            69.39090728759766,
+            411.31451416015625,
+            221.15916442871094,
+            422.2127990722656
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.86,
+          "text": "Specifies the type of color management for the output file.",
+          "coordinates": [
+            69.0219955444336,
+            433.1986999511719,
+            360.3638610839844,
+            446.1336669921875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.842,
+          "text": "Conversion",
+          "coordinates": [
+            69.58203125,
+            477.2857971191406,
+            149.96755981445312,
+            489.17901611328125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.771,
+          "text": "Colorspace/Resolution",
+          "coordinates": [
+            69.3856201171875,
+            502.3697814941406,
+            190.59335327148438,
+            513.5278930664062
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "Specifies a color space and resolution for the output file. You can let Acrobat determine these\nsettings automatically. To convert color images in the file to shades of gray, choose Grayscale.\nNote:",
+          "coordinates": [
+            68.81156158447266,
+            524.2799072265625,
+            535.535400390625,
+            571.3434448242188
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.908,
+          "text": "Higher resolutions, such as 2400 ppi, are suitable only for small page sizes (up to 6.826 inches\nor 173.380 millimeters).",
+          "coordinates": [
+            68.6934814453125,
+            587.2761840820312,
+            537.3194580078125,
+            612.865966796875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 8,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.635,
+          "text": "PDF to MicrosoŌ Word conversion seƫngs",
+          "coordinates": [
+            69.84564208984375,
+            92.82353973388672,
+            493.72003173828125,
+            114.49602508544922
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.799,
+          "text": "In Acrobat, select All tools > Export a PDF and select Microsoft Word. From the drop-down\nmenu next to Microsoft Word, select the format you want your document to be in. You",
+          "coordinates": [
+            68.77030181884766,
+            133.0267791748047,
+            515.9662475585938,
+            159.16387939453125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "• \nRetain Flowing Text: Speciﬁes that text ﬂow must be retained.",
+          "coordinates": [
+            87.33211517333984,
+            219.1991729736328,
+            410.0003967285156,
+            229.5047149658203
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "• \nRetain Page Layout: Speciﬁes that page layout must be retained.",
+          "coordinates": [
+            87.56336975097656,
+            238.3866424560547,
+            421.56842041015625,
+            248.6511688232422
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.713,
+          "text": "Comments Settings",
+          "coordinates": [
+            69.58595275878906,
+            260.4883117675781,
+            169.21737670898438,
+            270.7225341796875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "• \nInclude Comments: Exports comments to the output ﬁle.",
+          "coordinates": [
+            87.80220794677734,
+            282.3533935546875,
+            386.1766357421875,
+            292.6190490722656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.722,
+          "text": "Image Settings",
+          "coordinates": [
+            69.57703399658203,
+            304.43194580078125,
+            146.38848876953125,
+            314.95294189453125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "• \nInclude Images: Exports images to the output ﬁle.",
+          "coordinates": [
+            87.4224624633789,
+            326.4360046386719,
+            350.66802978515625,
+            336.75665283203125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.768,
+          "text": "Text Recognition Settings",
+          "coordinates": [
+            69.51419830322266,
+            349.4146423339844,
+            199.36256408691406,
+            359.9014587402344
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.854,
+          "text": "• \nRecognize Text If Needed: Recognizes text if the PDF contains images that contain text.",
+          "coordinates": [
+            87.1490707397461,
+            371.14202880859375,
+            528.4008178710938,
+            382.18096923828125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.865,
+          "text": "• \nSet Language: Speciﬁes the language seƫng for OCR.",
+          "coordinates": [
+            87.76728057861328,
+            390.468994140625,
+            366.5077209472656,
+            401.24847412109375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.593,
+          "text": "Convert PDF to RTF",
+          "coordinates": [
+            70.03854370117188,
+            93.39141845703125,
+            261.4984436035156,
+            111.10936737060547
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.789,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.50818634033203,
+            133.13357543945312,
+            231.57443237304688,
+            143.2687225341797
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "2. From the global bar, select Convert.",
+          "coordinates": [
+            87.49164581298828,
+            155.84078979492188,
+            283.029052734375,
+            166.64845275878906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "3. Under EXPORT PDF TO, select the drop-down menu next to Other format. Then\nselect RTF.",
+          "coordinates": [
+            87.39266967773438,
+            177.7563018798828,
+            495.8619689941406,
+            201.42384338378906
+          ]
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "confidence": 0.922,
+          "text": "",
+          "coordinates": [
+            90.21019744873047,
+            214.796875,
+            422.02154541015625,
+            426.07733154296875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "4. Select Convert to RTF.",
+          "coordinates": [
+            87.78001403808594,
+            438.07476806640625,
+            216.61001586914062,
+            447.84490966796875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "5. In the Save as dialog, select a location where you want to save the file and then\nselect Save.",
+          "coordinates": [
+            87.38743591308594,
+            459.9886474609375,
+            493.7886657714844,
+            484.45587158203125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.872,
+          "text": "PDF to RTF conversion seƫngs",
+          "coordinates": [
+            69.41614532470703,
+            498.969482421875,
+            274.0606689453125,
+            512.4078369140625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "In Acrobat, select All tools > Export a PDF and select Other format. From the drop-down menu\nnext to Other format, select RTF. Select the \nsettings icon to change the export \npreferences.",
+          "coordinates": [
+            69.03958129882812,
+            523.8370971679688,
+            533.7140502929688,
+            575.469482421875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.8,
+          "text": "Layout Settings",
+          "coordinates": [
+            69.4212875366211,
+            587.421630859375,
+            148.9001007080078,
+            597.735595703125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.898,
+          "text": "• \nRetain Flowing Text: Speciﬁes that text ﬂow must be retained.",
+          "coordinates": [
+            87.18437957763672,
+            609.0980834960938,
+            410.1199951171875,
+            619.6494750976562
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.897,
+          "text": "• \nRetain Page Layout: Speciﬁes that page layout must be retained.",
+          "coordinates": [
+            87.40624237060547,
+            628.1996459960938,
+            421.2347106933594,
+            638.6942749023438
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.73,
+          "text": "Comments Settings",
+          "coordinates": [
+            69.6002426147461,
+            650.3875122070312,
+            168.76087951660156,
+            660.5432739257812
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nInclude Comments: Exports comments to the output ﬁle.",
+          "coordinates": [
+            87.25098419189453,
+            673.222412109375,
+            385.7626037597656,
+            683.75537109375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.537,
+          "text": "Image Settings",
+          "coordinates": [
+            69.7381591796875,
+            695.4895629882812,
+            145.58058166503906,
+            706.2813110351562
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.528,
+          "text": "Image Settings",
+          "coordinates": [
+            69.7381591796875,
+            695.4895629882812,
+            145.58058166503906,
+            706.2813110351562
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 10,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.842,
+          "text": "• \nInclude Images: Exports images to the output ﬁle.",
+          "coordinates": [
+            87.86192321777344,
+            73.40562438964844,
+            349.8939208984375,
+            84.06073760986328
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.838,
+          "text": "Text Recognition Settings",
+          "coordinates": [
+            69.62223815917969,
+            96.33425903320312,
+            199.29522705078125,
+            106.96170806884766
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.85,
+          "text": "• \nRecognize Text If Needed: Recognizes text if the PDF contains images that contain text.",
+          "coordinates": [
+            87.35408020019531,
+            118.25994873046875,
+            528.7402954101562,
+            129.13491821289062
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "• \nSet Language: Speciﬁes the language seƫng for OCR.",
+          "coordinates": [
+            87.75897216796875,
+            137.21360778808594,
+            366.5281677246094,
+            148.4151153564453
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 3,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.54,
+          "text": "Convert PDF to HTML Web Page",
+          "coordinates": [
+            69.75269317626953,
+            93.00846862792969,
+            387.26593017578125,
+            113.15019989013672
+          ]
+        },
+        {
+          "id": 2,
+          "type": "doc_title",
+          "confidence": 0.539,
+          "text": "Convert PDF to HTML Web Page",
+          "coordinates": [
+            69.75269317626953,
+            93.00846862792969,
+            387.26593017578125,
+            113.15019989013672
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.843,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.48800659179688,
+            133.156494140625,
+            231.5976104736328,
+            143.2458953857422
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.896,
+          "text": "2. From the global bar, select Convert.",
+          "coordinates": [
+            87.54915618896484,
+            155.8675994873047,
+            283.2616271972656,
+            166.68368530273438
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "3. Select the drop-down menu next to Other format, Select HTML.",
+          "coordinates": [
+            87.41741943359375,
+            177.8861541748047,
+            417.9662170410156,
+            188.41983032226562
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.723,
+          "text": "4. Select Convert to HTML.",
+          "coordinates": [
+            87.75719451904297,
+            200.02471923828125,
+            226.3756866455078,
+            210.1263427734375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "image",
+          "confidence": 0.919,
+          "text": "",
+          "coordinates": [
+            89.94914245605469,
+            223.76116943359375,
+            308.5215148925781,
+            518.5399780273438
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.805,
+          "text": "5. In the Save as dialog, select a location where you want to save the file and then\nselect Save.",
+          "coordinates": [
+            87.4315414428711,
+            528.8425903320312,
+            493.5226745605469,
+            552.8170776367188
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.838,
+          "text": "PDF to HTML conversion seƫngs",
+          "coordinates": [
+            69.49996948242188,
+            586.760986328125,
+            288.51275634765625,
+            600.510986328125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.827,
+          "text": "In Acrobat, select All tools > Export a PDF and select Other format. From the drop-down menu\nnext to Other format, select HTML. Select the \nsettings icon to change the export \npreferences.",
+          "coordinates": [
+            68.93412780761719,
+            611.549560546875,
+            534.2796020507812,
+            664.2022705078125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.65,
+          "text": "FILE AND NAVIGATION PANE SETTINGS",
+          "coordinates": [
+            69.65061950683594,
+            674.8613891601562,
+            259.0062255859375,
+            684.7129516601562
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "doc_title": 1,
+        "text": 7,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.881,
+          "text": "Single html page",
+          "coordinates": [
+            69.4801025390625,
+            74.48361206054688,
+            181.9800567626953,
+            88.5922622680664
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "Specifies that a single HTML file is created when you export to HTML. To add a navigation pane,\nenable the following:",
+          "coordinates": [
+            69.01632690429688,
+            99.96094512939453,
+            536.3868408203125,
+            125.35257720947266
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "• \nAdd Headings-based Navigation Frame",
+          "coordinates": [
+            87.88282012939453,
+            137.2669677734375,
+            297.2004089355469,
+            147.78350830078125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "•\nAdd Bookmarks-based Navigation Frame",
+          "coordinates": [
+            87.76445007324219,
+            159.25827026367188,
+            306.03729248046875,
+            169.2884063720703
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.893,
+          "text": "Multiple html pages",
+          "coordinates": [
+            69.69009399414062,
+            209.68658447265625,
+            205.18609619140625,
+            223.62045288085938
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "Specifies that multiple HTML files are created when you export to HTML. Choose one of the\ncriteria to split the document into multiple HTML files.",
+          "coordinates": [
+            69.0446548461914,
+            235.93226623535156,
+            516.75634765625,
+            260.5703430175781
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.897,
+          "text": "• \nSplit by Document Headings",
+          "coordinates": [
+            87.93965911865234,
+            272.4407043457031,
+            246.21372985839844,
+            282.7925109863281
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "• \nSplit by Document Bookmarks",
+          "coordinates": [
+            87.92185974121094,
+            295.5003662109375,
+            254.5377655029297,
+            305.3870849609375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.888,
+          "text": "Content seƫngs",
+          "coordinates": [
+            69.80506896972656,
+            338.1516418457031,
+            179.45513916015625,
+            351.19464111328125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.625,
+          "text": "Include Images",
+          "coordinates": [
+            69.5442123413086,
+            363.53558349609375,
+            147.50521850585938,
+            373.17236328125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "Specifies if images are exported when you export a PDF as HTML.",
+          "coordinates": [
+            69.2343978881836,
+            385.1098937988281,
+            388.5671691894531,
+            395.99957275390625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.756,
+          "text": "Detect and Remove Headers and Footers",
+          "coordinates": [
+            69.68901824951172,
+            408.22601318359375,
+            276.5257873535156,
+            418.0467529296875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "Specifies if header and footer content in the PDF should be deleted and removed from the\nHTML files.",
+          "coordinates": [
+            68.7925033569336,
+            429.958740234375,
+            510.83135986328125,
+            453.7060546875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.889,
+          "text": "Text recogniƟon seƫngs",
+          "coordinates": [
+            70.14989471435547,
+            488.1255798339844,
+            232.8174285888672,
+            501.3894958496094
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.6,
+          "text": "Recognize Text If Needed",
+          "coordinates": [
+            70.04911041259766,
+            513.1911010742188,
+            198.98350524902344,
+            523.355712890625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.53,
+          "text": "Recognize Text If Needed",
+          "coordinates": [
+            70.04911041259766,
+            513.1911010742188,
+            198.98350524902344,
+            523.355712890625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "Recognizes text if the PDF contains images that contain text.",
+          "coordinates": [
+            69.54813385009766,
+            535.3868408203125,
+            364.8157653808594,
+            545.6589965820312
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.643,
+          "text": "Set Language",
+          "coordinates": [
+            69.65290832519531,
+            557.8458862304688,
+            138.12408447265625,
+            567.9356689453125
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "Specifies the language setting for OCR.",
+          "coordinates": [
+            69.40922546386719,
+            580.1586303710938,
+            259.5116271972656,
+            591.158447265625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 7,
+        "text": 12
+      }
+    },
+    {
+      "page_number": 17,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.785,
+          "text": "Convert PDF to Microsoft Excel (XLSX)",
+          "coordinates": [
+            69.42192077636719,
+            134.3844757080078,
+            319.79071044921875,
+            148.03457641601562
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.848,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.54850769042969,
+            153.2196807861328,
+            231.65504455566406,
+            163.49900817871094
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "2. From the global bar, select Convert.",
+          "coordinates": [
+            87.58160400390625,
+            174.95680236816406,
+            283.1682434082031,
+            185.4327850341797
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.758,
+          "text": "3. From the Microsoft Excel drop-down menu, select XLSX.",
+          "coordinates": [
+            87.56803894042969,
+            196.788330078125,
+            383.2259216308594,
+            207.9083251953125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "confidence": 0.957,
+          "text": "",
+          "coordinates": [
+            89.41134643554688,
+            217.8529052734375,
+            507.43292236328125,
+            484.7351989746094
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.821,
+          "text": "4. Select Convert to XLSX.",
+          "coordinates": [
+            87.81619262695312,
+            497.1329040527344,
+            222.10874938964844,
+            507.1052551269531
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "5. In the Save as dialog, select a location where you want to save the file and then\nselect Save.",
+          "coordinates": [
+            87.73762512207031,
+            519.2837524414062,
+            493.7771301269531,
+            543.7098999023438
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.857,
+          "text": "Convert PDF to XML",
+          "coordinates": [
+            69.78831481933594,
+            558.2326049804688,
+            203.3334503173828,
+            569.4005737304688
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.59552764892578,
+            575.1438598632812,
+            231.3352813720703,
+            585.455078125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.903,
+          "text": "2. From the global bar, select Convert.",
+          "coordinates": [
+            87.5499038696289,
+            598.226806640625,
+            283.2649230957031,
+            608.4349975585938
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "3. From the Microsoft Excel drop-down menu, select XML.",
+          "coordinates": [
+            87.51387023925781,
+            619.8519287109375,
+            380.1036071777344,
+            630.8565063476562
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 8,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 18,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.948,
+          "text": "",
+          "coordinates": [
+            89.61701202392578,
+            71.6783218383789,
+            502.3493347167969,
+            337.0607604980469
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.789,
+          "text": "4. Select Convert to XML.",
+          "coordinates": [
+            87.58194732666016,
+            348.2597351074219,
+            219.68748474121094,
+            357.98358154296875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "5. In the Save as dialog, select a location where you want to save the file and then\nselect Save.",
+          "coordinates": [
+            87.32438659667969,
+            369.82830810546875,
+            493.9773254394531,
+            394.32769775390625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.701,
+          "text": "PDF to MicrosoŌ Excel (XLSX or XML) conversion seƫngs",
+          "coordinates": [
+            69.25613403320312,
+            406.8817138671875,
+            347.7389831542969,
+            417.92877197265625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "In Acrobat, select All tools > Export a PDF and select Microsoft Excel. From the drop down\nmenu next to Microsoft Excel, select the format you want your Excel to be. You",
+          "coordinates": [
+            68.95216369628906,
+            428.91339111328125,
+            512.2161865234375,
+            454.8182678222656
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.593,
+          "text": "get XLSX and XML options. Select the \nsettings icon to change the export preferences.",
+          "coordinates": [
+            69.59202575683594,
+            468.2522888183594,
+            508.1468811035156,
+            481.18206787109375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.762,
+          "text": "Specifies whether to create a Worksheet for each table or page, or the entire document.",
+          "coordinates": [
+            69.05895233154297,
+            514.2235717773438,
+            501.5596618652344,
+            524.614013671875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.538,
+          "text": "Numeric Settings",
+          "coordinates": [
+            69.83623504638672,
+            536.4427490234375,
+            157.78245544433594,
+            547.0319213867188
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.849,
+          "text": "Specifies the decimal and thousands separators for numeric data. Select one of the following:",
+          "coordinates": [
+            68.98993682861328,
+            558.9161987304688,
+            526.2372436523438,
+            569.7164306640625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.87,
+          "text": "• \nDetect decimal and thousands separators using regional settings",
+          "coordinates": [
+            87.23625183105469,
+            581.2797241210938,
+            429.5814208984375,
+            592.1134033203125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nTreat the following as decimal and thousands separators. Then enter or selecct\nseparators in the respective fields.",
+          "coordinates": [
+            87.23723602294922,
+            603.4014892578125,
+            498.85614013671875,
+            627.72265625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.787,
+          "text": "Text recogniƟon seƫngs",
+          "coordinates": [
+            70.01028442382812,
+            660.9655151367188,
+            232.9190673828125,
+            674.7478637695312
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.662,
+          "text": "Recognize Text If Needed",
+          "coordinates": [
+            69.9371337890625,
+            686.215576171875,
+            197.8873291015625,
+            696.5387573242188
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "text": 10,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 19,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.765,
+          "text": "Recognizes text if the PDF contains images that contain text.",
+          "coordinates": [
+            69.88703918457031,
+            73.46839904785156,
+            364.55963134765625,
+            84.12100219726562
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.708,
+          "text": "Set Language",
+          "coordinates": [
+            70.00260925292969,
+            96.884765625,
+            137.9162139892578,
+            107.33816528320312
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.8,
+          "text": "Specifies the language setting for OCR.",
+          "coordinates": [
+            69.95819854736328,
+            118.34333801269531,
+            259.3465270996094,
+            129.20248413085938
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 2,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 20,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.599,
+          "text": "Convert PDF to PostScript or Encapsulated\nPostScript (EPS)",
+          "coordinates": [
+            69.10993194580078,
+            92.33877563476562,
+            488.4892272949219,
+            142.97531127929688
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.54,
+          "text": "Convert PDF to PostScript or Encapsulated\nPostScript (EPS)",
+          "coordinates": [
+            69.10993194580078,
+            92.33877563476562,
+            488.4892272949219,
+            142.97531127929688
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.968,
+          "text": "You can export a PDF to PostScript for printing and prepress applications. The PostScript file \nincludes full DSC (Document Structuring Conventions) comments and other advanced \ninformation preserved by Adobe Acrobat Distiller. You can also create an EPS file from any PDF\nfor placement or opening in other applications. The options available depend on whether \nyou're converting a document to PostScript or EPS. To convert PDF to PS or EPS format:",
+          "coordinates": [
+            68.22396850585938,
+            162.5943603515625,
+            532.7610473632812,
+            231.98602294921875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.828,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.58016967773438,
+            243.88905334472656,
+            231.42721557617188,
+            254.02304077148438
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "2. From the global bar, select Convert.",
+          "coordinates": [
+            87.17382049560547,
+            265.92266845703125,
+            283.1340637207031,
+            276.71356201171875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.836,
+          "text": "3. Select the drop-down menu next to Other format, as required, select EPS or PS.",
+          "coordinates": [
+            87.20856475830078,
+            287.85504150390625,
+            494.910400390625,
+            298.72998046875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "image",
+          "confidence": 0.946,
+          "text": "",
+          "coordinates": [
+            89.86290740966797,
+            313.4359130859375,
+            495.47271728515625,
+            566.707275390625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.675,
+          "text": "4. Select Convert to EPS or Convert to PS. The options will be displayed based on your\nchoice in the previous step.",
+          "coordinates": [
+            87.35670471191406,
+            579.7642822265625,
+            514.54931640625,
+            605.4990234375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "figure_title",
+          "confidence": 0.595,
+          "text": "",
+          "coordinates": [
+            87.35670471191406,
+            579.7642822265625,
+            514.54931640625,
+            605.4990234375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "5. In the Save as dialog, select a location where you want to save the file and then\nselect Save.",
+          "coordinates": [
+            87.35320281982422,
+            616.8679809570312,
+            494.1018981933594,
+            641.622802734375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.664,
+          "text": "Note:",
+          "coordinates": [
+            69.62513732910156,
+            654.6201782226562,
+            99.6608657836914,
+            663.8197631835938
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.764,
+          "text": "If you create EPS files for separations in Acrobat Pro, all image color spaces should be CMYK.",
+          "coordinates": [
+            69.09503173828125,
+            678.803955078125,
+            519.9266357421875,
+            690.3179931640625
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "paragraph_title": 2,
+        "text": 7,
+        "image": 1,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 21,
+      "elements": [
+        {
+          "id": 1,
+          "type": "header",
+          "confidence": 0.526,
+          "text": "",
+          "coordinates": [
+            69.83199310302734,
+            73.28314971923828,
+            255.06362915039062,
+            83.18599700927734
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.629,
+          "text": "In Acrobat, select All tools > Export a PDF and select Other format. From the drop-down menu\nnext to Other format, select PS or EPS. Select the \nsettings icon to change the export \npreferences.",
+          "coordinates": [
+            69.10836029052734,
+            95.90324401855469,
+            533.7993774414062,
+            146.32395935058594
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.528,
+          "text": "next to Other format, select PS or EPS. Select the \nsettings icon to change the export \npreferences.",
+          "coordinates": [
+            69.30654907226562,
+            120.32294464111328,
+            504.03564453125,
+            146.83973693847656
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.864,
+          "text": "Printer Description File",
+          "coordinates": [
+            69.57977294921875,
+            159.32867431640625,
+            185.98287963867188,
+            169.0062713623047
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "The PostScript Printer Description (PPD) provides the necessary information to format a \nPostScript file correctly for a particular output device. Device Independent creates only \ncomposite (not color-separated) PostScript or EPS files. Acrobat Default provides a starting \npoint and reference for creating all types of PostScript and restores all default settings for the\nconversion. Adobe PDF 7.0 is compatible with most devices. This option is available only in \nPostScript (PS) format.",
+          "coordinates": [
+            69.04251861572266,
+            181.10972595214844,
+            526.9672241210938,
+            264.1607971191406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.86,
+          "text": "ASCII or Binary",
+          "coordinates": [
+            69.37105560302734,
+            276.3908386230469,
+            146.25511169433594,
+            286.3164367675781
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "Specifies the output format of image data. Binary output yields smaller files, but not all\nworkflows can accommodate binary output.",
+          "coordinates": [
+            69.03278350830078,
+            298.0108947753906,
+            495.2382507324219,
+            323.64501953125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.863,
+          "text": "PostScript",
+          "coordinates": [
+            69.71652221679688,
+            335.61328125,
+            122.65495300292969,
+            345.4603271484375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.976,
+          "text": "Specifies the level of PostScript compatibility. Use Language Level 3 only if the target output \ndevice supports it. Language Level 2 is suitable for EPS files placed in another document and \ncolor-separated as part of that document. Use Language Level 2 for EPS files that you import\ninto Microsoft applications.",
+          "coordinates": [
+            68.8100814819336,
+            357.1473693847656,
+            522.507568359375,
+            411.2637634277344
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.854,
+          "text": "Font Inclusion",
+          "coordinates": [
+            69.45098114013672,
+            423.447509765625,
+            141.83474731445312,
+            432.46173095703125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "Specifies the fonts to be included in the PostScript. Embedded fonts are taken from the PDF;\nthe referenced fonts are taken from the computer.",
+          "coordinates": [
+            68.82352447509766,
+            444.9077453613281,
+            520.8834228515625,
+            470.4446716308594
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.84,
+          "text": "Include Comments",
+          "coordinates": [
+            69.48546600341797,
+            482.61419677734375,
+            165.21807861328125,
+            491.65252685546875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "Preserves the appearance of comments in the resulting PostScript file.",
+          "coordinates": [
+            69.45096588134766,
+            504.2239074707031,
+            413.195556640625,
+            514.787353515625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.822,
+          "text": "Convert True Type to Type 1",
+          "coordinates": [
+            69.50479125976562,
+            527.4342651367188,
+            212.8544921875,
+            537.470947265625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "Converts TrueType fonts to Type 1 fonts in the resulting PostScript file.",
+          "coordinates": [
+            68.97409057617188,
+            549.1930541992188,
+            415.1624450683594,
+            559.8539428710938
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.848,
+          "text": "Include Preview",
+          "coordinates": [
+            69.3857192993164,
+            571.4539794921875,
+            151.6960906982422,
+            580.5512084960938
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "Specifies if a TIFF preview is created for the resulting EPS file. This option isn't available when\nsaving as PostScript.",
+          "coordinates": [
+            68.7619857788086,
+            593.2504272460938,
+            524.34130859375,
+            618.7066650390625
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.863,
+          "text": "Page Range",
+          "coordinates": [
+            69.67755126953125,
+            630.8380126953125,
+            129.51898193359375,
+            640.73046875
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "Specifies the pages you want to export. When you export files to EPS output, each page in the\nrange is saved as a separate EPS file.",
+          "coordinates": [
+            68.87088775634766,
+            652.2362670898438,
+            527.9171142578125,
+            677.9974365234375
+          ]
+        }
+      ],
+      "element_counts": {
+        "header": 1,
+        "text": 10,
+        "paragraph_title": 8
+      }
+    },
+    {
+      "page_number": 22,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.669,
+          "text": "Convert PDF to Text and XML 1.0",
+          "coordinates": [
+            69.4068603515625,
+            92.93901062011719,
+            395.43023681640625,
+            111.08606719970703
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.839,
+          "text": "Convert PDF to XML 1.0",
+          "coordinates": [
+            69.04959106445312,
+            135.02902221679688,
+            236.17245483398438,
+            147.5433807373047
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "To export a file in XML format, go to All Tools > Export a PDF.  Select other format, then the\ndrop-down next to other format, and then select XML 1.0.",
+          "coordinates": [
+            68.60899353027344,
+            160.18638610839844,
+            530.9200439453125,
+            186.84613037109375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.853,
+          "text": "Convert PDF to text",
+          "coordinates": [
+            69.2680892944336,
+            199.34796142578125,
+            208.8630828857422,
+            211.48193359375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "To export a file in text format, go to All Tools > Export a PDF.  Select other format, then the\ndrop-down next to other format, and then select TXT.",
+          "coordinates": [
+            68.96328735351562,
+            225.29298400878906,
+            529.68701171875,
+            251.9912109375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "confidence": 0.883,
+          "text": "",
+          "coordinates": [
+            78.26954650878906,
+            263.1156005859375,
+            201.81861877441406,
+            477.5784912109375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "figure_title",
+          "confidence": 0.67,
+          "text": "",
+          "coordinates": [
+            69.39681243896484,
+            487.5586242675781,
+            293.26361083984375,
+            499.1249694824219
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "In Acrobat, select All tools > Export a PDF and select Other format. From the drop-down \nmenu next to Other format, select TXT or XML 1.0. Select the \nsettings icon to change the\nexport preferences.",
+          "coordinates": [
+            68.95182037353516,
+            510.17803955078125,
+            536.41357421875,
+            563.37158203125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.886,
+          "text": "Output file settings",
+          "coordinates": [
+            69.6021957397461,
+            594.8580322265625,
+            202.82000732421875,
+            610.2362670898438
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.757,
+          "text": "Encoding",
+          "coordinates": [
+            69.51251983642578,
+            620.4903564453125,
+            120.97725677490234,
+            632.6580200195312
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "Refers to the binary values, based on international standards, used to represent the text \ncharacters. UTF-8 is a Unicode representation of characters using one or more 8-bit bytes per \ncharacter. UTF-16 represents characters using 16-bit bytes. ISO-Latin-1 is an 8-bit \nrepresentation of characters that is a superset of ASCII. UCS-4 is a Universal Character Set \ncoded in four octets. HTML/ASCII is a 7-bit representation of characters developed by ANSI.",
+          "coordinates": [
+            68.650146484375,
+            642.5118408203125,
+            536.8313598632812,
+            713.1063232421875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 4,
+        "image": 1,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 23,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.973,
+          "text": "Use mapping table default uses the default character encoding defined in mapping tables,\nwhich appear in the Plug-ins/SaveAsXML/MappingTables folder. These mapping tables \nspecify many characteristics of how the data is output, including the following default \ncharacter encodings: UTF-8 (Save as XML or HTML 4.0.1) and HTML/ASCII (Save as HTML\n3.2).",
+          "coordinates": [
+            68.51703643798828,
+            73.24430847167969,
+            520.8338623046875,
+            143.48837280273438
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.854,
+          "text": "Generate Bookmarks",
+          "coordinates": [
+            69.5022964477539,
+            154.77471923828125,
+            182.608642578125,
+            164.55467224121094
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.938,
+          "text": "Generates bookmark links to content for HTML or XML documents. Links are placed at the\nbeginning of the resulting HTML or XML document.",
+          "coordinates": [
+            68.57843017578125,
+            177.25479125976562,
+            523.0891723632812,
+            203.8909912109375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.813,
+          "text": "Generate Tags For Untagged Files",
+          "coordinates": [
+            69.46554565429688,
+            214.5534210205078,
+            247.79713439941406,
+            226.1850128173828
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "Generates tags for files not already tagged, such as PDFs created using Acrobat 4.0 or earlier.\nIf this option isn't selected, untagged files are not converted.",
+          "coordinates": [
+            68.80368041992188,
+            236.41281127929688,
+            530.6179809570312,
+            263.3334655761719
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.744,
+          "text": "Note:",
+          "coordinates": [
+            69.48258209228516,
+            274.25701904296875,
+            101.13926696777344,
+            283.72479248046875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.921,
+          "text": "Tags are applied only as part of the conversion process and are discarded after the\nconversion. This is not a method for creating tagged PDFs from legacy files",
+          "coordinates": [
+            69.28863525390625,
+            298.2854309082031,
+            480.0746765136719,
+            326.00885009765625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.89,
+          "text": "Image file settings",
+          "coordinates": [
+            69.67337036132812,
+            357.05511474609375,
+            196.45162963867188,
+            372.2688903808594
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.8,
+          "text": "Generate Images",
+          "coordinates": [
+            69.375244140625,
+            383.33160400390625,
+            160.73403930664062,
+            393.9478759765625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "Controls how images are converted. Converted image files are referenced from within XML\nand HTML documents.",
+          "coordinates": [
+            68.94906616210938,
+            404.2268981933594,
+            523.4329223632812,
+            430.0548095703125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.798,
+          "text": "Use Sub-Folder",
+          "coordinates": [
+            69.34947967529297,
+            441.77935791015625,
+            152.2030487060547,
+            451.3098449707031
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "Specifies the folder in which to store generated images. The default is Images.",
+          "coordinates": [
+            69.20849609375,
+            464.2182312011719,
+            456.1968688964844,
+            476.74456787109375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.767,
+          "text": "Use Prefix",
+          "coordinates": [
+            69.56951141357422,
+            486.9118957519531,
+            125.30088806152344,
+            496.8669738769531
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "Specifies the prefix added to the image filenames if you have several versions of the same\nimage file. Filenames assigned to images have the format filename_img_#.",
+          "coordinates": [
+            68.88526153564453,
+            508.06591796875,
+            514.8106689453125,
+            535.8638916015625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.828,
+          "text": "Output Format",
+          "coordinates": [
+            69.67626953125,
+            546.078369140625,
+            150.1010284423828,
+            556.65966796875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "Specifies the final format of images. The default is JPG.",
+          "coordinates": [
+            69.26485443115234,
+            568.3418579101562,
+            341.5619201660156,
+            580.0531616210938
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.806,
+          "text": "Downsample To",
+          "coordinates": [
+            69.6107177734375,
+            590.7073974609375,
+            157.49337768554688,
+            601.5233154296875
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "Downsamples image files to the specified resolution. If you don't select this option, image files\nhave the same resolution as the source file. Image files are never upsampled.",
+          "coordinates": [
+            68.88584899902344,
+            612.2468872070312,
+            537.6578369140625,
+            639.3479614257812
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "You can easily convert PDF files to JPEG images using Adobe Acrobat. You can also convert\nyour PDF files into PNG or TIFF file formats using Acrobat.",
+          "coordinates": [
+            68.59557342529297,
+            664.4868774414062,
+            526.2816162109375,
+            691.2824096679688
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "paragraph_title": 9
+      }
+    },
+    {
+      "page_number": 24,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.803,
+          "text": "Convert PDF to JPEG or JPEG 2000",
+          "coordinates": [
+            69.76272583007812,
+            74.99392700195312,
+            313.2011413574219,
+            88.03489685058594
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.851,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.32020568847656,
+            93.77485656738281,
+            236.06858825683594,
+            104.46868133544922
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "2. Select Convert from the global bar.",
+          "coordinates": [
+            87.04840087890625,
+            115.2303237915039,
+            283.63153076171875,
+            126.78820037841797
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "3. From the Convert menu in the left pane, select Image format, and then from the\ndrop-down menu, select JPEG or JPEG 2000.",
+          "coordinates": [
+            87.44591522216797,
+            137.240234375,
+            508.6800231933594,
+            164.1891632080078
+          ]
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "confidence": 0.964,
+          "text": "",
+          "coordinates": [
+            89.79790496826172,
+            172.6964569091797,
+            236.16842651367188,
+            454.1910705566406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "4. Select Convert to JPEG or Convert to JPEG 2000. Different options are shown based\non your selection in the previous step.",
+          "coordinates": [
+            87.32894134521484,
+            463.41741943359375,
+            530.4420166015625,
+            490.402099609375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "5. In the dialog, select the location where you want to save the file and, if necessary,\nchange the file name.",
+          "coordinates": [
+            87.39265441894531,
+            500.2215576171875,
+            511.18218994140625,
+            527.0733642578125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.786,
+          "text": "6. Select Save.",
+          "coordinates": [
+            87.79070281982422,
+            537.8482055664062,
+            167.62779235839844,
+            547.8348388671875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "Each page in the PDF is saved as separate JPEG files.",
+          "coordinates": [
+            105.06088256835938,
+            560.347900390625,
+            366.3171691894531,
+            572.1847534179688
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "For PDF to JPEG or PDF to JPEG 2000 conversion settings, go to File format options for PDF\nexport.",
+          "coordinates": [
+            68.85491180419922,
+            582.5957641601562,
+            527.5595092773438,
+            609.4442749023438
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "You can easily convert your PDF files into TIFF images using Adobe Acrobat.",
+          "coordinates": [
+            69.09344482421875,
+            619.4296264648438,
+            450.2764892578125,
+            631.744873046875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.838,
+          "text": "Convert PDF to TIFF",
+          "coordinates": [
+            69.8199462890625,
+            662.9120483398438,
+            212.9984588623047,
+            675.4652099609375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.2334976196289,
+            681.6369018554688,
+            235.49066162109375,
+            692.6529541015625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "2. Select Convert from the global bar.",
+          "coordinates": [
+            87.045654296875,
+            703.4338989257812,
+            283.1504821777344,
+            715.2286987304688
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 11,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 25,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.925,
+          "text": "3. From the Convert menu in the left pane, select Image format, and then from the drop-\ndown menu, select TIFF.",
+          "coordinates": [
+            87.19324493408203,
+            73.37017059326172,
+            537.3082885742188,
+            99.64324188232422
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.876,
+          "text": "4. elect Convert to TIFF.",
+          "coordinates": [
+            87.55216979980469,
+            110.5768051147461,
+            218.69036865234375,
+            121.17521667480469
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "5. In the dialog, select the location where you want to save the file and, if necessary,\nchange the file name.",
+          "coordinates": [
+            87.02389526367188,
+            132.1724853515625,
+            511.0362854003906,
+            158.9738311767578
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.668,
+          "text": "6. Select Save.",
+          "coordinates": [
+            87.73463439941406,
+            170.70046997070312,
+            167.83660888671875,
+            180.82875061035156
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "Each page in the PDF is saved as separate TIFF files.",
+          "coordinates": [
+            105.17357635498047,
+            192.24862670898438,
+            363.62921142578125,
+            204.25396728515625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.805,
+          "text": "For PDF to TIFF conversion settings, go to File format options for PDF export.",
+          "coordinates": [
+            68.85934448242188,
+            214.43032836914062,
+            454.2790222167969,
+            226.43055725097656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.727,
+          "text": "You can easily convert your PDF files into PNG images using Adobe Acrobat.",
+          "coordinates": [
+            69.06873321533203,
+            236.26663208007812,
+            452.3231201171875,
+            248.27874755859375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.864,
+          "text": "Convert PDF to PNG",
+          "coordinates": [
+            69.35140991210938,
+            280.4857482910156,
+            214.28822326660156,
+            292.4526672363281
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.868,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            86.83903503417969,
+            298.5220642089844,
+            235.97401428222656,
+            309.6996765136719
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "2. Select Convert from the global bar.",
+          "coordinates": [
+            87.11400604248047,
+            320.43798828125,
+            283.94647216796875,
+            331.74688720703125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "3. From the Convert menu in the left pane, select Image format, and then from the drop-\ndown menu, select PNG.",
+          "coordinates": [
+            87.11405181884766,
+            343.2049865722656,
+            537.1869506835938,
+            369.1946716308594
+          ]
+        },
+        {
+          "id": 12,
+          "type": "image",
+          "confidence": 0.971,
+          "text": "",
+          "coordinates": [
+            89.78313446044922,
+            378.0711669921875,
+            437.44024658203125,
+            603.3037719726562
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.771,
+          "text": "4. Select Convert to PNG.",
+          "coordinates": [
+            87.7322998046875,
+            613.6474609375,
+            225.0093231201172,
+            623.862548828125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "5. In the dialog, select the location where you want to save the file and, if necessary,\nchange the file name.",
+          "coordinates": [
+            87.400390625,
+            635.3091430664062,
+            510.620361328125,
+            662.1730346679688
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.59,
+          "text": "6. Select Save.",
+          "coordinates": [
+            87.91631317138672,
+            672.7405395507812,
+            168.03565979003906,
+            682.9158935546875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.554,
+          "text": "6. Select Save.",
+          "coordinates": [
+            87.91631317138672,
+            672.7405395507812,
+            168.03565979003906,
+            682.9158935546875
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.896,
+          "text": "Each page in the PDF is saved as separate PNG files.",
+          "coordinates": [
+            105.3973159790039,
+            694.3428344726562,
+            363.75787353515625,
+            706.5760498046875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 14,
+        "paragraph_title": 2,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 26,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.661,
+          "text": "For PDF to PNG conversion settings, go to File format options for PDF export.",
+          "coordinates": [
+            69.36399841308594,
+            73.52693939208984,
+            454.6080322265625,
+            86.06236267089844
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.815,
+          "text": "Overview",
+          "coordinates": [
+            69.84693145751953,
+            103.302978515625,
+            121.37065887451172,
+            112.6515884399414
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "Acrobat allows you to export images and text selections from a PDF to different file formats.\nEach format uses unique conversion settings when you export text or image selections.",
+          "coordinates": [
+            69.38294982910156,
+            130.1940155029297,
+            526.7862548828125,
+            158.0833740234375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.8,
+          "text": "Export images from PDFs",
+          "coordinates": [
+            69.77180480957031,
+            174.58506774902344,
+            203.0266876220703,
+            186.500244140625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "Besides exporting the entire document or each page to a different format, you can export\neach image in a PDF to a separate image file.",
+          "coordinates": [
+            69.07131958007812,
+            203.7480010986328,
+            514.8765258789062,
+            229.94235229492188
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.644,
+          "text": "Note:",
+          "coordinates": [
+            69.35157775878906,
+            247.19541931152344,
+            101.13520812988281,
+            256.8157653808594
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.809,
+          "text": "You can export raster images, but not vector objects.",
+          "coordinates": [
+            69.51063537597656,
+            275.7772216796875,
+            333.6539001464844,
+            287.9653015136719
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "1. Open the PDF in Acrobat and select Convert from the top tools bar. Alternatively,\nfrom the All tools menu, select Export a PDF.",
+          "coordinates": [
+            87.2304916381836,
+            304.2958068847656,
+            513.1411743164062,
+            330.6628723144531
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.836,
+          "text": "The various formats to which you can export the PDF file are displayed.",
+          "coordinates": [
+            69.56813049316406,
+            347.42108154296875,
+            425.6073303222656,
+            359.33477783203125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.916,
+          "text": "2. From the Convert panel, select image format and then from the drop-down, select the\ndesired image file format.",
+          "coordinates": [
+            87.07357788085938,
+            376.34490966796875,
+            536.57470703125,
+            403.06976318359375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "3. Optional) To configure the conversion settings, select Settings \nand then modify\nthe settings as required. Once done, select OK.",
+          "coordinates": [
+            87.25916290283203,
+            414.1796569824219,
+            520.6039428710938,
+            442.3645324707031
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.793,
+          "text": "4. (Optional) To configure the image settings:",
+          "coordinates": [
+            87.30416870117188,
+            452.596435546875,
+            323.0995178222656,
+            465.0376892089844
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.742,
+          "text": "1. Select Export all Images and then select Settings",
+          "coordinates": [
+            123.19515991210938,
+            474.71807861328125,
+            406.7435302734375,
+            497.186767578125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.647,
+          "text": "2. In the dialog that appears, specify the File Settings, Color",
+          "coordinates": [
+            123.37572479248047,
+            503.4996337890625,
+            431.0355529785156,
+            515.4228515625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.59,
+          "text": "Management, Conversion, and Extraction settings for the file type.",
+          "coordinates": [
+            140.25762939453125,
+            518.8200073242188,
+            477.9743347167969,
+            530.4844360351562
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.913,
+          "text": "3. For Exclude images smaller than, select the smallest size of the image to be\nextracted. Select No Limit to extract all images.",
+          "coordinates": [
+            123.4301528930664,
+            538.3453979492188,
+            521.75927734375,
+            563.6036376953125
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.786,
+          "text": "4. Select Ok.",
+          "coordinates": [
+            123.9673080444336,
+            572.5567626953125,
+            193.64434814453125,
+            582.5319213867188
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.714,
+          "text": "Note:",
+          "coordinates": [
+            69.60720825195312,
+            595.2763061523438,
+            100.91569519042969,
+            604.6187744140625
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "If you do not select the Export All Images option, all pages within the PDF are saved in the\nselected image file format.",
+          "coordinates": [
+            68.62928009033203,
+            616.27099609375,
+            517.8860473632812,
+            642.9503173828125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.832,
+          "text": "5. Select Convert to JPEG.",
+          "coordinates": [
+            123.44178771972656,
+            653.6168823242188,
+            262.8451843261719,
+            664.236328125
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.901,
+          "text": "6. In the Save as dialog that appears, select a desired location or select Choose a\ndifferent folder to select alternate locations.",
+          "coordinates": [
+            123.11591339111328,
+            676.5494995117188,
+            530.599365234375,
+            702.2334594726562
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 17,
+        "paragraph_title": 4
+      }
+    },
+    {
+      "page_number": 27,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.876,
+          "text": "7. Select Save.",
+          "coordinates": [
+            123.32756805419922,
+            73.62552642822266,
+            203.4532928466797,
+            84.06908416748047
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.963,
+          "text": "It exports only the images from the PDF to the selected image file format. By \ndefault, the source filename is used with the new extension, and the exported\nfile is saved in the same folder as the source file.",
+          "coordinates": [
+            140.4943389892578,
+            95.55229949951172,
+            528.1986694335938,
+            136.33953857421875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.832,
+          "text": "Export selections from a PDF to another format",
+          "coordinates": [
+            69.25737762451172,
+            147.7977294921875,
+            309.7841491699219,
+            158.81982421875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "To export a part of the PDF file into another format, you don’t need to convert the entire file \nand then extract the relevant content. You can select text in a PDF file and save it in one of the\nsupported formats: DOCX, DOC, XLSX, RTF, XML, HTML, or CSV.",
+          "coordinates": [
+            68.60963439941406,
+            169.71958923339844,
+            538.730224609375,
+            211.43247985839844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.898,
+          "text": "1. Use the Select tool and mark the content to save.",
+          "coordinates": [
+            86.99705505371094,
+            221.7901153564453,
+            352.8907775878906,
+            232.39476013183594
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "2. Right-click the selected text and choose Export Selection As.",
+          "coordinates": [
+            86.69088745117188,
+            243.58944702148438,
+            411.4586181640625,
+            255.10401916503906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "3. Select a format from the Save As Type list and select Save.",
+          "coordinates": [
+            87.19981384277344,
+            266.5735778808594,
+            399.48126220703125,
+            277.6998291015625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 5
+      }
+    },
+    {
+      "page_number": 28,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.695,
+          "text": "Select and copy text and images",
+          "coordinates": [
+            69.17387390136719,
+            76.68934631347656,
+            389.1943054199219,
+            98.04954528808594
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "The Select tool \n  lets you select horizontal and vertical text or columns of text, images, \nvector objects, and tables in a PDF. The Select tool \n recognizes the type of content under\nthe cursor and changes automatically. You can use the Copy, Copy with Formatting, Export \nSelection As, and Paste commands to copy the selected text into another application. Note \nthe following:",
+          "coordinates": [
+            68.5151596069336,
+            109.94183349609375,
+            529.6459350585938,
+            191.65049743652344
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "• \nIf you’re unable to select text, the text may be part of an image. In Acrobat, select All \ntools > Scan & OCR, then select In this file under RECOGNIZE TEXT to export image\ntext to text that can be selected.",
+          "coordinates": [
+            87.36878204345703,
+            202.09536743164062,
+            533.3110961914062,
+            242.1223602294922
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "• \nIf the Cut, Copy, Copy with Formatting, and Paste commands are unavailable when\nyou select the text, the author may have set restrictions to copying text.",
+          "coordinates": [
+            87.99720764160156,
+            250.1414794921875,
+            520.4697265625,
+            277.695068359375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "• \nIf the text you copy uses a font that isn’t available on your system, the font is \nsubstituted with a close match or default font.",
+          "coordinates": [
+            87.82805633544922,
+            284.3148498535156,
+            487.54559326171875,
+            310.2358093261719
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.738,
+          "text": "",
+          "coordinates": [
+            127.26273345947266,
+            341.69049072265625,
+            248.12539672851562,
+            385.7865295410156
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.816,
+          "text": "Select text and images",
+          "coordinates": [
+            69.15689086914062,
+            418.3833312988281,
+            189.15191650390625,
+            429.7834167480469
+          ]
+        },
+        {
+          "id": 8,
+          "type": "formula",
+          "confidence": 0.532,
+          "text": "",
+          "coordinates": [
+            216.34054565429688,
+            430.3354187011719,
+            236.77032470703125,
+            450.2763366699219
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "1. Select the Select tool  \n, and hover over an empty part of the page. Alternatively,\npress Ctrl (Windows) or Command (macOS); the pointer changes to display a \nrectangle.",
+          "coordinates": [
+            87.63007354736328,
+            436.4751281738281,
+            518.0609741210938,
+            480.2112731933594
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "2. Drag the pointer and draw a rectangle to select a part of the page.",
+          "coordinates": [
+            87.60107421875,
+            490.1140441894531,
+            434.2554626464844,
+            503.11029052734375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.841,
+          "text": "Select a column of text",
+          "coordinates": [
+            69.48543548583984,
+            512.2730712890625,
+            191.81163024902344,
+            522.7222290039062
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.912,
+          "text": "1. Using the Select tool  \n, move the pointer toward a column of text. When the\npointer changes to a vertical bar, the Select tool is in column select mode.",
+          "coordinates": [
+            87.77235412597656,
+            530.6846923828125,
+            500.1454772949219,
+            559.7221069335938
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.686,
+          "text": "Note:",
+          "coordinates": [
+            106.02369689941406,
+            584.7739868164062,
+            137.26646423339844,
+            594.724609375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "You can force column select mode by pressing Alt as you drag a rectangle over the\ncolumn of text.",
+          "coordinates": [
+            104.69365692138672,
+            605.9177856445312,
+            518.2794189453125,
+            632.157470703125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.916,
+          "text": "2. Drag a rectangle over the column of text. To select text across multiple columns, drag \nfrom the beginning of the text in one column to the end of the text you want to select",
+          "coordinates": [
+            87.15333557128906,
+            643.2383422851562,
+            533.2229614257812,
+            670.727294921875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "text": 10,
+        "formula": 1
+      }
+    },
+    {
+      "page_number": 29,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.713,
+          "text": "Select all the text on a page",
+          "coordinates": [
+            69.23866271972656,
+            73.98464965820312,
+            215.70001220703125,
+            85.929443359375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "1. Select View from the upper left (macOS) or select the hamburger menu on the upper \nleft and then select view (Windows). Select Page display > Single-page view.",
+          "coordinates": [
+            87.07352447509766,
+            88.52262878417969,
+            532.0313110351562,
+            115.78022766113281
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "2. Select four times repeatedly in the text area. This method selects all the text on the\npage regardless of the page layout.",
+          "coordinates": [
+            86.9988021850586,
+            125.4670639038086,
+            518.7738647460938,
+            153.30760192871094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.818,
+          "text": "Note: If you choose any other page layout, all the text in the document is selected.\nCopy selected text",
+          "coordinates": [
+            69.0478286743164,
+            177.3233184814453,
+            507.23419189453125,
+            204.2791748046875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.65,
+          "text": "Copy selected text",
+          "coordinates": [
+            69.71041107177734,
+            193.15489196777344,
+            169.0207977294922,
+            204.3438262939453
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.8,
+          "text": "1. Use the Select tool \n to select any amount of text on the page.",
+          "coordinates": [
+            87.3466567993164,
+            212.4878692626953,
+            427.98468017578125,
+            232.8216552734375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.865,
+          "text": "2. Right-click on the selected text, and then select Copy.",
+          "coordinates": [
+            86.9510498046875,
+            241.63438415527344,
+            375.33966064453125,
+            253.5736083984375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "You can paste the copied text into comments, bookmarks, and documents authored in\nother applications.",
+          "coordinates": [
+            104.00109100341797,
+            278.6710205078125,
+            538.5360107421875,
+            305.6553649902344
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.794,
+          "text": "Paste copied text and images",
+          "coordinates": [
+            69.70391082763672,
+            317.1956787109375,
+            224.03636169433594,
+            327.51220703125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.861,
+          "text": "1. Open the PDF in which you want to paste the selected text or image.",
+          "coordinates": [
+            86.89461517333984,
+            331.0693359375,
+            449.1689453125,
+            342.7165832519531
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "2. Select the area where you want to paste the text or image.",
+          "coordinates": [
+            86.81401824951172,
+            353.03985595703125,
+            398.1182861328125,
+            364.5921325683594
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "3. (Windows) Press Ctrl + V.",
+          "coordinates": [
+            87.18302917480469,
+            375.5279235839844,
+            235.69656372070312,
+            386.98211669921875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.79,
+          "text": "(macOS) Press command + V.",
+          "coordinates": [
+            105.40894317626953,
+            397.4478454589844,
+            257.7398376464844,
+            409.10943603515625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 30,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.704,
+          "text": "Convert selected content to other formats",
+          "coordinates": [
+            69.6410903930664,
+            93.15523529052734,
+            488.8299865722656,
+            111.37793731689453
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "You convert selected content to other formats by exporting a selection. For example, you can\nselect content and save it as a Word document, Excel spreadsheet, or comma-separated \nvalues.",
+          "coordinates": [
+            68.34989166259766,
+            133.56344604492188,
+            534.867919921875,
+            172.87030029296875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "1. Select the Select tool \n. Press Ctrl (Windows) or Command (macOS) to create a\nrectangular selection.",
+          "coordinates": [
+            87.69805145263672,
+            185.18324279785156,
+            514.1721801757812,
+            217.42945861816406
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "2. Drag a rectangle over the content to copy. If you’re selecting text in columns, \npress Alt (Windows).",
+          "coordinates": [
+            87.40338134765625,
+            227.21067810058594,
+            489.48114013671875,
+            254.03933715820312
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "Note:  To select tables that exceed one page, try changing the page display to Single \nPage before selecting the tables. Then select View > Page Display > Enable Scrolling.",
+          "coordinates": [
+            104.77880096435547,
+            277.26251220703125,
+            534.9417114257812,
+            304.7840270996094
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.85,
+          "text": "3. Right-click the selection, select Export Selection As, and specify a filename.",
+          "coordinates": [
+            86.98672485351562,
+            322.289306640625,
+            482.44189453125,
+            334.5487976074219
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "4. Depending on the nature of the content, in the Save As Type, select one of the\nfollowing:",
+          "coordinates": [
+            87.34010314941406,
+            344.15692138671875,
+            497.7450866699219,
+            371.4819641113281
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.769,
+          "text": "• Word Document or Word 97-2003 \nSaves the content as a Word file.",
+          "coordinates": [
+            123.87742614746094,
+            402.4624938964844,
+            322.327392578125,
+            426.7943115234375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "• Excel Workbook, XML Spreadsheet, or CSV \nSaves the content as a table.",
+          "coordinates": [
+            123.68183898925781,
+            459.4538269042969,
+            367.3275146484375,
+            484.8695373535156
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.609,
+          "text": "•\nRich Text Format or HTML",
+          "coordinates": [
+            123.62972259521484,
+            517.7119140625,
+            281.91485595703125,
+            527.8222045898438
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.718,
+          "text": "Saves the content as an RTF or HTML file.",
+          "coordinates": [
+            138.828857421875,
+            532.4462890625,
+            349.8179626464844,
+            543.266845703125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.923,
+          "text": "Note: To copy a table in RTF, drag the selected table into an open document in the\ntarget application.",
+          "coordinates": [
+            104.6993179321289,
+            567.6187744140625,
+            520.8836059570312,
+            594.4093017578125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.588,
+          "text": "•\nPowerPoint",
+          "coordinates": [
+            123.68362426757812,
+            618.1851196289062,
+            206.4210662841797,
+            627.6878662109375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "Saves the content as a PowerPoint (.pptx) file.",
+          "coordinates": [
+            140.96347045898438,
+            632.4257202148438,
+            370.82373046875,
+            644.4410400390625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 12
+      }
+    }
+  ]
+}

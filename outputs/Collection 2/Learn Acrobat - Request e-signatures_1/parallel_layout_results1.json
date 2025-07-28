@@ -1,0 +1,4304 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Request e-signatures_1.pdf",
+  "total_pages": 30,
+  "processing_time": "119.35s",
+  "layout_time_total": "173.23s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "content",
+          "confidence": 0.549,
+          "text": "",
+          "coordinates": [
+            0.29585516452789307,
+            0.9415884017944336,
+            612.0,
+            789.5389404296875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "chart",
+          "confidence": 0.546,
+          "text": "",
+          "coordinates": [
+            0.29585516452789307,
+            0.9415884017944336,
+            612.0,
+            789.5389404296875
+          ]
+        }
+      ],
+      "element_counts": {
+        "content": 1,
+        "chart": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.585,
+          "text": "Send a document to get signatures from\nothers",
+          "coordinates": [
+            68.8775634765625,
+            76.02579498291016,
+            483.7635498046875,
+            130.7196807861328
+          ]
+        },
+        {
+          "id": 2,
+          "type": "doc_title",
+          "confidence": 0.548,
+          "text": "Send a document to get signatures from\nothers",
+          "coordinates": [
+            68.8775634765625,
+            76.02579498291016,
+            483.7635498046875,
+            130.7196807861328
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.778,
+          "text": "1. Open the PDF form in Acrobat or Acrobat Reader, and then choose All \ntools > Request E-signatures. Alternatively, you can select Sign from the top toolbar.",
+          "coordinates": [
+            87.68048095703125,
+            148.68299865722656,
+            531.476806640625,
+            180.21543884277344
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.575,
+          "text": "1. Open the PDF form in Acrobat or Acrobat Reader, and then choose All",
+          "coordinates": [
+            87.2255859375,
+            148.8140869140625,
+            460.819091796875,
+            160.95346069335938
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "2. The Request Signatures window is displayed. It displays the fields progressively as you\nenter the details. The left pane provides information on getting signatures from others\nworkflow. In the recipients field, add recipient email addresses in the order you want \nthe document to be signed.",
+          "coordinates": [
+            87.01997375488281,
+            192.0802764892578,
+            535.316650390625,
+            255.4526824951172
+          ]
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "confidence": 0.967,
+          "text": "",
+          "coordinates": [
+            106.79877471923828,
+            282.9938659667969,
+            574.1038818359375,
+            571.2584228515625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.701,
+          "text": "Request signatures – Add recipients",
+          "coordinates": [
+            105.8511734008789,
+            574.8756713867188,
+            259.2145690917969,
+            584.9938354492188
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.799,
+          "text": "3. The Mail and Message fields are just like the ones you use for sending an email and \nappear to your recipients in the same way. Change the default text in the Subject \n& Message area as appropriate.",
+          "coordinates": [
+            87.18899536132812,
+            597.8156127929688,
+            521.7363891601562,
+            640.3338012695312
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.741,
+          "text": "Optional: If you want to add more people just for information, use the Add CC button\nto add their email addresses to the CC list.",
+          "coordinates": [
+            101.97892761230469,
+            642.2291870117188,
+            531.5215454101562,
+            668.47265625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.802,
+          "text": "Enter the desired information and do one of the following:",
+          "coordinates": [
+            69.53868865966797,
+            679.2857055664062,
+            362.3403625488281,
+            691.6436157226562
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "doc_title": 1,
+        "text": 7,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "• \n(Optional) To explore advanced options including signer authentication, reminders,\nand more, click More Options.",
+          "coordinates": [
+            87.45925903320312,
+            73.02584075927734,
+            522.6809692382812,
+            100.29854583740234
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.843,
+          "text": "• \nTo add form fields and specify where to sign, click Specify where to sign.",
+          "coordinates": [
+            87.6368408203125,
+            107.43370819091797,
+            469.79327392578125,
+            119.89630126953125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "image",
+          "confidence": 0.966,
+          "text": "",
+          "coordinates": [
+            106.45172119140625,
+            124.79627227783203,
+            572.810302734375,
+            437.3544616699219
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.795,
+          "text": "Request signatures – Add Cc, subject, message, More Options",
+          "coordinates": [
+            105.7258071899414,
+            441.8147888183594,
+            368.2520751953125,
+            451.79290771484375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "• \nIf you don't want to use the More Options, skip the next optional step.",
+          "coordinates": [
+            87.27521514892578,
+            459.6226806640625,
+            458.2718200683594,
+            471.7359924316406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.793,
+          "text": "4. (Optional) Click More Options, if you want to specify advanced options, such as signer\nauthentication, reminders, and more.",
+          "coordinates": [
+            87.02239990234375,
+            478.4085693359375,
+            536.6412353515625,
+            504.4422302246094
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.966,
+          "text": "• \nBy default, the Complete in Order setting is turned on. The numbers by the \nemail addresses reflect the participation order. If you do not want to follow any \nparticular order for signing, toggle the switch to Complete In Any Order. \n(Optional) Click Add Me, if you want to be included as a signer of the \ndocument.",
+          "coordinates": [
+            123.66806030273438,
+            516.5926513671875,
+            536.596923828125,
+            586.0873413085938
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \nSpecify authentication type like Email, Password, Social Identity, Knowledge-\nBased Authentication, Phone, or Acrobat Sign.",
+          "coordinates": [
+            123.33419799804688,
+            594.3997192382812,
+            533.4808959960938,
+            620.9945068359375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \nPassword Protect the PDF file.",
+          "coordinates": [
+            123.72527313232422,
+            629.595703125,
+            297.0474853515625,
+            639.845458984375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nSet a Completion Deadline.",
+          "coordinates": [
+            123.49605560302734,
+            648.6793212890625,
+            285.47039794921875,
+            659.861572265625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nSpecify the Recipient's Language in the email sent.",
+          "coordinates": [
+            123.06892395019531,
+            667.500732421875,
+            397.9974670410156,
+            679.977294921875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.832,
+          "text": "",
+          "coordinates": [
+            142.96609497070312,
+            70.54039764404297,
+            531.7161865234375,
+            286.71917724609375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "figure_title",
+          "confidence": 0.796,
+          "text": "",
+          "coordinates": [
+            86.98126983642578,
+            310.0753173828125,
+            503.29058837890625,
+            336.62445068359375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.842,
+          "text": "• \nSimplified mode for single signer",
+          "coordinates": [
+            87.17080688476562,
+            361.8866271972656,
+            279.394287109375,
+            372.9150085449219
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "If you've added one signer, the Advanced Editing mode is off, and you see the \nsimplified option as shown below. To place a signature or another field, click at the \ndesired location in the document and then set the field's properties from its context\nmenu.",
+          "coordinates": [
+            89.55963134765625,
+            376.4090576171875,
+            521.0997924804688,
+            431.1667785644531
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "figure_title": 1,
+        "paragraph_title": 1,
+        "text": 1
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.76,
+          "text": "",
+          "coordinates": [
+            107.11421203613281,
+            73.1275634765625,
+            576.2615356445312,
+            352.704345703125
+          ]
+        },
+        {
+          "id": 2,
+          "type": "header",
+          "confidence": 0.599,
+          "text": "",
+          "coordinates": [
+            113.48408508300781,
+            77.39108276367188,
+            165.24844360351562,
+            85.89207458496094
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.606,
+          "text": "• \nSimplified mode for multiple signers",
+          "coordinates": [
+            88.41008758544922,
+            360.081298828125,
+            297.3668518066406,
+            371.130126953125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.684,
+          "text": "• \nSimplified mode for multiple signers \nThis mode provides simplified authoring with the capability of assigning fields to \nmultiple signers. When you select a signer from the right pane and add fields in the \nform, the fields are assigned to the signer. That means those fields will be available to \nthe signer for filling the information and signing the form.",
+          "coordinates": [
+            89.9314193725586,
+            360.5942077636719,
+            531.816650390625,
+            432.1136779785156
+          ]
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "confidence": 0.748,
+          "text": "",
+          "coordinates": [
+            107.13780212402344,
+            435.2270202636719,
+            575.9794921875,
+            701.3983154296875
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 2,
+        "header": 1,
+        "paragraph_title": 1,
+        "text": 1
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "• \nYou can switch the assignee of any field using the floating toolbar. The assigned colors\nto the signers make it easy to distinguish the fields for respective signers.",
+          "coordinates": [
+            87.58781433105469,
+            73.19996643066406,
+            535.1176147460938,
+            101.2435073852539
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.591,
+          "text": "• \nAdvanced mode for multiple signers",
+          "coordinates": [
+            87.45680236816406,
+            124.89862823486328,
+            297.0297546386719,
+            135.80035400390625
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.528,
+          "text": "If you've added multiple signers, you see the options as shown below. Click",
+          "coordinates": [
+            105.75279998779297,
+            139.3326873779297,
+            481.09710693359375,
+            150.9241943359375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.536,
+          "text": "y\np\ng\n, y\np\nthe \n button to place the detected form fields in the PDF document. Alternatively, \ndrag fields from the tabs in the right pane and drop the fields where desired in the \ndocument.",
+          "coordinates": [
+            105.24418640136719,
+            150.23696899414062,
+            536.6627197265625,
+            207.2016143798828
+          ]
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "confidence": 0.532,
+          "text": "",
+          "coordinates": [
+            127.80270385742188,
+            152.17803955078125,
+            156.39405822753906,
+            176.64736938476562
+          ]
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "confidence": 0.969,
+          "text": "",
+          "coordinates": [
+            107.3841323852539,
+            213.1879119873047,
+            574.5142211914062,
+            478.1565246582031
+          ]
+        },
+        {
+          "id": 7,
+          "type": "figure_title",
+          "confidence": 0.752,
+          "text": "",
+          "coordinates": [
+            86.88613891601562,
+            489.5950927734375,
+            534.559326171875,
+            516.7063598632812
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.789,
+          "text": "6. When you've placed all desired fields in the document, click Send. The document is\nsent for signature to the recipients and a confirmation notice is displayed.",
+          "coordinates": [
+            87.65752410888672,
+            525.9274291992188,
+            522.2883911132812,
+            554.054931640625
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 4,
+        "paragraph_title": 1,
+        "image": 2,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.947,
+          "text": "",
+          "coordinates": [
+            106.744873046875,
+            71.96822357177734,
+            575.7138061523438,
+            314.1234436035156
+          ]
+        },
+        {
+          "id": 2,
+          "type": "figure_title",
+          "confidence": 0.908,
+          "text": "",
+          "coordinates": [
+            85.73540496826172,
+            326.04547119140625,
+            537.7481689453125,
+            413.3819580078125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.595,
+          "text": "All your signed documents are kept at one place and you can access them from anywhere.",
+          "coordinates": [
+            69.080078125,
+            421.5879821777344,
+            520.502685546875,
+            435.3786926269531
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "figure_title": 1,
+        "text": 1
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.786,
+          "text": "Signer's experience",
+          "coordinates": [
+            69.49103546142578,
+            92.13346099853516,
+            271.9914855957031,
+            116.74739074707031
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "A signer receives an email with a link to sign the agreement. Also, if the signer uses Acrobat or\nAcrobat Reader desktop application, the signer sees a notification that an agreement has \nbeen shared for signing.",
+          "coordinates": [
+            68.87043762207031,
+            133.4962921142578,
+            537.0347290039062,
+            175.17446899414062
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "Note: Signers are not required to sign up or purchase any Adobe product to sign agreements.\nThey can sign agreements using a web browser, mobile device, or Acrobat / Acrobat Reader \ndesktop application.",
+          "coordinates": [
+            68.43167877197266,
+            185.62094116210938,
+            533.1502075195312,
+            226.7592315673828
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.963,
+          "text": "Send in bulk allows you to upload a form and use that as a template to create and send many\n(hundreds!) of unique agreements, each dedicated to one external signer. Each agreement is \ninsulated from the others and contains its own audit report. Each recipient is unaware of all \nother recipients.",
+          "coordinates": [
+            68.47782135009766,
+            238.34347534179688,
+            533.30908203125,
+            293.61334228515625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.969,
+          "text": "The sender has access to the agreements through their Home or Documents tab or through \nthe Send in bulk template, which contains an Agreements report that tracks the overall status\nof the child agreements created from the template. Additionally, the sender can export the \nfield-level data of all completed agreements in a CSV format using the Download Form Field \nData action.",
+          "coordinates": [
+            68.27715301513672,
+            304.2432861328125,
+            532.8648681640625,
+            374.65252685546875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.664,
+          "text": "To access the Send in bulk feature, do one of the following:",
+          "coordinates": [
+            69.1484603881836,
+            393.442626953125,
+            366.4212951660156,
+            405.33441162109375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "• \nIn the Acrobat desktop app, go to the Tools center, scroll down to the E-Sign section,\nand then select Send in bulk.",
+          "coordinates": [
+            87.16114807128906,
+            415.398193359375,
+            531.5289306640625,
+            441.1695861816406
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.921,
+          "text": "• \nSign in to Acrobat online, select the E-Sign menu in the top navigation bar, and then\nselect Send in bulk.",
+          "coordinates": [
+            87.14480590820312,
+            450.4418029785156,
+            526.4827270507812,
+            476.1325378417969
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.975,
+          "text": "",
+          "coordinates": [
+            71.37696838378906,
+            77.0821304321289,
+            537.3299560546875,
+            527.955810546875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.875,
+          "text": "Steps to send in bulk",
+          "coordinates": [
+            69.4605941772461,
+            557.6510009765625,
+            234.50244140625,
+            572.8206176757812
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "1. Select the Send in Bulk tool as explained earlier. The Send in bulk file upload page\nis displayed.",
+          "coordinates": [
+            100.83145904541016,
+            577.3578491210938,
+            531.90478515625,
+            603.6806640625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.825,
+          "text": "2.\nAdd a file:",
+          "coordinates": [
+            118.85968780517578,
+            614.4102172851562,
+            196.87010192871094,
+            624.6461181640625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "Upload (by search or drag-and-drop) the primary file that you are using to build \nyour agreement template.",
+          "coordinates": [
+            118.07876586914062,
+            636.086669921875,
+            518.3482666015625,
+            664.0728149414062
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "The selector on the right of the Select a file button allows you to choose from the\nsource where the file resides. The default is your local system.",
+          "coordinates": [
+            118.4544906616211,
+            673.0657348632812,
+            522.4044799804688,
+            700.2083740234375
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "paragraph_title": 2,
+        "text": 3
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.971,
+          "text": "",
+          "coordinates": [
+            122.06346130371094,
+            72.8695297241211,
+            587.0292358398438,
+            340.46875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.683,
+          "text": "Once a file is selected, the configuration page loads.",
+          "coordinates": [
+            119.0602798461914,
+            351.914794921875,
+            379.0727844238281,
+            365.0597839355469
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.863,
+          "text": "3. Add participants:",
+          "coordinates": [
+            87.38768005371094,
+            374.6520690917969,
+            197.16221618652344,
+            386.3848571777344
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.741,
+          "text": "1. List the participants required.",
+          "coordinates": [
+            105.4513168334961,
+            396.4857482910156,
+            262.5589904785156,
+            408.1596374511719
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "• \nThe Sign action is assigned by default.",
+          "coordinates": [
+            123.21281433105469,
+            419.6007385253906,
+            332.1953125,
+            431.29302978515625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.925,
+          "text": "• \nThe Sign action allows the participant to enter field data and sign the\nagreement.",
+          "coordinates": [
+            123.10951232910156,
+            438.33001708984375,
+            484.9462585449219,
+            465.65618896484375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nUp to 50 participants are supported.",
+          "coordinates": [
+            123.38191986083984,
+            472.8697814941406,
+            324.5199890136719,
+            484.383544921875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "• \nEach participant listed receives their own agreement.",
+          "coordinates": [
+            123.13246154785156,
+            491.80609130859375,
+            407.2709655761719,
+            502.9593505859375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "2. Enter recipient email addresses followed by commas, or copy and paste a list of \nemail addresses into the Email field.",
+          "coordinates": [
+            104.88896179199219,
+            511.2875671386719,
+            514.2620239257812,
+            536.166259765625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "3. Configure participant authentication by clicking the key icon to the right of the\nparticipant.",
+          "coordinates": [
+            104.90260314941406,
+            548.3501586914062,
+            508.18829345703125,
+            574.0101318359375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "• \nEmail is the default authentication method for confirming the identity of each \nparticipant and is sufficient to obtain a legal signature in most cases.",
+          "coordinates": [
+            123.44384765625,
+            585.222900390625,
+            529.6970825195312,
+            612.4263305664062
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "Password authentication can be added to increase security. When configured, the participant\nmust enter the password before they can interact with the agreement.",
+          "coordinates": [
+            68.70413208007812,
+            619.5447998046875,
+            534.057373046875,
+            646.460693359375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.589,
+          "text": "4. . (Optional) Add yourself and/or CC'd parties",
+          "coordinates": [
+            86.9154052734375,
+            656.3270263671875,
+            331.15985107421875,
+            668.4842529296875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.535,
+          "text": "4. . (Optional) Add yourself and/or CC'd parties",
+          "coordinates": [
+            86.9154052734375,
+            656.3270263671875,
+            331.15985107421875,
+            668.4842529296875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.897,
+          "text": "• \nClick Add me to add yourself as a counter signer.",
+          "coordinates": [
+            122.88163757324219,
+            678.5233764648438,
+            387.66351318359375,
+            690.5228881835938
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "text": 12,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.912,
+          "text": "• \nClick Add cc to add people you want to be copied when the agreement is sent\nand complete.",
+          "coordinates": [
+            123.77466583251953,
+            73.34442901611328,
+            533.699951171875,
+            99.73953247070312
+          ]
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "confidence": 0.695,
+          "text": "",
+          "coordinates": [
+            109.05461120605469,
+            109.65006256103516,
+            570.6553344726562,
+            542.01953125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.803,
+          "text": "",
+          "coordinates": [
+            109.42200469970703,
+            150.62696838378906,
+            296.3772277832031,
+            166.91348266601562
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.724,
+          "text": "",
+          "coordinates": [
+            108.6175308227539,
+            175.07620239257812,
+            513.4578247070312,
+            196.6353302001953
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.74,
+          "text": "",
+          "coordinates": [
+            109.1060791015625,
+            207.19027709960938,
+            198.24732971191406,
+            218.19387817382812
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.601,
+          "text": "",
+          "coordinates": [
+            108.74468994140625,
+            230.92868041992188,
+            507.1396484375,
+            252.29942321777344
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.644,
+          "text": "5. (Optional) Add additional files if needed.",
+          "coordinates": [
+            87.72090148925781,
+            550.8911743164062,
+            310.82855224609375,
+            562.8076782226562
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.839,
+          "text": "The initial file selected to start the agreement template is already attached.",
+          "coordinates": [
+            69.51786804199219,
+            573.1431274414062,
+            442.9311218261719,
+            585.7871704101562
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.8,
+          "text": "Upload any additional file(s) that you require.",
+          "coordinates": [
+            69.43741607666016,
+            595.3113403320312,
+            298.74652099609375,
+            607.5496215820312
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "• \nMultiple files can be uploaded.",
+          "coordinates": [
+            87.72915649414062,
+            618.51513671875,
+            261.2898864746094,
+            629.9664916992188
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "• \nAll files uploaded are concatenated into one file for the final agreement.",
+          "coordinates": [
+            87.35874938964844,
+            637.2523803710938,
+            464.97296142578125,
+            648.9207763671875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.863,
+          "text": "• \nThe order the files are listed dictates how the final agreement will look.",
+          "coordinates": [
+            87.38690948486328,
+            656.513427734375,
+            460.3110656738281,
+            667.759033203125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.855,
+          "text": "• \nYou can click and drag the files to sort them.",
+          "coordinates": [
+            123.29985809326172,
+            675.7284545898438,
+            364.81695556640625,
+            687.0208129882812
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "image": 1,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.541,
+          "text": "",
+          "coordinates": [
+            111.93761444091797,
+            76.74738311767578,
+            572.87548828125,
+            305.10809326171875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.517,
+          "text": "",
+          "coordinates": [
+            111.55719757080078,
+            77.87601470947266,
+            165.41319274902344,
+            89.23434448242188
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.65,
+          "text": "",
+          "coordinates": [
+            112.03495788574219,
+            280.0951843261719,
+            228.2688446044922,
+            293.3406066894531
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.752,
+          "text": "• \nYou must share this password with the participants out-of-band.",
+          "coordinates": [
+            123.45484924316406,
+            317.18304443359375,
+            461.4998474121094,
+            329.1520080566406
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.745,
+          "text": "6. Add Agreement Details:",
+          "coordinates": [
+            87.76200103759766,
+            336.7420654296875,
+            233.36032104492188,
+            347.6728820800781
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "• \nName your agreement. All agreements generated from the Send in\nbulk template will have the same agreement name.",
+          "coordinates": [
+            123.61124420166016,
+            358.2945556640625,
+            475.68353271484375,
+            385.0781555175781
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.823,
+          "text": "• \nChange the default text in the Message field as appropriate.",
+          "coordinates": [
+            123.47891998291016,
+            393.4492492675781,
+            438.0911560058594,
+            405.3649597167969
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.665,
+          "text": "7. Edit the Agreement settings (Optional):",
+          "coordinates": [
+            87.20203399658203,
+            412.23828125,
+            310.22711181640625,
+            424.5531311035156
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "By default, agreements do not require a password to view the completed agreement,\nnor do they have reminders set for participants",
+          "coordinates": [
+            104.78623962402344,
+            434.2073059082031,
+            530.0236206054688,
+            461.7055969238281
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nSelect Add access password if you require recipients to enter a password to \nopen and view the signed PDF file.",
+          "coordinates": [
+            123.14261627197266,
+            471.38580322265625,
+            520.5648193359375,
+            498.38623046875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.897,
+          "text": "• \nSelect Set Reminder to set the frequency of reminders to be sent until the\nagreement is completed.",
+          "coordinates": [
+            123.45814514160156,
+            505.51702880859375,
+            511.0356140136719,
+            533.0012817382812
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "paragraph_title": 4,
+        "text": 6
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.916,
+          "text": "",
+          "coordinates": [
+            142.7812042236328,
+            69.46100616455078,
+            504.9783935546875,
+            386.6238708496094
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.593,
+          "text": "8. Click Next in the upper right corner of the window.",
+          "coordinates": [
+            87.52886199951172,
+            398.310791015625,
+            361.244384765625,
+            409.8092346191406
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.742,
+          "text": "The document is now ready to add any fields that you want the signers to fill in or sign.",
+          "coordinates": [
+            105.10247039794922,
+            421.3431396484375,
+            537.6849365234375,
+            433.8727111816406
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.912,
+          "text": "",
+          "coordinates": [
+            112.20210266113281,
+            444.51300048828125,
+            573.10107421875,
+            670.1259765625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "figure_title",
+          "confidence": 0.893,
+          "text": "",
+          "coordinates": [
+            68.92456817626953,
+            684.8041381835938,
+            536.96630859375,
+            711.8822631835938
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 2,
+        "paragraph_title": 1,
+        "text": 1,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.834,
+          "text": "9. Prepare the Agreement and Add Fields:",
+          "coordinates": [
+            87.74718475341797,
+            73.21739959716797,
+            313.6573181152344,
+            85.4632797241211
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "You can now add any necessary fields to the agreement. Remember that",
+          "coordinates": [
+            105.06591796875,
+            95.46076202392578,
+            470.6258544921875,
+            107.2493667602539
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.799,
+          "text": "a Signature field must be placed for each signer (including internal counter-singers).",
+          "coordinates": [
+            105.54823303222656,
+            110.06590270996094,
+            524.6492309570312,
+            122.97502899169922
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "There are two methods to apply fields:",
+          "coordinates": [
+            105.54283905029297,
+            132.3365936279297,
+            301.3204040527344,
+            144.34959411621094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.763,
+          "text": "1. Simple Authoring is loaded by default in most instances. Simple authoring:",
+          "coordinates": [
+            105.39947509765625,
+            155.23480224609375,
+            485.2837829589844,
+            167.91488647460938
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "• \nIs limited to the most common types of fields:",
+          "coordinates": [
+            123.26513671875,
+            177.54656982421875,
+            372.5257263183594,
+            188.58401489257812
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.91,
+          "text": "• \nText input (All Text fields are flagged as Required)",
+          "coordinates": [
+            153.48435974121094,
+            196.2548370361328,
+            423.8927917480469,
+            208.5848388671875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "• \nSignature",
+          "coordinates": [
+            153.75759887695312,
+            216.32948303222656,
+            222.89373779296875,
+            227.234130859375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "• \nSigner's name (Printed)",
+          "coordinates": [
+            153.54180908203125,
+            235.54331970214844,
+            291.88031005859375,
+            247.01219177246094
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.899,
+          "text": "• \nSigner's email",
+          "coordinates": [
+            153.90939331054688,
+            254.7006072998047,
+            245.2145233154297,
+            266.21612548828125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.902,
+          "text": "• \nSignature date (Read-Only; Supplied by the system)",
+          "coordinates": [
+            153.37960815429688,
+            273.2926330566406,
+            432.8952941894531,
+            285.92462158203125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.877,
+          "text": "•\nCheckbox",
+          "coordinates": [
+            154.0872039794922,
+            292.77081298828125,
+            225.6256103515625,
+            302.79583740234375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "• \nPlaces fields anywhere you click on the document.",
+          "coordinates": [
+            123.67899322509766,
+            312.691650390625,
+            394.76513671875,
+            323.9537353515625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nAllows resizing of fields by clicking the bottom right corner of the field (blue\ntriangle) and dragging the field to size.",
+          "coordinates": [
+            123.51687622070312,
+            331.2279052734375,
+            519.8815307617188,
+            358.715087890625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "image",
+          "confidence": 0.977,
+          "text": "",
+          "coordinates": [
+            149.5787353515625,
+            367.6897888183594,
+            491.6436767578125,
+            572.5665893554688
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "2. Advanced Authoring can be enabled by selecting the toggle in the upper right corner.\nAdvanced authoring:",
+          "coordinates": [
+            87.42703247070312,
+            583.2949829101562,
+            529.580810546875,
+            609.8414916992188
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.903,
+          "text": "• \nAllows access to all field types (highlighted in yellow)",
+          "coordinates": [
+            87.93116760253906,
+            618.1800537109375,
+            374.3831481933594,
+            630.2816162109375
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.908,
+          "text": "• \nSupports form field detection (highlighted in green)",
+          "coordinates": [
+            87.84089660644531,
+            637.37646484375,
+            366.2461242675781,
+            649.5619506835938
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "• \nSupports Prefill fields (highlighted in pink)",
+          "coordinates": [
+            87.97511291503906,
+            656.2341918945312,
+            318.3912658691406,
+            668.573974609375
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "• \nSupports field assignment (highlighted in purple and pink)",
+          "coordinates": [
+            87.83748626708984,
+            675.179931640625,
+            398.1100769042969,
+            688.1622924804688
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.898,
+          "text": "• \nSupports field validation",
+          "coordinates": [
+            88.09798431396484,
+            695.8956909179688,
+            229.8658447265625,
+            707.4894409179688
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 19,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "• \nSupports calculated fields",
+          "coordinates": [
+            87.61257934570312,
+            73.40208435058594,
+            236.44642639160156,
+            85.15559387207031
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "• \nSupports conditional fields",
+          "coordinates": [
+            87.77193450927734,
+            92.93962097167969,
+            242.0290069580078,
+            104.18643951416016
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "• \nAllows control of the field text font/appearance",
+          "coordinates": [
+            87.3958511352539,
+            111.77436828613281,
+            344.6846008300781,
+            123.11769104003906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.898,
+          "text": "• \nPlaces fields by dragging them from the menu on the right side of the document.",
+          "coordinates": [
+            87.429443359375,
+            131.3280792236328,
+            508.70574951171875,
+            142.99961853027344
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nAllows resizing of fields by clicking the bottom right corner of the field (blue triangle)\nand dragging the field to size.",
+          "coordinates": [
+            87.77890014648438,
+            150.07357788085938,
+            529.2354736328125,
+            177.68035888671875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "confidence": 0.979,
+          "text": "",
+          "coordinates": [
+            109.12169647216797,
+            186.65916442871094,
+            572.9305419921875,
+            572.253662109375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.781,
+          "text": "Note:  You can switch between Simple and Advanced mode by selecting the Advanced\nediting (on||off) toggle in the upper-right corner.",
+          "coordinates": [
+            69.23738861083984,
+            584.2604370117188,
+            507.1959533691406,
+            611.9420776367188
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.876,
+          "text": "10. Select Next (in the top-right corner) after all the fields have been placed.",
+          "coordinates": [
+            87.27242279052734,
+            622.1430053710938,
+            467.6468200683594,
+            634.457275390625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.789,
+          "text": "11. Review and Send",
+          "coordinates": [
+            87.6989974975586,
+            644.75048828125,
+            197.7251739501953,
+            654.8595581054688
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "Review the agreement information and Send if everything is correct",
+          "coordinates": [
+            105.36002349853516,
+            666.440185546875,
+            444.9978332519531,
+            679.0228881835938
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 8,
+        "image": 1,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.937,
+          "text": "",
+          "coordinates": [
+            109.14958190917969,
+            75.52919006347656,
+            530.384765625,
+            405.0838317871094
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.809,
+          "text": "12. Confirmation",
+          "coordinates": [
+            87.80005645751953,
+            419.5177001953125,
+            177.34747314453125,
+            430.1976013183594
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.744,
+          "text": "A confirmation message is shown verifying the agreement has been sent successfully.",
+          "coordinates": [
+            68.94075012207031,
+            441.31732177734375,
+            493.7916564941406,
+            453.638427734375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.731,
+          "text": "There are three options to progress from the post-sending page:",
+          "coordinates": [
+            69.513671875,
+            463.62579345703125,
+            392.9579772949219,
+            476.36285400390625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "• \nManage agreements - Opens the Bulk Sends page with all your agreements: track \nstatus, access audit trails, send reminder",
+          "coordinates": [
+            87.07007598876953,
+            486.3240966796875,
+            516.189453125,
+            511.87689208984375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.78,
+          "text": "• \nSend another document in bulk- Prepare another document to send to many people",
+          "coordinates": [
+            87.16770935058594,
+            520.1967163085938,
+            535.1434936523438,
+            531.9681396484375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.727,
+          "text": "• \nClick Close to return to the Acrobat online Home page",
+          "coordinates": [
+            87.44442749023438,
+            539.763427734375,
+            381.34368896484375,
+            551.8208618164062
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "paragraph_title": 1,
+        "text": 5
+      }
+    },
+    {
+      "page_number": 17,
+      "elements": [
+        {
+          "id": 1,
+          "type": "header_image",
+          "confidence": 0.603,
+          "text": "",
+          "coordinates": [
+            521.0116577148438,
+            78.60359191894531,
+            563.853759765625,
+            98.36532592773438
+          ]
+        },
+        {
+          "id": 2,
+          "type": "number",
+          "confidence": 0.636,
+          "text": "",
+          "coordinates": [
+            120.97109985351562,
+            84.74516296386719,
+            130.78883361816406,
+            93.32852172851562
+          ]
+        },
+        {
+          "id": 3,
+          "type": "header",
+          "confidence": 0.844,
+          "text": "",
+          "coordinates": [
+            148.69052124023438,
+            84.77511596679688,
+            273.0018615722656,
+            93.17574310302734
+          ]
+        },
+        {
+          "id": 4,
+          "type": "doc_title",
+          "confidence": 0.903,
+          "text": "",
+          "coordinates": [
+            196.36685180664062,
+            146.51007080078125,
+            477.91473388671875,
+            209.35299682617188
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "",
+          "coordinates": [
+            195.5403594970703,
+            223.58633422851562,
+            472.95172119140625,
+            246.05015563964844
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "",
+          "coordinates": [
+            195.77017211914062,
+            259.4118347167969,
+            396.40838623046875,
+            268.507080078125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.643,
+          "text": "",
+          "coordinates": [
+            196.53811645507812,
+            290.714111328125,
+            288.6940612792969,
+            299.5063171386719
+          ]
+        },
+        {
+          "id": 8,
+          "type": "image",
+          "confidence": 0.618,
+          "text": "",
+          "coordinates": [
+            196.6970672607422,
+            306.9659729003906,
+            478.4098815917969,
+            379.7591857910156
+          ]
+        },
+        {
+          "id": 9,
+          "type": "image",
+          "confidence": 0.647,
+          "text": "",
+          "coordinates": [
+            209.43002319335938,
+            321.6605529785156,
+            227.9066925048828,
+            341.6360778808594
+          ]
+        },
+        {
+          "id": 10,
+          "type": "image",
+          "confidence": 0.644,
+          "text": "",
+          "coordinates": [
+            351.6945495605469,
+            322.14453125,
+            370.51715087890625,
+            342.309814453125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.545,
+          "text": "",
+          "coordinates": [
+            234.38525390625,
+            323.2343444824219,
+            320.75103759765625,
+            340.56988525390625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.874,
+          "text": "Manage your bulk sends",
+          "coordinates": [
+            70.5613021850586,
+            422.4678649902344,
+            261.2254333496094,
+            440.3927917480469
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.805,
+          "text": "Bulk sends can be managed from your Documents tab.",
+          "coordinates": [
+            70.26485443115234,
+            450.4742736816406,
+            342.1112976074219,
+            462.010498046875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "1. Navigate to the Documents tab.",
+          "coordinates": [
+            87.90888214111328,
+            472.74102783203125,
+            268.057373046875,
+            483.50738525390625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "2. Select Bulk Sends in the list of Your documents on the left side of the window.",
+          "coordinates": [
+            87.33148193359375,
+            492.399169921875,
+            493.2457275390625,
+            503.2461853027344
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "3. Single-click the Bulk Send you to want to access, opening the context menu on the\nright side of the window. The context menu on the right side contains five distinct \nsections:",
+          "coordinates": [
+            87.59547424316406,
+            511.5254211425781,
+            518.9852905273438,
+            550.4771728515625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nMetadata (red square): At the top of the menu is the metadata for the Bulk Send\ntemplate:",
+          "coordinates": [
+            117.62837219238281,
+            560.1962890625,
+            538.7392578125,
+            586.71484375
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "• \nImage of the Bulk Sends' first page",
+          "coordinates": [
+            147.8633575439453,
+            594.7083740234375,
+            339.8939514160156,
+            606.9796142578125
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.867,
+          "text": "•\nThe title of the Bulk Send",
+          "coordinates": [
+            147.91737365722656,
+            613.7809448242188,
+            295.3755187988281,
+            624.04345703125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "• \nThe date the Bulk Send was sent to the participants",
+          "coordinates": [
+            147.39691162109375,
+            632.94873046875,
+            423.1611328125,
+            644.1018676757812
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "• \nThe email value of the userID that created the Bulk Send",
+          "coordinates": [
+            147.49986267089844,
+            652.452880859375,
+            448.848876953125,
+            663.4320678710938
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.866,
+          "text": "• \nThe current status of the whole Bulk Send",
+          "coordinates": [
+            147.83132934570312,
+            671.7450561523438,
+            376.4718933105469,
+            682.0547485351562
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "• \nThe Message provided in the initial email",
+          "coordinates": [
+            147.7268524169922,
+            690.794677734375,
+            373.57855224609375,
+            702.048828125
+          ]
+        }
+      ],
+      "element_counts": {
+        "header_image": 1,
+        "number": 1,
+        "header": 1,
+        "doc_title": 1,
+        "text": 15,
+        "image": 3,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 18,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.955,
+          "text": "",
+          "coordinates": [
+            148.36805725097656,
+            93.5156021118164,
+            490.5146484375,
+            556.642333984375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "footnote",
+          "confidence": 0.801,
+          "text": "",
+          "coordinates": [
+            86.29502868652344,
+            565.5997314453125,
+            537.8402099609375,
+            698.7136840820312
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "footnote": 1
+      }
+    },
+    {
+      "page_number": 19,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "• \nDownload Form Field Data - Downloads a CSV file of the field-level content for all \nchild agreements spawned from this parent Bulk Send that have been completed.",
+          "coordinates": [
+            87.948486328125,
+            73.12293243408203,
+            520.6868896484375,
+            100.60868072509766
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nDownload Individual Files - Provides the option to download the individual PDF files\nif multiple files were used to create the web form.",
+          "coordinates": [
+            87.74172973632812,
+            107.37053680419922,
+            532.998046875,
+            133.7945098876953
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "• \nHide/Unhide Bulk Send- Hide/Unhiding the Bulk Send simply removes (or adds) the\nBulk Send from your normal Manage page view.",
+          "coordinates": [
+            87.78203582763672,
+            141.1360626220703,
+            530.3162231445312,
+            168.76234436035156
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "• \nShare - Shares the Bulk Send along with its status with the user email you provide.\nShared web forms can be viewed on the Manage page, but do not allow editing.",
+          "coordinates": [
+            88.04248809814453,
+            175.44277954101562,
+            515.6871948242188,
+            202.4418182373047
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "• \nA PDF copy of the Bulk Send parent document (without added fields) is emailed to the\nsharee.",
+          "coordinates": [
+            87.8968734741211,
+            209.33697509765625,
+            538.09619140625,
+            235.13194274902344
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.635,
+          "text": "• \nView Activity Report",
+          "coordinates": [
+            87.95355224609375,
+            244.04483032226562,
+            215.9459228515625,
+            255.12490844726562
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.897,
+          "text": "• \nView the current status of all child agreements created by the Bulk Send parent \ntemplate.",
+          "coordinates": [
+            87.44390869140625,
+            263.29107666015625,
+            501.07464599609375,
+            288.44317626953125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.828,
+          "text": "• \nAdd Notes - Allows the user to make personal notes for the Bulk Send.",
+          "coordinates": [
+            87.8142318725586,
+            297.5376892089844,
+            460.63043212890625,
+            308.808837890625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "• \nAgreements summary/filter (green square) - The Agreements section shows up to five\nvalues that reflect the number of child agreements in each status. If no child \nagreements are in a given status, the status is not exposed, so you may see fewer than \nfive line items. Clicking any one status will produce a filter list of those child \nagreements:",
+          "coordinates": [
+            87.31836700439453,
+            316.4139099121094,
+            537.2461547851562,
+            387.3534240722656
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \nAll - Shows all (child) agreements that have spawned from the Bulk Send (parent \ntemplate).",
+          "coordinates": [
+            88.10920715332031,
+            395.0724182128906,
+            511.1841735839844,
+            421.04876708984375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "• \nIn Progress - Indicates that the child agreement is waiting for the participant to \ncomplete their signature.",
+          "coordinates": [
+            88.20994567871094,
+            429.52154541015625,
+            499.9242858886719,
+            456.3525390625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "• \nCanceled - Indicates that either the sender explicitly canceled the child agreement, or \nthe participant declined to sign.",
+          "coordinates": [
+            87.86139678955078,
+            463.50262451171875,
+            534.5541381835938,
+            491.05340576171875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "• \nCompleted - Completed agreements have successfully obtained all signatures from all\nparticipants on the agreement.",
+          "coordinates": [
+            87.94954681396484,
+            497.36407470703125,
+            537.2258911132812,
+            524.9815063476562
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "• \nWaiting for You - Indicates that the agreement is waiting for the sender to countersign\nthe agreement.",
+          "coordinates": [
+            87.77302551269531,
+            531.47900390625,
+            536.7300415039062,
+            558.1854858398438
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.912,
+          "text": "• \nActivity for the Bulk Send parent template (orange square) - The Activity > link at the\nbottom of the context panel opens a chronological list of the enablement actions \ntaken against the (parent) Bulk Send template (eg: Creation, Completed events).",
+          "coordinates": [
+            87.74140167236328,
+            565.3763427734375,
+            533.3179931640625,
+            608.0607299804688
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "Adobe Acrobat supports a range of solutions for electronic and digital signatures. These \nsolutions include certificate signatures that let you sign PDF files with a certificate-based \ndigital ID. Certificate signatures are also known as digital signatures. Acrobat lets you create \nyour certificate ID. However, the common approach is to work with a certificate ID from a \ntrusted third-party certificate authority. Additional signing options in Acrobat include \nintegration with Adobe Acrobat Sign.",
+          "coordinates": [
+            68.54309844970703,
+            617.470458984375,
+            524.9827270507812,
+            704.6656494140625
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 16
+      }
+    },
+    {
+      "page_number": 20,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.876,
+          "text": "Why use certificate signatures?",
+          "coordinates": [
+            69.23870849609375,
+            119.07691192626953,
+            309.9227294921875,
+            136.5113525390625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "Many business transactions, including financial, legal, and other regulated transactions,\nrequire high assurance when signing documents. When documents are distributed \nelectronically, it's important that recipients can:",
+          "coordinates": [
+            68.79364776611328,
+            147.11671447753906,
+            501.87921142578125,
+            188.52647399902344
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "• \nVerify document authenticity—confirming the identity of each person who signed the\ndocument",
+          "coordinates": [
+            87.64750671386719,
+            199.20594787597656,
+            533.2615966796875,
+            224.2129364013672
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nVerify document integrity—confirming that the document has not been altered in \ntransit",
+          "coordinates": [
+            87.820556640625,
+            233.40411376953125,
+            514.5602416992188,
+            257.6310119628906
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.97,
+          "text": "Certificate-based signatures provide both of these security services. Many businesses and \ngovernments have chosen to set up a certificate-based digital signature infrastructure within \ntheir organization. They use third-party certificate authorities to provide independent identity\nvalidation. Examples include:",
+          "coordinates": [
+            68.6085205078125,
+            270.3213806152344,
+            535.033203125,
+            326.00885009765625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.957,
+          "text": "For instance, companies in the European Union who need to comply with advanced or \nqualified electronic signature requirements in eIDAS e-signature regulation or the ETSI PAdES\nstandard (PDF Advanced Electronic Signatures).",
+          "coordinates": [
+            68.78321838378906,
+            336.54156494140625,
+            536.5867309570312,
+            378.34735107421875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.894,
+          "text": "What can I do with certificate IDs?",
+          "coordinates": [
+            69.23249816894531,
+            412.3199768066406,
+            333.80072021484375,
+            426.6519775390625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.71,
+          "text": "use Acrobat or Acrobat Reader software to sign PDF files and validate files they receive from\nothers.",
+          "coordinates": [
+            69.01700592041016,
+            455.5040283203125,
+            529.175537109375,
+            479.9061279296875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.853,
+          "text": "Sign documents",
+          "coordinates": [
+            69.29734802246094,
+            492.6885681152344,
+            155.06399536132812,
+            503.7671813964844
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \nSign PDF files using certificate IDs",
+          "coordinates": [
+            87.36094665527344,
+            514.4608764648438,
+            275.7264404296875,
+            526.5570678710938
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "• \nPlace a signature box anywhere on the page",
+          "coordinates": [
+            87.85363006591797,
+            533.953369140625,
+            329.0902404785156,
+            545.7738037109375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "• \nAdd multiple signatures to a page",
+          "coordinates": [
+            87.95362854003906,
+            553.3800048828125,
+            277.2633056640625,
+            564.6813354492188
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.768,
+          "text": "• \nAdd a time stamp to the document when working with a configured timestamp server",
+          "coordinates": [
+            87.28728485107422,
+            572.6079711914062,
+            535.656982421875,
+            584.3932495117188
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.538,
+          "text": "• \nCertify a document with a visible or hidden signature so that recipients can verify \nauthenticity with or without seeing a visible signature on the page",
+          "coordinates": [
+            87.8054428100586,
+            591.4612426757812,
+            510.8161926269531,
+            618.5478515625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "• \nAutomatically embed certificate data to support long-term validation",
+          "coordinates": [
+            87.55235290527344,
+            625.3368530273438,
+            452.34814453125,
+            637.4497680664062
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.845,
+          "text": "Validate documents",
+          "coordinates": [
+            69.48316192626953,
+            647.5027465820312,
+            176.28294372558594,
+            657.9068603515625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.828,
+          "text": "• \nValidate all signatures, confirming the identity of everyone who signed the document",
+          "coordinates": [
+            86.97415924072266,
+            669.3703002929688,
+            531.1779174804688,
+            682.1173706054688
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.916,
+          "text": "• \nValidate document integrity by tracking all previously signed versions of a document \nto verify changes made during the document’s lifecycle",
+          "coordinates": [
+            87.369873046875,
+            689.5933227539062,
+            528.9959716796875,
+            715.86376953125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "text": 14
+      }
+    },
+    {
+      "page_number": 21,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.646,
+          "text": "Set privileges and permissions for others",
+          "coordinates": [
+            69.16829681396484,
+            73.20645904541016,
+            281.64501953125,
+            85.41183471679688
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.921,
+          "text": "• \nCertify a document while leaving portions of it available for form filling, signatures, or\ncomments",
+          "coordinates": [
+            87.30614471435547,
+            95.26595306396484,
+            529.9534301757812,
+            121.23580932617188
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "• \nUse Acrobat Pro software to enable users of Reader 9 or later to sign with certificate\nIDs",
+          "coordinates": [
+            87.7178726196289,
+            129.306884765625,
+            524.5250854492188,
+            154.347900390625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nUse Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict\nusage such as printing, editing, or copying",
+          "coordinates": [
+            87.49305725097656,
+            163.29397583007812,
+            538.4093627929688,
+            190.63909912109375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.893,
+          "text": "What if my organization isn’t prepared to set up certificate-\nbased signatures?",
+          "coordinates": [
+            69.11361694335938,
+            220.8041534423828,
+            525.8935546875,
+            259.8741149902344
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web \ncontracting. With Acrobat Sign, you can get PDF, Microsoft Word, and other documents sent,\nsigned, and filed instantly. And best of all, Adobe hosts it securely, so your IT department \ndoesn’t have to do the work of setting up a signature infrastructure.",
+          "coordinates": [
+            68.63748931884766,
+            271.477783203125,
+            531.2442626953125,
+            327.4234619140625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.848,
+          "text": "Resources",
+          "coordinates": [
+            70.00885009765625,
+            363.7869873046875,
+            150.26168823242188,
+            376.2498779296875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "Adobe Approved Trust List (AATL): The Adobe Approved Trust List is a program that allows\nmillions of users worldwide to create digital signatures that are trusted whenever the signed \ndocument is opened in Acrobat or Reader software. Check out the current members.",
+          "coordinates": [
+            68.81473541259766,
+            390.2820129394531,
+            529.0045166015625,
+            431.138427734375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "Adobe Security and Privacy Portal: A good first stop for all things security and privacy at \nAdobe.",
+          "coordinates": [
+            68.82748413085938,
+            441.29833984375,
+            507.6903076171875,
+            467.1019287109375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "Certified Document Services: Certified Document Services (CDS) was the predecessor to the\nAATL.",
+          "coordinates": [
+            68.64212036132812,
+            478.1770324707031,
+            527.3530883789062,
+            503.203369140625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "Content Security Library: Extensive documentation on Adobe certificate signature\nadministration.",
+          "coordinates": [
+            69.08219146728516,
+            515.4979248046875,
+            477.5538330078125,
+            540.7535400390625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.564,
+          "text": "Managing Digital IDs: Help pages for digital ID management.",
+          "coordinates": [
+            69.47505187988281,
+            552.3236083984375,
+            372.4729919433594,
+            564.9564208984375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.517,
+          "text": "Managing Digital IDs: Help pages for digital ID management.",
+          "coordinates": [
+            69.47505187988281,
+            552.3236083984375,
+            372.4729919433594,
+            564.9564208984375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.97,
+          "text": "A certificate-based signature, like a conventional handwritten signature, identifies the person \nsigning a document. Unlike a handwritten signature, a certificate-based signature is difficult to\nforge because it contains encrypted information that is unique to the signer. It can be easily \nverified and informs recipients whether the document was modified after the signer initially \nsigned it.",
+          "coordinates": [
+            68.37276458740234,
+            575.2067260742188,
+            536.0457763671875,
+            646.5728149414062
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "To sign a document with a certificate-based signature, you must obtain a digital ID or create a \nself-signed digital ID in Acrobat or Acrobat Reader. The digital ID contains a private key and a\ncertificate with a public key, and more. The private key is used to create the certificate-based",
+          "coordinates": [
+            68.79518127441406,
+            656.2666015625,
+            537.4790649414062,
+            698.7999267578125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "text": 11
+      }
+    },
+    {
+      "page_number": 22,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "signature. The certificate is a credential that is automatically applied to the signed document.\nThe signature is verified when recipients open the document.",
+          "coordinates": [
+            68.81002807617188,
+            73.15463256835938,
+            531.5126953125,
+            100.63190460205078
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.97,
+          "text": "When you apply a certificate-based signature, Acrobat uses a hashing algorithm to generate a\nmessage digest, which it encrypts using your private key. Acrobat embeds the encrypted \nmessage digest in the PDF, certificate details, signature image, and a document version when \nsigned.",
+          "coordinates": [
+            68.72539520263672,
+            110.38770294189453,
+            534.2863159179688,
+            166.15777587890625
+          ]
+        },
+        {
+          "id": 3,
+          "type": "image",
+          "confidence": 0.844,
+          "text": "",
+          "coordinates": [
+            72.03433990478516,
+            174.57443237304688,
+            538.9519653320312,
+            267.3554382324219
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.642,
+          "text": "Certificate-based signature in a PDF form",
+          "coordinates": [
+            69.98974609375,
+            269.8429260253906,
+            247.8713836669922,
+            279.3955993652344
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.844,
+          "text": "Steps to add a certificate-based signature to a PDF",
+          "coordinates": [
+            69.0162582397461,
+            298.65740966796875,
+            462.1917419433594,
+            314.4146423339844
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "1. Open a PDF in Acrobat and choose All Tools > more > Use a certificate in the\nglobal bar.",
+          "coordinates": [
+            100.58451843261719,
+            318.6854248046875,
+            509.90966796875,
+            344.9181823730469
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.922,
+          "text": "Alternatively, from Acrobat Home, select See all tools. In the Protect section,\nselect Use a certificate, and then select a file you want to certify.",
+          "coordinates": [
+            115.82967376708984,
+            355.198486328125,
+            503.3240966796875,
+            382.02642822265625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.682,
+          "text": "2. The Use a certificate tool is open on the left pane.",
+          "coordinates": [
+            100.63175964355469,
+            392.4750671386719,
+            371.223876953125,
+            403.79498291015625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "• \nSelect Certify (visible signatures) to certify with a visible digital signature,\nand then select Drag New Signature Rectangle in the dialog box that \nappears.",
+          "coordinates": [
+            136.87765502929688,
+            415.41552734375,
+            522.4890747070312,
+            456.1950988769531
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "• \nSelect Certify (invisible signatures) if you want to certify the document \nwithout a visible signature.",
+          "coordinates": [
+            137.3200225830078,
+            464.47235107421875,
+            512.1336059570312,
+            490.5486755371094
+          ]
+        },
+        {
+          "id": 11,
+          "type": "image",
+          "confidence": 0.973,
+          "text": "",
+          "coordinates": [
+            143.6734619140625,
+            496.403076171875,
+            503.8189697265625,
+            684.9498291015625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "figure_title",
+          "confidence": 0.563,
+          "text": "",
+          "coordinates": [
+            87.57173919677734,
+            691.3339233398438,
+            385.91534423828125,
+            703.3167114257812
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 8,
+        "image": 2,
+        "paragraph_title": 1,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 23,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "4. If you've selected, Certify (visible signatures) in step 2, use the mouse to drag and draw\na rectangle area where you want your signature to appear.",
+          "coordinates": [
+            87.09648895263672,
+            73.12483215332031,
+            537.2012329101562,
+            101.03416442871094
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "5. In the Sign with a Digital ID dialog box, choose the Digital ID you want to use for \ncertifying the document and select Continue, or select Configure New Digital ID to\ncreate a new ID.",
+          "coordinates": [
+            87.58545684814453,
+            109.93299865722656,
+            522.215087890625,
+            149.7561492919922
+          ]
+        },
+        {
+          "id": 3,
+          "type": "image",
+          "confidence": 0.906,
+          "text": "",
+          "coordinates": [
+            70.95099639892578,
+            159.22537231445312,
+            538.932373046875,
+            484.37335205078125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "figure_title",
+          "confidence": 0.689,
+          "text": "",
+          "coordinates": [
+            87.11015319824219,
+            496.036376953125,
+            528.7037963867188,
+            522.8463134765625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.518,
+          "text": "6. Select Review to review the document content before signing, then select Sign. Save\nthe PDF when prompted. Your document is now certified.",
+          "coordinates": [
+            87.11015319824219,
+            496.036376953125,
+            528.7037963867188,
+            522.8463134765625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.88,
+          "text": "Certifying and signing documents",
+          "coordinates": [
+            69.37094116210938,
+            558.1619262695312,
+            331.0747375488281,
+            575.4603271484375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "The Use a certificate tool lets you apply two types of certificate-based signatures. You \ncan Certify a document, attest to its content or approve a document with the Digitally\nsign option.",
+          "coordinates": [
+            68.80740356445312,
+            585.4818725585938,
+            499.1103515625,
+            627.4771118164062
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.814,
+          "text": "Digitally sign",
+          "coordinates": [
+            69.44627380371094,
+            637.601806640625,
+            138.96461486816406,
+            649.5562744140625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "When you Digitally sign with a certificate, the signature is considered an approval signature.\nCertify (visible or invisible signatures)",
+          "coordinates": [
+            68.7887954711914,
+            660.0679931640625,
+            527.356689453125,
+            695.1678466796875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 5,
+        "image": 1,
+        "figure_title": 1,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 24,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.967,
+          "text": "Certify options provide a higher level of document control than Digitally sign. For documents\nthat require certification, you must certify the documents before others sign them. If a \ndocument has already been signed, the Certify options are disabled. When you certify a \ndocument, you can control the types of changes other people can make. You can certify with \nor without displaying a signature.",
+          "coordinates": [
+            68.07659912109375,
+            73.02141571044922,
+            536.4625244140625,
+            144.5768280029297
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.973,
+          "text": "Signatures made with the Certify or Digitally sign options comply with data protection \nstandards specified by the European Telecommunications Standards Institute (ETSI). In \naddition, both signature types comply with the PDF Advanced Electronic Signature (PAdES) \nstandard. Acrobat and Acrobat Reader provide an option to change the default signing format \nto a CAdES format. This option is compliant with Part 3 of the PAdES standard. The timestamp\ncapability and native support for long-term validation of signatures (introduced in Acrobat \n9.1) is in compliance with Part 4 of the PAdES standard. The default signing format, when set \nup accordingly, is compliant with Part 2 of the PAdES standard. You can change the default \nsigning method or format, in the Signatures panel of the Preferences dialog box. Under \nCreation & Appearance, click More.",
+          "coordinates": [
+            68.30608367919922,
+            154.592041015625,
+            539.245361328125,
+            299.4398498535156
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.895,
+          "text": "Setting up certificate-based signatures",
+          "coordinates": [
+            69.19027709960938,
+            334.22198486328125,
+            367.6642761230469,
+            351.98333740234375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "You can expedite the signing process and optimize your results by making the following\npreparations in advance.",
+          "coordinates": [
+            68.89848327636719,
+            361.29376220703125,
+            508.4674377441406,
+            388.4216613769531
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.786,
+          "text": "Note:",
+          "coordinates": [
+            69.4427261352539,
+            400.3002624511719,
+            101.02135467529297,
+            409.74420166015625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.967,
+          "text": "Some situations require using particular digital IDs for signing. For example, a corporation or\ngovernment agency can require individuals to use only digital IDs issued by that agency to \nsign official documents. Inquire about the digital signature policies of your organization to \ndetermine the appropriate source of your digital ID.",
+          "coordinates": [
+            68.73429870605469,
+            421.38153076171875,
+            529.4911499023438,
+            477.76165771484375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "• \nGet a digital ID from your own organization, buy a digital ID (see the Adobe website\nfor security partners), or create a self-signed one. See Create a self-signed digital ID. \nYou can’t apply a certificate-based signature without a digital id.",
+          "coordinates": [
+            87.77828216552734,
+            488.4150695800781,
+            523.47314453125,
+            529.372802734375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "• \nSet the default signing method.",
+          "coordinates": [
+            88.17950439453125,
+            540.5724487304688,
+            263.782470703125,
+            552.3301391601562
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "• \nCreate an appearance for your certificate-based signature. (See Create the signature\nappearance.)",
+          "coordinates": [
+            87.7645492553711,
+            559.5706787109375,
+            523.8245239257812,
+            586.1207885742188
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "• \nUse the Preview Document mode to suppress any dynamic content that can alter the\nappearance of the document and mislead you into signing an unsuitable document. \nFor information about using the Preview Document mode, see Sign in Preview \nDocument mode.",
+          "coordinates": [
+            87.63455963134766,
+            593.3743286132812,
+            533.37548828125,
+            648.49267578125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nReview all the pages in a document before you sign. Documents can contain signature\nfields on multiple pages.",
+          "coordinates": [
+            87.76837921142578,
+            657.4343872070312,
+            535.7628173828125,
+            683.70654296875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nConfigure the signing application. Both authors and signers should configure their\napplication environment. (See Set signing preferences).",
+          "coordinates": [
+            87.46875,
+            691.4391479492188,
+            513.2705078125,
+            717.8504638671875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 25,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "For details on the full range of configuration options in enterprise settings, see\nthe Digital Signatures Guide.",
+          "coordinates": [
+            104.56243133544922,
+            73.06073760986328,
+            493.6317443847656,
+            100.27487182617188
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.921,
+          "text": "• \nChoose a signature type. Learn about approval and certification signatures to \ndetermine the type you should choose to sign your document. (See Signature types.)",
+          "coordinates": [
+            87.70884704589844,
+            107.449462890625,
+            528.889892578125,
+            135.37013244628906
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.878,
+          "text": "Set signing preferences",
+          "coordinates": [
+            69.17131805419922,
+            165.32614135742188,
+            251.11593627929688,
+            183.1632843017578
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.974,
+          "text": "Signing workflow preferences control what you can see and do when the signing dialog box\nopens. You can allow certain actions, hide and display data fields, and change how content \naffects the signing process. Setting signing preferences impacts your ability to see what you \nare signing. For information on the available signing preferences, see “Signing Workflow \nPreferences” in the Digital Signature Guide.",
+          "coordinates": [
+            68.68726348876953,
+            193.24917602539062,
+            527.54296875,
+            264.69012451171875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.885,
+          "text": "Customizing signature workflows using seed values",
+          "coordinates": [
+            69.30985260009766,
+            299.1255798339844,
+            468.80841064453125,
+            316.31878662109375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.972,
+          "text": "Seed values offer additional control to document authors by letting them specify which \nchoices signers can make when signing a document. By applying seed values to signature \nfields in unsigned PDFs, authors can customize options and automate tasks. They can also \nspecify signature requirements for items such as certificates and timestamp servers. For more\ninformation about customizing signatures using seed values, see the Digital Signature Guide.",
+          "coordinates": [
+            68.4423828125,
+            325.9920959472656,
+            531.90869140625,
+            397.7547607421875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.893,
+          "text": "Create the appearance of a certificate-based signature",
+          "coordinates": [
+            69.14332580566406,
+            432.5148010253906,
+            490.28607177734375,
+            449.0420227050781
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "You determine the look of your certificate-based signature by selecting options in the \nSignatures panel of the Preferences dialog box. For example, you can include an image of \nyour handwritten signature, a company logo, or a photograph. You can also create different\nsignatures for different purposes. For some, you can provide a greater level of detail.",
+          "coordinates": [
+            68.51654052734375,
+            460.5459289550781,
+            526.4212036132812,
+            517.4660034179688
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.913,
+          "text": "A signature can also include information that helps others verify your signature , such as \nthe reason for signing, contact information, and more.",
+          "coordinates": [
+            68.47734832763672,
+            526.4705200195312,
+            507.7310485839844,
+            553.5220336914062
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.957,
+          "text": "1. (Optional) If you want to include an image of your handwritten signature in the \ncertificate-based signature, scan your signature, and save it as an image file. Place\nthe image in a document by itself, and convert the document to PDF.",
+          "coordinates": [
+            100.55624389648438,
+            563.0260620117188,
+            523.671630859375,
+            605.531494140625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "2. Right-click the signature field, and select Sign Document or Certify with Visible\nSignature.",
+          "coordinates": [
+            100.5965576171875,
+            615.1881713867188,
+            517.2041015625,
+            642.45703125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "Note: You can also create an appearance using the Signature preferences:\nHamburger menu \n > Preferences > Signatures (Windows) or Acrobat > \nPreferences > Signatures (macOS).",
+          "coordinates": [
+            117.76093292236328,
+            665.46533203125,
+            488.86602783203125,
+            707.2258911132812
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 9,
+        "paragraph_title": 3
+      }
+    },
+    {
+      "page_number": 26,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.764,
+          "text": "3. From the Appearance menu in the Sign dialog box, select Create New Appearance.",
+          "coordinates": [
+            100.5884780883789,
+            88.23799896240234,
+            537.1353149414062,
+            101.0090560913086
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "4. In the Configure Signature Appearance dialog box, type a name for the signature \nyou’re creating. When you sign, you select the signature by this name. Therefore, \nuse a short, descriptive title.",
+          "coordinates": [
+            101.59501647949219,
+            110.26294708251953,
+            522.3082275390625,
+            150.6768341064453
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.696,
+          "text": "5. For Configure Graphic, choose an option:",
+          "coordinates": [
+            101.02812957763672,
+            162.52659606933594,
+            326.9537658691406,
+            174.5452117919922
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.8,
+          "text": "No Graphic",
+          "coordinates": [
+            118.857666015625,
+            204.59255981445312,
+            181.02401733398438,
+            215.67433166503906
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "Displays only the default icon and other information specified in the Configure Text\nsection.",
+          "coordinates": [
+            118.37923431396484,
+            219.14004516601562,
+            534.3163452148438,
+            244.81887817382812
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.806,
+          "text": "Imported Graphic",
+          "coordinates": [
+            118.57676696777344,
+            277.5672302246094,
+            214.84881591796875,
+            288.6266784667969
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "Displays an image with your certificate-based signature. Select this option to include\nan image of your handwritten signature. To import the image file, select File, select \nBrowse and then select the image file.",
+          "coordinates": [
+            118.33583068847656,
+            291.2997741699219,
+            537.6361083984375,
+            332.9128723144531
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.685,
+          "text": "Name",
+          "coordinates": [
+            118.95340728759766,
+            364.8952331542969,
+            153.1982421875,
+            374.67462158203125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "Displays only the default signature icon and your name as it appears in your digital\nID file.",
+          "coordinates": [
+            118.11841583251953,
+            378.4754943847656,
+            530.4439697265625,
+            403.87518310546875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.916,
+          "text": "6. For Configure Text, select the options that you want to appear in the signature. \nDistinguished Name shows the user attributes defined in your digital ID, including\nyour name, organization, and country.",
+          "coordinates": [
+            101.24710845947266,
+            415.2771301269531,
+            525.09619140625,
+            457.7857666015625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "7. For Text Properties, specify the writing direction and type of digits used, and then\nclick OK. See also Enable right-to-left languages.",
+          "coordinates": [
+            101.13555908203125,
+            467.03265380859375,
+            523.9052124023438,
+            494.5390625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.913,
+          "text": "8. (Optional) If the dialog box includes the Additional Signature Information section, \nspecify the reason for signing the document, the location, and your contact \ninformation. These options are available only if you set them as your preferences in\nthe Creation and Appearance Preferences dialog box (Preferences > Signatures > \nCreation & Appearance > More).",
+          "coordinates": [
+            101.4459457397461,
+            504.09503173828125,
+            533.0853881835938,
+            575.5578002929688
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.862,
+          "text": "Set up a roaming ID account",
+          "coordinates": [
+            69.34357452392578,
+            610.8917236328125,
+            291.1585998535156,
+            628.3536376953125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "A roaming ID is a digital ID that is stored on a server and can be accessed by the subscriber.\nYou must have an Internet connection to access a roaming ID and an account from an \norganization that supplies roaming digital IDs.",
+          "coordinates": [
+            68.83114624023438,
+            638.5352783203125,
+            522.1876831054688,
+            679.78515625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.547,
+          "text": "1. Open the Preferences dialog box.",
+          "coordinates": [
+            100.72674560546875,
+            689.346923828125,
+            286.5166015625,
+            701.5315551757812
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "paragraph_title": 5
+      }
+    },
+    {
+      "page_number": 27,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.809,
+          "text": "2. Under Categories, select Signatures.",
+          "coordinates": [
+            100.73662567138672,
+            73.5155258178711,
+            304.0601806640625,
+            85.44340515136719
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "3. For Identities & Trusted Certificates, select More.",
+          "coordinates": [
+            100.74047088623047,
+            95.2361068725586,
+            370.17559814453125,
+            106.25447082519531
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "4. Expand Digital IDs on the left, select Roaming ID Accounts, and select Add\nAccount.",
+          "coordinates": [
+            100.99832153320312,
+            118.17034912109375,
+            496.35113525390625,
+            143.86724853515625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.877,
+          "text": "5. Type the name and URL for the roaming ID server, and select Next.",
+          "coordinates": [
+            100.82915496826172,
+            155.11972045898438,
+            454.7613220214844,
+            167.08839416503906
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "6. Type your user name and password, or follow the directions to create an account.\nSelect Next, and then select Finish.",
+          "coordinates": [
+            100.7276611328125,
+            177.50424194335938,
+            526.522216796875,
+            202.98033142089844
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.966,
+          "text": "Once the roaming ID is added, it can be used for signing or encryption. When you perform a \ntask that uses your roaming ID, you’re automatically logged in to the roaming ID server if your\nauthentication assertion hasn’t expired.",
+          "coordinates": [
+            68.47758483886719,
+            214.28257751464844,
+            537.5324096679688,
+            255.9893341064453
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.889,
+          "text": "PKCS#12 modules and tokens",
+          "coordinates": [
+            69.36264038085938,
+            290.6609802246094,
+            301.330810546875,
+            304.6905517578125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.977,
+          "text": "You can have multiple digital IDs that you use for different purposes, particularly if you sign \ndocuments in different roles or using different certification methods. Digital IDs are usually \npassword protected. They can be stored on your computer in PKCS #12 file format. Digital \nIDs can also be stored on a smart card, hardware token, or in the Windows certificate store. \nRoaming IDs can be stored on a server. Acrobat includes a default signature handler that can \naccess digital IDs from various locations. Register the digital ID in Acrobat for it to be available\nfor use.",
+          "coordinates": [
+            68.64886474609375,
+            318.28167724609375,
+            536.6389770507812,
+            417.7652893066406
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.89,
+          "text": "Store certificates on directory servers",
+          "coordinates": [
+            69.41818237304688,
+            453.9012756347656,
+            359.4215393066406,
+            469.0945129394531
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.962,
+          "text": "Directory servers are commonly used as centralized repositories of identities within an \norganization. The server acts as an ideal location to store user certificates in enterprises that \nuse certificate encryption. Directory servers let you locate certificates from network servers, \nincluding Lightweight Directory Access Protocol (LDAP) servers. After you locate a \ncertificate, you can add it to your list of trusted identities so that you don’t have to look it up\nagain. By developing a storage area for trusted certificates, you or a member of your \nworkgroup can facilitate the use of encryption in the workgroup.",
+          "coordinates": [
+            68.6954345703125,
+            481.7491760253906,
+            526.3488159179688,
+            582.8074951171875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "For more information about directory servers, see the Digital Signature Guide.",
+          "coordinates": [
+            69.31548309326172,
+            592.4671630859375,
+            455.25152587890625,
+            604.5640258789062
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.898,
+          "text": "Import directory server settings (Windows only)",
+          "coordinates": [
+            69.36980438232422,
+            639.22216796875,
+            442.888671875,
+            657.02490234375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "You import directory server settings using security import/export methodology or a security\nsettings file. Before, you import settings in a file using import/export methodology, ensure \nthat you trust the file provider before opening it.",
+          "coordinates": [
+            68.58222198486328,
+            666.6373901367188,
+            526.7910766601562,
+            709.47216796875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "paragraph_title": 3
+      }
+    },
+    {
+      "page_number": 28,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.867,
+          "text": "1. Open the Preferences dialog box.",
+          "coordinates": [
+            100.57862091064453,
+            73.50794219970703,
+            290.59832763671875,
+            85.41508483886719
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.897,
+          "text": "2. Under Categories, select Signatures.",
+          "coordinates": [
+            100.86199951171875,
+            95.36593627929688,
+            304.75946044921875,
+            107.55341339111328
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.899,
+          "text": "3. For Document Timestamping, select More.",
+          "coordinates": [
+            100.79963684082031,
+            118.54375457763672,
+            339.9359130859375,
+            130.06671142578125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.896,
+          "text": "4. Select Directory Servers on the left, and then select Import.",
+          "coordinates": [
+            100.84539031982422,
+            140.430908203125,
+            419.7786560058594,
+            152.15750122070312
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.908,
+          "text": "5. Select the import/export methodology file and select Open.",
+          "coordinates": [
+            100.79508972167969,
+            162.4481964111328,
+            419.6226806640625,
+            174.64930725097656
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "6. Select the Signature Properties button to check the current signature status if the file\nis signed.",
+          "coordinates": [
+            100.96170043945312,
+            185.31356811523438,
+            539.1107788085938,
+            211.3026885986328
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "7. Select Import Search Directory Settings.",
+          "coordinates": [
+            101.05673217773438,
+            222.59646606445312,
+            325.70684814453125,
+            234.16578674316406
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.908,
+          "text": "8. Select OK, if prompted to confirm your choice.",
+          "coordinates": [
+            100.95459747314453,
+            244.18577575683594,
+            353.16278076171875,
+            256.46337890625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "The directory server appears in the Security Settings dialog box.",
+          "coordinates": [
+            118.59292602539062,
+            279.3571472167969,
+            440.4286193847656,
+            292.12408447265625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.908,
+          "text": "Export directory server settings (Windows only)",
+          "coordinates": [
+            69.8272705078125,
+            326.2826232910156,
+            441.5232849121094,
+            343.9271240234375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "Although it is preferable to export security settings, you can export directory settings as an\nimport/export methodology file. Use the file to configure the directory server on another \ncomputer.",
+          "coordinates": [
+            68.7701187133789,
+            354.6764221191406,
+            518.2052001953125,
+            395.22406005859375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "1. Open the Preferences dialog box.",
+          "coordinates": [
+            100.68292999267578,
+            405.5174865722656,
+            290.881591796875,
+            417.62896728515625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "2. Under Categories, select Identity.",
+          "coordinates": [
+            100.7757568359375,
+            428.5013732910156,
+            290.53021240234375,
+            440.33367919921875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.907,
+          "text": "3. Enter your name, organization, and email address to create your profile.",
+          "coordinates": [
+            100.73790740966797,
+            450.602783203125,
+            477.86358642578125,
+            462.7685546875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.903,
+          "text": "4. Under Categories, select Signatures.",
+          "coordinates": [
+            101.0014877319336,
+            472.6548156738281,
+            304.65655517578125,
+            484.478515625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.902,
+          "text": "5. For Document Timestamping, select More.",
+          "coordinates": [
+            101.01177978515625,
+            495.4847106933594,
+            340.01678466796875,
+            506.9769592285156
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "6. Select Directory Servers on the left, and then select one or more servers on the\nright.",
+          "coordinates": [
+            100.65311431884766,
+            517.395263671875,
+            515.6512451171875,
+            544.5049438476562
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "7. Select Export, select a destination, and then select Next.",
+          "coordinates": [
+            100.74446868896484,
+            554.4829711914062,
+            400.5058288574219,
+            565.9096069335938
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "8. To prove that the file came from you, select Sign, add your signature, and then\nselect Next.",
+          "coordinates": [
+            100.67250061035156,
+            577.5953369140625,
+            511.1231384277344,
+            602.92333984375
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.846,
+          "text": "9. Do one of the following:",
+          "coordinates": [
+            101.02706909179688,
+            614.5213012695312,
+            242.86019897460938,
+            626.666015625
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "• \nTo save the file, specify its name and location, and select Save.",
+          "coordinates": [
+            136.3440399169922,
+            657.5183715820312,
+            466.9635925292969,
+            669.07763671875
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nTo send the file as an attachment, type an email address in the To box,\nselect Next, and then select Finish.",
+          "coordinates": [
+            136.57049560546875,
+            679.6787109375,
+            507.2449035644531,
+            705.5633544921875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 21,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 29,
+      "elements": [
+        {
+          "id": 1,
+          "type": "header",
+          "confidence": 0.805,
+          "text": "",
+          "coordinates": [
+            119.83478546142578,
+            87.01403045654297,
+            312.75860595703125,
+            98.66650390625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.881,
+          "text": "Add a timestamp to certificate-based signatures",
+          "coordinates": [
+            69.26239013671875,
+            140.50140380859375,
+            441.61962890625,
+            157.03640747070312
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.978,
+          "text": "You can include the date and time you signed the document as part of your certificate-based \nsignature. Timestamps are easier to verify when they are associated with a trusted timestamp\nauthority certificate. A timestamp helps to establish when you signed the document and \nreduces the chances of an invalid signature. You can obtain a timestamp from a third-party \ntimestamp authority or the certificate authority that issued your digital ID.",
+          "coordinates": [
+            68.60228729248047,
+            167.38796997070312,
+            533.1485595703125,
+            238.7712860107422
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.972,
+          "text": "Timestamps appear in the signature field and in the Signature Properties dialog box. If a \ntimestamp server is configured, the timestamp appears in the Date/Time tab of the Signature\nProperties dialog box. If no timestamp server is configured, the signatures field displays the \nlocal time of the computer at the moment of signing.",
+          "coordinates": [
+            68.66559600830078,
+            249.39292907714844,
+            535.070068359375,
+            305.4519348144531
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.966,
+          "text": "Note: If you did not embed a timestamp when you signed the document, you can add one \nlater to your signature. (See Establish long-term signature validation.) A timestamp applied\nafter signing a document uses the time provided by the timestamp server.",
+          "coordinates": [
+            68.5501937866211,
+            315.4457702636719,
+            522.9390869140625,
+            358.06256103515625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.889,
+          "text": "Configure a timestamp server",
+          "coordinates": [
+            69.55775451660156,
+            393.0326232910156,
+            300.67230224609375,
+            409.3279724121094
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "To configure a timestamp server, you need the server name and the URL, which you can\nobtain from an administrator or a security settings file.",
+          "coordinates": [
+            68.74783325195312,
+            420.5732421875,
+            510.4031677246094,
+            447.0419616699219
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.957,
+          "text": "If you have a security settings file, install it and don’t use the following instructions for \nconfiguring a server. Ensure that you obtained the security settings file from a trusted source.\nDon’t install it without checking with your system administration or IT department.",
+          "coordinates": [
+            68.4608383178711,
+            457.4266662597656,
+            529.8751831054688,
+            499.5372009277344
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.903,
+          "text": "1. Open the Preferences dialog box.",
+          "coordinates": [
+            100.72075653076172,
+            509.8029479980469,
+            290.6780090332031,
+            521.2507934570312
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.91,
+          "text": "2. Under Categories, select Signatures.",
+          "coordinates": [
+            100.6689224243164,
+            532.5360717773438,
+            304.2987976074219,
+            544.335693359375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.908,
+          "text": "3. For Document Timestamping, click More.",
+          "coordinates": [
+            100.78068542480469,
+            554.67626953125,
+            333.2664489746094,
+            565.8843383789062
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "4. Select Time Stamp Servers on the left.",
+          "coordinates": [
+            100.95272827148438,
+            576.4841918945312,
+            314.041259765625,
+            587.5787963867188
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.902,
+          "text": "5. Do one of the following:",
+          "coordinates": [
+            100.9503173828125,
+            599.465576171875,
+            243.1057586669922,
+            611.5587158203125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nIf you have an import/export methodology file with the timestamp server\nsettings, click the Import button \n. Select the file, and select Open.",
+          "coordinates": [
+            136.48403930664062,
+            641.4786376953125,
+            521.365478515625,
+            679.9716186523438
+          ]
+        }
+      ],
+      "element_counts": {
+        "header": 1,
+        "paragraph_title": 2,
+        "text": 11
+      }
+    },
+    {
+      "page_number": 30,
+      "elements": [
+        {
+          "id": 1,
+          "type": "header_image",
+          "confidence": 0.58,
+          "text": "",
+          "coordinates": [
+            474.0823974609375,
+            72.22016143798828,
+            499.7708740234375,
+            100.46002960205078
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "• \nIf you've a URL for the timestamp server, select the New button \n. Type a\nname, and then type the server URL. Specify whether the server requires a \nusername and password, then select OK.",
+          "coordinates": [
+            137.0925750732422,
+            90.6954116821289,
+            536.6278076171875,
+            131.79534912109375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.871,
+          "text": "Set a timestamp server as the default",
+          "coordinates": [
+            69.06742858886719,
+            166.9918212890625,
+            358.221923828125,
+            182.30801391601562
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.861,
+          "text": "To be able to use a timestamp server to timestamp signatures, set it as the default server.",
+          "coordinates": [
+            69.1935043334961,
+            194.68524169921875,
+            511.6341552734375,
+            205.9417266845703
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "1. Open the Preferences dialog box.",
+          "coordinates": [
+            100.6930923461914,
+            216.7091064453125,
+            291.11065673828125,
+            228.6163330078125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.898,
+          "text": "2. Under Categories, select Signatures.",
+          "coordinates": [
+            100.867431640625,
+            239.60382080078125,
+            304.85845947265625,
+            251.4507598876953
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.901,
+          "text": "3. For Document Timestamping, click More.",
+          "coordinates": [
+            100.95278930664062,
+            261.8477783203125,
+            333.32489013671875,
+            272.6090087890625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "4. Select Time Stamp Servers on the left.",
+          "coordinates": [
+            101.02175903320312,
+            283.66357421875,
+            313.8638610839844,
+            294.72235107421875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "image",
+          "confidence": 0.735,
+          "text": "",
+          "coordinates": [
+            428.536376953125,
+            303.525634765625,
+            457.81292724609375,
+            334.4643249511719
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.833,
+          "text": "5. Select the timestamp server, and click the Set Default button",
+          "coordinates": [
+            100.88497161865234,
+            324.68426513671875,
+            424.4250183105469,
+            335.7062683105469
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.851,
+          "text": "6. Select OK to confirm your selection.",
+          "coordinates": [
+            101.28555297851562,
+            346.86383056640625,
+            300.841796875,
+            357.8351745605469
+          ]
+        }
+      ],
+      "element_counts": {
+        "header_image": 1,
+        "text": 8,
+        "paragraph_title": 1,
+        "image": 1
+      }
+    }
+  ]
+}

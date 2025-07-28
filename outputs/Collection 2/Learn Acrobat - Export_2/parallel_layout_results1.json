@@ -1,0 +1,397 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Export_2.pdf",
+  "total_pages": 3,
+  "processing_time": "51.78s",
+  "layout_time_total": "40.01s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.706,
+          "text": "Copy images",
+          "coordinates": [
+            69.67462158203125,
+            93.77452087402344,
+            196.26393127441406,
+            114.27403259277344
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "Use the Select tool to copy and paste individual images from a PDF to the clipboard, another\napplication, or a file.",
+          "coordinates": [
+            68.3851318359375,
+            133.00045776367188,
+            521.4553833007812,
+            159.05386352539062
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.803,
+          "text": "Open the Preferences dialog box if you cannot select an image because of overlapping text.\nSelect Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then",
+          "coordinates": [
+            68.56703186035156,
+            169.96763610839844,
+            516.400146484375,
+            196.3870849609375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.688,
+          "text": "select Preferences. Under Categories, Select General. Then select the Make Select tool select\nimages before text.",
+          "coordinates": [
+            68.85887145996094,
+            200.16073608398438,
+            528.7865600585938,
+            224.9531707763672
+          ]
+        },
+        {
+          "id": 5,
+          "type": "formula",
+          "confidence": 0.607,
+          "text": "",
+          "coordinates": [
+            207.3009033203125,
+            233.05311584472656,
+            229.17715454101562,
+            252.54525756835938
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.614,
+          "text": "1. Using the Select tool \n, do one of the following:",
+          "coordinates": [
+            87.385498046875,
+            234.06494140625,
+            350.7392578125,
+            253.7757568359375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.86,
+          "text": "• \nTo select the entire image, select the image or drag a rectangle around it.",
+          "coordinates": [
+            122.77095794677734,
+            264.0777893066406,
+            500.7740783691406,
+            274.9916687011719
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.903,
+          "text": "• \nTo select a portion of an image, hold the pointer over the image until the cross-\nhair icon \n appears, and then drag a rectangle around the portion.",
+          "coordinates": [
+            122.97032928466797,
+            286.0184631347656,
+            530.0545043945312,
+            315.6502380371094
+          ]
+        },
+        {
+          "id": 9,
+          "type": "formula",
+          "confidence": 0.583,
+          "text": "",
+          "coordinates": [
+            186.93092346191406,
+            298.6462097167969,
+            203.50042724609375,
+            315.2584228515625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.822,
+          "text": "Note: To deselect an image and start over, click outside it.",
+          "coordinates": [
+            105.46112823486328,
+            339.1175842285156,
+            389.8171691894531,
+            350.3159484863281
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "2. Right-click the image and select copy. Once done, you can paste it to a new file or a\nclipboard.",
+          "coordinates": [
+            87.23780059814453,
+            368.889892578125,
+            512.6970825195312,
+            393.4253845214844
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 8,
+        "formula": 2
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.747,
+          "text": "Export objects to separate PDF",
+          "coordinates": [
+            70.56704711914062,
+            93.42108917236328,
+            376.49212646484375,
+            114.12097930908203
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.774,
+          "text": "Using the Edit Object tool, you can save objects into a separate PDF.",
+          "coordinates": [
+            69.02132415771484,
+            133.05892944335938,
+            404.1929931640625,
+            143.9473419189453
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "1. Select All tools > Use print production > Edit object.",
+          "coordinates": [
+            87.26809692382812,
+            155.87570190429688,
+            363.0197448730469,
+            166.80130004882812
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "2. Select the object or objects.",
+          "coordinates": [
+            87.17013549804688,
+            178.1088409423828,
+            243.94061279296875,
+            188.78897094726562
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.877,
+          "text": "3. Right-click the selection, and choose Save Selection As.",
+          "coordinates": [
+            87.01715850830078,
+            199.97813415527344,
+            376.65997314453125,
+            210.74427795410156
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.922,
+          "text": "4. In the Save As dialog, specify where you want to save the file, name the file, and then\nselect Save.",
+          "coordinates": [
+            86.68873596191406,
+            222.0065460205078,
+            523.803955078125,
+            246.95863342285156
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 5
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.767,
+          "text": "Take a snapshot of a page",
+          "coordinates": [
+            69.6710433959961,
+            93.1062240600586,
+            326.34100341796875,
+            113.91090393066406
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "You can use the Snapshot tool to copy all selected content (text, images, or both) to the\nclipboard or another application. Text and images are copied as an image.",
+          "coordinates": [
+            68.35421752929688,
+            132.8911590576172,
+            498.9859313964844,
+            159.3350830078125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "You can use two methods to take a snapshot: the Select or Snapshot tools. Using the Select\ntool \n, draw a rectangle, right-click, and select Take a Snapshot.",
+          "coordinates": [
+            68.45128631591797,
+            170.15457153320312,
+            516.0081787109375,
+            200.9638671875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.641,
+          "text": "To use the Snapshot tool, do the following:",
+          "coordinates": [
+            69.6368408203125,
+            213.20745849609375,
+            281.793212890625,
+            223.8397674560547
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.903,
+          "text": "1.  (Windows) Select the hamburger menu   in the upper left. Then select Undo, Redo &\nmore.",
+          "coordinates": [
+            87.13532257080078,
+            234.5807342529297,
+            518.4503173828125,
+            258.91912841796875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "(macOS) Select Edit in the upper left. Then select Undo, Redo and More",
+          "coordinates": [
+            104.5267562866211,
+            271.6995544433594,
+            456.22723388671875,
+            282.85504150390625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.662,
+          "text": "2. Do one of the following:",
+          "coordinates": [
+            87.46670532226562,
+            293.92071533203125,
+            225.90623474121094,
+            304.76910400390625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nSelect anywhere on the page to capture the entire content displayed on the\nscreen.",
+          "coordinates": [
+            122.9931640625,
+            336.5987854003906,
+            519.0979614257812,
+            361.441162109375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "• \nDrag a rectangle around the text or images or a combination of both.",
+          "coordinates": [
+            122.98853302001953,
+            373.4630126953125,
+            486.9758605957031,
+            385.4436340332031
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.837,
+          "text": "• \nDrag a rectangle within an image to copy just a portion of the image.",
+          "coordinates": [
+            122.99819946289062,
+            395.5615539550781,
+            485.05108642578125,
+            408.1600341796875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "Colors in the selected area are inverted momentarily to highlight the selection.\nThe selection is copied automatically to the clipboard when you release the \nmouse/touchpad button. If a document is open in another application, go to \nthe document, right-click, and select Paste to paste the copied selection \ndirectly into the target document.",
+          "coordinates": [
+            137.19883728027344,
+            417.35284423828125,
+            533.3462524414062,
+            488.511474609375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.741,
+          "text": "Note:",
+          "coordinates": [
+            105.4183120727539,
+            513.2334594726562,
+            137.1009521484375,
+            522.764892578125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.906,
+          "text": "You can save all the images from a PDF. See Export images to another format . This\nfeature isn’t available in Reader.",
+          "coordinates": [
+            104.7179183959961,
+            534.4566650390625,
+            520.4653930664062,
+            560.4899291992188
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 10
+      }
+    }
+  ]
+}

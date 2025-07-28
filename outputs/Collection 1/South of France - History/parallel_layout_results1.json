@@ -1,0 +1,1293 @@
+{
+  "document": "CHALLENGE_1B\\Collection 1\\PDFs\\South of France - History.pdf",
+  "total_pages": 12,
+  "processing_time": "59.08s",
+  "layout_time_total": "97.57s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.81,
+          "text": "A Historical Journey Through the South of France",
+          "coordinates": [
+            69.99658203125,
+            73.60578155517578,
+            325.2996826171875,
+            85.60562896728516
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.786,
+          "text": "Introduction",
+          "coordinates": [
+            70.04379272460938,
+            99.06108856201172,
+            136.67344665527344,
+            108.76870727539062
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "The South of France, renowned for its picturesque landscapes, charming villages, and \nstunning coastline, is also steeped in history. From ancient Roman ruins to medieval \nfortresses and Renaissance architecture, this region oﬀers a fascinating glimpse into the past. \nThis guide will take you through the histories of major cities, famous historical sites, and other\npoints of interest to help you plan an enriching and unforgettable trip.",
+          "coordinates": [
+            69.1531982421875,
+            123.51814270019531,
+            537.6455688476562,
+            204.98513793945312
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.766,
+          "text": "Marseille: The Oldest City in France",
+          "coordinates": [
+            69.74554443359375,
+            73.60020446777344,
+            255.41067504882812,
+            84.94078063964844
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.963,
+          "text": "Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic \nlocation on the Mediterranean coast made it a vital trading port throughout history. The city's\nrich cultural heritage is reflected in its diverse architecture and vibrant atmosphere.",
+          "coordinates": [
+            68.97755432128906,
+            98.31989288330078,
+            537.9859619140625,
+            144.71185302734375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.548,
+          "text": "Key Historical Sites in Marseille",
+          "coordinates": [
+            69.43313598632812,
+            157.6556854248047,
+            228.9181365966797,
+            168.83187866210938
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "• \nOld Port (Vieux-Port): The heart of Marseille, the Old Port has been a bustling harbor\nfor over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and \nmarkets.",
+          "coordinates": [
+            87.09063720703125,
+            182.21376037597656,
+            536.7189331054688,
+            227.7078857421875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.907,
+          "text": "• \nBasilica of Notre-Dame de la Garde: This iconic basilica, perched on a hill \noverlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea.\nBuilt in the 19th century, it is a symbol of the city's maritime heritage.",
+          "coordinates": [
+            87.40029907226562,
+            242.49061584472656,
+            529.6434326171875,
+            288.9981689453125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "• \nFort Saint-Jean: Constructed in the 17th century, this fort guards the entrance to the\nOld Port. It now houses part of the Museum of European and Mediterranean \nCivilizations (MuCEM).",
+          "coordinates": [
+            87.20448303222656,
+            301.7001037597656,
+            526.0515747070312,
+            346.6432189941406
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nLe Panier: The oldest district in Marseille, Le Panier is a maze of narrow streets, \ncolorful buildings, and historic landmarks. It's a great place to explore the city's past\nand enjoy its vibrant culture.",
+          "coordinates": [
+            87.3033218383789,
+            361.8731689453125,
+            525.18603515625,
+            407.51318359375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "• \nChâteau d'If: Commissioned by King Francis I in 1524, this fortress on the Île d'If \nbecame famous as a prison and was immortalized in Alexandre Dumas' novel \"The \nCount of Monte Cristo\"1.",
+          "coordinates": [
+            87.09823608398438,
+            420.44976806640625,
+            522.013427734375,
+            465.50665283203125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "• \nLa Marseillaise: Marseille played a significant role during the French Revolution, and\nthe city's volunteers composed the national anthem of France, \"La Marseillaise\"2.",
+          "coordinates": [
+            87.11653137207031,
+            479.4966125488281,
+            531.038330078125,
+            509.6151428222656
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.764,
+          "text": "Nice: The Jewel of the French Riviera",
+          "coordinates": [
+            69.74102020263672,
+            73.62370300292969,
+            262.0663146972656,
+            84.28684997558594
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "Nice, located on the French Riviera, has been a popular destination for centuries. Its history \ndates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a\nRoman colony and has since evolved into a glamorous resort town.",
+          "coordinates": [
+            69.06143188476562,
+            98.4832534790039,
+            529.1630859375,
+            144.84817504882812
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.58,
+          "text": "Key Historical Sites in Nice",
+          "coordinates": [
+            69.47930145263672,
+            157.76751708984375,
+            204.5457000732422,
+            168.85667419433594
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nCastle Hill (Colline du Château): This hilltop park oﬀers stunning views of Nice and \nthe Mediterranean. It was once the site of a medieval castle, which was destroyed in \nthe 18th century.",
+          "coordinates": [
+            87.0747299194336,
+            182.31582641601562,
+            525.0760498046875,
+            228.57025146484375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "• \nPromenade des Anglais: This famous seaside promenade was built in the 19th century\nand named after the English aristocrats who frequented Nice. It's perfect for a leisurely \nstroll along the coast.",
+          "coordinates": [
+            87.27120208740234,
+            242.68206787109375,
+            538.8956909179688,
+            288.1773986816406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "• \nOld Town (Vieux Nice): The historic center of Nice is a labyrinth of narrow streets, \nbaroque churches, and bustling markets. Don't miss the Cours Saleya market, where\nyou can find fresh produce, flowers, and local delicacies.",
+          "coordinates": [
+            87.27189636230469,
+            301.6252746582031,
+            527.7803955078125,
+            347.6612854003906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nRussian Orthodox Cathedral: Built in the early 20th century, this stunning cathedral\nreflects the influence of Russian aristocrats who vacationed in Nice.",
+          "coordinates": [
+            87.68770599365234,
+            361.7161865234375,
+            527.6358642578125,
+            389.5292053222656
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nCimiez: An ancient Roman settlement, Cimiez is home to the ruins of a Roman \namphitheater and baths, as well as the Monastery of Cimiez, which oﬀers beautiful \ngardens and a museum dedicated to the painter Henri Matisse3.",
+          "coordinates": [
+            87.42633819580078,
+            403.70501708984375,
+            519.5542602539062,
+            449.8233947753906
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nCarnival of Nice: One of the most famous carnivals in France, the Carnival of Nice\ndates back to 1873 and features elaborate parades, floats, and flower battles4.",
+          "coordinates": [
+            87.52481079101562,
+            462.6098937988281,
+            514.3875122070312,
+            491.2743835449219
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.802,
+          "text": "Avignon: The City of Popes",
+          "coordinates": [
+            69.70439910888672,
+            73.61833953857422,
+            211.86953735351562,
+            85.89019775390625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.962,
+          "text": "Avignon, located on the banks of the Rhône River, is best known for its role as the seat of the\npapacy in the 14th century. The city was home to seven popes during this period, leaving a \nlasting legacy of impressive architecture and cultural heritage.",
+          "coordinates": [
+            69.03358459472656,
+            98.40209197998047,
+            532.8335571289062,
+            145.14804077148438
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.639,
+          "text": "Key Historical Sites in Avignon",
+          "coordinates": [
+            69.37555694580078,
+            157.76943969726562,
+            223.99415588378906,
+            169.33026123046875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "• \nPalais des Papes: This massive Gothic palace was the residence of the popes during \ntheir stay in Avignon. It is one of the largest and most important medieval Gothic \nbuildings in Europe.",
+          "coordinates": [
+            87.09701538085938,
+            182.35128784179688,
+            525.8667602539062,
+            229.18736267089844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "• \nPont Saint-Bénézet (Pont d'Avignon): This famous bridge, immortalized in the song \n\"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches \nremain, it is a UNESCO World Heritage site.",
+          "coordinates": [
+            87.23780059814453,
+            242.37937927246094,
+            529.7616577148438,
+            287.7111511230469
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nAvignon Cathedral: Located next to the Palais des Papes, this Romanesque cathedral\ndates back to the 12th century and features a gilded statue of the Virgin Mary.",
+          "coordinates": [
+            87.62843322753906,
+            301.5314025878906,
+            534.3526000976562,
+            330.7774963378906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "• \nPlace de l'Horloge: The main square in Avignon, this lively area is surrounded by \ncafes, restaurants, and historic buildings, including the 19th-century town hall and \nopera house.",
+          "coordinates": [
+            87.68655395507812,
+            344.3776550292969,
+            515.277099609375,
+            389.6576232910156
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nRocher des Doms: This rocky outcrop oﬀers panoramic views of the Rhône River and \nthe surrounding countryside. It has been a strategic site since prehistoric times and \nnow features beautiful gardens5.",
+          "coordinates": [
+            87.39163208007812,
+            403.4082336425781,
+            534.0535888671875,
+            449.0947570800781
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "• \nAvignon Festival: Established in 1947, the Avignon Festival is one of the most \nimportant contemporary performing arts events in the world, attracting artists and \naudiences from around the globe6.",
+          "coordinates": [
+            87.1140365600586,
+            462.5543212890625,
+            520.2999877929688,
+            509.0738830566406
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.779,
+          "text": "Nîmes: The Rome of France",
+          "coordinates": [
+            69.68782043457031,
+            73.66783142089844,
+            214.17481994628906,
+            84.23406982421875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.963,
+          "text": "Nîmes, often referred to as the \"Rome of France,\" boasts some of the best-preserved Roman \narchitecture in the country. The city's history dates back to the Roman Empire, when it was an\nimportant settlement in the province of Gallia Narbonensis.",
+          "coordinates": [
+            68.87340545654297,
+            98.37010955810547,
+            538.7606201171875,
+            144.67945861816406
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.641,
+          "text": "Key Historical Sites in Nîmes",
+          "coordinates": [
+            69.36698150634766,
+            157.67156982421875,
+            214.40431213378906,
+            168.81874084472656
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.916,
+          "text": "• \nArena of Nîmes: This Roman amphitheater, built in the 1st century AD, is one of the \nbest-preserved in the world. It still hosts events, including concerts and bullfights.",
+          "coordinates": [
+            87.2940902709961,
+            182.50550842285156,
+            522.9517211914062,
+            211.61581420898438
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "• \nMaison Carrée: A beautifully preserved Roman temple, the Maison Carrée dates back\nto the 1st century BC. It is one of the best examples of classical Roman architecture.",
+          "coordinates": [
+            87.85723876953125,
+            225.4811248779297,
+            537.0057983398438,
+            254.23072814941406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nPont du Gard: Located just outside Nîmes, this ancient Roman aqueduct is a UNESCO\nWorld Heritage site. It was built in the 1st century AD to transport water to the city.",
+          "coordinates": [
+            88.14789581298828,
+            267.6142272949219,
+            536.153564453125,
+            296.57196044921875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nJardins de la Fontaine: These 18th-century gardens are built around the ruins of a \nRoman sanctuary. They oﬀer a peaceful retreat with beautiful fountains, statues, and \nshaded pathways.",
+          "coordinates": [
+            87.48109436035156,
+            309.5830078125,
+            529.8197631835938,
+            356.2756652832031
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nTour Magne: This ancient Roman tower, part of the city's original fortifications, oﬀers\npanoramic views of Nîmes and the surrounding area7.",
+          "coordinates": [
+            88.03202056884766,
+            369.56524658203125,
+            531.6136474609375,
+            398.5700988769531
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nTemple of Diana: Located in the Jardins de la Fontaine, this Roman temple's exact \npurpose remains a mystery, but it is believed to have been a library or a place of \nworship8.",
+          "coordinates": [
+            87.43197631835938,
+            411.5676574707031,
+            518.3724365234375,
+            457.1592102050781
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.747,
+          "text": "Carcassonne: A Medieval Fortress",
+          "coordinates": [
+            69.80750274658203,
+            73.96430206298828,
+            247.8986358642578,
+            84.17982482910156
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.966,
+          "text": "Carcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval\narchitecture. The city's history dates back to the Roman period, but it is best known for its \nrole in the medieval period as a stronghold during the Albigensian Crusade.",
+          "coordinates": [
+            68.90911865234375,
+            98.2653579711914,
+            539.397705078125,
+            145.13475036621094
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.638,
+          "text": "Key Historical Sites in Carcassonne",
+          "coordinates": [
+            69.38346862792969,
+            158.02633666992188,
+            245.64846801757812,
+            168.8301544189453
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "• \nCité de Carcassonne: This medieval fortress is a UNESCO World Heritage site and one \nof the most impressive examples of medieval architecture in Europe. It features double\nwalls, 52 towers, and a castle.",
+          "coordinates": [
+            87.18782806396484,
+            182.53607177734375,
+            538.9100341796875,
+            228.5856170654297
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "• \nBasilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located \nwithin the fortress, dates back to the 11th century. It is known for its beautiful stained \nglass windows.",
+          "coordinates": [
+            87.29923248291016,
+            242.7328643798828,
+            528.6726684570312,
+            288.082275390625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nChâteau Comtal: This castle, located within the Cité, oﬀers guided tours that provide\ninsight into the history and architecture of Carcassonne.",
+          "coordinates": [
+            87.6292495727539,
+            301.5259704589844,
+            530.1688842773438,
+            330.70050048828125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nPont Vieux: This 14th-century bridge connects the medieval Cité with the lower town.\nIt oﬀers stunning views of the fortress and the surrounding countryside.",
+          "coordinates": [
+            87.80144500732422,
+            344.5869140625,
+            535.2431640625,
+            373.5082702636719
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "• \nInquisition Tower: One of the Roman towers in Carcassonne, it was used during the \nMedieval Inquisition to imprison and torture suspected heretics9.",
+          "coordinates": [
+            87.86546325683594,
+            386.59686279296875,
+            526.39501953125,
+            415.4791564941406
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.923,
+          "text": "• \nHoardings: Carcassonne was the first fortress to use wooden hoardings during sieges,\nallowing defenders to shoot arrows and drop projectiles on attackers below10.",
+          "coordinates": [
+            87.8933334350586,
+            428.5755920410156,
+            533.9360961914062,
+            457.6524658203125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.83,
+          "text": "Toulouse: The Pink City",
+          "coordinates": [
+            69.76103210449219,
+            73.61626434326172,
+            194.44650268554688,
+            85.15485382080078
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "Toulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings,\nis a vibrant city with a rich history. It was an important center during the Roman period and \nlater became a hub of the aerospace industry.",
+          "coordinates": [
+            68.95185089111328,
+            98.2739486694336,
+            529.23486328125,
+            144.7488555908203
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.707,
+          "text": "Key Historical Sites in Toulouse",
+          "coordinates": [
+            69.3248519897461,
+            157.71466064453125,
+            227.7696990966797,
+            168.7536163330078
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "• \nBasilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th \ncenturies, is a UNESCO World Heritage site. It is one of the largest and best-preserved\nRomanesque churches in Europe.",
+          "coordinates": [
+            87.1744613647461,
+            182.49781799316406,
+            533.6625366210938,
+            228.25279235839844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "• \nCapitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive \nbuilding with a neoclassical facade. It has been the seat of municipal power since the\n12th century.",
+          "coordinates": [
+            87.21939849853516,
+            242.7856903076172,
+            528.3093872070312,
+            288.2458190917969
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nJacobins Convent: This Gothic convent, founded in the 13th century, is known for its\nbeautiful cloister and the relics of Saint Thomas Aquinas.",
+          "coordinates": [
+            87.6741943359375,
+            301.53887939453125,
+            524.4841918945312,
+            330.0760803222656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "• \nPont Neuf: Despite its name, which means \"New Bridge,\" this is the oldest bridge in \nToulouse. It was completed in the 17th century and oﬀers picturesque views of the \nGaronne River.",
+          "coordinates": [
+            87.39531707763672,
+            343.431640625,
+            521.4824829101562,
+            388.2333679199219
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.938,
+          "text": "• \nCanal du Midi: A UNESCO World Heritage site, this canal connects the Garonne River\nto the Mediterranean Sea and was a major engineering feat of the 17th century.",
+          "coordinates": [
+            87.52815246582031,
+            402.629638671875,
+            531.9158325195312,
+            431.86749267578125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nAeroscopia Museum: Reflecting Toulouse's role as a center of the aerospace industry,\nthis museum showcases the history of aviation with exhibits including the Concorde \nand Airbus aircraft.",
+          "coordinates": [
+            87.08737182617188,
+            445.7752685546875,
+            532.7703247070312,
+            490.19097900390625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.779,
+          "text": "Arles: A Roman Treasure",
+          "coordinates": [
+            69.79918670654297,
+            73.84220123291016,
+            200.98609924316406,
+            84.188720703125
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque\nmonuments. The city was an important Roman settlement and later became a center of \nChristian pilgrimage.",
+          "coordinates": [
+            69.1767807006836,
+            98.31342315673828,
+            530.6114501953125,
+            145.0429229736328
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.75,
+          "text": "Key Historical Sites in Arles",
+          "coordinates": [
+            69.2953872680664,
+            157.63778686523438,
+            207.79788208007812,
+            168.75677490234375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nArles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used\nfor events such as bullfights and concerts. It is one of the best-preserved Roman \nstructures in France.",
+          "coordinates": [
+            87.03438568115234,
+            182.3821563720703,
+            533.86962890625,
+            227.26019287109375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "• \nChurch of St. Trophime: This Romanesque church, built in the 12th century, is known \nfor its stunning portal and cloister. It was an important stop on the pilgrimage route to\nSantiago de Compostela.",
+          "coordinates": [
+            87.09033966064453,
+            242.4946746826172,
+            535.8021240234375,
+            288.4029541015625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nAlyscamps: This ancient Roman necropolis, located just outside the city walls, was a\nmajor burial site in antiquity. It features a long avenue lined with sarcophagi.",
+          "coordinates": [
+            87.67860412597656,
+            301.5688171386719,
+            526.080810546875,
+            331.1809387207031
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "• \nThermes de Constantin: These Roman baths, built in the 4th century AD, are a \ntestament to the city's importance during the Roman period.",
+          "coordinates": [
+            87.91461944580078,
+            343.5279541015625,
+            496.77154541015625,
+            372.50933837890625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \nVan Gogh's Influence: Arles is also famous for its association with Vincent van Gogh,\nwho created over 300 works of art during his time in the city. The Van Gogh \nFoundation in Arles celebrates his legacy.",
+          "coordinates": [
+            87.57138061523438,
+            385.4668884277344,
+            527.214111328125,
+            431.25885009765625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nCryptoporticus: An underground gallery built by the Romans in the 1st century BC, it\nserved as a foundation for the Forum and is one of the few remaining examples of \nsuch structures.",
+          "coordinates": [
+            87.16336822509766,
+            445.66278076171875,
+            528.1605834960938,
+            490.1583557128906
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.771,
+          "text": "Aix-en-Provence: A City of Art and Culture",
+          "coordinates": [
+            69.7671127319336,
+            73.74810791015625,
+            292.62933349609375,
+            84.73980712890625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, \nvibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is\nreflected in its beautiful buildings and lively atmosphere.",
+          "coordinates": [
+            68.86490631103516,
+            98.4983901977539,
+            535.308837890625,
+            144.73944091796875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.544,
+          "text": "Key Historical Sites in Aix-en-Provence",
+          "coordinates": [
+            69.32591247558594,
+            157.82203674316406,
+            266.3028869628906,
+            168.71087646484375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.525,
+          "text": "Key Historical Sites in Aix-en-Provence",
+          "coordinates": [
+            69.32591247558594,
+            157.82203674316406,
+            266.3028869628906,
+            168.71087646484375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.925,
+          "text": "• \nCours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is \nthe heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere.",
+          "coordinates": [
+            87.31978607177734,
+            182.51307678222656,
+            530.9833374023438,
+            211.67987060546875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.896,
+          "text": "• \nSaint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, \nfeatures a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is\nknown for its beautiful cloister and triptych by Nicolas Froment.",
+          "coordinates": [
+            87.4892807006836,
+            224.57501220703125,
+            537.894775390625,
+            271.0675964355469
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.581,
+          "text": "•\nSaint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries,",
+          "coordinates": [
+            88.2558364868164,
+            224.7718505859375,
+            514.9121704101562,
+            235.4127960205078
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "• \nHôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant\nbuilding with a beautiful clock tower and an ornate facade. The square in front of the \nHôtel de Ville is a lively spot, often hosting markets and events.",
+          "coordinates": [
+            87.5207290649414,
+            284.4698486328125,
+            539.6827392578125,
+            330.2928771972656
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "• \nAtelier Cézanne: The studio of Paul Cézanne, one of the most famous painters \nassociated with Aix-en-Provence, is preserved as a museum. Visitors can see where \nCézanne created many of his masterpieces and gain insight into his artistic process.",
+          "coordinates": [
+            87.7157974243164,
+            343.5052795410156,
+            524.2847900390625,
+            389.7778625488281
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nThermal Springs: Aix-en-Provence was originally founded as a Roman spa town due to\nits thermal springs, which are still in use today at the Thermes Sextius.",
+          "coordinates": [
+            87.42743682861328,
+            402.6986083984375,
+            539.2987670898438,
+            431.6007385253906
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nFestival d'Aix-en-Provence: An annual opera festival held in July, it is one of the most \nprestigious opera festivals in Europe.",
+          "coordinates": [
+            87.65717315673828,
+            445.494140625,
+            530.9384765625,
+            475.16131591796875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 9
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.829,
+          "text": "Montpellier: A University City with Medieval Charm",
+          "coordinates": [
+            69.78271484375,
+            73.57062530517578,
+            340.1282653808594,
+            85.63866424560547
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.963,
+          "text": "Montpellier, founded in the 10th century, is known for its prestigious university and vibrant \ncultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern\narchitecture.",
+          "coordinates": [
+            69.0973129272461,
+            98.53917694091797,
+            535.1749877929688,
+            143.7150115966797
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.796,
+          "text": "Key Historical Sites in Montpellier",
+          "coordinates": [
+            69.32669067382812,
+            157.61245727539062,
+            241.02993774414062,
+            168.92820739746094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "• \nPlace de la Comédie: The central square of Montpellier, this bustling area is \nsurrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to \nstart exploring the city.",
+          "coordinates": [
+            86.98138427734375,
+            182.4665985107422,
+            527.7607421875,
+            228.72557067871094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.52,
+          "text": "• \nPlace de la Comédie: The central square of Montpellier, this bustling area is",
+          "coordinates": [
+            87.29175567626953,
+            182.56483459472656,
+            483.25885009765625,
+            194.50003051757812
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "• \nSaint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its\nimposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.",
+          "coordinates": [
+            87.66757202148438,
+            242.61996459960938,
+            534.3123779296875,
+            271.4551086425781
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nPromenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city \nand features the Arc de Triomphe and the Château d'Eau, a beautiful water tower.",
+          "coordinates": [
+            87.76002502441406,
+            284.76153564453125,
+            534.0050048828125,
+            312.9507751464844
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.908,
+          "text": "• \nMusée Fabre: One of the most important art museums in France, the Musée Fabre \nhouses an extensive collection of European paintings, sculptures, and decorative arts.",
+          "coordinates": [
+            87.97686767578125,
+            326.7434387207031,
+            533.5812377929688,
+            355.327880859375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.916,
+          "text": "• \nUniversity of Montpellier: Founded in 1289, it is one of the oldest universities in the \nworld and has been a center of learning and culture for centuries.",
+          "coordinates": [
+            87.99352264404297,
+            368.5977478027344,
+            522.2607421875,
+            396.8642578125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "• \nJardin des Plantes: Established in 1593, it is the oldest botanical garden in France and\nwas created for the study of medicinal plants.",
+          "coordinates": [
+            87.42648315429688,
+            410.5666809082031,
+            529.876953125,
+            439.3829650878906
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.795,
+          "text": "Perpignan: A Blend of French and Catalan Cultures",
+          "coordinates": [
+            69.66205596923828,
+            73.51972198486328,
+            334.7877197265625,
+            85.29438018798828
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "Perpignan, located near the Spanish border, has a unique blend of French and Catalan \ninfluences. The city was once the capital of the Kingdom of Majorca and has a rich history \nreflected in its architecture and culture.",
+          "coordinates": [
+            69.00589752197266,
+            98.4278564453125,
+            517.587646484375,
+            143.8357696533203
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.732,
+          "text": "Key Historical Sites in Perpignan",
+          "coordinates": [
+            69.31169128417969,
+            157.733642578125,
+            233.36004638671875,
+            169.43081665039062
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "• \nPalace of the Kings of Majorca: This impressive fortress, built in the 13th century, was\nthe residence of the Kings of Majorca. It oﬀers panoramic views of the city and the \nsurrounding countryside.",
+          "coordinates": [
+            87.11963653564453,
+            182.4822998046875,
+            528.9177856445312,
+            228.33645629882812
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "• \nPerpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this \nGothic cathedral was built in the 14th century and features a beautiful cloister and bell\ntower.",
+          "coordinates": [
+            87.35955047607422,
+            242.7683868408203,
+            535.6968994140625,
+            287.2065734863281
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "• \nCastillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of \nPerpignan. It now houses the Casa Pairal Museum, which showcases the history and \nculture of the region.",
+          "coordinates": [
+            87.2894058227539,
+            301.5518798828125,
+            528.0086669921875,
+            347.1803894042969
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nLoge de Mer: This historic building, originally a maritime trading exchange, dates back\nto the 14th century. It is located in the heart of the old town and is a testament to \nPerpignan's rich mercantile history.",
+          "coordinates": [
+            87.36206817626953,
+            360.5897521972656,
+            536.5220336914062,
+            406.8197326660156
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nCampo Santo: One of the largest and oldest cloister cemeteries in France, dating back\nto the 14th century.",
+          "coordinates": [
+            87.53504943847656,
+            419.7937316894531,
+            534.71142578125,
+            449.0044860839844
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nFestival de Perpignan: An annual photojournalism festival, Visa pour l'Image, held in\nPerpignan, attracts photographers and journalists from around the world.",
+          "coordinates": [
+            87.54901885986328,
+            462.4077453613281,
+            528.2427978515625,
+            492.32049560546875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.855,
+          "text": "Conclusion",
+          "coordinates": [
+            70.08192443847656,
+            74.19735717773438,
+            129.1081085205078,
+            83.76376342773438
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.969,
+          "text": "The South of France oﬀers a rich tapestry of history, culture, and architecture that is sure to \ncaptivate any traveler. From the ancient Roman ruins of Nîmes and Arles to the medieval \nfortresses of Carcassonne and Avignon, each city and town has its own unique story to tell. \nWhether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-\nProvence, or the charming squares of Montpellier, you'll find a wealth of historical treasures \nwaiting to be discovered. Use this guide to plan your journey through the South of France and\nimmerse yourself in the fascinating history of this beautiful region.",
+          "coordinates": [
+            68.93775177001953,
+            98.45404815673828,
+            537.9730224609375,
+            213.83566284179688
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 1
+      }
+    }
+  ]
+}

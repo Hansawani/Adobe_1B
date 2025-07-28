@@ -1,0 +1,1741 @@
+{
+  "document": "CHALLENGE_1B\\Collection 1\\PDFs\\South of France - Cities.pdf",
+  "total_pages": 14,
+  "processing_time": "66.59s",
+  "layout_time_total": "115.14s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.769,
+          "text": "Comprehensive Guide to Major Cities in the South of France",
+          "coordinates": [
+            69.83271026611328,
+            73.84748077392578,
+            380.7626953125,
+            85.57103729248047
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.804,
+          "text": "Introduction",
+          "coordinates": [
+            69.8459243774414,
+            99.1062240600586,
+            136.58969116210938,
+            108.75122833251953
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "The South of France, known for its stunning landscapes, Mediterranean coastline, and rich \ncultural heritage, is home to some of the most beautiful and historically significant cities in the\ncountry. This guide provides an in-depth look at the major cities in the South of France, \ndetailing their history, key attractions, cultural highlights, and unique characteristics. Whether \nyou're planning a visit or simply want to learn more about this enchanting region, this guide \nwill oﬀer valuable insights into each city's charm and allure.",
+          "coordinates": [
+            68.94718170166016,
+            123.49295806884766,
+            537.814208984375,
+            220.92654418945312
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.845,
+          "text": "Overview of the Region",
+          "coordinates": [
+            69.92105102539062,
+            73.56099700927734,
+            193.55020141601562,
+            85.073974609375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.976,
+          "text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur, \nOccitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes, \nfrom the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and\nthe rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and \nmild winters, making it a year-round destination. The South of France is also famous for its \ncuisine, wines, and vibrant cultural scene.",
+          "coordinates": [
+            68.67684936523438,
+            98.1734619140625,
+            537.8916015625,
+            195.20664978027344
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.831,
+          "text": "Travel Tips",
+          "coordinates": [
+            69.6553726196289,
+            209.2480010986328,
+            128.7257080078125,
+            220.99124145507812
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "• \nBest Time to Visit: The best time to visit the South of France is during the spring (April\nto June) and fall (September to October) when the weather is pleasant, and the tourist\ncrowds are smaller.",
+          "coordinates": [
+            87.49473571777344,
+            234.3466033935547,
+            537.3215942382812,
+            279.2694396972656
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "• \nTransportation: The region is well-connected by an extensive network of trains, \nbuses, and flights. Renting a car is also a great option for exploring the countryside\nand smaller towns.",
+          "coordinates": [
+            87.27444458007812,
+            293.6133728027344,
+            517.7111206054688,
+            338.36492919921875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nLanguage: While French is the oﬃcial language, English is widely spoken in tourist\nareas. Learning a few basic French phrases can enhance your travel experience.",
+          "coordinates": [
+            87.2491683959961,
+            353.4981689453125,
+            516.6603393554688,
+            383.3480529785156
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 4
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.79,
+          "text": "Marseille: The Oldest City in France",
+          "coordinates": [
+            69.79129028320312,
+            73.42845916748047,
+            254.73765563964844,
+            84.90807342529297
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.744,
+          "text": "History",
+          "coordinates": [
+            69.50074768066406,
+            98.9971694946289,
+            108.8682861328125,
+            110.4251708984375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.975,
+          "text": "Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic \nlocation on the Mediterranean coast made it a vital trading port throughout history. The city's\nrich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Over the \ncenturies, Marseille has been influenced by various cultures, including Greek, Roman, and \nNorth African, making it a melting pot of traditions and customs.",
+          "coordinates": [
+            68.92719268798828,
+            123.31526184082031,
+            537.5579223632812,
+            203.85252380371094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.839,
+          "text": "Key Attractions",
+          "coordinates": [
+            69.52146911621094,
+            216.81637573242188,
+            148.6774444580078,
+            227.83375549316406
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "• \nOld Port (Vieux-Port): The heart of Marseille, the Old Port has been a bustling harbor\nfor over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and \nmarkets.",
+          "coordinates": [
+            87.43206787109375,
+            242.0561981201172,
+            536.5549926757812,
+            286.7015686035156
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nBasilica of Notre-Dame de la Garde: This iconic basilica, perched on a hill \noverlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea.\nBuilt in the 19th century, it is a symbol of the city's maritime heritage.",
+          "coordinates": [
+            87.5167007446289,
+            301.333251953125,
+            530.1000366210938,
+            347.9811096191406
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "• \nMuCEM (Museum of European and Mediterranean Civilizations): This modern \nmuseum explores the cultural history of the Mediterranean region through a variety of \nexhibits and interactive displays.",
+          "coordinates": [
+            87.34406280517578,
+            361.3849792480469,
+            538.4700927734375,
+            406.8360595703125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nLe Panier: The oldest district in Marseille, Le Panier is a maze of narrow streets, \ncolorful buildings, and historic landmarks. It's a great place to explore the city's past\nand enjoy its vibrant culture.",
+          "coordinates": [
+            87.3935317993164,
+            420.7936096191406,
+            524.9405517578125,
+            466.3089904785156
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.842,
+          "text": "Local Experiences",
+          "coordinates": [
+            69.70323181152344,
+            479.60357666015625,
+            162.38815307617188,
+            490.9147033691406
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "• \nBoat Trip to the Calanques: Take a boat trip to the Calanques, a series of stunning \nlimestone cliﬀs and coves along the coast.",
+          "coordinates": [
+            87.76932525634766,
+            504.46087646484375,
+            517.7410278320312,
+            534.1268920898438
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nFish Market at the Old Port: Visit the fish market at the Old Port to experience the\nlocal seafood culture.",
+          "coordinates": [
+            87.8038558959961,
+            547.3496704101562,
+            519.2139892578125,
+            575.2803955078125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "• \nStreet Art in Cours Julien: Explore the vibrant street art scene in the Cours Julien\ndistrict.",
+          "coordinates": [
+            87.50247192382812,
+            589.6526489257812,
+            511.7470397949219,
+            616.575439453125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.844,
+          "text": "Cultural Highlights",
+          "coordinates": [
+            69.68677520751953,
+            631.336181640625,
+            164.95144653320312,
+            643.43359375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "Marseille is known for its vibrant arts scene, with numerous galleries, theaters, and music \nvenues. The city hosts several festivals throughout the year, including the Festival de \nMarseille, which celebrates contemporary dance, theater, and music. Marseille's cuisine is",
+          "coordinates": [
+            68.66814422607422,
+            656.2527465820312,
+            516.1414184570312,
+            703.85009765625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 9
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.901,
+          "text": "also a highlight, with dishes like bouillabaisse (a traditional fish stew) and pastis (an anise-\nflavored aperitif) being local favorites.",
+          "coordinates": [
+            69.13562774658203,
+            73.00276947021484,
+            519.2520141601562,
+            103.21173858642578
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 1
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.792,
+          "text": "Nice: The Jewel of the French Riviera",
+          "coordinates": [
+            69.82501983642578,
+            73.47856903076172,
+            261.56201171875,
+            84.1785888671875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.766,
+          "text": "History",
+          "coordinates": [
+            69.45663452148438,
+            99.06443786621094,
+            108.77545928955078,
+            110.5604476928711
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.972,
+          "text": "Nice, located on the French Riviera, has been a popular destination for centuries. Its history \ndates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a\nRoman colony and has since evolved into a glamorous resort town. In the 19th century, Nice\nbecame a favorite winter retreat for European aristocrats, which contributed to its \ndevelopment as a luxurious destination.",
+          "coordinates": [
+            68.9971923828125,
+            123.27229309082031,
+            529.6561279296875,
+            203.57713317871094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.851,
+          "text": "Key Attractions",
+          "coordinates": [
+            69.5224380493164,
+            216.80136108398438,
+            148.5476531982422,
+            227.73155212402344
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "• \nPromenade des Anglais: This famous seaside promenade, built in the 19th century, is\nperfect for a leisurely stroll along the coast. It oﬀers stunning views of the \nMediterranean and is lined with cafes and hotels.",
+          "coordinates": [
+            87.4503402709961,
+            242.3069305419922,
+            532.6629638671875,
+            287.3089294433594
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.957,
+          "text": "• \nCastle Hill (Colline du Château): This hilltop park oﬀers panoramic views of Nice and\nthe Mediterranean. It was once the site of a medieval castle, which was destroyed in \nthe 18th century.",
+          "coordinates": [
+            87.20553588867188,
+            301.2114562988281,
+            534.560791015625,
+            346.5663757324219
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "• \nOld Town (Vieux Nice): The historic center of Nice is a labyrinth of narrow streets, \nbaroque churches, and bustling markets. Don't miss the Cours Saleya market, where\nyou can find fresh produce, flowers, and local delicacies.",
+          "coordinates": [
+            87.43061065673828,
+            361.2668151855469,
+            528.2208251953125,
+            407.49609375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "• \nMatisse Museum: Dedicated to the works of Henri Matisse, who spent much of his life\nin Nice, this museum features a comprehensive collection of his paintings, sculptures, \nand drawings.",
+          "coordinates": [
+            87.53520965576172,
+            420.2794494628906,
+            537.1170654296875,
+            466.19842529296875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.854,
+          "text": "Hidden Gems",
+          "coordinates": [
+            69.5239486694336,
+            479.75042724609375,
+            140.70681762695312,
+            489.62091064453125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nRussian Orthodox Cathedral: Visit the stunning Russian Orthodox Cathedral, a \nunique architectural gem in Nice.",
+          "coordinates": [
+            87.8898696899414,
+            504.31463623046875,
+            503.6243591308594,
+            534.59814453125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nMarc Chagall National Museum: Explore the works of Marc Chagall at this dedicated\nmuseum.",
+          "coordinates": [
+            87.79104614257812,
+            547.2564086914062,
+            533.0443115234375,
+            575.1717529296875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nParc Phoenix: Discover the botanical wonders at Parc Phoenix, a beautiful garden and\npark.",
+          "coordinates": [
+            87.29637145996094,
+            589.4636840820312,
+            537.663818359375,
+            617.8504638671875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.856,
+          "text": "Cultural Highlights",
+          "coordinates": [
+            69.68750762939453,
+            631.2865600585938,
+            164.91770935058594,
+            643.3582763671875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "Nice is renowned for its vibrant cultural scene, with numerous museums, galleries, and \ntheaters. The city hosts the Nice Carnival in February, one of the largest and oldest carnivals\nin the world. The Nice Jazz Festival, held in July, is another major event that attracts music",
+          "coordinates": [
+            68.66291046142578,
+            656.48779296875,
+            528.3865356445312,
+            703.5430297851562
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 9
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "lovers from around the globe. Nice's cuisine is also a highlight, with dishes like salade niçoise\nand socca (a chickpea flour pancake) being local specialties.",
+          "coordinates": [
+            69.01412200927734,
+            73.1863021850586,
+            532.8109741210938,
+            103.47603607177734
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 1
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.817,
+          "text": "Avignon: The City of Popes",
+          "coordinates": [
+            69.84403228759766,
+            73.47374725341797,
+            211.1571502685547,
+            85.91924285888672
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.733,
+          "text": "History",
+          "coordinates": [
+            69.48880767822266,
+            98.79975128173828,
+            108.83399200439453,
+            110.3613052368164
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.969,
+          "text": "Avignon, located on the banks of the Rhône River, is best known for its role as the seat of the \npapacy in the 14th century. The city was home to seven popes during this period, leaving a \nlasting legacy of impressive architecture and cultural heritage. Avignon's history dates back to\nRoman times, and it has been a significant religious and cultural center for centuries.",
+          "coordinates": [
+            69.24752807617188,
+            123.18885040283203,
+            536.383544921875,
+            186.80496215820312
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.833,
+          "text": "Key Attractions",
+          "coordinates": [
+            69.6659164428711,
+            199.63160705566406,
+            148.60240173339844,
+            210.75775146484375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "• \nPalais des Papes: This massive Gothic palace was the residence of the popes during \ntheir stay in Avignon. It is one of the largest and most important medieval Gothic \nbuildings in Europe.",
+          "coordinates": [
+            87.75922393798828,
+            224.98153686523438,
+            525.5643310546875,
+            271.0012512207031
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "• \nPont Saint-Bénézet (Pont d'Avignon): This famous bridge, immortalized in the song \n\"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches \nremain, it is a UNESCO World Heritage site.",
+          "coordinates": [
+            87.50631713867188,
+            284.2231140136719,
+            529.3015747070312,
+            329.8058166503906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nAvignon Cathedral: Located next to the Palais des Papes, this Romanesque cathedral\ndates back to the 12th century and features a gilded statue of the Virgin Mary.",
+          "coordinates": [
+            87.87518310546875,
+            343.286376953125,
+            534.1447143554688,
+            373.75653076171875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "• \nPlace de l'Horloge: The main square in Avignon, this lively area is surrounded by \ncafes, restaurants, and historic buildings, including the 19th-century town hall and\nopera house.",
+          "coordinates": [
+            87.81880950927734,
+            386.2076110839844,
+            514.3862915039062,
+            432.0493469238281
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.81,
+          "text": "Cultural Activities",
+          "coordinates": [
+            69.63618469238281,
+            445.329345703125,
+            160.39328002929688,
+            456.12103271484375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.914,
+          "text": "• \nOpéra Grand Avignon: Attend a performance at the Opéra Grand Avignon for a\ncultural treat.",
+          "coordinates": [
+            87.58675384521484,
+            470.372314453125,
+            505.03302001953125,
+            497.74786376953125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nArts Scene: Explore the city's vibrant arts scene, with numerous galleries and\nexhibitions.",
+          "coordinates": [
+            87.51350402832031,
+            513.5779418945312,
+            492.37091064453125,
+            540.7625732421875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.851,
+          "text": "Cultural Highlights",
+          "coordinates": [
+            69.73507690429688,
+            555.3161010742188,
+            164.8319091796875,
+            567.5518188476562
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.975,
+          "text": "Avignon is famous for its annual Festival d'Avignon, held in July, which is one of the most \nimportant contemporary performing arts events in the world. The festival features theater,\ndance, and music performances in various historic venues throughout the city. Avignon's \ncuisine is also notable, with local specialties such as truﬄes, olive oil, and wines from the \nsurrounding vineyards.",
+          "coordinates": [
+            68.73519134521484,
+            580.3401489257812,
+            520.5988159179688,
+            660.6640014648438
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.763,
+          "text": "Aix-en-Provence: A City of Art and Culture",
+          "coordinates": [
+            69.84925842285156,
+            73.52130126953125,
+            291.92431640625,
+            84.95296478271484
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.754,
+          "text": "History",
+          "coordinates": [
+            69.60485076904297,
+            99.09807586669922,
+            108.68083953857422,
+            110.3783950805664
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture, \nvibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is\nreflected in its beautiful buildings and lively atmosphere. Aix-en-Provence has been a center \nof art and learning for centuries, attracting artists, writers, and scholars.",
+          "coordinates": [
+            68.99703216552734,
+            123.52597045898438,
+            534.6728515625,
+            186.70037841796875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.842,
+          "text": "Key Attractions",
+          "coordinates": [
+            69.46456909179688,
+            199.76219177246094,
+            148.6705780029297,
+            210.689208984375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nCours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is\nthe heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere.",
+          "coordinates": [
+            87.58622741699219,
+            224.24595642089844,
+            530.3877563476562,
+            254.47393798828125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.919,
+          "text": "• \nSaint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, \nfeatures a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is\nknown for its beautiful cloister and triptych by Nicolas Froment.",
+          "coordinates": [
+            87.7002182006836,
+            267.5335388183594,
+            537.6609497070312,
+            312.8614807128906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "• \nHôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant\nbuilding with a beautiful clock tower and an ornate facade. The square in front of the \nHôtel de Ville is a lively spot, often hosting markets and events.",
+          "coordinates": [
+            87.66753387451172,
+            326.3481750488281,
+            539.14208984375,
+            372.27978515625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.906,
+          "text": "• \nAtelier Cézanne: The studio of Paul Cézanne, one of the most famous painters \nassociated with Aix-en-Provence, is preserved as a museum. Visitors can see where \nCézanne created many of his masterpieces and gain insight into his artistic process.",
+          "coordinates": [
+            87.97876739501953,
+            385.45550537109375,
+            523.4007568359375,
+            431.8790588378906
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.844,
+          "text": "Artistic Heritage",
+          "coordinates": [
+            69.72542572021484,
+            446.19525146484375,
+            153.3053436279297,
+            457.2739562988281
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nWalking Tour: Take a walking tour of sites related to Paul Cézanne, such as the Terrain\ndes Peintres and the Bibémus Quarry.",
+          "coordinates": [
+            87.71929931640625,
+            470.31964111328125,
+            532.9365844726562,
+            499.05029296875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "• \nLocal Markets: Visit the city's famous markets, such as the flower market at Place de\nl'Hôtel de Ville or the food market at Place Richelme.",
+          "coordinates": [
+            87.43968963623047,
+            512.3380737304688,
+            527.4828491210938,
+            540.3412475585938
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.866,
+          "text": "Cultural Highlights",
+          "coordinates": [
+            69.68433380126953,
+            554.3267822265625,
+            164.64569091796875,
+            566.2467651367188
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.973,
+          "text": "Aix-en-Provence is known for its vibrant arts scene, with numerous galleries, theaters, and \nmusic venues. The city hosts several festivals throughout the year, including the Festival d'Aix-\nen-Provence, which features opera and classical music performances. Aix-en-Provence's \ncuisine is also a highlight, with local specialties such as calissons (almond-shaped candies) \nand Provençal dishes made with fresh, local ingredients.",
+          "coordinates": [
+            68.8475112915039,
+            579.5223388671875,
+            538.3164672851562,
+            660.9009399414062
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.818,
+          "text": "Toulouse: The Pink City",
+          "coordinates": [
+            69.8121566772461,
+            73.5149917602539,
+            193.52723693847656,
+            85.05709075927734
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.767,
+          "text": "History",
+          "coordinates": [
+            69.4168930053711,
+            98.86442565917969,
+            108.79329681396484,
+            110.49008178710938
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "Toulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings,\nis a vibrant city with a rich history. It was an important center during the Roman period and \nlater became a hub of the aerospace industry. Toulouse has been a center of learning and \nculture for centuries, with a prestigious university and numerous research institutions.",
+          "coordinates": [
+            69.03717803955078,
+            122.9229736328125,
+            528.8375244140625,
+            186.56932067871094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.849,
+          "text": "Key Attractions",
+          "coordinates": [
+            69.47039794921875,
+            199.70220947265625,
+            148.7100067138672,
+            210.74078369140625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nBasilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th \ncenturies, is a UNESCO World Heritage site. It is one of the largest and best-preserved\nRomanesque churches in Europe.",
+          "coordinates": [
+            87.5500717163086,
+            224.1099090576172,
+            533.4266357421875,
+            271.1351318359375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "• \nCapitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive \nbuilding with a neoclassical facade. It has been the seat of municipal power since the\n12th century.",
+          "coordinates": [
+            87.50228881835938,
+            284.368896484375,
+            528.2216796875,
+            329.8012390136719
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nJacobins Convent: This Gothic convent, founded in the 13th century, is known for its\nbeautiful cloister and the relics of Saint Thomas Aquinas.",
+          "coordinates": [
+            87.77484893798828,
+            343.356201171875,
+            524.43994140625,
+            371.85888671875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "• \nCité de l'Espace: This space-themed science museum features interactive exhibits, a\nplanetarium, and a replica of the Mir space station. It's an engaging and educational \nexperience for visitors of all ages.",
+          "coordinates": [
+            87.77320861816406,
+            385.1532287597656,
+            524.826171875,
+            431.6116027832031
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.851,
+          "text": "Aerospace Industry",
+          "coordinates": [
+            69.59068298339844,
+            446.0099182128906,
+            169.37973022460938,
+            457.29888916015625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.925,
+          "text": "• \nAirbus Factory Tours: Visit the Airbus factory for a fascinating tour of one of the\nworld's leading aircraft manufacturers.",
+          "coordinates": [
+            87.75542449951172,
+            470.23394775390625,
+            501.9006652832031,
+            499.2738342285156
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nAeroscopia Museum: Explore the history of aviation at the Aeroscopia Museum, which\nfeatures a collection of historic aircraft.",
+          "coordinates": [
+            87.3770980834961,
+            512.5534057617188,
+            538.830078125,
+            540.4345703125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.867,
+          "text": "Cultural Highlights",
+          "coordinates": [
+            69.75798797607422,
+            554.3406372070312,
+            164.60621643066406,
+            566.3419799804688
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.694,
+          "text": "Toulouse is renowned for its vibrant cultural scene, with numerous theaters, music venues, \nand festivals. The city hosts the Toulouse International Art Festival, which features",
+          "coordinates": [
+            68.9000015258789,
+            579.5051879882812,
+            524.1209716796875,
+            607.9361572265625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.794,
+          "text": "contemporary art exhibitions and performances. Toulouse's cuisine is also notable, with local\nspecialties such as cassoulet (a hearty bean and meat stew) and foie gras being popular \ndishes.",
+          "coordinates": [
+            68.68653106689453,
+            613.1275024414062,
+            535.9234619140625,
+            659.0787963867188
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 9
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.806,
+          "text": "Montpellier: A University City with Medieval Charm",
+          "coordinates": [
+            69.77075958251953,
+            73.36982727050781,
+            339.5269775390625,
+            85.580810546875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.735,
+          "text": "History",
+          "coordinates": [
+            69.5425033569336,
+            98.95646667480469,
+            108.95697784423828,
+            110.54104614257812
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.971,
+          "text": "Montpellier, founded in the 10th century, is known for its prestigious university and vibrant \ncultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern \narchitecture. Montpellier has been a center of learning and innovation for centuries, attracting\nscholars and students from around the world.",
+          "coordinates": [
+            69.02074432373047,
+            123.46858978271484,
+            537.603515625,
+            185.6691436767578
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.851,
+          "text": "Key Attractions",
+          "coordinates": [
+            69.40274047851562,
+            199.751708984375,
+            148.67657470703125,
+            210.65464782714844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.863,
+          "text": "• \nPlace de la Comédie: The central square of Montpellier, this bustling area is \nsurrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to \nstart exploring the city.",
+          "coordinates": [
+            87.48503112792969,
+            224.03009033203125,
+            527.8893432617188,
+            271.92047119140625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.586,
+          "text": "• \nPlace de la Comédie: The central square of Montpellier, this bustling area is",
+          "coordinates": [
+            87.75289154052734,
+            224.2500762939453,
+            483.1871337890625,
+            236.7088165283203
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nSaint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its\nimposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.",
+          "coordinates": [
+            87.76410675048828,
+            284.3642272949219,
+            534.2755126953125,
+            313.36346435546875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nPromenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city \nand features the Arc de Triomphe and the Château d'Eau, a beautiful water tower.",
+          "coordinates": [
+            87.90562438964844,
+            326.4585876464844,
+            533.762939453125,
+            355.0043029785156
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "• \nMusée Fabre: One of the most important art museums in France, the Musée Fabre \nhouses an extensive collection of European paintings, sculptures, and decorative arts.",
+          "coordinates": [
+            87.99195098876953,
+            368.6661376953125,
+            533.299072265625,
+            396.6139221191406
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.848,
+          "text": "Student Life",
+          "coordinates": [
+            69.58120727539062,
+            410.459228515625,
+            132.28553771972656,
+            420.58160400390625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nUniversity Influence: Highlight the vibrant student life and the influence of the\nuniversity on the city's culture.",
+          "coordinates": [
+            87.76254272460938,
+            435.32611083984375,
+            494.7843017578125,
+            465.1836242675781
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nModern Architecture: Mention modern architectural landmarks like the Antigone\ndistrict or the Pierresvives building.",
+          "coordinates": [
+            87.71981048583984,
+            478.4034729003906,
+            511.9803161621094,
+            507.41351318359375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.864,
+          "text": "Cultural Highlights",
+          "coordinates": [
+            69.5939712524414,
+            520.5355834960938,
+            164.88473510742188,
+            532.7684936523438
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.972,
+          "text": "Montpellier is renowned for its vibrant cultural scene, with numerous theaters, music venues,\nand festivals. The city hosts the Montpellier Dance Festival, which attracts contemporary \ndance companies from around the world. Montpellier's cuisine is also notable, with local \nspecialties such as tielle (a savory pie filled with octopus) and wines from the surrounding \nvineyards.",
+          "coordinates": [
+            68.62210845947266,
+            545.4298095703125,
+            534.889892578125,
+            625.3470458984375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 9
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.772,
+          "text": "Perpignan: A Blend of French and Catalan Cultures",
+          "coordinates": [
+            69.73808288574219,
+            73.3393783569336,
+            334.1509094238281,
+            85.09402465820312
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.713,
+          "text": "History",
+          "coordinates": [
+            69.4825210571289,
+            98.77613067626953,
+            108.84002685546875,
+            110.60688781738281
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.966,
+          "text": "Perpignan, located near the Spanish border, has a unique blend of French and Catalan \ninfluences. The city was once the capital of the Kingdom of Majorca and has a rich history\nreflected in its architecture and culture. Perpignan's strategic location has made it a \ncrossroads of cultures and traditions.",
+          "coordinates": [
+            69.08224487304688,
+            123.2608413696289,
+            516.9720458984375,
+            185.36085510253906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.854,
+          "text": "Key Attractions",
+          "coordinates": [
+            69.41796875,
+            199.67446899414062,
+            148.54336547851562,
+            210.66555786132812
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nPalace of the Kings of Majorca: This impressive fortress, built in the 13th century, was\nthe residence of the Kings of Majorca. It oﬀers panoramic views of the city and the \nsurrounding countryside.",
+          "coordinates": [
+            87.5665283203125,
+            224.14822387695312,
+            528.9906005859375,
+            271.21087646484375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "• \nPerpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this \nGothic cathedral was built in the 14th century and features a beautiful cloister and bell\ntower.",
+          "coordinates": [
+            87.44337463378906,
+            284.1688232421875,
+            535.709716796875,
+            328.9064025878906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "• \nCastillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of \nPerpignan. It now houses the Casa Pairal Museum, which showcases the history and \nculture of the region.",
+          "coordinates": [
+            87.6533432006836,
+            342.9893798828125,
+            527.8067626953125,
+            388.85516357421875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "• \nLoge de Mer: This historic building, originally a maritime trading exchange, dates back\nto the 14th century. It is located in the heart of the old town and is a testament to \nPerpignan's rich mercantile history.",
+          "coordinates": [
+            87.72989654541016,
+            402.2744140625,
+            536.7021484375,
+            449.6407470703125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.847,
+          "text": "Cultural Fusion",
+          "coordinates": [
+            69.62764739990234,
+            462.5701599121094,
+            146.96778869628906,
+            472.6292724609375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nFestivals: Emphasize the blend of French and Catalan cultures in the city's festivals,\ncuisine, and traditions.",
+          "coordinates": [
+            87.87215423583984,
+            487.2822265625,
+            520.0725708007812,
+            515.4518432617188
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nBeaches and Nature: Suggest visiting nearby beaches like Canet-en-Roussillon or \nexploring the Pyrenees mountains.",
+          "coordinates": [
+            87.48925018310547,
+            529.3218994140625,
+            511.4765930175781,
+            558.8002319335938
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.851,
+          "text": "Cultural Highlights",
+          "coordinates": [
+            69.69634246826172,
+            571.2814331054688,
+            165.06167602539062,
+            583.4061279296875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "Perpignan is known for its vibrant cultural scene, with a strong emphasis on Catalan \ntraditions. The city hosts the Guitares au Palais festival, which celebrates guitar music in \nvarious genres. Perpignan's cuisine is also notable, with local specialties such as cargolade\n(grilled snails) and wines from the Roussillon region.",
+          "coordinates": [
+            68.77415466308594,
+            596.4521484375,
+            518.203857421875,
+            660.981201171875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.788,
+          "text": "Arles: A Roman Treasure",
+          "coordinates": [
+            69.94781494140625,
+            73.77396392822266,
+            200.4144744873047,
+            84.1197509765625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.768,
+          "text": "History",
+          "coordinates": [
+            69.599365234375,
+            99.00585174560547,
+            108.8613052368164,
+            110.4260025024414
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.967,
+          "text": "Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque\nmonuments. The city was an important Roman settlement and later became a center of \nChristian pilgrimage. Arles has a rich artistic heritage, having inspired artists such as Vincent \nvan Gogh and Pablo Picasso.",
+          "coordinates": [
+            69.08032989501953,
+            123.1087646484375,
+            529.4879760742188,
+            186.36886596679688
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.853,
+          "text": "Key Attractions",
+          "coordinates": [
+            69.5262680053711,
+            199.62586975097656,
+            148.51856994628906,
+            210.74649047851562
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nArles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used\nfor events such as bullfights and concerts. It is one of the best-preserved Roman \nstructures in France.",
+          "coordinates": [
+            87.7496109008789,
+            224.117919921875,
+            533.8666381835938,
+            269.7124328613281
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "• \nChurch of St. Trophime: This Romanesque church, built in the 12th century, is known \nfor its stunning portal and cloister. It was an important stop on the pilgrimage route to\nSantiago de Compostela.",
+          "coordinates": [
+            87.41946411132812,
+            284.1700439453125,
+            535.6607666015625,
+            330.42791748046875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nAlyscamps: This ancient Roman necropolis, located just outside the city walls, was a\nmajor burial site in antiquity. It features a long avenue lined with sarcophagi.",
+          "coordinates": [
+            87.87237548828125,
+            343.3415222167969,
+            526.0596923828125,
+            372.91754150390625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "• \nThermes de Constantin: These Roman baths, built in the 4th century AD, are a \ntestament to the city's importance during the Roman period.",
+          "coordinates": [
+            88.1407241821289,
+            385.2844543457031,
+            496.3626403808594,
+            414.3777770996094
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.849,
+          "text": "Artistic Influence",
+          "coordinates": [
+            69.7762451171875,
+            427.5793762207031,
+            156.43109130859375,
+            437.9313659667969
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nVincent van Gogh: Include a section on Vincent van Gogh's time in Arles and the\nlocations that inspired his paintings.",
+          "coordinates": [
+            87.65474700927734,
+            453.6275634765625,
+            508.5869445800781,
+            482.37493896484375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nPhotography: Recommend visiting during the Rencontres d'Arles photography festival\nfor a unique cultural experience.",
+          "coordinates": [
+            87.56280517578125,
+            495.2841491699219,
+            537.7463989257812,
+            524.5789184570312
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.859,
+          "text": "Cultural Highlights",
+          "coordinates": [
+            69.67111206054688,
+            537.4579467773438,
+            164.92457580566406,
+            549.4474487304688
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.967,
+          "text": "Arles is known for its vibrant arts scene, with numerous galleries, theaters, and festivals. The \ncity hosts the Rencontres d'Arles, an international photography festival that attracts artists \nand photographers from around the world. Arles' cuisine is also notable, with local specialties\nsuch as bull meat stew and wines from the surrounding vineyards.",
+          "coordinates": [
+            68.65957641601562,
+            562.3556518554688,
+            537.4829711914062,
+            625.34521484375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.761,
+          "text": "Carcassonne: A Medieval Fortress",
+          "coordinates": [
+            69.9375,
+            73.79879760742188,
+            247.30238342285156,
+            84.16497039794922
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.778,
+          "text": "History",
+          "coordinates": [
+            69.46522521972656,
+            99.07398223876953,
+            108.74102783203125,
+            110.50138092041016
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.975,
+          "text": "Carcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval\narchitecture. The city's history dates back to the Roman period, but it is best known for its \nrole in the medieval period as a stronghold during the Albigensian Crusade. Carcassonne's \ndouble-walled fortifications and 52 towers make it one of the most impressive examples of \nmedieval architecture in Europe.",
+          "coordinates": [
+            68.96434783935547,
+            123.24163818359375,
+            539.336669921875,
+            202.8501739501953
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.864,
+          "text": "Key Attractions",
+          "coordinates": [
+            69.50619506835938,
+            216.85205078125,
+            148.47035217285156,
+            227.72161865234375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "• \nCité de Carcassonne: This medieval fortress is a UNESCO World Heritage site and one \nof the most impressive examples of medieval architecture in Europe. It features double\nwalls, 52 towers, and a castle.",
+          "coordinates": [
+            87.4758071899414,
+            242.4052734375,
+            539.426513671875,
+            287.5134582519531
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "• \nBasilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located \nwithin the fortress, dates back to the 11th century. It is known for its beautiful stained \nglass windows.",
+          "coordinates": [
+            87.26094818115234,
+            301.3992614746094,
+            528.264404296875,
+            347.0547180175781
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nChâteau Comtal: This castle, located within the Cité, oﬀers guided tours that provide \ninsight into the history and architecture of Carcassonne.",
+          "coordinates": [
+            87.77981567382812,
+            360.2627258300781,
+            527.9168701171875,
+            389.4427185058594
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.938,
+          "text": "• \nPont Vieux: This 14th-century bridge connects the medieval Cité with the lower town.\nIt oﬀers stunning views of the fortress and the surrounding countryside.",
+          "coordinates": [
+            87.81096649169922,
+            402.47528076171875,
+            533.046630859375,
+            431.573486328125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.871,
+          "text": "Medieval Life",
+          "coordinates": [
+            69.90312957763672,
+            445.4180908203125,
+            139.40585327148438,
+            455.9757385253906
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nReenactments: Provide insights into medieval life in Carcassonne, including\nreenactments and historical tours.",
+          "coordinates": [
+            87.74647521972656,
+            470.4480895996094,
+            483.8132019042969,
+            498.2343444824219
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \nSurrounding Area: Suggest exploring the surrounding Languedoc region, known for its\nvineyards and picturesque villages.",
+          "coordinates": [
+            87.40658569335938,
+            512.4615478515625,
+            537.058837890625,
+            542.0443115234375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.868,
+          "text": "Cultural Highlights",
+          "coordinates": [
+            69.74761962890625,
+            554.3251342773438,
+            164.6538848876953,
+            566.3222045898438
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.97,
+          "text": "Carcassonne is known for its vibrant cultural scene, with numerous festivals and events \nthroughout the year. The city hosts the Festival de Carcassonne, which features music, \ntheater, and dance performances in various historic venues. Carcassonne's cuisine is also \nnotable, with local specialties such as cassoulet (a hearty bean and meat stew) and wines\nfrom the surrounding vineyards.",
+          "coordinates": [
+            68.79383087158203,
+            579.4098510742188,
+            516.0678100585938,
+            660.4258422851562
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.833,
+          "text": "Conclusion",
+          "coordinates": [
+            70.0558090209961,
+            74.13455963134766,
+            129.10440063476562,
+            83.79428100585938
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "The South of France is home to a diverse array of cities, each with its own unique history, \nculture, and attractions. From the ancient Roman ruins of Arles and Nîmes to the medieval \nfortresses of Carcassonne and Avignon, each city oﬀers a glimpse into the rich heritage of the\nregion. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of \nAix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical \ntreasures and cultural experiences waiting to be discovered. Use this guide to plan your \njourney through the South of France and immerse yourself in the fascinating history and \nculture of this beautiful region.",
+          "coordinates": [
+            68.85115814208984,
+            98.36851501464844,
+            534.6443481445312,
+            230.98387145996094
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 1
+      }
+    }
+  ]
+}

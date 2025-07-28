@@ -1,0 +1,1833 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Share_1.pdf",
+  "total_pages": 14,
+  "processing_time": "82.61s",
+  "layout_time_total": "108.37s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "chart",
+          "confidence": 0.751,
+          "text": "",
+          "coordinates": [
+            0.3045186996459961,
+            2.3490850925445557,
+            612.0,
+            788.5123291015625
+          ]
+        }
+      ],
+      "element_counts": {
+        "chart": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.848,
+          "text": "Share",
+          "coordinates": [
+            69.6273193359375,
+            77.57164001464844,
+            131.80149841308594,
+            95.86482238769531
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.97,
+          "text": "You can quickly share a link to a PDF document with others for viewing or commenting. The\ndocument shared as a link opens in any browser on any device. The document is stored \nsecurely in Adobe cloud storage. Recipients get an email with a link, and they can click the \nlink to view and comment on the document in a browser; no sign-in is required.",
+          "coordinates": [
+            68.70726776123047,
+            102.64810180664062,
+            530.7169799804688,
+            181.39816284179688
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.817,
+          "text": "1. Open a PDF in Acrobat or Acrobat Reader and select Share in the upper-right corner.",
+          "coordinates": [
+            86.26799774169922,
+            213.48411560058594,
+            530.848876953125,
+            225.05226135253906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.822,
+          "text": "2. (Optional) Select Link Setting and ensure that People can comment toggle is on.",
+          "coordinates": [
+            86.4212646484375,
+            234.9534454345703,
+            513.365478515625,
+            247.8513641357422
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "3. Select the appropriate option to share the PDF:",
+          "coordinates": [
+            86.72266387939453,
+            258.3701477050781,
+            343.8246765136719,
+            269.93182373046875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nEnter the recipient's name or email and select Invite. You can add a message\nand a deadline.",
+          "coordinates": [
+            122.99961853027344,
+            280.796630859375,
+            525.1654663085938,
+            312.75836181640625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.863,
+          "text": "• \nSelect any third-party App and follow the onscreen instructions.",
+          "coordinates": [
+            122.96823120117188,
+            324.54791259765625,
+            460.27825927734375,
+            336.26739501953125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.862,
+          "text": "• \nSelect Create a link to share and share copied link with recipients.",
+          "coordinates": [
+            122.85445404052734,
+            346.51898193359375,
+            473.6065979003906,
+            358.01055908203125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "• \nSelect Send a link or attach this file to an email and follow the onscreen\ninstructions.",
+          "coordinates": [
+            123.02194213867188,
+            369.5536193847656,
+            506.3149719238281,
+            402.1998291015625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.863,
+          "text": "PDF sharing options",
+          "coordinates": [
+            69.53290557861328,
+            444.67578125,
+            211.08474731445312,
+            460.36431884765625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nAdd name or email to invite - Enter the name or email of the recipient. If necessary,\nadd a message, or Add deadline, and select Invite.",
+          "coordinates": [
+            87.19926452636719,
+            472.3983459472656,
+            526.004638671875,
+            506.3339538574219
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 9
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.973,
+          "text": "",
+          "coordinates": [
+            108.14295196533203,
+            70.93133544921875,
+            538.4322509765625,
+            471.081787109375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.726,
+          "text": "Add name or email to invite",
+          "coordinates": [
+            105.47335815429688,
+            480.7900085449219,
+            225.70021057128906,
+            490.1508483886719
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nCreate a link and share using third-party apps. When you select any available third-\nparty app like Microsoft Outlook, Gmail, WhatsApp, Microsoft Teams, or the default \nemail client, Acrobat creates a shareable link and opens the respective application \nwith the copied link in the message draft. Alternatively, select Create a link to share, \nthen copy and share it with the intended recipients.",
+          "coordinates": [
+            87.46717834472656,
+            501.654296875,
+            529.81640625,
+            602.2024536132812
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "text": 2
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.954,
+          "text": "",
+          "coordinates": [
+            108.1414566040039,
+            70.94158935546875,
+            536.0716552734375,
+            361.0119934082031
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.631,
+          "text": "Share a link to the file",
+          "coordinates": [
+            106.3553466796875,
+            371.296630859375,
+            200.26182556152344,
+            380.9752502441406
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.852,
+          "text": "Send an anonymous or public link in an email",
+          "coordinates": [
+            69.23939514160156,
+            414.6659851074219,
+            386.9553527832031,
+            429.6917419433594
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.908,
+          "text": "An anonymous or public link makes the files accessible to anyone who clicks the link.\nFollow the steps below to create a review link, and share it using your email client.",
+          "coordinates": [
+            104.37903594970703,
+            443.13153076171875,
+            530.5580444335938,
+            477.33819580078125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.757,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.509765625,
+            487.41131591796875,
+            235.68948364257812,
+            498.6112365722656
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.723,
+          "text": "2. Select Share in the upper right. You get either of the two options:",
+          "coordinates": [
+            86.936279296875,
+            509.32733154296875,
+            433.14385986328125,
+            521.231689453125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "• \nGet link: You get this option when a file isn't synced to the cloud. Select Get\nlink to sync the file to the cloud. Once the file is synced, the get link option \nchanges to Copy link. Select Copy link and share it as desired.",
+          "coordinates": [
+            123.32234191894531,
+            532.4378662109375,
+            521.864013671875,
+            589.2529907226562
+          ]
+        },
+        {
+          "id": 8,
+          "type": "image",
+          "confidence": 0.911,
+          "text": "",
+          "coordinates": [
+            144.8871307373047,
+            597.0181274414062,
+            514.744140625,
+            716.3839111328125
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 2,
+        "text": 5,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.913,
+          "text": "• \nCopy link: You get this option if the file is already synced to the cloud or shared\nwith someone.",
+          "coordinates": [
+            141.6756134033203,
+            73.09774780273438,
+            522.0375366210938,
+            102.936767578125
+          ]
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "confidence": 0.908,
+          "text": "",
+          "coordinates": [
+            145.32962036132812,
+            112.23458862304688,
+            509.5500183105469,
+            226.95370483398438
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.648,
+          "text": "3. By default, the People can comment switch is turned on. To share the file only for \nviewing, select Anyone can access and comment in the Share dialog box, and then\nswitch the toggle next to People can comment to turn it off.",
+          "coordinates": [
+            87.50411224365234,
+            240.1190643310547,
+            521.342529296875,
+            296.6284484863281
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.963,
+          "text": "",
+          "coordinates": [
+            108.33467864990234,
+            306.8626403808594,
+            363.1387939453125,
+            604.1724243164062
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.779,
+          "text": "4. The link is created and copied by default. Share the link with other recipients. You can\nalso perform any of the following actions from the right pane:",
+          "coordinates": [
+            86.76473999023438,
+            613.3118896484375,
+            533.760986328125,
+            647.9634399414062
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "• \nAdd People: Select Share, then enter the email addresses of the people you\nwant to share the file with.",
+          "coordinates": [
+            123.3043212890625,
+            658.2598266601562,
+            522.7931518554688,
+            691.3441162109375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "• \nUnshare File: Select Share. The profile icons of the people you have shared the",
+          "coordinates": [
+            122.89251708984375,
+            702.1526489257812,
+            538.7268676757812,
+            715.076416015625
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 5,
+        "image": 2
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "file with are displayed next to Shared with. Select the profile icon to open the\nShared with the dialog box. Select Unshare in the lower-right to stop sharing \nthe file with others.",
+          "coordinates": [
+            140.92501831054688,
+            73.3211898803711,
+            527.0061645507812,
+            128.2767791748047
+          ]
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "confidence": 0.949,
+          "text": "",
+          "coordinates": [
+            75.13672637939453,
+            139.9957275390625,
+            324.35369873046875,
+            437.17889404296875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.831,
+          "text": "Mark up text",
+          "coordinates": [
+            69.5256118774414,
+            461.1141357421875,
+            161.41012573242188,
+            475.74932861328125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.913,
+          "text": "You can use markup tools to give suggestions for formatting the text, structuring a document,\nor for providing other edit suggestions. Markups and comments don’t change the actual text \nin the PDF.",
+          "coordinates": [
+            68.83129119873047,
+            479.48187255859375,
+            534.879150390625,
+            518.980712890625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "Note: The Insert text and Replace selected text commenting tools are now available for \nshared PDF files, making it easier for you to suggest changes and provide feedback directly\nwithin the document.",
+          "coordinates": [
+            68.65643310546875,
+            538.2037963867188,
+            521.4645385742188,
+            579.5390014648438
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 3,
+        "image": 1,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.638,
+          "text": "Highlight, strikethrough, or underline text\ncomment",
+          "coordinates": [
+            70.01535034179688,
+            75.90442657470703,
+            503.4776916503906,
+            125.36625671386719
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.847,
+          "text": "You can use the Select text or Markup tools to add markups to your text.",
+          "coordinates": [
+            69.31481170654297,
+            139.22189331054688,
+            432.0919494628906,
+            152.02996826171875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.863,
+          "text": "Using Select Text Tool",
+          "coordinates": [
+            69.74507141113281,
+            163.77906799316406,
+            227.32275390625,
+            178.00863647460938
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.771,
+          "text": "1. Open a PDF.",
+          "coordinates": [
+            87.792724609375,
+            181.75241088867188,
+            170.8492889404297,
+            193.09031677246094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "2. Use the Select text tool to select the text you want to mark up.",
+          "coordinates": [
+            87.06165313720703,
+            204.30731201171875,
+            417.84686279296875,
+            216.26556396484375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "3. From the markup toolbar that appears, take one of the following actions as desired:",
+          "coordinates": [
+            87.20128631591797,
+            226.12033081054688,
+            523.0355834960938,
+            238.55311584472656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "• \nTo highlight text, select Highlight text",
+          "coordinates": [
+            123.33158111572266,
+            248.322998046875,
+            331.5111999511719,
+            260.892822265625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "• \nTo strikethrough the text, select Strikethrough text",
+          "coordinates": [
+            123.53570556640625,
+            265.6709289550781,
+            417.2054748535156,
+            289.9726257324219
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.877,
+          "text": "• \nTo underline text, select Underline",
+          "coordinates": [
+            123.71039581298828,
+            296.29693603515625,
+            335.9864196777344,
+            316.41119384765625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.769,
+          "text": "• \nTo redact text, select Redact Text & Images",
+          "coordinates": [
+            123.57655334472656,
+            338.3384094238281,
+            384.34429931640625,
+            349.6597900390625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.759,
+          "text": "• \nTo copy the text, select copy with formatting",
+          "coordinates": [
+            124.02739715576172,
+            372.3636474609375,
+            385.7586669921875,
+            384.8879699707031
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.658,
+          "text": "• \nTo edit the selected text, select Edit",
+          "coordinates": [
+            123.95213317871094,
+            411.010986328125,
+            348.373046875,
+            422.4253234863281
+          ]
+        },
+        {
+          "id": 13,
+          "type": "image",
+          "confidence": 0.74,
+          "text": "",
+          "coordinates": [
+            72.46189880371094,
+            429.5056457519531,
+            537.955322265625,
+            552.250732421875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.81,
+          "text": "Using Markup Tool",
+          "coordinates": [
+            70.29244995117188,
+            556.93603515625,
+            204.5457763671875,
+            571.2307739257812
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.802,
+          "text": "1. Open a PDF.",
+          "coordinates": [
+            87.82234954833984,
+            574.58251953125,
+            170.36492919921875,
+            586.1039428710938
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "2. From the Quick actions toolbar, select the Highlight text tool and then move the\ncursor over the text that you want to highlight.",
+          "coordinates": [
+            87.29356384277344,
+            597.095458984375,
+            506.3103332519531,
+            623.79638671875
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "3. With the Highlight tool selected, you can highlight multiple sections of text by just \ndragging over the text. Once you’re done, deselect the tool.",
+          "coordinates": [
+            87.52040100097656,
+            634.3696899414062,
+            513.908203125,
+            660.5648803710938
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "4. To add other markups, expand the Highlight tool menu and select the tool for other\nmarkups.",
+          "coordinates": [
+            87.53274536132812,
+            671.3104858398438,
+            524.94482421875,
+            697.4000854492188
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "text": 14,
+        "paragraph_title": 2,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.686,
+          "text": "",
+          "coordinates": [
+            176.599365234375,
+            148.80215454101562,
+            502.8697814941406,
+            181.0494384765625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.638,
+          "text": "",
+          "coordinates": [
+            176.9997100830078,
+            197.22804260253906,
+            498.8949279785156,
+            229.73336791992188
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.87,
+          "text": "Change the color of the markup",
+          "coordinates": [
+            69.68587493896484,
+            253.74197387695312,
+            291.6997375488281,
+            269.37274169921875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.847,
+          "text": "1. \nClick the markup.",
+          "coordinates": [
+            87.76919555664062,
+            276.357177734375,
+            189.2855224609375,
+            286.68475341796875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "2. From the mini toolbar that appears, select the color icon.",
+          "coordinates": [
+            87.1497802734375,
+            294.3244323730469,
+            367.4568786621094,
+            304.8075256347656
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "3. From the color palette, select a desired color.",
+          "coordinates": [
+            87.29281616210938,
+            312.2574157714844,
+            315.242431640625,
+            322.7645568847656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.824,
+          "text": "The markup appears in the selected color.",
+          "coordinates": [
+            69.86869049072266,
+            333.6300964355469,
+            281.79559326171875,
+            345.1040954589844
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.858,
+          "text": "Delete The Markup",
+          "coordinates": [
+            69.84342193603516,
+            357.9735412597656,
+            205.33407592773438,
+            373.1549377441406
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.815,
+          "text": "To delete the markup, select the markup and then select delete",
+          "coordinates": [
+            69.73472595214844,
+            388.26470947265625,
+            387.4783630371094,
+            400.05706787109375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.865,
+          "text": "Add a comment to the markup",
+          "coordinates": [
+            69.59185028076172,
+            424.0463562011719,
+            284.39337158203125,
+            438.9992370605469
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.821,
+          "text": "1. Double-click the markup.",
+          "coordinates": [
+            87.42145538330078,
+            443.07586669921875,
+            235.2183380126953,
+            453.9879455566406
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.832,
+          "text": "It pops open a comment box.",
+          "coordinates": [
+            104.88737487792969,
+            464.69866943359375,
+            254.99649047851562,
+            476.11553955078125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "2. Alternatively, click (Control-click for macOS) on the markup and select the note icon.\nIt opens a comment box.",
+          "coordinates": [
+            86.95172882080078,
+            486.2466125488281,
+            529.6989135742188,
+            521.163818359375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.86,
+          "text": "3. Type your message in the comment box and then select Post.",
+          "coordinates": [
+            87.6357650756836,
+            531.303955078125,
+            414.747802734375,
+            543.8630981445312
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.82,
+          "text": "Replace text",
+          "coordinates": [
+            70.11492156982422,
+            555.0445556640625,
+            158.59596252441406,
+            569.7964477539062
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.861,
+          "text": "1. From the Quick actions toolbar, select Add comment",
+          "coordinates": [
+            87.20905303955078,
+            580.5859375,
+            374.58074951171875,
+            591.7669677734375
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 12,
+        "paragraph_title": 4
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.905,
+          "text": "",
+          "coordinates": [
+            108.76873016357422,
+            71.22444152832031,
+            311.4349365234375,
+            385.0726318359375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.814,
+          "text": "2. Select Replace selected text.",
+          "coordinates": [
+            87.4149169921875,
+            395.1000671386719,
+            253.37152099609375,
+            407.3832702636719
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.83,
+          "text": "3. Select the text that you want to replace.",
+          "coordinates": [
+            87.62096405029297,
+            417.28948974609375,
+            305.0352783203125,
+            429.45574951171875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.763,
+          "text": "The selected text is crossed out.",
+          "coordinates": [
+            105.18341064453125,
+            439.3853454589844,
+            266.18133544921875,
+            450.2417907714844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.77,
+          "text": "4. Double-click the selected text and then type the text to be inserted or added.",
+          "coordinates": [
+            87.52432250976562,
+            461.0957336425781,
+            490.5706481933594,
+            472.9498596191406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.554,
+          "text": "The insertion caret \n appears. To indicate that a new paragraph should be added,\npress Enter, and then close the pop-up note without adding text. The paragraph \ninsertion caret \n appears.",
+          "coordinates": [
+            98.93695068359375,
+            484.8839416503906,
+            522.0648193359375,
+            538.5301513671875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.809,
+          "text": "Insert text",
+          "coordinates": [
+            69.73565673828125,
+            570.65625,
+            142.96945190429688,
+            582.0499267578125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.923,
+          "text": "1. From the Quick actions toolbar, expand the Comments tool menu and then\nselect Insert text.",
+          "coordinates": [
+            87.58988952636719,
+            586.9840698242188,
+            483.68701171875,
+            613.1084594726562
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "2. Click between the words or characters where you want to insert text.",
+          "coordinates": [
+            86.9651870727539,
+            625.2319946289062,
+            448.57757568359375,
+            636.7297973632812
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "3. Do any of the following:",
+          "coordinates": [
+            87.37864685058594,
+            647.2572631835938,
+            228.20179748535156,
+            659.7352905273438
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.854,
+          "text": "• \nType the text that you want to insert.",
+          "coordinates": [
+            123.20339965820312,
+            690.6060180664062,
+            326.46820068359375,
+            703.3280029296875
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "text": 9,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.759,
+          "text": "• \nTo indicate that a new paragraph should be added, press Enter, and then close\nthe pop-up note without adding text. The paragraph insertion \ncaret \n appears.",
+          "coordinates": [
+            123.20870971679688,
+            72.88839721679688,
+            533.2552490234375,
+            123.992431640625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "• \nTo indicate that a space should be added, press the spacebar, and then close\nthe pop-up note without adding text. The space insertion \ncaret \n appears.",
+          "coordinates": [
+            123.49874877929688,
+            134.21678161621094,
+            523.2158203125,
+            179.20745849609375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.919,
+          "text": "Note: You can also indicate text edits by using the Select tool to select text, right-click the\nselected text, and then choose a text edit annotation.",
+          "coordinates": [
+            68.94441223144531,
+            204.1695556640625,
+            515.83056640625,
+            231.00936889648438
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.851,
+          "text": "Export text edits",
+          "coordinates": [
+            69.27539825439453,
+            255.22509765625,
+            184.61766052246094,
+            269.3533630371094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.978,
+          "text": "In Acrobat for Windows®, you can export text edits directly to the Microsoft® Word document \nthat the PDF is based on to revise the source document. To use this feature, you must use \nPDFMaker to convert your file from Word to PDF. Before you export your text edits, make \nsure that insertion comments use the exact text, including spaces and paragraph returns, that\nyou want to add. If you add extra instructional words (such as “Add the following:”), these \nwords will have to be deleted manually from the Word document.",
+          "coordinates": [
+            68.38236236572266,
+            280.4356994628906,
+            532.1243896484375,
+            365.88433837890625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "In Acrobat on Windows®, you can export text edit comments directly to an Autodesk \nAutoCAD document that the PDF is based on to incorporate your edits. To use this feature, \nyou must use PDFMaker in AutoCAD to create the PDF.",
+          "coordinates": [
+            68.41722869873047,
+            376.6167297363281,
+            522.8244018554688,
+            417.84857177734375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.878,
+          "text": "Share a PDF for review",
+          "coordinates": [
+            69.16437530517578,
+            451.91229248046875,
+            228.24514770507812,
+            464.6507873535156
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.968,
+          "text": "Use the Acrobat  to easily share PDF files for review from your desktop application, the \nAcrobat  web, or Acrobat Reader mobile app. When reviewers click the URL in the email \ninvitation from their computer, they can easily provide their feedback in a browser without\nhaving to sign in or install any additional software.",
+          "coordinates": [
+            68.7319107055664,
+            484.3544616699219,
+            521.5514526367188,
+            540.71533203125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "You can use the service to share PDF files for review in one of the following ways:",
+          "coordinates": [
+            69.04844665527344,
+            557.2427978515625,
+            475.2992248535156,
+            569.2713623046875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.886,
+          "text": "Send an anonymous or public link in an email",
+          "coordinates": [
+            69.01988220214844,
+            607.8361206054688,
+            386.7016906738281,
+            621.8203125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "An anonymous or public link makes the files accessible to anyone who clicks the link. Follow\nthe steps below to create a review link, and share it using your email client.",
+          "coordinates": [
+            68.77891540527344,
+            633.3462524414062,
+            531.5877685546875,
+            659.4697875976562
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.2885971069336,
+            670.3951416015625,
+            235.46617126464844,
+            681.3804321289062
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "2. Select Share in the upper right. You get either of the two options:",
+          "coordinates": [
+            86.73625183105469,
+            692.1582641601562,
+            432.0509033203125,
+            704.8219604492188
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "paragraph_title": 3
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nGet link: You get this option when a file isn't synced to the cloud. Select Get \nlink to sync the file to the cloud. Once the file is synced, the get link option \nchanges to Copy link. Select Copy link and share it as desired.",
+          "coordinates": [
+            123.64051818847656,
+            73.21900177001953,
+            522.0947265625,
+            115.92125701904297
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nCopy link: You get this option if the file is already synced to the cloud or shared\nwith someone.",
+          "coordinates": [
+            123.55481719970703,
+            122.30793762207031,
+            538.787353515625,
+            148.3473663330078
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.579,
+          "text": "Note:",
+          "coordinates": [
+            69.54126739501953,
+            166.82582092285156,
+            101.1572036743164,
+            176.60093688964844
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.557,
+          "text": "• \nThe computer must be connected to the Internet to start a shared review in Acrobat. \n• \nYou can also start a shared review directly from other applications that use PDFMaker,\nsuch as Microsoft Word. Choose Home > Create PDF and share link.",
+          "coordinates": [
+            87.4261245727539,
+            194.12933349609375,
+            536.2302856445312,
+            235.51478576660156
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.574,
+          "text": "• \nThe computer must be connected to the Internet to start a shared review in Acrobat.",
+          "coordinates": [
+            87.20083618164062,
+            194.3554229736328,
+            528.6356201171875,
+            205.94801330566406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.662,
+          "text": "• \nYou can also start a shared review directly from other applications that use PDFMaker,\nsuch as Microsoft Word. Choose Home > Create PDF and share link.",
+          "coordinates": [
+            87.19346618652344,
+            209.9315643310547,
+            536.4574584960938,
+            235.68905639648438
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "3. By default, the People can comment switch is turned on. To share the file only for \nviewing, select Anyone can access and comment in the Share dialog box, and then \nswitch the toggle next to People can comment to turn it off.",
+          "coordinates": [
+            87.42584991455078,
+            253.27841186523438,
+            522.7757568359375,
+            295.3484802246094
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "4. The link is created and copied by default. Share the link with other recipients. You can\nalso perform any of the following actions from the right pane:",
+          "coordinates": [
+            87.57593536376953,
+            305.15325927734375,
+            534.071044921875,
+            332.7772216796875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nAdd People: Select Share, then enter the email addresses of the people you \nwant to share the file with.",
+          "coordinates": [
+            123.6399917602539,
+            342.1954040527344,
+            523.1068115234375,
+            368.3460693359375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.963,
+          "text": "• \nUnshare File: Select Share. The profile icons of the people you have shared the\nfile with are displayed next to Shared with. Select the profile icon to open the \nShared with the dialog box. Select Unshare in the lower-right to stop sharing \nthe file with others.",
+          "coordinates": [
+            123.24650573730469,
+            376.34759521484375,
+            538.4166259765625,
+            431.9456787109375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.859,
+          "text": "Reviewer experience",
+          "coordinates": [
+            69.81725311279297,
+            462.2486267089844,
+            215.9917449951172,
+            476.3717041015625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "The reviewers receive an email invitation with a link to the review PDF. When they select the\nlink or the Open button in the invitation, the PDF opens in a web browser. They can use the \ncommenting tools to add comments to the PDF. They can also use Acrobat Reader or \nAcrobat desktop applications to add comments.",
+          "coordinates": [
+            68.72209930419922,
+            487.2296142578125,
+            529.506591796875,
+            543.572998046875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.848,
+          "text": "Send personalized invitations for commenting",
+          "coordinates": [
+            69.14640808105469,
+            572.587646484375,
+            389.81341552734375,
+            588.0360717773438
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.804,
+          "text": "1. Open the PDF in Acrobat.",
+          "coordinates": [
+            87.56431579589844,
+            590.5548706054688,
+            235.56492614746094,
+            601.4775390625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "2. Select Share.",
+          "coordinates": [
+            87.47868347167969,
+            613.1137084960938,
+            172.96339416503906,
+            623.7977294921875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.613,
+          "text": "Note:",
+          "coordinates": [
+            69.40643310546875,
+            642.571044921875,
+            101.13224792480469,
+            652.821044921875
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.628,
+          "text": "• \nThe computer must be connected to the Internet to start a shared review in Acrobat.",
+          "coordinates": [
+            87.08023834228516,
+            670.4116821289062,
+            527.9401245117188,
+            681.8479614257812
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 14,
+        "paragraph_title": 3
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.612,
+          "text": "3. Enter the email addresses of the recipients or choose from the Address Book.",
+          "coordinates": [
+            87.08284759521484,
+            73.12821197509766,
+            489.6449890136719,
+            84.67379760742188
+          ]
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "confidence": 0.953,
+          "text": "",
+          "coordinates": [
+            107.1379623413086,
+            93.791259765625,
+            574.8511962890625,
+            250.27586364746094
+          ]
+        },
+        {
+          "id": 3,
+          "type": "figure_title",
+          "confidence": 0.715,
+          "text": "",
+          "coordinates": [
+            87.69732666015625,
+            259.2626647949219,
+            326.7579040527344,
+            271.5736999511719
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.863,
+          "text": "Initiate a review using @mention in a PDF",
+          "coordinates": [
+            69.3154296875,
+            302.8236389160156,
+            359.14361572265625,
+            318.3404235839844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.972,
+          "text": "Use @mention in your personal commenting notes to start a review. The @mentions includes \nyour organizational contacts and your synced personal contacts list. The moment you use \n@mention in a PDF file, the review mode gets enabled for you. The reviewers get an invitation\nemail with a link to the Document Cloud shared review file.",
+          "coordinates": [
+            68.80070495605469,
+            328.47906494140625,
+            538.058837890625,
+            384.69036865234375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "confidence": 0.941,
+          "text": "",
+          "coordinates": [
+            72.71759033203125,
+            393.5365905761719,
+            536.1513671875,
+            506.72943115234375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "figure_title",
+          "confidence": 0.605,
+          "text": "",
+          "coordinates": [
+            69.81954956054688,
+            510.6322326660156,
+            216.69784545898438,
+            524.3565063476562
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.557,
+          "text": "Reviewer experience",
+          "coordinates": [
+            69.81954956054688,
+            510.6322326660156,
+            216.69784545898438,
+            524.3565063476562
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "The reviewers receive an email invitation with a link to the review PDF. When they click the \nlink or the Open button in the invitation, the PDF opens in a web browser. They can use the\ncommenting tools to add comments to the PDF. They can also use Acrobat Reader or \nAcrobat desktop applications to add comments.",
+          "coordinates": [
+            68.62384033203125,
+            535.319580078125,
+            525.9340209960938,
+            591.5560302734375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.883,
+          "text": "Hosting a shared review on SharePoint or Office 365",
+          "coordinates": [
+            69.00202941894531,
+            625.634765625,
+            431.93780517578125,
+            640.2852783203125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "Shared reviews are the most collaborative form of review because participants can read and\nreply to the comments of other participants. Comments from participants are stored in a \nrepository on an internal server. Acrobat synchronizes comments at regular intervals to",
+          "coordinates": [
+            68.59384155273438,
+            651.1824340820312,
+            527.7020263671875,
+            693.2435913085938
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "image": 2,
+        "figure_title": 2,
+        "text": 3
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.802,
+          "text": "download all the latest changes. Reviewers are notified of new comments as they are added,\nand they can see and reply to comments made by other reviewers.",
+          "coordinates": [
+            68.88192749023438,
+            73.428955078125,
+            531.0470581054688,
+            101.44485473632812
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.584,
+          "text": "You can use your own internal server location, such as a Microsoft SharePoint",
+          "coordinates": [
+            69.02942657470703,
+            111.09003448486328,
+            458.41802978515625,
+            121.88660430908203
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.51,
+          "text": "You can use your own internal server location, such as a Microsoft SharePoint \nworkspace/subsite, if your recipients work behind a firewall and all have access to a common\nserver.",
+          "coordinates": [
+            69.3764419555664,
+            111.35926818847656,
+            533.34130859375,
+            150.8328857421875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.681,
+          "text": "workspace/subsite, if your recipients work behind a firewall and all have access to a common\nserver.",
+          "coordinates": [
+            69.29534912109375,
+            125.8861312866211,
+            533.3896484375,
+            150.52871704101562
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 4
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.612,
+          "text": "Initiate SharePoint-based shared review\nusing Acrobat",
+          "coordinates": [
+            69.76305389404297,
+            76.1058578491211,
+            484.70953369140625,
+            128.83213806152344
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.582,
+          "text": "Initiate SharePoint-based shared review\nusing Acrobat",
+          "coordinates": [
+            69.76305389404297,
+            76.1058578491211,
+            484.70953369140625,
+            128.83213806152344
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.862,
+          "text": "Before you initiate a review, ensure that you have a SharePoint site and reviewers have write\npermission to your site. Now, to host the shared review, you can do one of the following:",
+          "coordinates": [
+            68.57801055908203,
+            139.36961364746094,
+            530.0725708007812,
+            166.9095916748047
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.902,
+          "text": "• \nLet Acrobat automatically create and configure a document library within your SharePoint \nserver’s subsite.",
+          "coordinates": [
+            87.19539642333984,
+            176.19387817382812,
+            520.3930053710938,
+            200.51121520996094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "• \nChoose a subsite and the respective document library that you may have already created and\nconfigured.",
+          "coordinates": [
+            87.14071655273438,
+            208.1575927734375,
+            533.0459594726562,
+            233.1887664794922
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.901,
+          "text": "1. Open the PDF document in Acrobat, and then select Send for Review in \nthe Tools pane.",
+          "coordinates": [
+            105.3010025024414,
+            240.2838134765625,
+            485.4120788574219,
+            266.834228515625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "2. Select Send for Shared Commenting in the toolbar.",
+          "coordinates": [
+            104.83338165283203,
+            277.34173583984375,
+            384.95880126953125,
+            288.92913818359375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "3. Select Automatically collect comments on my own internal server from the\ndrop-down menu, and then click Next.",
+          "coordinates": [
+            105.1161880493164,
+            299.31817626953125,
+            509.3916015625,
+            326.3549499511719
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "4. Choose SharePoint subsite, and then provide the URL of your subsite on the\nSharePoint server. Click Next.",
+          "coordinates": [
+            105.27445983886719,
+            337.45556640625,
+            506.9631652832031,
+            362.3688659667969
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.541,
+          "text": "Acrobat automatically creates and configures a new document library",
+          "coordinates": [
+            104.92434692382812,
+            374.41107177734375,
+            455.6026611328125,
+            385.9114685058594
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.641,
+          "text": "Acrobat automatically creates and configures a new document library \n(named AcrobatSharedReviews) within your subsite to initiate the shared review.",
+          "coordinates": [
+            104.86578369140625,
+            374.48651123046875,
+            507.0726623535156,
+            400.90362548828125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.565,
+          "text": "(named AcrobatSharedReviews) within your subsite to initiate the shared review.",
+          "coordinates": [
+            105.1593017578125,
+            389.42950439453125,
+            506.59039306640625,
+            401.2933044433594
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.75,
+          "text": "Note: If you don't want Acrobat to automatically configure the review, you can \nclick Choose a subsite to select the document library that you have already created and\nconfigured.",
+          "coordinates": [
+            104.6636734008789,
+            426.6363220214844,
+            535.9119262695312,
+            468.7884826660156
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.919,
+          "text": "5. Choose distribution method and the way the file should appear when it’s sent, and\nthen click Next.",
+          "coordinates": [
+            105.21205139160156,
+            478.32635498046875,
+            534.8897705078125,
+            504.4903869628906
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.913,
+          "text": "6. To save this shared review profile for future use, provide a name and then \nclick Next, or click Next to use the default.",
+          "coordinates": [
+            105.37300872802734,
+            515.1304931640625,
+            492.0456848144531,
+            541.7540893554688
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.923,
+          "text": "7. Enter all your reviewers’ email addresses, make appropriate change to the subject,\nmessage, and review deadline, and then click Send.",
+          "coordinates": [
+            105.04164123535156,
+            552.0786743164062,
+            533.7465209960938,
+            579.7774047851562
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "paragraph_title": 1,
+        "text": 14
+      }
+    }
+  ]
+}

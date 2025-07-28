@@ -1,0 +1,2084 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Share_2.pdf",
+  "total_pages": 16,
+  "processing_time": "126.64s",
+  "layout_time_total": "138.61s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.545,
+          "text": "Add comments while viewing a PDF\ndocument",
+          "coordinates": [
+            69.55982971191406,
+            75.79412841796875,
+            443.2529296875,
+            131.1170196533203
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "You can now use quick actions in a floating toolbar to add comments while viewing a PDF. \nThe following quick actions are available for commenting based on your selection in a PDF:",
+          "coordinates": [
+            68.63896179199219,
+            149.34523010253906,
+            525.384765625,
+            176.8115997314453
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nActions on text selection: When you select text, you can perform actions like Highlight text,\nUnderline text, Strikethrough text, Redact text, Copy text, and Edit a PDF.",
+          "coordinates": [
+            87.20513916015625,
+            186.10299682617188,
+            526.1228637695312,
+            210.91261291503906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.909,
+          "text": "",
+          "coordinates": [
+            107.68929290771484,
+            216.3468780517578,
+            573.8602905273438,
+            358.4815673828125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nActions on image selection: When you select an image you can perform actions like \nAdd sticky note, Highlight image, Redact image, Copy Image, and Edit a PDF.",
+          "coordinates": [
+            88.1849365234375,
+            366.6954345703125,
+            529.6923828125,
+            393.7652282714844
+          ]
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "confidence": 0.971,
+          "text": "",
+          "coordinates": [
+            107.89627075195312,
+            399.1292419433594,
+            574.7188110351562,
+            606.2567749023438
+          ]
+        },
+        {
+          "id": 7,
+          "type": "figure_title",
+          "confidence": 0.774,
+          "text": "",
+          "coordinates": [
+            87.86239624023438,
+            613.3524169921875,
+            530.0899658203125,
+            640.4630126953125
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "text": 3,
+        "image": 2,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "header_image",
+          "confidence": 0.61,
+          "text": "",
+          "coordinates": [
+            70.21490478515625,
+            72.07403564453125,
+            537.2637329101562,
+            152.8528594970703
+          ]
+        },
+        {
+          "id": 2,
+          "type": "doc_title",
+          "confidence": 0.657,
+          "text": "Annotations and drawing markup tools\noverview",
+          "coordinates": [
+            69.89107513427734,
+            200.1643829345703,
+            476.7127990722656,
+            250.50277709960938
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "Note: In Acrobat Reader, complete commenting tools are available only in PDFs\nwith commenting enabled.",
+          "coordinates": [
+            68.31146240234375,
+            271.44696044921875,
+            470.507568359375,
+            297.9283142089844
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "You can use annotation and drawing markup tools to add comments. Comments are notes \nand drawings that communicate ideas or provide feedback for PDFs. You can type a text \nmessage using the Add text comment tool. Alternatively, you can use a drawing tool to add a\nline, circle, or other shape and then type a message in the associated pop-up note. Text-\nediting tools let you add editing marks to indicate changes that you want in the source \ndocument.",
+          "coordinates": [
+            68.65304565429688,
+            308.4776306152344,
+            533.4340209960938,
+            393.00640869140625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.665,
+          "text": "Note:",
+          "coordinates": [
+            69.71231842041016,
+            427.19085693359375,
+            100.3446044921875,
+            436.5973815917969
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "In Acrobat Pro, you can add tags to your comments so that readers with motion or vision\nlimitations can read them using assistive technologies.",
+          "coordinates": [
+            69.13389587402344,
+            455.6994323730469,
+            512.7437133789062,
+            481.3751525878906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.825,
+          "text": "Show annotations and drawing markup tools",
+          "coordinates": [
+            69.2655258178711,
+            519.5531616210938,
+            382.2614440917969,
+            535.250732421875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "Annotations and markup tools don’t appear by default, except when you open a PDF in a\nmanaged review workflow.",
+          "coordinates": [
+            68.91130828857422,
+            545.3768920898438,
+            514.0281372070312,
+            572.4815063476562
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.832,
+          "text": "1. Choose the Comments icon on the right pane to see the added comments.",
+          "coordinates": [
+            86.92729949951172,
+            582.333740234375,
+            479.8369140625,
+            593.7181396484375
+          ]
+        }
+      ],
+      "element_counts": {
+        "header_image": 1,
+        "doc_title": 1,
+        "text": 5,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.903,
+          "text": "",
+          "coordinates": [
+            105.64745330810547,
+            70.99189758300781,
+            576.1932373046875,
+            233.23439025878906
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.601,
+          "text": "Comment pane",
+          "coordinates": [
+            106.37505340576172,
+            235.58956909179688,
+            173.97079467773438,
+            244.49305725097656
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.738,
+          "text": "2. The drawing markup tools are grouped under the Draw freehand tool in the floating\nquick tools menu on the left.",
+          "coordinates": [
+            87.0370101928711,
+            256.0736083984375,
+            529.35888671875,
+            282.36566162109375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.961,
+          "text": "",
+          "coordinates": [
+            70.47470092773438,
+            290.6005859375,
+            538.8027954101562,
+            515.8132934570312
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.697,
+          "text": "Drawing Tools menu",
+          "coordinates": [
+            70.01860046386719,
+            517.6436767578125,
+            161.1525115966797,
+            526.2452392578125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "figure_title",
+          "confidence": 0.645,
+          "text": "",
+          "coordinates": [
+            69.17048645019531,
+            530.7697143554688,
+            382.9170837402344,
+            546.4393310546875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.695,
+          "text": "From the quick tools menu on the left, select the desired annotation to add to the PDF.",
+          "coordinates": [
+            69.51939392089844,
+            556.0436401367188,
+            501.93524169921875,
+            568.2965698242188
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 2,
+        "text": 4,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.751,
+          "text": "",
+          "coordinates": [
+            71.16629028320312,
+            69.49137115478516,
+            531.3035888671875,
+            339.794677734375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "confidence": 0.527,
+          "text": "",
+          "coordinates": [
+            226.27777099609375,
+            72.85237121582031,
+            384.81402587890625,
+            303.7614440917969
+          ]
+        },
+        {
+          "id": 3,
+          "type": "figure_title",
+          "confidence": 0.555,
+          "text": "",
+          "coordinates": [
+            228.74237060546875,
+            294.77813720703125,
+            383.0014953613281,
+            306.6092224121094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "figure_title",
+          "confidence": 0.693,
+          "text": "",
+          "coordinates": [
+            86.8400650024414,
+            361.0868225097656,
+            533.728759765625,
+            402.8262939453125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.517,
+          "text": "Note: After you make an initial comment, the tool changes back to the Select tool so that\nyou can move, resize, or edit your comment. (The Pencil and Highlight Text tools stay \nselected.)",
+          "coordinates": [
+            86.8400650024414,
+            361.0868225097656,
+            533.728759765625,
+            402.8262939453125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.862,
+          "text": "Keep an annotation tool selected",
+          "coordinates": [
+            69.82891082763672,
+            441.9140319824219,
+            300.9897155761719,
+            455.93634033203125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.849,
+          "text": "You can add multiple comments without reselecting the tool.",
+          "coordinates": [
+            69.38032531738281,
+            467.08746337890625,
+            377.3006286621094,
+            479.77581787109375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "1. In the Comment tools, select the tool you want to use (but don’t use it yet).",
+          "coordinates": [
+            87.00746154785156,
+            489.1284484863281,
+            480.3443908691406,
+            501.5552062988281
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "2. Select the Use the same tool until it's unselected icon \n.",
+          "coordinates": [
+            87.38207244873047,
+            509.1113586425781,
+            401.0196838378906,
+            526.8392333984375
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 2,
+        "figure_title": 2,
+        "text": 4,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.658,
+          "text": "Add a comment",
+          "coordinates": [
+            69.48925018310547,
+            92.14160919189453,
+            237.19967651367188,
+            110.83592987060547
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "Note: In Acrobat Reader, complete commenting tools are available only in PDFs that\nhave commenting enabled. PDFs in a review workflow typically include commenting \nrights.",
+          "coordinates": [
+            86.69534301757812,
+            133.30615234375,
+            514.96044921875,
+            175.0362548828125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "The most common type of comment is the Add a comment that resembles a sticky note.\nThe comment appears as a note icon on the page and a pop-up note for your text \nmessage. You can Add a comment anywhere on the page or in the document area.",
+          "coordinates": [
+            86.89786529541016,
+            192.1092529296875,
+            528.8364868164062,
+            233.71835327148438
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.895,
+          "text": "",
+          "coordinates": [
+            71.17400360107422,
+            241.56373596191406,
+            538.9558715820312,
+            425.64630126953125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "confidence": 0.541,
+          "text": "",
+          "coordinates": [
+            84.96805572509766,
+            265.4865417480469,
+            128.561767578125,
+            308.0424499511719
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.762,
+          "text": "Use the Add a comment tool to add a text message in a pop-up note.",
+          "coordinates": [
+            69.73802185058594,
+            429.40643310546875,
+            360.9854736328125,
+            438.6572570800781
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.771,
+          "text": "Steps to add a comment",
+          "coordinates": [
+            69.46171569824219,
+            444.13128662109375,
+            240.61639404296875,
+            457.63726806640625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "1. Select the Add a comment tool \n from the quick tools menu, and select where you\nwant to place the note.",
+          "coordinates": [
+            87.42174530029297,
+            468.55596923828125,
+            532.5900268554688,
+            498.26959228515625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "2. Type text in the pop-up note. You can also use the Select tool \n to copy and paste\ntext from a PDF into the note.",
+          "coordinates": [
+            86.81182861328125,
+            517.4794311523438,
+            528.8964233398438,
+            544.2539672851562
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.851,
+          "text": "Note: If you close the pop-up note, your text remains.",
+          "coordinates": [
+            69.3739242553711,
+            570.5604248046875,
+            338.4559631347656,
+            582.8216552734375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.832,
+          "text": "Edit a comment",
+          "coordinates": [
+            69.7316665649414,
+            616.263916015625,
+            182.02333068847656,
+            628.5234985351562
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "1. Select or double-click the note icon.",
+          "coordinates": [
+            87.23372650146484,
+            634.6856689453125,
+            287.614013671875,
+            645.3324584960938
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "2. (Optional) To change the comment properties, right-click the sticky note icon or from \nthe options menu of the comment, select Properties. Modify the Sticky Note Properties\nas desired and select OK.",
+          "coordinates": [
+            86.3985366821289,
+            656.3032836914062,
+            538.7338256835938,
+            697.1520385742188
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 8,
+        "image": 2
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.855,
+          "text": "Change font size of annotation comments",
+          "coordinates": [
+            69.37996673583984,
+            95.10992431640625,
+            360.2585754394531,
+            108.794189453125
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "1. Open the Preferences dialog box by pressing Ctrl + K (Windows) or command +\nK (macOS).",
+          "coordinates": [
+            87.41273498535156,
+            112.84940338134766,
+            506.925537109375,
+            138.46453857421875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "2. Under Categories, select Commenting.",
+          "coordinates": [
+            87.09777069091797,
+            150.46685791015625,
+            304.8598327636719,
+            162.64895629882812
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.896,
+          "text": "3. Select the Font Size drop-down menu and select the desired font size.",
+          "coordinates": [
+            87.00226593017578,
+            172.44871520996094,
+            456.04986572265625,
+            183.599853515625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "4. Select OK.",
+          "coordinates": [
+            87.66777038574219,
+            194.5382080078125,
+            159.53306579589844,
+            205.01312255859375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "Note: Use the Commenting panel in the Preferences dialog box to change default pop-up\nbehavior, and other settings for creating and viewing comments",
+          "coordinates": [
+            69.33737182617188,
+            217.41143798828125,
+            517.7614135742188,
+            243.6277313232422
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.867,
+          "text": "Copy partial text in a comment",
+          "coordinates": [
+            69.41082763671875,
+            268.2123107910156,
+            285.5646057128906,
+            283.5196838378906
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "1. Click or double-click the note icon.",
+          "coordinates": [
+            87.26921081542969,
+            293.7445068359375,
+            281.9859313964844,
+            304.1274719238281
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "2. Select the text, and then right-click and copy text.",
+          "coordinates": [
+            87.04657745361328,
+            315.6078186035156,
+            353.5099792480469,
+            327.7750549316406
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.852,
+          "text": "Delete a comment",
+          "coordinates": [
+            69.58529663085938,
+            359.8853759765625,
+            201.1199493408203,
+            371.80072021484375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "1. Open the PDF document in Adobe Acrobat. Locate and select the comment icon you\nwant to delete.",
+          "coordinates": [
+            87.18620300292969,
+            377.8741149902344,
+            530.7569580078125,
+            402.8786926269531
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "2. Select Delete   from the contextual menu.",
+          "coordinates": [
+            87.19392395019531,
+            414.60894775390625,
+            311.9384765625,
+            425.31243896484375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 9
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.807,
+          "text": "Add a text comment",
+          "coordinates": [
+            69.69302368164062,
+            92.53682708740234,
+            283.1974182128906,
+            111.06512451171875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.792,
+          "text": "Use the Add text comment tool to type text anywhere on the PDF page.",
+          "coordinates": [
+            68.8085708618164,
+            133.51113891601562,
+            431.95660400390625,
+            145.44798278808594
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "1. From the Quick action toolbar menu, select Add a comment > Add text Comment.",
+          "coordinates": [
+            86.37250518798828,
+            156.41036987304688,
+            522.0740966796875,
+            167.825927734375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.861,
+          "text": "2. Select the location on the page where you want to add the comment.",
+          "coordinates": [
+            86.5526351928711,
+            178.49317932128906,
+            453.59075927734375,
+            190.0422821044922
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "3. (Optional) To change the text formatting, double-click the added text comment, select\nthe text, and then select the font, text alignment, and other text formatting you want.",
+          "coordinates": [
+            86.88732147216797,
+            200.0303192138672,
+            538.0224609375,
+            227.8050994873047
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 4
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.574,
+          "text": "Add reactions to comments on shared files",
+          "coordinates": [
+            69.29620361328125,
+            91.8097152709961,
+            511.7868347167969,
+            111.51840209960938
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.912,
+          "text": "You can now enhance your reviews on shared PDFs in Acrobat by adding reaction emojis to\ncomments, making the reviews more interactive. To add reactions:",
+          "coordinates": [
+            68.57259368896484,
+            133.48289489746094,
+            528.2658081054688,
+            159.95960998535156
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "1. Open a shared PDF and select the Comments panel.",
+          "coordinates": [
+            86.94599914550781,
+            170.17660522460938,
+            369.0890197753906,
+            182.2146759033203
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "2. Select the emoticon icon next to the comment you want to react to. A dialog box\nappears.",
+          "coordinates": [
+            86.89339447021484,
+            192.0245361328125,
+            511.02642822265625,
+            218.98480224609375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "confidence": 0.975,
+          "text": "",
+          "coordinates": [
+            107.43987274169922,
+            229.6115264892578,
+            572.89453125,
+            523.7368774414062
+          ]
+        },
+        {
+          "id": 6,
+          "type": "figure_title",
+          "confidence": 0.836,
+          "text": "",
+          "coordinates": [
+            87.048828125,
+            539.1429443359375,
+            524.5325927734375,
+            564.9597778320312
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 3,
+        "image": 1,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.717,
+          "text": "Add an arrow, or shape",
+          "coordinates": [
+            69.46118927001953,
+            91.97101593017578,
+            313.15338134765625,
+            114.22655487060547
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "Note: In Acrobat Reader , drawing tools are available only in PDFs that have commenting\nenabled. PDFs in a review workflow typically include commenting rights.",
+          "coordinates": [
+            68.6999740600586,
+            133.13145446777344,
+            520.34912109375,
+            161.158203125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.779,
+          "text": "When selecting a drawing tool, consider the effect you want.",
+          "coordinates": [
+            69.04065704345703,
+            169.97816467285156,
+            371.60546875,
+            183.12933349609375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "1. From the Quick action toolbar, select the Draw freehand tool and then select the\ndesired drawing markup tool:",
+          "coordinates": [
+            86.95745086669922,
+            192.5388641357422,
+            511.34405517578125,
+            219.66622924804688
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.543,
+          "text": "• \nThe Line tool \n,  the Arrow tool \n, the Rectangle tool \n,",
+          "coordinates": [
+            122.87814331054688,
+            241.26820373535156,
+            466.91693115234375,
+            265.80108642578125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.507,
+          "text": "and the Circle tool \n lets you create simple shapes.",
+          "coordinates": [
+            140.55894470214844,
+            266.22845458984375,
+            412.178466796875,
+            289.7258605957031
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.922,
+          "text": "• \nThe Cloud tool \n and Polygon tool \n create closed shapes with multiple \nsegments. The Connected lines tool \n creates open shapes with multiple \nsegments.",
+          "coordinates": [
+            123.3992691040039,
+            297.2413330078125,
+            532.341796875,
+            358.52850341796875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "• \nThe Cloud tool \n and Polygon tool \n create closed shapes with multiple \nsegments. The Connected lines tool \n creates open shapes with multiple \nsegments.",
+          "coordinates": [
+            123.27593994140625,
+            297.3014831542969,
+            532.3724975585938,
+            358.52069091796875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.545,
+          "text": "• \nThe Draw tool creates free-form drawings, and the Erase a",
+          "coordinates": [
+            123.2861328125,
+            369.0066223144531,
+            435.8989562988281,
+            380.9490661621094
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.651,
+          "text": "• \nThe Draw tool creates free-form drawings, and the Erase a \ndrawing tool \n removes the drawing markups.",
+          "coordinates": [
+            123.45958709716797,
+            369.1433410644531,
+            435.85284423828125,
+            405.983154296875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "Note: To specify the line width, color, and other properties before you draw, select the \ndesired tool, and press Ctrl+E to open the properties toolbar. Set the desired options in the\nProperties toolbar.",
+          "coordinates": [
+            68.92877960205078,
+            414.96990966796875,
+            522.4658813476562,
+            456.3355712890625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.767,
+          "text": "2. Draw in the PDF:",
+          "coordinates": [
+            87.0997543334961,
+            467.0508728027344,
+            192.41163635253906,
+            477.87353515625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "• \nTo create a cloud or polygon shape, click to create the start point, move the \npointer, and click to create each segment. To finish drawing the shape, click the\nstart point, or right-click and choose Complete from the menu. Double-click to \nend a polygon line.",
+          "coordinates": [
+            123.27794647216797,
+            509.28106689453125,
+            536.6483764648438,
+            566.3550415039062
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "• \nTo draw a line, arrow, or rectangle, either drag across the area where you want \nthe markup to appear, or click twice: once to create the start point and once to\ncreate the end point.",
+          "coordinates": [
+            123.36549377441406,
+            576.3314819335938,
+            535.0496826171875,
+            616.8839721679688
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.923,
+          "text": "• \nTo draw a square or circle, or to draw a line that’s horizontal, vertical, or at a 45°\nangle, press Shift while you draw.",
+          "coordinates": [
+            123.32857513427734,
+            628.2059936523438,
+            538.7819213867188,
+            654.7396850585938
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "• \nTo draw free-form lines using the Draw tool, drag where you want to begin \ndrawing. You can release the mouse button, move the pointer to a new \nlocation, and continue drawing. To erase parts of the drawing, select the Erase",
+          "coordinates": [
+            123.34962463378906,
+            665.2285766601562,
+            532.9253540039062,
+            706.7806396484375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 14
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.863,
+          "text": "a drawing tool \n and drag across the areas of the drawing that you want to\nremove.",
+          "coordinates": [
+            140.92437744140625,
+            75.56234741210938,
+            529.7006225585938,
+            109.4020004272461
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "3. To edit or resize the markup, select it and drag one of the handles to make your \nadjustments.",
+          "coordinates": [
+            87.14636993408203,
+            119.21820831298828,
+            504.30999755859375,
+            146.16441345214844
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "4. To add a note to the markup, select the markup and then select Add note in the quick\naction pop-up menu.",
+          "coordinates": [
+            87.27213287353516,
+            156.27845764160156,
+            535.855224609375,
+            183.83445739746094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.895,
+          "text": "",
+          "coordinates": [
+            107.1170425415039,
+            190.91964721679688,
+            394.35906982421875,
+            382.00885009765625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.757,
+          "text": "Add note to markup",
+          "coordinates": [
+            105.30403137207031,
+            391.3695983886719,
+            193.09860229492188,
+            401.33648681640625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "5. (Optional) Click the close button in the pop-up note. A note icon appears to the right\nof the markup to indicate the presence of text in the pop-up note.",
+          "coordinates": [
+            87.1519546508789,
+            411.9774475097656,
+            529.6029663085938,
+            439.43109130859375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.844,
+          "text": "Note:  To delete a drawing markup, select it and press Delete.",
+          "coordinates": [
+            68.844970703125,
+            464.0321960449219,
+            378.9302978515625,
+            476.78863525390625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "Also, you can edit PDFs with comments online. Our online PDF editor lets you easily add text,\nsticky notes, highlights, drawings, and more to PDFs.",
+          "coordinates": [
+            68.7183609008789,
+            486.2156066894531,
+            535.0338745117188,
+            513.9470825195312
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.825,
+          "text": "Add a line",
+          "coordinates": [
+            69.30409240722656,
+            544.3250122070312,
+            142.66836547851562,
+            557.3392944335938
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "1. From the Quick action toolbar, select the Draw freehand tool.",
+          "coordinates": [
+            87.09503173828125,
+            563.0105590820312,
+            415.6835021972656,
+            575.492431640625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "2. Select the Line tool \n.",
+          "coordinates": [
+            87.1623306274414,
+            590.3388671875,
+            232.07708740234375,
+            605.6593017578125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.896,
+          "text": "3. Drag across the area where you want the line to appear.",
+          "coordinates": [
+            86.99002075195312,
+            616.17578125,
+            385.1375427246094,
+            629.0640869140625
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "image": 1,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.78,
+          "text": "Group and ungroup markups",
+          "coordinates": [
+            69.88504791259766,
+            91.91056823730469,
+            372.6474304199219,
+            116.58981323242188
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "You can group two or more markups so that your comments function as a single comment. \nYou might group markups temporarily to move them to a new location or to modify their \nproperties rather than editing each one individually. Grouping also helps to distinguish your\nmarkups from other reviewers’ markups in a document review.",
+          "coordinates": [
+            69.06048583984375,
+            133.8585968017578,
+            526.2571411132812,
+            189.56492614746094
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.846,
+          "text": "Note: You cannot group text edit markups.",
+          "coordinates": [
+            105.4149398803711,
+            206.85850524902344,
+            322.210693359375,
+            218.83377075195312
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.862,
+          "text": "Group markups",
+          "coordinates": [
+            69.58930969238281,
+            237.02647399902344,
+            180.7655487060547,
+            252.1212921142578
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "1. Using the Select tool or the Hand tool, select a markup.",
+          "coordinates": [
+            87.07763671875,
+            262.4419860839844,
+            382.89483642578125,
+            274.2357482910156
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.877,
+          "text": "2. Ctrl-click/Command-click to select the markups you want to group.",
+          "coordinates": [
+            86.73092651367188,
+            284.47003173828125,
+            443.1576232910156,
+            296.47235107421875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "3. Right-click within the selection, and choose Group.",
+          "coordinates": [
+            87.10026550292969,
+            307.46807861328125,
+            362.4314880371094,
+            319.6036376953125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.864,
+          "text": "Ungroup markups",
+          "coordinates": [
+            69.62342071533203,
+            331.3729248046875,
+            198.86949157714844,
+            346.00738525390625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.856,
+          "text": "1. Right-click the grouped selection, and choose Ungroup.",
+          "coordinates": [
+            87.09785461425781,
+            349.6025390625,
+            386.3548278808594,
+            362.4668884277344
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 6
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.603,
+          "text": "Add comments in a text box or callout",
+          "coordinates": [
+            69.43841552734375,
+            91.48233032226562,
+            466.6514892578125,
+            111.50834655761719
+          ]
+        },
+        {
+          "id": 2,
+          "type": "doc_title",
+          "confidence": 0.565,
+          "text": "Add comments in a text box or callout",
+          "coordinates": [
+            69.43841552734375,
+            91.48233032226562,
+            466.6514892578125,
+            111.50834655761719
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "You can use the Add text comment tool to create a box that contains text. You can position it\nanywhere on the page and adjust it to any size. A text box remains visible on the document \npage; it doesn’t close like a pop-up note.",
+          "coordinates": [
+            68.66146850585938,
+            133.67349243164062,
+            537.1580810546875,
+            175.88162231445312
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "Text font and size are based on the system's default settings.",
+          "coordinates": [
+            69.2258529663086,
+            185.39505004882812,
+            370.2299499511719,
+            197.9839630126953
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.636,
+          "text": "Note:",
+          "coordinates": [
+            105.514892578125,
+            215.0534210205078,
+            137.1326141357422,
+            224.84072875976562
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "You can add comments to Japanese, Chinese, and Korean text with the Text Box tool,\nbut you must have the Asian-language resource files installed. Text boxes allow for \nhorizontal text only.",
+          "coordinates": [
+            104.56868743896484,
+            243.66346740722656,
+            534.4022827148438,
+            283.7767028808594
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.974,
+          "text": "You can use the Text callout tool to create a callout text box. Callout text boxes are handy \nwhen you want to single out—but not obscure—a particular area of a document. Callout text \nboxes have three parts: a text box, a knee line, and an end-point line. You can resize each part\nby dragging a handle. The knee line can be resized in one direction only; horizontal knee lines\ncan be resized horizontally only; vertical knee lines can be resized vertically only. The text box\nexpands vertically as you type so that all text remains visible.",
+          "coordinates": [
+            68.36351776123047,
+            301.5263671875,
+            538.6648559570312,
+            387.5928955078125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "You can move the text box itself or together with the end-point line. The text box moves \naround a stationary anchor point—the arrow on the end-point line—created when you first \nclick in the PDF. You can modify the color and appearance of the text box and add arrows or\nleaders to the end-point line.",
+          "coordinates": [
+            68.43878936767578,
+            397.69329833984375,
+            531.649658203125,
+            452.8502197265625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.845,
+          "text": "Add a comment in text box",
+          "coordinates": [
+            69.2542953491211,
+            485.0825500488281,
+            260.15478515625,
+            497.9569091796875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.855,
+          "text": "1. From the Quick action toolbar, select Add a comment > Add text comment.",
+          "coordinates": [
+            86.66765594482422,
+            503.6689758300781,
+            492.58453369140625,
+            515.00048828125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "2. Select a location in the PDF where you want to add the text.",
+          "coordinates": [
+            87.1328353881836,
+            526.2318115234375,
+            405.2742614746094,
+            537.58837890625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "Enter the text. The text wraps automatically when it reaches the right edge of the box.",
+          "coordinates": [
+            105.14934539794922,
+            561.3763427734375,
+            531.8700561523438,
+            573.768310546875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.854,
+          "text": "Set or change properties for the text box",
+          "coordinates": [
+            69.12520599365234,
+            601.906982421875,
+            350.9099426269531,
+            617.5288696289062
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "Select the Set or change properties for the selected text icon in the quick tools menu to\nchange the text color, alignment, and font attributes for the text.",
+          "coordinates": [
+            68.71277618408203,
+            628.5750732421875,
+            513.0330200195312,
+            654.2649536132812
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.766,
+          "text": "To make further changes to the text box:",
+          "coordinates": [
+            69.45064544677734,
+            665.5481567382812,
+            275.1316833496094,
+            677.2797241210938
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "doc_title": 1,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "• \nUsing the Select tool, select an edge of the text box and then drag a corner to resize it. \nRight-click the text box to open the Text Box Properties and change the border and fill\noptions.",
+          "coordinates": [
+            87.7516860961914,
+            73.54785919189453,
+            536.6640014648438,
+            114.61089324951172
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nDouble-click the text box to edit the text or change the text attributes. Drag across the\ntext to select it, then select options from the quick tools menu.",
+          "coordinates": [
+            87.72808837890625,
+            125.3825912475586,
+            534.8182983398438,
+            151.59364318847656
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.831,
+          "text": "To delete the text box, select it and then press Delete.",
+          "coordinates": [
+            69.43416595458984,
+            162.5224609375,
+            340.4722900390625,
+            174.18795776367188
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "Note: You can also paste a block of text by selecting and copying the text in any\napplication, selecting the Hand tool in Acrobat, and choosing Edit > Paste.",
+          "coordinates": [
+            105.04930114746094,
+            205.32627868652344,
+            505.8041076660156,
+            232.7142333984375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.885,
+          "text": "Add a comment in callout",
+          "coordinates": [
+            69.34867095947266,
+            271.0412292480469,
+            251.5318603515625,
+            284.10211181640625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "1. From the quick tools menu, select Draw freehand > Text callout.",
+          "coordinates": [
+            86.6723403930664,
+            289.4813537597656,
+            432.40545654296875,
+            301.1875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "2. Select once to set the location of the end point, and select again to set the location of \nthe text box.",
+          "coordinates": [
+            86.96082305908203,
+            311.301025390625,
+            531.744873046875,
+            336.7406005859375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "3. (Optional) Select Set or change properties for the selected text icon in the quick \ntools menu, and then select the text's color, alignment, and font attributes.",
+          "coordinates": [
+            87.32292938232422,
+            348.11138916015625,
+            513.3851318359375,
+            375.01104736328125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "4. Enter the text. Text wraps automatically when it reaches the right edge of the box.",
+          "coordinates": [
+            87.00120544433594,
+            385.1724853515625,
+            513.5302734375,
+            397.4684753417969
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.868,
+          "text": "5. (Optional) To make further changes to the text box:",
+          "coordinates": [
+            87.05998229980469,
+            407.261474609375,
+            366.1669921875,
+            419.52374267578125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \nTo resize the callout, select it and drag any of the handles that appear.",
+          "coordinates": [
+            122.82704162597656,
+            450.4765625,
+            491.1343078613281,
+            462.4361267089844
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nTo move the text box, click inside the box and drag it.",
+          "coordinates": [
+            123.37628936767578,
+            472.570556640625,
+            411.0754089355469,
+            484.2050476074219
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \nTo move the entire callout, click either the end-point line or an edge of the text\nbox, and drag it.",
+          "coordinates": [
+            123.21907043457031,
+            494.3935241699219,
+            537.3783569335938,
+            521.5245361328125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.913,
+          "text": "• \nTo change the color, opacity, or line characteristics, right-click and \nchoose Properties, and then select the options you want.",
+          "coordinates": [
+            123.28717803955078,
+            531.3775634765625,
+            472.9350891113281,
+            558.2206420898438
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 13,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.671,
+          "text": "Add comments in a file attachment",
+          "coordinates": [
+            70.45779418945312,
+            90.7625503540039,
+            433.7376403808594,
+            112.19891357421875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.547,
+          "text": "Note: In Acrobat Reader, commenting tools are available only in PDFs that have \ncommenting enabled. PDFs in a review workflow typically include commenting rights.",
+          "coordinates": [
+            105.15995788574219,
+            148.4027099609375,
+            533.9947509765625,
+            176.67767333984375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.581,
+          "text": "Use the Attach file tool to embed a file at a selected location in a PDF, so that the reader can \nopen it for viewing. By adding attachments as a comment, you can reference longer \ndocuments that can’t easily be pasted into a pop-up note or text box. If you move the PDF to\na new location, the embedded file automatically goes with it. To view an attachment, the \nreader must have an application installed that can open the attachment.",
+          "coordinates": [
+            69.26775360107422,
+            192.5585174560547,
+            531.9796752929688,
+            264.0334167480469
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.608,
+          "text": "Note: Be sure to use the Attach file option from the Add Comments tool when \nattaching files for a document review. Document-level file attachments that you attach\nusing the Attach file tool from the  Edit > More menu aren’t tracked with other \ncomments in a review workflow and may cause your attached comments to be lost.",
+          "coordinates": [
+            105.10070037841797,
+            294.6121826171875,
+            537.1395874023438,
+            351.9068298339844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.584,
+          "text": "4. In the File Attachment Properties dialog box, select the settings for the file icon that \nappears in the PDF and select OK.",
+          "coordinates": [
+            88.17684173583984,
+            427.45440673828125,
+            528.6824951171875,
+            454.42352294921875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.617,
+          "text": "The comment attachment also appears in the Attachments tab (in the right navigation\npane) with a page number indicating its location.",
+          "coordinates": [
+            104.63810729980469,
+            471.3154602050781,
+            535.7864379882812,
+            498.4328918457031
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.779,
+          "text": "Note: To delete the attachment, right-click the attached comment icon, and choose \nDelete.",
+          "coordinates": [
+            105.00364685058594,
+            514.0006103515625,
+            524.7197875976562,
+            540.5489501953125
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "text": 6
+      }
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.67,
+          "text": "Commenting preferences",
+          "coordinates": [
+            69.86489868164062,
+            91.61224365234375,
+            334.3191833496094,
+            115.0240707397461
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.904,
+          "text": "Commenting preferences affect both the appearance of and the way you view annotations\nand markups in PDFs.",
+          "coordinates": [
+            68.4847183227539,
+            133.45339965820312,
+            520.7136840820312,
+            160.08950805664062
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "Note: A reviewer can place comments anywhere within the document frame. As a \nresult, sometimes you need to scroll or zoom out to see comments that are located off \nthe page.",
+          "coordinates": [
+            104.52290344238281,
+            177.5678253173828,
+            525.3326416015625,
+            218.97972106933594
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.847,
+          "text": "In the Preferences dialog box under Categories, select Commenting.",
+          "coordinates": [
+            69.07697296142578,
+            235.3602752685547,
+            409.32489013671875,
+            247.91131591796875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.847,
+          "text": "Viewing comments",
+          "coordinates": [
+            69.31221008300781,
+            279.43463134765625,
+            203.9854736328125,
+            294.37335205078125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.794,
+          "text": "Font, Font Size",
+          "coordinates": [
+            69.53865051269531,
+            304.7977600097656,
+            148.97174072265625,
+            314.99224853515625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.957,
+          "text": "In Windows, you can determine the font and the size of text in pop-up notes. In Mac OS, you\ncan select only Large, Medium, or Small settings for the font. This setting applies to all new \nand existing comments.",
+          "coordinates": [
+            68.78659057617188,
+            327.76373291015625,
+            532.2367553710938,
+            368.0896301269531
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.836,
+          "text": "Pop-up Opacity",
+          "coordinates": [
+            69.3741683959961,
+            380.310546875,
+            153.1525115966797,
+            391.4436950683594
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "Determines the opacity of comment pop-up notes in values from 1 to 100. When a pop-up \nnote is open but not selected, an opacity value of 100 makes the note opaque, while lower \nvalues make it more transparent.",
+          "coordinates": [
+            68.7385482788086,
+            401.8397216796875,
+            521.4606323242188,
+            441.27398681640625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.837,
+          "text": "Enable Text Indicators And Tooltips",
+          "coordinates": [
+            69.533447265625,
+            453.6702880859375,
+            257.1401672363281,
+            464.627197265625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "Shows a tool tip when you place the pointer over a comment that includes a pop-up note. \nThe tool tip contains the author name, comment status, and two lines of the text. Selected by\ndefault.",
+          "coordinates": [
+            68.87112426757812,
+            475.839111328125,
+            533.6553344726562,
+            514.52099609375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.843,
+          "text": "Print Notes And Pop-ups",
+          "coordinates": [
+            69.29295349121094,
+            527.8090209960938,
+            200.38894653320312,
+            538.9661865234375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "Specifies that pop-up notes associated with comments, and icons for note, audio, and file \nattachments print exactly as they appear on the page.",
+          "coordinates": [
+            68.73335266113281,
+            549.4515991210938,
+            513.6774291992188,
+            577.0142822265625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "Instead of selecting this option, you can print comment text in various layouts by choosing \nFile > Print, and click Summarize Comments.",
+          "coordinates": [
+            68.8027114868164,
+            586.7101440429688,
+            520.1510009765625,
+            612.699951171875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.577,
+          "text": "Show Lines Connecting Comment Markups To Their Pop-ups On Mouse Rollover",
+          "coordinates": [
+            69.0886459350586,
+            623.5299072265625,
+            491.1766662597656,
+            635.3642578125
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.531,
+          "text": "Show Lines Connecting Comment Markups To Their Pop-ups On Mouse Rollover",
+          "coordinates": [
+            69.0886459350586,
+            623.5299072265625,
+            491.1766662597656,
+            635.3642578125
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "When you place the pointer over a comment markup (such as a highlight or a note icon), the\nshaded connector line appears. Selected by default.",
+          "coordinates": [
+            68.92784881591797,
+            645.275146484375,
+            532.579833984375,
+            671.979736328125
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.757,
+          "text": "Ensure That Pop-ups Are Visible As The Document Is Scrolled",
+          "coordinates": [
+            69.54830932617188,
+            682.5119018554688,
+            389.77911376953125,
+            694.657958984375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 7,
+        "text": 11
+      }
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "As you scroll a PDF, the pop-up notes on a given page shift to stay in view within the\ndocument pane. Selected by default.",
+          "coordinates": [
+            69.20491790771484,
+            73.22427368164062,
+            489.6767272949219,
+            101.53433990478516
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 1
+      }
+    }
+  ]
+}

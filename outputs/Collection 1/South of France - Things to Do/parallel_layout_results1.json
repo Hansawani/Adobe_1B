@@ -1,0 +1,2113 @@
+{
+  "document": "CHALLENGE_1B\\Collection 1\\PDFs\\South of France - Things to Do.pdf",
+  "total_pages": 13,
+  "processing_time": "75.60s",
+  "layout_time_total": "98.92s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.617,
+          "text": "Ultimate Guide to Activities and Things to Do in the South of France",
+          "coordinates": [
+            69.75501251220703,
+            73.67459869384766,
+            421.0486145019531,
+            85.03947448730469
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.783,
+          "text": "Introduction",
+          "coordinates": [
+            69.8696060180664,
+            99.19422912597656,
+            136.6902618408203,
+            108.76030731201172
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "The South of France, with its stunning coastline, picturesque villages, and vibrant cities, oﬀers\na wealth of activities and experiences for travelers. Whether you're seeking adventure, \nrelaxation, or cultural enrichment, this region has something for everyone. This guide will \ntake you through a variety of activities and must-see attractions to help you plan an \nunforgettable trip.",
+          "coordinates": [
+            69.15443420410156,
+            123.56131744384766,
+            534.2623291015625,
+            204.38182067871094
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.823,
+          "text": "Coastal Adventures",
+          "coordinates": [
+            69.64712524414062,
+            73.86417388916016,
+            173.07240295410156,
+            84.13746643066406
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "The South of France is renowned for its beautiful coastline along the Mediterranean Sea. Here\nare some activities to enjoy by the sea:",
+          "coordinates": [
+            69.30248260498047,
+            98.30420684814453,
+            537.1649169921875,
+            127.69310760498047
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.866,
+          "text": "Beach Hopping",
+          "coordinates": [
+            69.9030532836914,
+            140.64407348632812,
+            151.56552124023438,
+            152.72064208984375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "• \nNice: Visit the sandy shores and enjoy the vibrant Promenade des Anglais.",
+          "coordinates": [
+            87.53997039794922,
+            165.35377502441406,
+            477.154052734375,
+            177.87315368652344
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nAntibes: Relax on the pebbled beaches and explore the charming old town.",
+          "coordinates": [
+            87.33345031738281,
+            191.31771850585938,
+            485.67864990234375,
+            203.315185546875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "• \nSaint-Tropez: Experience the exclusive beach clubs and glamorous atmosphere.",
+          "coordinates": [
+            87.58879852294922,
+            216.41282653808594,
+            507.5791320800781,
+            228.54754638671875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nMarseille to Cassis: Explore the stunning limestone cliﬀs and hidden coves of \nCalanques National Park.",
+          "coordinates": [
+            87.35161590576172,
+            241.22457885742188,
+            496.0263671875,
+            269.6521911621094
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nÎles d'Hyères: Discover pristine beaches and excellent snorkeling opportunities on\nislands like Porquerolles and Port-Cros.",
+          "coordinates": [
+            87.51414489746094,
+            283.1556701660156,
+            518.8356323242188,
+            311.8028259277344
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nCannes: Enjoy the sandy beaches and luxury beach clubs along the Boulevard de la\nCroisette.",
+          "coordinates": [
+            87.84880828857422,
+            326.6138916015625,
+            522.8992919921875,
+            354.0195007324219
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nMenton: Visit the serene beaches and beautiful gardens in this charming town near\nthe Italian border.",
+          "coordinates": [
+            88.10749816894531,
+            368.5501403808594,
+            521.6434326171875,
+            395.8075256347656
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.873,
+          "text": "Water Sports",
+          "coordinates": [
+            69.66243743896484,
+            410.8905029296875,
+            140.04493713378906,
+            422.0671081542969
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "• \nCannes, Nice, and Saint-Tropez: Try jet skiing or parasailing for a thrill.",
+          "coordinates": [
+            87.55056762695312,
+            435.4674072265625,
+            461.40289306640625,
+            447.9602355957031
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nToulon: Dive into the underwater world with scuba diving excursions to explore \nwrecks.",
+          "coordinates": [
+            87.64842224121094,
+            461.456787109375,
+            506.5301208496094,
+            488.5204772949219
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.849,
+          "text": "• \nCerbère-Banyuls: Visit the marine reserve for an unforgettable diving experience.",
+          "coordinates": [
+            87.72750091552734,
+            503.4201965332031,
+            515.0783081054688,
+            515.3241577148438
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nMediterranean Coast: Charter a yacht or join a sailing tour to explore the coastline\nand nearby islands.",
+          "coordinates": [
+            87.44758605957031,
+            528.5718383789062,
+            520.648681640625,
+            556.4627685546875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "• \nMarseille: Go windsurfing or kitesurfing in the windy bays.",
+          "coordinates": [
+            87.42897033691406,
+            570.2976684570312,
+            400.9570007324219,
+            582.8650512695312
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "• \nPort Grimaud: Rent a paddleboard and explore the canals of this picturesque village.",
+          "coordinates": [
+            87.13761901855469,
+            596.1849975585938,
+            531.4761352539062,
+            608.5193481445312
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "• \nLa Ciotat: Try snorkeling in the clear waters around the Île Verte.",
+          "coordinates": [
+            87.42411804199219,
+            621.3329467773438,
+            429.9466857910156,
+            633.4991455078125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.836,
+          "text": "Cultural Experiences",
+          "coordinates": [
+            69.6313705444336,
+            73.66499328613281,
+            178.880859375,
+            85.1336441040039
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "The South of France is rich in history and culture. Here are some activities to immerse\nyourself in the region's heritage:",
+          "coordinates": [
+            69.14518737792969,
+            98.5146255493164,
+            496.6378479003906,
+            128.2665252685547
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.862,
+          "text": "Art and Museums",
+          "coordinates": [
+            69.6584243774414,
+            140.58157348632812,
+            164.16297912597656,
+            150.70115661621094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nNice: Visit the Musée Matisse, dedicated to the works of Henri Matisse.",
+          "coordinates": [
+            87.44884490966797,
+            165.47955322265625,
+            461.0652160644531,
+            176.4496307373047
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "• \nAntibes: Explore the Musée Picasso, housed in the Château Grimaldi.",
+          "coordinates": [
+            87.39936828613281,
+            191.5244903564453,
+            453.5067138671875,
+            202.81948852539062
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nSaint-Paul-de-Vence: Discover modern art at the Fondation Maeght.",
+          "coordinates": [
+            87.51649475097656,
+            216.62033081054688,
+            453.23492431640625,
+            227.95663452148438
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nAix-en-Provence: Visit the Atelier Cézanne, the studio of the famous painter Paul \nCézanne.",
+          "coordinates": [
+            87.31831359863281,
+            241.56935119628906,
+            513.7623901367188,
+            268.8600158691406
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nArles: Explore the Fondation Vincent van Gogh, showcasing works inspired by the\nartist.",
+          "coordinates": [
+            87.25735473632812,
+            283.4884338378906,
+            517.9961547851562,
+            311.24920654296875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nMarseille: Visit the MuCEM (Museum of European and Mediterranean Civilizations) \nfor a deep dive into the region's history.",
+          "coordinates": [
+            87.85729217529297,
+            326.4341125488281,
+            525.2463989257812,
+            356.2311706542969
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nToulouse: Discover the Musée des Augustins, a fine arts museum housed in a former\nconvent.",
+          "coordinates": [
+            88.09337615966797,
+            368.4893798828125,
+            530.180419921875,
+            395.7014465332031
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.873,
+          "text": "Historical Sites",
+          "coordinates": [
+            69.85559844970703,
+            410.75537109375,
+            149.46165466308594,
+            420.5946044921875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "• \nNîmes: Walk across the ancient Roman aqueduct, Pont du Gard.",
+          "coordinates": [
+            87.73016357421875,
+            435.6262512207031,
+            428.530029296875,
+            446.8258972167969
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "• \nAvignon: Explore the largest Gothic palace in Europe, Palais des Papes.",
+          "coordinates": [
+            87.63955688476562,
+            461.6307678222656,
+            462.24066162109375,
+            473.84490966796875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nCarcassonne: Wander through the medieval citadel with its double walls and 52\ntowers.",
+          "coordinates": [
+            87.77757263183594,
+            486.5152282714844,
+            507.08441162109375,
+            514.0774536132812
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nArles: Visit the Roman amphitheater and ancient theater.",
+          "coordinates": [
+            87.3564453125,
+            528.6070556640625,
+            392.9535217285156,
+            539.8052978515625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "• \nOrange: Explore the well-preserved Roman theater and triumphal arch.",
+          "coordinates": [
+            87.47575378417969,
+            553.2756958007812,
+            466.09344482421875,
+            565.8252563476562
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "• \nAigues-Mortes: Discover the medieval walled town and its salt marshes.",
+          "coordinates": [
+            87.4001693725586,
+            579.43212890625,
+            469.97039794921875,
+            591.2897338867188
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nGrasse: Visit the perfume factories and learn about the history of fragrance\nproduction.",
+          "coordinates": [
+            87.43529510498047,
+            604.3477783203125,
+            481.1138610839844,
+            633.22265625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.817,
+          "text": "Outdoor Activities",
+          "coordinates": [
+            69.82111358642578,
+            73.82373809814453,
+            167.16978454589844,
+            84.06697082519531
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "The diverse landscapes of the South of France oﬀer plenty of opportunities for outdoor\nadventures:",
+          "coordinates": [
+            69.34307861328125,
+            98.31573486328125,
+            504.8232727050781,
+            126.23419189453125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.866,
+          "text": "Hiking and Biking",
+          "coordinates": [
+            69.55146026611328,
+            140.25784301757812,
+            163.8165283203125,
+            152.96751403808594
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nVerdon Gorge: Known as the \"Grand Canyon of Europe,\" oﬀering spectacular hiking\ntrails.",
+          "coordinates": [
+            87.57550048828125,
+            165.2931365966797,
+            526.4883422851562,
+            193.37551879882812
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "• \nLuberon Regional Park: Explore picturesque villages and rolling hills, famous for \nlavender fields and vineyards.",
+          "coordinates": [
+            88.218994140625,
+            208.28469848632812,
+            512.4623413085938,
+            236.8389129638672
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.849,
+          "text": "• \nPyrenees National Park: Enjoy challenging hikes and stunning mountain scenery.",
+          "coordinates": [
+            87.51708221435547,
+            250.68325805664062,
+            515.64111328125,
+            263.0987548828125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.838,
+          "text": "• \nMercantour National Park: Discover diverse wildlife and beautiful alpine landscapes.",
+          "coordinates": [
+            87.71813201904297,
+            275.52142333984375,
+            532.5477905273438,
+            286.90380859375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.866,
+          "text": "• \nCamargue: Explore the unique wetlands on horseback or by bike.",
+          "coordinates": [
+            87.29692077636719,
+            300.5986633300781,
+            436.8448486328125,
+            312.7182312011719
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "• \nMont Ventoux: Challenge yourself with a hike or bike ride up this iconic mountain.",
+          "coordinates": [
+            87.39984130859375,
+            326.5563049316406,
+            519.284912109375,
+            338.3017883300781
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "• \nGorges du Tarn: Hike through dramatic gorges and enjoy breathtaking views.",
+          "coordinates": [
+            87.62645721435547,
+            351.68798828125,
+            494.3018493652344,
+            364.26153564453125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.836,
+          "text": "Water Activities",
+          "coordinates": [
+            69.97151184082031,
+            376.69952392578125,
+            154.32107543945312,
+            387.1604309082031
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "• \nArdèche River: Paddle through the stunning Ardèche Gorge.",
+          "coordinates": [
+            87.75312805175781,
+            401.5938720703125,
+            410.8421325683594,
+            414.0490417480469
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nDordogne River: Enjoy a leisurely canoe trip, passing by medieval castles and\ncharming villages.",
+          "coordinates": [
+            88.02725982666016,
+            426.3907470703125,
+            494.8491516113281,
+            456.35296630859375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "• \nUbaye River: Experience white-water rafting for an adrenaline rush.",
+          "coordinates": [
+            87.33085632324219,
+            469.5353698730469,
+            445.9879150390625,
+            481.5510559082031
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "• \nGorges du Verdon: Rent a kayak or paddleboat to explore the turquoise waters.",
+          "coordinates": [
+            87.33386993408203,
+            494.4039306640625,
+            507.1531982421875,
+            507.1120910644531
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "• \nLake Sainte-Croix: Enjoy swimming, sailing, and windsurfing on this beautiful lake.",
+          "coordinates": [
+            87.15155029296875,
+            519.4750366210938,
+            523.1143798828125,
+            532.0162963867188
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nLake Serre-Ponçon: Try water skiing or wakeboarding on one of the largest artificial\nlakes in Europe.",
+          "coordinates": [
+            87.3888931274414,
+            544.4588623046875,
+            527.740966796875,
+            572.9027099609375
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "• \nCévennes National Park: Go canyoning in the rugged terrain of this beautiful park.",
+          "coordinates": [
+            87.44383239746094,
+            587.546875,
+            520.4058227539062,
+            599.8507080078125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.853,
+          "text": "Culinary Delights",
+          "coordinates": [
+            69.70291137695312,
+            73.5241928100586,
+            161.60104370117188,
+            85.28596496582031
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "The South of France is a food lover's paradise. Here are some activities to indulge in the\nregion's culinary delights:",
+          "coordinates": [
+            69.1355972290039,
+            98.35865783691406,
+            506.48199462890625,
+            128.03875732421875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.861,
+          "text": "Wine Tasting",
+          "coordinates": [
+            69.41461181640625,
+            140.47760009765625,
+            139.17263793945312,
+            152.66065979003906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.876,
+          "text": "• \nProvence: Explore vineyards known for their rosé wines.",
+          "coordinates": [
+            87.6105728149414,
+            165.4301300048828,
+            390.2524719238281,
+            177.23143005371094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "• \nLanguedoc: Discover diverse wines, including reds, whites, and sparkling wines.",
+          "coordinates": [
+            87.42506408691406,
+            191.4239044189453,
+            505.65179443359375,
+            203.94256591796875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "• \nChâteauneuf-du-Pape: Visit this famous wine region near Avignon.",
+          "coordinates": [
+            87.61141204833984,
+            216.50558471679688,
+            444.8250732421875,
+            228.3539581298828
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "• \nBandol: Taste the robust red wines and refreshing rosés of this coastal region.",
+          "coordinates": [
+            87.20114135742188,
+            241.37368774414062,
+            494.60235595703125,
+            253.12734985351562
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "• \nCôtes du Rhône: Explore the vineyards along the Rhône River.",
+          "coordinates": [
+            87.37118530273438,
+            266.26513671875,
+            421.53961181640625,
+            278.16961669921875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nGaillac: Discover the unique wines of this lesser-known region.",
+          "coordinates": [
+            87.343994140625,
+            291.5586853027344,
+            422.56646728515625,
+            303.06964111328125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nBordeaux: Take a day trip to the world-renowned wine region and visit its prestigious\nchâteaux.",
+          "coordinates": [
+            87.73600006103516,
+            317.538818359375,
+            533.8729248046875,
+            345.0213317871094
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.865,
+          "text": "Cooking Classes",
+          "coordinates": [
+            69.9252700805664,
+            359.5127258300781,
+            156.91502380371094,
+            371.5958251953125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \nProvence: Learn to prepare traditional dishes like ratatouille and bouillabaisse.",
+          "coordinates": [
+            87.70787811279297,
+            384.4455871582031,
+            500.9349365234375,
+            395.7926940917969
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nPérigord: Join a truﬄe hunting tour followed by a cooking class.",
+          "coordinates": [
+            87.6214599609375,
+            409.33740234375,
+            427.7141418457031,
+            421.9013366699219
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nNice: Take a class to master Niçoise cuisine, including dishes like salade niçoise and\nsocca.",
+          "coordinates": [
+            87.49679565429688,
+            435.5265197753906,
+            521.9683227539062,
+            463.1639709472656
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "• \nToulouse: Learn to cook regional specialties such as cassoulet.",
+          "coordinates": [
+            87.63674926757812,
+            477.4617919921875,
+            420.32794189453125,
+            489.2526550292969
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "• \nMarseille: Participate in a seafood cooking class to make dishes like bouillabaisse.",
+          "coordinates": [
+            87.37364959716797,
+            502.19891357421875,
+            516.7426147460938,
+            514.1563110351562
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "• \nLyon: Discover the secrets of Lyonnaise cuisine with a hands-on cooking class.",
+          "coordinates": [
+            87.38340759277344,
+            527.421630859375,
+            498.3538513183594,
+            539.4996948242188
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "• \nSarlat: Join a foie gras workshop and learn to prepare this delicacy.",
+          "coordinates": [
+            87.43803405761719,
+            553.4929809570312,
+            442.53912353515625,
+            566.064208984375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.832,
+          "text": "Festivals and Events",
+          "coordinates": [
+            69.7884292602539,
+            73.91255950927734,
+            176.23068237304688,
+            84.228515625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "The South of France hosts a variety of festivals and events throughout the year. Here are\nsome not-to-miss celebrations:",
+          "coordinates": [
+            68.97742462158203,
+            98.66815948486328,
+            509.3831481933594,
+            126.4456787109375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "• \nCannes: Attend the prestigious Cannes Film Festival in May.",
+          "coordinates": [
+            87.24287414550781,
+            140.67958068847656,
+            406.6459045410156,
+            152.21652221679688
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "• \nNice: Experience the vibrant Nice Carnival in February.",
+          "coordinates": [
+            87.72997283935547,
+            165.8087615966797,
+            380.6005554199219,
+            177.22244262695312
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nAvignon: Enjoy the Avignon Festival in July, featuring theater, dance, and music\nperformances.",
+          "coordinates": [
+            87.80197143554688,
+            191.69647216796875,
+            501.9504089355469,
+            219.78077697753906
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nArles: Celebrate the Feria d'Arles, a traditional bullfighting festival held in April and \nSeptember.",
+          "coordinates": [
+            87.62965393066406,
+            233.45101928710938,
+            521.7411499023438,
+            261.8829650878906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nMenton: Visit the Lemon Festival in February, featuring elaborate citrus-themed floats\nand sculptures.",
+          "coordinates": [
+            87.65628051757812,
+            275.6897277832031,
+            536.8473510742188,
+            304.0617370605469
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "• \nGrasse: Attend the Rose Festival in May, celebrating the town's famous flower.",
+          "coordinates": [
+            87.7789535522461,
+            318.4322204589844,
+            498.1885070800781,
+            330.1354675292969
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.922,
+          "text": "• \nMarseille: Experience the Fête de la Musique in June, with free concerts and \nperformances throughout the city.",
+          "coordinates": [
+            87.4549560546875,
+            343.55828857421875,
+            488.99786376953125,
+            373.1126708984375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.799,
+          "text": "Relaxation and Wellness",
+          "coordinates": [
+            69.80219268798828,
+            73.75831604003906,
+            199.36489868164062,
+            84.35445404052734
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.772,
+          "text": "For those seeking relaxation and rejuvenation, the South of France oﬀers plenty of options:",
+          "coordinates": [
+            69.16014099121094,
+            98.51725006103516,
+            524.6912231445312,
+            111.04713439941406
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.86,
+          "text": "Spa and Wellness Retreats",
+          "coordinates": [
+            69.31607818603516,
+            124.02448272705078,
+            209.20773315429688,
+            134.84808349609375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "• \nAix-en-Provence: Visit Thermes Sextius for thermal baths and massages.",
+          "coordinates": [
+            87.27099609375,
+            148.80471801757812,
+            471.7056579589844,
+            160.12564086914062
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "• \nBordeaux: Enjoy vinotherapy treatments at Les Sources de Caudalie.",
+          "coordinates": [
+            87.49373626708984,
+            173.66696166992188,
+            451.32763671875,
+            185.30116271972656
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \nVichy: Experience hydrotherapy and mud baths at Spa Vichy Célestins.",
+          "coordinates": [
+            87.27307891845703,
+            199.53981018066406,
+            461.0031433105469,
+            211.5267333984375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "• \nEvian-les-Bains: Relax at the Evian Resort, known for its mineral-rich waters.",
+          "coordinates": [
+            87.46725463867188,
+            224.62701416015625,
+            492.0712890625,
+            235.49130249023438
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "• \nSaint-Raphaël: Visit the Thalasso Spa for seawater treatments and relaxation.",
+          "coordinates": [
+            87.37299346923828,
+            249.64857482910156,
+            494.81646728515625,
+            260.98516845703125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "• \nBiarritz: Enjoy the luxurious spas and wellness centers in this coastal town.",
+          "coordinates": [
+            87.55072784423828,
+            274.6330261230469,
+            480.9725036621094,
+            286.1552429199219
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.862,
+          "text": "• \nCannes: Indulge in a pampering session at one of the many high-end spas.",
+          "coordinates": [
+            87.50286865234375,
+            300.87939453125,
+            479.0081481933594,
+            312.7171325683594
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.856,
+          "text": "Yoga and Meditation Retreats",
+          "coordinates": [
+            69.72885131835938,
+            325.9722900390625,
+            226.77056884765625,
+            337.1379699707031
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "• \nProvence: Join a yoga retreat in the serene countryside.",
+          "coordinates": [
+            87.57653045654297,
+            351.0271301269531,
+            386.6850891113281,
+            362.24639892578125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.876,
+          "text": "• \nPyrenees: Escape to the mountains for a meditation retreat.",
+          "coordinates": [
+            87.66948699951172,
+            375.90277099609375,
+            408.2617492675781,
+            387.18304443359375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "• \nCôte d'Azur: Combine relaxation with luxury at a wellness retreat.",
+          "coordinates": [
+            87.31172943115234,
+            400.565673828125,
+            438.070068359375,
+            411.57080078125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "• \nLuberon: Participate in a holistic retreat with yoga, meditation, and organic meals.",
+          "coordinates": [
+            87.26705932617188,
+            426.7115173339844,
+            517.248291015625,
+            438.6842346191406
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "• \nCamargue: Enjoy a retreat focused on mindfulness and nature immersion.",
+          "coordinates": [
+            87.3104476928711,
+            451.79620361328125,
+            478.0409851074219,
+            463.22509765625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "• \nSaint-Tropez: Find tranquility at a yoga retreat overlooking the Mediterranean.",
+          "coordinates": [
+            87.20503234863281,
+            476.64166259765625,
+            501.4354553222656,
+            488.88458251953125
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "• \nCorsica: Experience a yoga and wellness retreat on this beautiful island.",
+          "coordinates": [
+            87.43424224853516,
+            501.5276794433594,
+            465.1074523925781,
+            513.3643188476562
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.838,
+          "text": "Shopping and Markets",
+          "coordinates": [
+            69.5361099243164,
+            73.49340057373047,
+            189.04298400878906,
+            85.6130142211914
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "The South of France is a shopper's paradise, with a variety of markets, boutiques, and artisan\nshops:",
+          "coordinates": [
+            68.86649322509766,
+            98.4333267211914,
+            532.7218017578125,
+            127.57368469238281
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.856,
+          "text": "Local Markets",
+          "coordinates": [
+            69.87862396240234,
+            140.48170471191406,
+            145.5802459716797,
+            150.6725311279297
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "• \nNice: Explore the vibrant Cours Saleya Market.",
+          "coordinates": [
+            87.5420913696289,
+            165.39443969726562,
+            341.2455139160156,
+            177.13314819335938
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "• \nCannes: Visit Marché Forville for fresh seafood and local produce.",
+          "coordinates": [
+            87.25051879882812,
+            191.43826293945312,
+            436.51593017578125,
+            202.66708374023438
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nAvignon: Discover local products at Marché des Halles.",
+          "coordinates": [
+            87.32747650146484,
+            216.34103393554688,
+            384.3305358886719,
+            228.3056182861328
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nAix-en-Provence: Browse the stalls at the daily market on Place Richelme.",
+          "coordinates": [
+            86.98236846923828,
+            241.3914337158203,
+            480.3019714355469,
+            252.6685791015625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.876,
+          "text": "• \nSaint-Rémy-de-Provence: Enjoy the lively Wednesday market with local specialties.",
+          "coordinates": [
+            87.08277130126953,
+            266.2043151855469,
+            528.3991088867188,
+            278.7012023925781
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \nUzès: Visit the Saturday market for fresh produce and artisanal goods.",
+          "coordinates": [
+            87.17835998535156,
+            291.3140869140625,
+            457.13983154296875,
+            303.3945007324219
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.865,
+          "text": "• \nSarlat: Explore the bustling market in the heart of the medieval town.",
+          "coordinates": [
+            87.65069580078125,
+            317.38031005859375,
+            455.46783447265625,
+            329.5713195800781
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.866,
+          "text": "Boutique Shopping",
+          "coordinates": [
+            69.88070678710938,
+            342.8180847167969,
+            172.88766479492188,
+            354.8630676269531
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.836,
+          "text": "• \nCannes: Shop along the famous Rue d'Antibes, lined with high-end boutiques, \ndesigner stores, and luxury brands.",
+          "coordinates": [
+            87.90824890136719,
+            367.3780822753906,
+            498.0015563964844,
+            396.6593017578125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nAix-en-Provence: Browse shops and cafes on Cours Mirabeau, an elegant boulevard\nwith a variety of stores.",
+          "coordinates": [
+            88.09622192382812,
+            409.615966796875,
+            526.3533325195312,
+            437.8614501953125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nNice: Find charming boutiques in the old town, oﬀering handmade soaps, ceramics, \nand local crafts.",
+          "coordinates": [
+            87.80728149414062,
+            451.6388854980469,
+            524.9722290039062,
+            478.8011474609375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "• \nSaint-Tropez: Explore the chic boutiques and designer stores in this glamorous town.",
+          "coordinates": [
+            87.85415649414062,
+            493.4129638671875,
+            529.0013427734375,
+            506.055419921875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nMarseille: Visit the trendy shops in the Le Panier district, known for its artisan goods\nand unique finds.",
+          "coordinates": [
+            87.46482849121094,
+            519.5630493164062,
+            526.6109008789062,
+            547.64697265625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nMontpellier: Discover the boutiques in the historic Écusson district, oﬀering fashion,\njewelry, and art.",
+          "coordinates": [
+            87.53720092773438,
+            561.2586059570312,
+            524.5289306640625,
+            590.3367309570312
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nToulouse: Shop in the vibrant Capitole area, home to a mix of high-end and\nindependent stores.",
+          "coordinates": [
+            87.71055603027344,
+            603.1800537109375,
+            483.1944274902344,
+            632.365478515625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.806,
+          "text": "Family-Friendly Activities",
+          "coordinates": [
+            69.66441345214844,
+            73.58963775634766,
+            205.1324462890625,
+            84.93032836914062
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "The South of France oﬀers a variety of activities that are perfect for families with children:",
+          "coordinates": [
+            69.56010437011719,
+            98.21480560302734,
+            516.0936279296875,
+            110.45807647705078
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.87,
+          "text": "Theme Parks and Attractions",
+          "coordinates": [
+            70.03645324707031,
+            123.86001586914062,
+            222.05471801757812,
+            133.85450744628906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nAntibes: Visit Marineland for marine shows and an aquarium.",
+          "coordinates": [
+            87.22140502929688,
+            148.69052124023438,
+            413.70660400390625,
+            160.13693237304688
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nFréjus: Cool oﬀ at Aqualand water park.",
+          "coordinates": [
+            87.57096099853516,
+            173.5596160888672,
+            306.97125244140625,
+            185.57716369628906
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nVilleneuve-Loubet: Enjoy quirky attractions at Le Village des Fous.",
+          "coordinates": [
+            87.41778564453125,
+            198.36453247070312,
+            438.1455078125,
+            210.34762573242188
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nMonteux: Spend a day at Parc Spirou, a theme park based on the famous comic book\ncharacter.",
+          "coordinates": [
+            87.18595123291016,
+            223.54444885253906,
+            533.3358764648438,
+            252.01722717285156
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "• \nLa Palmyre: Explore the La Palmyre Zoo, home to a wide variety of animals.",
+          "coordinates": [
+            87.4093246459961,
+            266.12481689453125,
+            485.7650451660156,
+            278.53765869140625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "• \nCap d'Agde: Have fun at Luna Park, an amusement park with rides and games.",
+          "coordinates": [
+            87.37036895751953,
+            291.5169372558594,
+            498.38299560546875,
+            303.6163635253906
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nToulouse: Visit the Cité de l'Espace, a space-themed science museum with interactive\nexhibits.",
+          "coordinates": [
+            87.5312728881836,
+            316.684326171875,
+            533.271240234375,
+            343.44921875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.875,
+          "text": "Outdoor Adventures",
+          "coordinates": [
+            69.78160095214844,
+            358.74072265625,
+            178.8639678955078,
+            368.63604736328125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nVerdon Gorge: Take a family hike or rent paddle boats to explore the stunning Verdon\nGorge.",
+          "coordinates": [
+            87.58983612060547,
+            383.5002746582031,
+            535.6185302734375,
+            412.65155029296875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nCamargue Natural Park: Explore wetlands with wild horses and flamingos, and enjoy \nhorseback riding, bird watching, and boat tours.",
+          "coordinates": [
+            88.07865905761719,
+            425.3844909667969,
+            530.6033935546875,
+            454.45562744140625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "• \nVarious Locations: Try tree-top adventure parks with zip lines, rope bridges, and\nclimbing challenges.",
+          "coordinates": [
+            88.18750762939453,
+            468.4923095703125,
+            507.0696105957031,
+            497.53594970703125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \nGorges du Tarn: Go on a family-friendly hike and enjoy the scenic views.",
+          "coordinates": [
+            87.66950225830078,
+            510.5251770019531,
+            468.80712890625,
+            522.843994140625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "• \nLake Annecy: Rent bikes and ride along the lake's picturesque bike paths.",
+          "coordinates": [
+            87.52973937988281,
+            535.3858642578125,
+            474.181884765625,
+            547.54296875
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nPyrenees: Take a cable car ride for stunning mountain views and easy hiking trails.",
+          "coordinates": [
+            87.169677734375,
+            560.4793090820312,
+            516.5635986328125,
+            572.735595703125
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nDordogne: Explore the region's caves and prehistoric sites with guided tours suitable\nfor children.",
+          "coordinates": [
+            87.43415069580078,
+            585.370361328125,
+            528.4901123046875,
+            613.2093505859375
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.868,
+          "text": "Educational Experiences",
+          "coordinates": [
+            69.75957489013672,
+            627.3528442382812,
+            199.55908203125,
+            639.0339965820312
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nToulouse: Visit Cité de l'Espace for a space-themed science museum with interactive\nexhibits, a planetarium, and a replica of the Mir space station.",
+          "coordinates": [
+            87.1677474975586,
+            652.1910400390625,
+            528.4974365234375,
+            681.7771606445312
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "text": 16
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.908,
+          "text": "• \nMonaco: Explore the Musée Océanographique and its marine exhibits, including a \nshark lagoon and touch tanks.",
+          "coordinates": [
+            87.65914154052734,
+            73.58538818359375,
+            517.3099365234375,
+            101.8765869140625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.913,
+          "text": "• \nDordogne: See ancient cave paintings at prehistoric sites like Lascaux and Rouﬃgnac,\nand visit museums dedicated to prehistoric life.",
+          "coordinates": [
+            87.27798461914062,
+            115.49455261230469,
+            533.2876586914062,
+            143.92982482910156
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "• \nMontpellier: Discover the Planet Ocean World, an aquarium and planetarium with \ninteractive exhibits.",
+          "coordinates": [
+            87.82670593261719,
+            157.56301879882812,
+            517.931396484375,
+            185.39013671875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.921,
+          "text": "• \nCarcassonne: Take a guided tour of the medieval citadel and learn about its history \nand architecture.",
+          "coordinates": [
+            87.5663833618164,
+            199.6634979248047,
+            521.6810913085938,
+            227.39508056640625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.85,
+          "text": "• \nNîmes: Visit the Roman amphitheater and learn about ancient Roman history.",
+          "coordinates": [
+            87.54312896728516,
+            242.62457275390625,
+            495.6289978027344,
+            254.31610107421875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nArles: Explore the Roman ruins and the Musée de l'Arles Antique, which showcases\nartifacts from the city's past.",
+          "coordinates": [
+            87.4259033203125,
+            267.635986328125,
+            523.3099975585938,
+            296.30279541015625
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 6
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.806,
+          "text": "Nightlife and Entertainment",
+          "coordinates": [
+            69.607421875,
+            73.60165405273438,
+            217.1260986328125,
+            84.72521209716797
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "The South of France oﬀers a vibrant nightlife scene, with options ranging from chic bars to\nlively nightclubs:",
+          "coordinates": [
+            69.15313720703125,
+            98.2177963256836,
+            518.28271484375,
+            127.56803131103516
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.857,
+          "text": "Bars and Lounges",
+          "coordinates": [
+            69.79679870605469,
+            140.53955078125,
+            163.95896911621094,
+            152.23391723632812
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nMonaco: Enjoy classic cocktails and live jazz at Le Bar Americain, located in the Hôtel\nde Paris.",
+          "coordinates": [
+            87.42681884765625,
+            165.37615966796875,
+            532.61865234375,
+            193.21327209472656
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.847,
+          "text": "• \nNice: Try creative cocktails at Le Comptoir du Marché, a trendy bar in the old town.",
+          "coordinates": [
+            87.53179931640625,
+            207.26153564453125,
+            521.65478515625,
+            219.38795471191406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.923,
+          "text": "• \nCannes: Experience dining and entertainment at La Folie Douce, with live music, DJs,\nand performances.",
+          "coordinates": [
+            87.29174041748047,
+            232.5751190185547,
+            531.013916015625,
+            262.31097412109375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.84,
+          "text": "• \nMarseille: Visit Le Trolleybus, a popular bar with multiple rooms and music styles.",
+          "coordinates": [
+            87.66691589355469,
+            275.381103515625,
+            514.5286865234375,
+            287.28326416015625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "• \nSaint-Tropez: Relax at Bar du Port, known for its chic atmosphere and waterfront \nviews.",
+          "coordinates": [
+            87.33187866210938,
+            300.5567321777344,
+            511.922119140625,
+            327.5650634765625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.863,
+          "text": "• \nMontpellier: Enjoy craft cocktails at Papa Doble, a speakeasy-style bar.",
+          "coordinates": [
+            87.51461791992188,
+            342.5002136230469,
+            458.5235900878906,
+            354.8118591308594
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.863,
+          "text": "• \nToulouse: Sip on cocktails at Fat Cat, a stylish bar with a vintage vibe.",
+          "coordinates": [
+            87.69009399414062,
+            367.3882141113281,
+            451.65374755859375,
+            379.5828552246094
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.863,
+          "text": "Nightclubs",
+          "coordinates": [
+            69.66460418701172,
+            392.3203430175781,
+            127.89633178710938,
+            403.94024658203125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "• \nSaint-Tropez: Dance at the famous Les Caves du Roy, known for its glamorous \natmosphere and celebrity clientele.",
+          "coordinates": [
+            87.71393585205078,
+            417.24560546875,
+            497.4165954589844,
+            446.31890869140625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nNice: Party at High Club on the Promenade des Anglais, featuring multiple dance\nfloors and top DJs.",
+          "coordinates": [
+            87.88291931152344,
+            460.5133972167969,
+            510.5095520019531,
+            488.6981506347656
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nCannes: Enjoy the stylish setting and rooftop terrace at La Suite, oﬀering stunning \nviews of Cannes.",
+          "coordinates": [
+            87.85116577148438,
+            502.448486328125,
+            513.270751953125,
+            530.259765625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nMarseille: Visit R2 Rooftop, a popular nightclub with panoramic views of the city and\nthe sea.",
+          "coordinates": [
+            87.85550689697266,
+            544.4092407226562,
+            529.52734375,
+            572.1423950195312
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.922,
+          "text": "• \nMonaco: Experience the exclusive Jimmy'z, a legendary nightclub with a luxurious \nambiance.",
+          "coordinates": [
+            87.94044494628906,
+            586.4893798828125,
+            518.9404907226562,
+            613.8417358398438
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nMontpellier: Dance the night away at L'Antirouille, a club known for its eclectic music\nand lively atmosphere.",
+          "coordinates": [
+            87.55767822265625,
+            628.6018676757812,
+            530.6272583007812,
+            656.9893798828125
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nToulouse: Check out Le Purple, a trendy nightclub with a vibrant dance floor and top-\nnotch DJs.",
+          "coordinates": [
+            87.15001678466797,
+            670.4851684570312,
+            532.1458740234375,
+            699.1395263671875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [],
+      "element_counts": {}
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.852,
+          "text": "Conclusion",
+          "coordinates": [
+            70.16009521484375,
+            74.16512298583984,
+            129.138916015625,
+            83.73419189453125
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "The South of France is a diverse and enchanting region that oﬀers a wide range of activities \nand experiences for travelers. Whether you're exploring the stunning coastline, immersing \nyourself in the rich cultural heritage, or indulging in the culinary delights, there is something \nfor everyone to enjoy. From family-friendly adventures to vibrant nightlife, the South of \nFrance promises an unforgettable journey filled with memories that will last a lifetime. Use \nthis guide to plan your trip and make the most of everything this beautiful region has to oﬀer",
+          "coordinates": [
+            69.11132049560547,
+            98.32939910888672,
+            533.7892456054688,
+            196.77938842773438
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 1
+      }
+    }
+  ]
+}

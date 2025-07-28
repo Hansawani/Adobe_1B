@@ -1,0 +1,576 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\The Ultimate PDF Sharing Checklist.pdf",
+  "total_pages": 3,
+  "processing_time": "60.86s",
+  "layout_time_total": "41.70s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.589,
+          "text": "The Ultimate PDF Sharing Checklist",
+          "coordinates": [
+            69.68476104736328,
+            74.89314270019531,
+            296.5889892578125,
+            88.0239486694336
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "Sharing PDFs can be a breeze with Adobe Acrobat. Whether you're \ncollaborating on a project, seeking feedback, or simply distributing \ninformation, this checklist will ensure you cover all the bases. Let's dive\ninto the essentials of sharing PDFs effectively.",
+          "coordinates": [
+            68.87496185302734,
+            102.82843017578125,
+            523.2939453125,
+            180.0822296142578
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.689,
+          "text": "General Sharing Checklist",
+          "coordinates": [
+            69.09652709960938,
+            194.81387329101562,
+            234.78750610351562,
+            209.01402282714844
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.523,
+          "text": "•  Open Your PDF",
+          "coordinates": [
+            87.44405364990234,
+            223.0579833984375,
+            209.50003051757812,
+            236.55230712890625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.521,
+          "text": "•  Open Your PDF",
+          "coordinates": [
+            87.44405364990234,
+            223.0579833984375,
+            209.50003051757812,
+            236.55230712890625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.868,
+          "text": "• Have you launched Acrobat or Acrobat Reader and opened\nthe PDF you want to share?",
+          "coordinates": [
+            123.0911636352539,
+            251.965576171875,
+            517.46923828125,
+            286.07373046875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.592,
+          "text": "•  Choose Your Sharing Method",
+          "coordinates": [
+            87.19448852539062,
+            302.15338134765625,
+            298.9883728027344,
+            315.0384216308594
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.833,
+          "text": "• Are you sharing via email, link, or a third-party app like\nMicrosoft Teams or WhatsApp?",
+          "coordinates": [
+            123.13345336914062,
+            331.0130310058594,
+            495.1120300292969,
+            364.26885986328125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.591,
+          "text": "•  Set Permissions",
+          "coordinates": [
+            87.30970001220703,
+            380.4721374511719,
+            211.66937255859375,
+            392.3735046386719
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "• Have you decided if recipients can comment or just view the\ndocument?",
+          "coordinates": [
+            123.2547836303711,
+            409.1888122558594,
+            526.1665649414062,
+            442.08990478515625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.572,
+          "text": "•  Add Recipients",
+          "coordinates": [
+            87.3115234375,
+            459.3464050292969,
+            208.27584838867188,
+            472.2811584472656
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.85,
+          "text": "• Did you enter the email addresses of everyone who needs \naccess?",
+          "coordinates": [
+            123.4035415649414,
+            486.73223876953125,
+            509.8129577636719,
+            520.00244140625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.578,
+          "text": "•  Customize Your Message",
+          "coordinates": [
+            87.27593994140625,
+            537.468994140625,
+            271.1900634765625,
+            550.5919799804688
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.863,
+          "text": "• Have you added a personal touch to the subject and message\nfields?",
+          "coordinates": [
+            123.50994873046875,
+            566.2471923828125,
+            532.2092895507812,
+            598.73193359375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.54,
+          "text": "•\nCreate and Share the Link",
+          "coordinates": [
+            87.49781799316406,
+            615.04541015625,
+            275.1700439453125,
+            627.350830078125
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.524,
+          "text": "•\nCreate and Share the Link",
+          "coordinates": [
+            87.49781799316406,
+            615.04541015625,
+            275.1700439453125,
+            627.350830078125
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.759,
+          "text": "• Did you generate a shareable link and copy it for distribution?",
+          "coordinates": [
+            122.8497085571289,
+            643.9987182617188,
+            537.0948486328125,
+            657.5842895507812
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.591,
+          "text": "•  Send the Invitation",
+          "coordinates": [
+            87.61588287353516,
+            673.257568359375,
+            233.168701171875,
+            685.320556640625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 7,
+        "text": 11
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.801,
+          "text": "• Have you sent the email or shared the link through your\nchosen platform?",
+          "coordinates": [
+            123.78316497802734,
+            74.87821960449219,
+            499.2219543457031,
+            108.23632049560547
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.658,
+          "text": "•  Follow Up",
+          "coordinates": [
+            87.29790496826172,
+            124.031494140625,
+            176.138916015625,
+            137.6325225830078
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.795,
+          "text": "• Are you tracking who has accessed the document and\nfollowing up as needed?",
+          "coordinates": [
+            123.68170166015625,
+            152.78485107421875,
+            483.746337890625,
+            187.74984741210938
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.521,
+          "text": "Professional Tip: Clear Instructions",
+          "coordinates": [
+            69.61067199707031,
+            203.00204467773438,
+            292.9600830078125,
+            216.3251495361328
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.726,
+          "text": "Ensure your email instructions are clear and concise to avoid any\nconfusion for your recipients.",
+          "coordinates": [
+            69.55957794189453,
+            230.7397918701172,
+            481.0022888183594,
+            266.88226318359375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.683,
+          "text": "Sharing Checklist for Real Estate Professionals",
+          "coordinates": [
+            69.27410125732422,
+            309.949462890625,
+            364.40936279296875,
+            323.4574279785156
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "In the real estate industry, sharing documents efficiently is crucial for \nclosing deals and keeping clients informed. Here's a tailored checklist to\nhelp you manage your PDF sharing needs.",
+          "coordinates": [
+            68.71668243408203,
+            338.7418212890625,
+            529.7015991210938,
+            394.8039245605469
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.624,
+          "text": "Real Estate Sharing Checklist",
+          "coordinates": [
+            69.35484313964844,
+            408.93670654296875,
+            255.3463592529297,
+            422.04095458984375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.711,
+          "text": "•  Open Your Property Document",
+          "coordinates": [
+            87.13605499267578,
+            438.4381408691406,
+            309.34423828125,
+            452.1109313964844
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "• Have you launched Acrobat or Acrobat Reader and opened\nthe property listing or contract you need to share?",
+          "coordinates": [
+            123.6410140991211,
+            467.0118103027344,
+            517.4257202148438,
+            501.5453186035156
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.636,
+          "text": "•  Choose Your Sharing Method",
+          "coordinates": [
+            87.21128845214844,
+            515.8903198242188,
+            298.8789978027344,
+            528.9376220703125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.841,
+          "text": "• Are you sharing via email, link, or a third-party app like\nMicrosoft Teams or WhatsApp?",
+          "coordinates": [
+            123.45260620117188,
+            544.921875,
+            494.9595031738281,
+            579.5314331054688
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.599,
+          "text": "•  Set Permissions",
+          "coordinates": [
+            87.3794174194336,
+            595.3745727539062,
+            211.6897735595703,
+            607.176025390625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.865,
+          "text": "• Have you decided if clients can comment on the document or\njust view it?",
+          "coordinates": [
+            123.5539779663086,
+            623.0932006835938,
+            533.579345703125,
+            657.86279296875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.728,
+          "text": "•  Add Clients and Stakeholders",
+          "coordinates": [
+            87.34378051757812,
+            673.0252685546875,
+            298.091552734375,
+            685.4275512695312
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 11,
+        "paragraph_title": 4
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "• Did you enter the email addresses of clients, agents, and other\nstakeholders?",
+          "coordinates": [
+            123.6153335571289,
+            74.8770980834961,
+            538.515869140625,
+            107.12911987304688
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.652,
+          "text": "•  Customize Your Message",
+          "coordinates": [
+            87.46109771728516,
+            124.23046112060547,
+            270.69537353515625,
+            137.3778076171875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.844,
+          "text": "• Have you added a personal touch to the subject and message\nfields, highlighting key property details?",
+          "coordinates": [
+            123.20696258544922,
+            152.9029083251953,
+            532.2261962890625,
+            188.3400421142578
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.539,
+          "text": "•  Create and Share the Link",
+          "coordinates": [
+            87.02865600585938,
+            203.06846618652344,
+            275.3834533691406,
+            215.40408325195312
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.635,
+          "text": "• Did you generate a shareable link and copy it for distribution?",
+          "coordinates": [
+            122.60321044921875,
+            230.8448028564453,
+            537.1361694335938,
+            244.63958740234375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.809,
+          "text": "• Have you sent the email or shared the link through your \nchosen platform?",
+          "coordinates": [
+            123.27772521972656,
+            288.76446533203125,
+            499.82196044921875,
+            323.2203063964844
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.603,
+          "text": "•  Follow Up",
+          "coordinates": [
+            87.32299041748047,
+            339.0472106933594,
+            176.34762573242188,
+            352.6229248046875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.774,
+          "text": "• Are you tracking who has accessed the document and \nfollowing up with clients for feedback or next steps?",
+          "coordinates": [
+            123.40602111816406,
+            366.6990051269531,
+            484.5370788574219,
+            401.6523132324219
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.682,
+          "text": "Professional Tip: Highlight Key Details",
+          "coordinates": [
+            69.59524536132812,
+            416.8077087402344,
+            315.9537353515625,
+            430.7927551269531
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.815,
+          "text": "Make sure to emphasize important property details in your message to\ncapture your clients' attention.",
+          "coordinates": [
+            69.17086791992188,
+            446.04815673828125,
+            521.3108520507812,
+            480.8874206542969
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.771,
+          "text": "Conclusion",
+          "coordinates": [
+            69.27621459960938,
+            523.8677978515625,
+            141.38807678222656,
+            535.57275390625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "Sharing PDFs with Adobe Acrobat is straightforward and efficient, \nwhether you're working on a general project or managing real estate \ndocuments. By following these checklists, you can ensure that your \nsharing process is smooth and professional. Start sharing smarter today.",
+          "coordinates": [
+            68.8982162475586,
+            552.6103515625,
+            528.3027954101562,
+            629.7074584960938
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 8,
+        "paragraph_title": 4
+      }
+    }
+  ]
+}

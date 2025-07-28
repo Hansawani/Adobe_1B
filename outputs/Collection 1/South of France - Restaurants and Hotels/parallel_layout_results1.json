@@ -1,0 +1,1340 @@
+{
+  "document": "CHALLENGE_1B\\Collection 1\\PDFs\\South of France - Restaurants and Hotels.pdf",
+  "total_pages": 14,
+  "processing_time": "72.78s",
+  "layout_time_total": "110.25s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.611,
+          "text": "Comprehensive Guide to Restaurants and Hotels in the South of France",
+          "coordinates": [
+            69.62335968017578,
+            73.93473815917969,
+            439.109619140625,
+            85.197265625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.797,
+          "text": "Introduction",
+          "coordinates": [
+            69.83099365234375,
+            99.2108383178711,
+            136.6514892578125,
+            108.7592544555664
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite \ncuisine, is a dream destination for travelers. From the glamorous beaches of the French \nRiviera to the charming villages of Provence, this region oﬀers a diverse array of experiences. \nWhether you're looking for budget-friendly options, family-friendly spots, upscale dining, or \nluxurious experiences, this guide will help you find the perfect restaurants and hotels for your\ntrip.",
+          "coordinates": [
+            68.84652709960938,
+            123.64543914794922,
+            535.4007568359375,
+            220.70892333984375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.758,
+          "text": "Restaurants",
+          "coordinates": [
+            70.0050277709961,
+            74.2368392944336,
+            133.83084106445312,
+            84.15621185302734
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.82,
+          "text": "Budget-Friendly Restaurants",
+          "coordinates": [
+            69.7704849243164,
+            98.61566162109375,
+            220.1338653564453,
+            110.32844543457031
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \nChez Pipo (Nice): Famous for its socca, a traditional Niçoise chickpea pancake, this\ncasual eatery oﬀers delicious and aﬀordable local dishes. The rustic ambiance and \nfriendly service make it a favorite among locals and tourists alike.",
+          "coordinates": [
+            87.41400909423828,
+            123.27644348144531,
+            517.2584228515625,
+            169.62908935546875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nLa Merenda (Nice): A small, cozy restaurant serving authentic Niçoise cuisine. The \nmenu changes with the seasons, ensuring fresh and flavorful dishes. Reservations are a\nmust due to its popularity and limited seating.",
+          "coordinates": [
+            87.25511169433594,
+            182.5982666015625,
+            539.6015014648438,
+            229.57369995117188
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nChez Etienne (Marseille): Known for its simple yet delicious pizzas and grilled meats, \nthis family-owned restaurant is a local favorite. The lively atmosphere and hearty \nportions make it a great spot for a casual meal.",
+          "coordinates": [
+            87.10307312011719,
+            242.20416259765625,
+            530.167724609375,
+            288.2848205566406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nLe Bistrot du Paradou (Paradou): A charming bistro oﬀering a daily fixed menu with \nhearty Provençal dishes at reasonable prices. The warm, welcoming environment and \ngenerous servings make it a must-visit.",
+          "coordinates": [
+            87.31183624267578,
+            301.3253479003906,
+            534.8788452148438,
+            347.5628356933594
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "• \nLe Comptoir du Marché (Nice): This bistro oﬀers a variety of traditional French dishes\nat aﬀordable prices. The cozy atmosphere and friendly staﬀ make it a great spot for a \ncasual meal.",
+          "coordinates": [
+            87.36841583251953,
+            360.3858337402344,
+            531.8195190429688,
+            405.0096130371094
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nLe Petit Nice (Marseille): A budget-friendly option oﬀering a variety of seafood dishes.\nThe relaxed setting and fresh ingredients make it a popular choice.",
+          "coordinates": [
+            87.6922836303711,
+            419.2293701171875,
+            535.8421020507812,
+            449.8668212890625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nLe Café de Turin (Nice): Known for its seafood, this café oﬀers a variety of aﬀordable \ndishes in a lively setting. The fresh oysters are a must-try.",
+          "coordinates": [
+            87.5479965209961,
+            462.4323425292969,
+            526.9287109375,
+            491.76605224609375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \nLe Panier (Marseille): A casual eatery oﬀering a variety of Mediterranean dishes at \nreasonable prices. The outdoor seating and friendly service make it a great spot for a \nrelaxed meal.",
+          "coordinates": [
+            87.43971252441406,
+            504.169189453125,
+            529.2372436523438,
+            549.3030395507812
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "• \nLe Bistrot Gourmand (Cannes): This bistro oﬀers a variety of traditional French dishes\nat aﬀordable prices. The cozy atmosphere and friendly staﬀ make it a great spot for a \ncasual meal.",
+          "coordinates": [
+            87.31380462646484,
+            563.0690307617188,
+            531.20947265625,
+            608.2982788085938
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nLe Petit Pontoise (Paris): A charming bistro oﬀering a variety of traditional French \ndishes at reasonable prices. The cozy atmosphere and friendly service make it a great\nspot for a casual meal.",
+          "coordinates": [
+            87.18036651611328,
+            622.3369140625,
+            532.08154296875,
+            669.435302734375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.803,
+          "text": "Family-Friendly Restaurants",
+          "coordinates": [
+            69.84974670410156,
+            73.61090850830078,
+            218.07681274414062,
+            85.15332794189453
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \nClub 55 (Saint-Tropez): This iconic beach club oﬀers a relaxed, family-friendly \natmosphere with a menu featuring fresh seafood and Mediterranean dishes. The\nbeachside location and casual vibe make it perfect for families.",
+          "coordinates": [
+            87.499755859375,
+            98.158203125,
+            507.623779296875,
+            144.1685333251953
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "• \nLe Safari (Nice): Located in the heart of the old town, this restaurant oﬀers a diverse \nmenu with options for both adults and children. The lively setting and outdoor seating \nmake it a great spot for a family meal.",
+          "coordinates": [
+            87.5931396484375,
+            157.16307067871094,
+            536.8848266601562,
+            203.98184204101562
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "• \nLa Table du Marché (Saint-Rémy-de-Provence): A welcoming restaurant with a varied\nmenu that includes kid-friendly options and fresh, local ingredients. The charming \nsetting and friendly staﬀ ensure a pleasant dining experience for families.",
+          "coordinates": [
+            87.5445327758789,
+            216.3308563232422,
+            535.9368896484375,
+            263.9412536621094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "• \nLe Grill (Decize): A family-friendly restaurant oﬀering a variety of grilled meats and \nclassic French dishes in a casual setting. The relaxed atmosphere and extensive menu \ncater to all ages.",
+          "coordinates": [
+            87.54627990722656,
+            275.99578857421875,
+            532.9521484375,
+            322.3385009765625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nLe Jardin de Benjamin (Lorgues): This restaurant oﬀers a variety of dishes made with\nfresh, local ingredients. The outdoor seating and kid-friendly menu make it a great \nspot for families.",
+          "coordinates": [
+            87.5440902709961,
+            335.3132019042969,
+            528.4119262695312,
+            381.1731262207031
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nLe Petit Jardin (Montpellier): A family-friendly restaurant oﬀering a variety of \nMediterranean dishes. The outdoor seating and relaxed atmosphere make it a great \nspot for a family meal.",
+          "coordinates": [
+            87.73636627197266,
+            394.3782958984375,
+            524.4801635742188,
+            441.3992004394531
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nLe Café de la Plage (Arcachon): This beachfront café oﬀers a variety of seafood dishes\nand kid-friendly options. The relaxed setting and beautiful views make it a great spot \nfor families.",
+          "coordinates": [
+            87.69100952148438,
+            454.0596923828125,
+            532.8035278320312,
+            499.185791015625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.916,
+          "text": "• \nLe Petit Nice (Marseille): A family-friendly restaurant oﬀering a variety of seafood \ndishes. The relaxed setting and fresh ingredients make it a popular choice.",
+          "coordinates": [
+            87.97234344482422,
+            513.2833862304688,
+            514.0006103515625,
+            542.97314453125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "• \nLe Jardin des Sens (Montpellier): This restaurant oﬀers a variety of dishes made with\nfresh, local ingredients. The outdoor seating and kid-friendly menu make it a great \nspot for families.",
+          "coordinates": [
+            87.3422622680664,
+            555.3731689453125,
+            527.172119140625,
+            601.221923828125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nLe Café des Arts (Nice): A family-friendly café oﬀering a variety of dishes and kid-\nfriendly options. The relaxed setting and friendly service make it a great spot for a\nfamily meal.",
+          "coordinates": [
+            87.40899658203125,
+            614.1744384765625,
+            513.4507446289062,
+            661.4109497070312
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.806,
+          "text": "Upscale Restaurants",
+          "coordinates": [
+            69.84829711914062,
+            73.72830963134766,
+            177.24560546875,
+            85.0068588256836
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \nAM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant oﬀering a \nfine-dining experience with innovative dishes inspired by Mediterranean flavors. The \nartistic presentation and unique flavor combinations make it a culinary adventure.",
+          "coordinates": [
+            87.50951385498047,
+            98.22339630126953,
+            529.3700561523438,
+            144.8768768310547
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "• \nLe Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a \nunique dining experience with a focus on fresh, local ingredients and innovative \ndishes. The stunning views of the Mediterranean add to the allure.",
+          "coordinates": [
+            87.64955139160156,
+            157.09226989746094,
+            532.2146606445312,
+            203.1352996826172
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "• \nLa Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred \nrestaurant serves refined Provençal cuisine with breathtaking views of the French \nRiviera. The elegant setting and impeccable service make it a memorable dining \nexperience.",
+          "coordinates": [
+            87.68181610107422,
+            215.9760284423828,
+            513.209228515625,
+            280.1634216308594
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nHostellerie de Jérôme (La Turbie): A two-Michelin-starred restaurant oﬀering \ntraditional French fare created from the very best local ingredients. The historic setting \nand exquisite dishes make it a must-visit for food enthusiasts.",
+          "coordinates": [
+            87.47569274902344,
+            293.3782653808594,
+            537.845458984375,
+            339.077880859375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.868,
+          "text": "• \nLe Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an\nopulent dining experience with a menu that celebrates the flavors of the \nMediterranean. The lavish decor and exceptional service make it a dining experience \nto remember.",
+          "coordinates": [
+            87.18372344970703,
+            352.378662109375,
+            537.43798828125,
+            413.93798828125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nLa Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the \nluxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the\nland. The serene setting and culinary excellence make it a top choice for fine dining.",
+          "coordinates": [
+            87.51406860351562,
+            429.48388671875,
+            535.056396484375,
+            475.9679260253906
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "• \nLe Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering \nexquisite seafood dishes and stunning views of the Mediterranean. The creative menu \nand elegant ambiance make it a standout dining destination.",
+          "coordinates": [
+            87.6739501953125,
+            488.8003234863281,
+            534.8658447265625,
+            534.8192749023438
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "• \nLa Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has \nhosted famous artists and celebrities, oﬀering a luxurious dining experience with a \nfocus on Provençal cuisine. The art-filled setting and gourmet dishes make it a unique\nexperience.",
+          "coordinates": [
+            87.23741912841797,
+            547.47021484375,
+            533.5220947265625,
+            610.6260986328125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nLe Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a variety of \ndishes made with fresh, local ingredients. The elegant setting and exceptional service \nmake it a top choice for fine dining.",
+          "coordinates": [
+            87.25613403320312,
+            624.2341918945312,
+            533.8334350585938,
+            671.0963134765625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 9
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "• \nLe Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made \nwith fresh, local ingredients. The elegant setting and exceptional service make it a top\nchoice for fine dining.",
+          "coordinates": [
+            87.71156311035156,
+            73.30042266845703,
+            532.864990234375,
+            120.10942077636719
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 1
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.775,
+          "text": "Luxurious Restaurants",
+          "coordinates": [
+            69.96949768066406,
+            73.96306610107422,
+            187.51052856445312,
+            84.06147766113281
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.532,
+          "text": "• \nLe Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an\nopulent dining experience with a menu that celebrates the flavors of the \nMediterranean. The lavish decor and exceptional service make it a dining experience \nto remember.",
+          "coordinates": [
+            87.24101257324219,
+            98.00093841552734,
+            537.44970703125,
+            160.52679443359375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.714,
+          "text": "• \nLe Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an\nopulent dining experience with a menu that celebrates the flavors of the",
+          "coordinates": [
+            87.41864776611328,
+            98.23223114013672,
+            538.2902221679688,
+            127.9338607788086
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.589,
+          "text": "Mediterranean. The lavish decor and exceptional service make it a dining experience \nto remember.",
+          "coordinates": [
+            95.92032623291016,
+            132.73280334472656,
+            529.6646728515625,
+            160.32623291015625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nLa Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the \nluxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the\nland. The serene setting and culinary excellence make it a top choice for fine dining.",
+          "coordinates": [
+            87.45687103271484,
+            174.32582092285156,
+            534.9111938476562,
+            220.77989196777344
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \nLe Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering \nexquisite seafood dishes and stunning views of the Mediterranean. The creative menu \nand elegant ambiance make it a standout dining destination.",
+          "coordinates": [
+            87.49276733398438,
+            234.52255249023438,
+            534.9590454101562,
+            280.6640625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "• \nLa Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has \nhosted famous artists and celebrities, oﬀering a luxurious dining experience with a \nfocus on Provençal cuisine. The art-filled setting and gourmet dishes make it a unique \nexperience.",
+          "coordinates": [
+            87.3050537109375,
+            293.4847717285156,
+            534.1133422851562,
+            356.1819152832031
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "• \nLe Cap (Saint-Jean-Cap-Ferrat): A Michelin-starred restaurant oﬀering a variety of \ndishes made with fresh, local ingredients. The elegant setting and exceptional service \nmake it a top choice for fine dining.",
+          "coordinates": [
+            87.85587310791016,
+            369.408203125,
+            531.5396118164062,
+            415.56451416015625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "• \nLe Chantecler (Nice): A Michelin-starred restaurant oﬀering a variety of dishes made \nwith fresh, local ingredients. The elegant setting and exceptional service make it a top\nchoice for fine dining.",
+          "coordinates": [
+            87.51396179199219,
+            429.26776123046875,
+            533.5164184570312,
+            475.4986877441406
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "• \nLe Figuier de Saint-Esprit (Antibes): A Michelin-starred restaurant oﬀering a variety of \ndishes made with fresh, local ingredients. The elegant setting and exceptional service \nmake it a top choice for fine dining.",
+          "coordinates": [
+            87.71414947509766,
+            488.4675598144531,
+            533.7743530273438,
+            534.7197265625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "• \nLe Park 45 (Cannes): A Michelin-starred restaurant oﬀering a variety of dishes made \nwith fresh, local ingredients. The elegant setting and exceptional service make it a top \nchoice for fine dining.",
+          "coordinates": [
+            87.51615142822266,
+            547.2679443359375,
+            534.0987548828125,
+            593.4223022460938
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nLe Jardin des Sens (Montpellier): A Michelin-starred restaurant oﬀering a variety of \ndishes made with fresh, local ingredients. The elegant setting and exceptional service \nmake it a top choice for fine dining.",
+          "coordinates": [
+            87.3434829711914,
+            606.32861328125,
+            531.627197265625,
+            654.0280151367188
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nLe Petit Nice (Marseille): A Michelin-starred restaurant oﬀering a variety of dishes \nmade with fresh, local ingredients. The elegant setting and exceptional service make it\na top choice for fine dining.",
+          "coordinates": [
+            87.44767761230469,
+            666.5565185546875,
+            536.942138671875,
+            713.2252197265625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 12
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "• \nLa Villa Madie (Cassis): A two-Michelin-starred restaurant oﬀering a variety of dishes\ninspired by the Mediterranean. The stunning views and exceptional service make it a \ntop choice for luxurious dining.",
+          "coordinates": [
+            87.28112030029297,
+            73.43212127685547,
+            528.919677734375,
+            120.04598236083984
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "• \nLe Clos des Sens (Annecy): A three-Michelin-starred restaurant oﬀering a variety of \ndishes made with fresh, local ingredients. The elegant setting and exceptional service\nmake it a top choice for fine dining.",
+          "coordinates": [
+            87.41454315185547,
+            132.34129333496094,
+            530.5013427734375,
+            178.8831329345703
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "• \nLe Pavillon Ledoyen (Paris): A three-Michelin-starred restaurant oﬀering a variety of \ndishes made with fresh, local ingredients. The elegant setting and exceptional service\nmake it a top choice for fine dining.",
+          "coordinates": [
+            87.56497955322266,
+            191.4492645263672,
+            530.3972778320312,
+            238.8541259765625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nLe Pré Catelan (Paris): A three-Michelin-starred restaurant oﬀering a variety of dishes \nmade with fresh, local ingredients. The elegant setting and exceptional service make it\na top choice for fine dining.",
+          "coordinates": [
+            87.30548858642578,
+            251.48291015625,
+            536.1231079101562,
+            298.5025634765625
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 4
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.664,
+          "text": "Hotels",
+          "coordinates": [
+            69.6881103515625,
+            74.00160217285156,
+            105.83354187011719,
+            84.15331268310547
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.829,
+          "text": "Budget-Friendly Hotels",
+          "coordinates": [
+            69.81700897216797,
+            98.4373550415039,
+            192.3261260986328,
+            110.45464324951172
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nIbis Budget Nice Californie Lenval (Nice): A budget-friendly hotel oﬀering comfortable\nrooms and easy access to the beach and city center. The modern amenities and \nconvenient location make it a great choice for budget-conscious travelers.",
+          "coordinates": [
+            87.51527404785156,
+            123.17039489746094,
+            537.0982055664062,
+            169.6953887939453
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nHotel Le Saint Paul (Nice): A charming hotel located in a historic building, oﬀering \naﬀordable rates and beautiful views of the Mediterranean. The cozy rooms and \nfriendly service make it a pleasant stay.",
+          "coordinates": [
+            87.50537109375,
+            182.2283935546875,
+            517.1535034179688,
+            229.53713989257812
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.912,
+          "text": "• \nHotel des Arts (Montpellier): A budget-friendly hotel located in the heart of \nMontpellier, oﬀering comfortable rooms and easy access to the city's attractions. The\nartistic decor and central location make it a popular choice.",
+          "coordinates": [
+            87.27984619140625,
+            242.423828125,
+            530.8663940429688,
+            288.2563171386719
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nHotel Le Mistral (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and \na convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it\na good option for travelers on a budget.",
+          "coordinates": [
+            87.28489685058594,
+            301.39752197265625,
+            535.8556518554688,
+            347.5223693847656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.922,
+          "text": "• \nHotel Azur (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy \naccess to the beach and city center. The modern amenities and convenient location \nmake it a great choice for budget-conscious travelers.",
+          "coordinates": [
+            87.63420867919922,
+            360.3375244140625,
+            523.8662719726562,
+            406.69305419921875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nHotel de la Paix (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and \na convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it\na good option for travelers on a budget.",
+          "coordinates": [
+            87.5046615600586,
+            419.4853210449219,
+            535.6317749023438,
+            466.534912109375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.899,
+          "text": "• \nHotel du Palais (Montpellier): A budget-friendly hotel located in the heart of \nMontpellier, oﬀering comfortable rooms and easy access to the city's attractions. The\nartistic decor and central location make it a popular choice.",
+          "coordinates": [
+            87.50349426269531,
+            479.45166015625,
+            530.566162109375,
+            525.4243774414062
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.925,
+          "text": "• \nHotel de la Mer (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy \naccess to the beach and city center. The modern amenities and convenient location \nmake it a great choice for budget-conscious travelers.",
+          "coordinates": [
+            87.4375228881836,
+            538.2642822265625,
+            530.1011962890625,
+            584.7278442382812
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nHotel de la Plage (Marseille): A budget-friendly hotel oﬀering simple, clean rooms and\na convenient location near the Old Port. The friendly staﬀ and aﬀordable rates make it \na good option for travelers on a budget.",
+          "coordinates": [
+            87.41707611083984,
+            597.4014282226562,
+            537.1767578125,
+            644.6224975585938
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.903,
+          "text": "• \nHotel de la Gare (Montpellier): A budget-friendly hotel located in the heart of \nMontpellier, oﬀering comfortable rooms and easy access to the city's attractions. The\nartistic decor and central location make it a popular choice.",
+          "coordinates": [
+            87.12430572509766,
+            657.350830078125,
+            530.6409912109375,
+            703.5534057617188
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.827,
+          "text": "Family-Friendly Hotels",
+          "coordinates": [
+            69.82418060302734,
+            73.43749237060547,
+            190.11961364746094,
+            85.208740234375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "• \nClub Med Opio en Provence (Opio): A family-friendly resort oﬀering a wide range of \nactivities for children and adults, including sports, entertainment, and kids' clubs. The\nbeautiful setting and all-inclusive amenities make it a hassle-free vacation spot.",
+          "coordinates": [
+            87.48529052734375,
+            98.11786651611328,
+            531.8530883789062,
+            144.2843475341797
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nLe Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel oﬀering \nspacious rooms, beautiful gardens, and a variety of activities for children. The elegant \ndecor and attentive service ensure a comfortable stay for families.",
+          "coordinates": [
+            87.74554443359375,
+            157.1646270751953,
+            532.3782348632812,
+            203.00296020507812
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "• \nHôtel Les Roches Rouges (Saint-Raphaël): A family-friendly hotel located on the \nbeach, oﬀering comfortable rooms, a kids' club, and a variety of water sports. The \nbeachfront location and family-oriented amenities make it a great choice for a seaside \nvacation.",
+          "coordinates": [
+            87.5279312133789,
+            216.1609649658203,
+            536.32080078125,
+            279.1282653808594
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "• \nChâteau de Berne (Lorgues): A family-friendly hotel located on a vineyard, oﬀering \nspacious rooms, a kids' club, and a variety of outdoor activities. The picturesque \nsetting and family-friendly facilities make it a unique and enjoyable stay.",
+          "coordinates": [
+            87.75000762939453,
+            293.17047119140625,
+            521.4693603515625,
+            340.1009216308594
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nHôtel Barrière Le Majestic (Cannes): A luxurious family-friendly hotel oﬀering spacious\nrooms, beautiful gardens, and a variety of activities for children. The elegant decor and \nattentive service ensure a comfortable stay for families.",
+          "coordinates": [
+            87.84379577636719,
+            352.3600769042969,
+            538.7008666992188,
+            397.9768371582031
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "• \nHôtel du Cap-Eden-Roc (Antibes): A luxurious family-friendly hotel oﬀering spacious \nrooms, beautiful gardens, and a variety of activities for children. The elegant decor and\nattentive service ensure a comfortable stay for families.",
+          "coordinates": [
+            87.7964859008789,
+            411.3974304199219,
+            538.3142700195312,
+            457.9661560058594
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nHôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel oﬀering\nspacious rooms, beautiful gardens, and a variety of activities for children. The elegant \ndecor and attentive service ensure a comfortable stay for families.",
+          "coordinates": [
+            87.58068084716797,
+            471.1867370605469,
+            532.8566284179688,
+            516.841552734375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "• \nHôtel Le Negresco (Nice): A luxurious family-friendly hotel oﬀering spacious rooms,\nbeautiful gardens, and a variety of activities for children. The elegant decor and \nattentive service ensure a comfortable stay for families.",
+          "coordinates": [
+            87.7890396118164,
+            530.52734375,
+            525.613037109375,
+            576.0054931640625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "• \nHôtel Martinez (Cannes): A luxurious family-friendly hotel oﬀering spacious rooms,\nbeautiful gardens, and a variety of activities for children. The elegant decor and \nattentive service ensure a comfortable stay for families.",
+          "coordinates": [
+            87.55689239501953,
+            589.4160766601562,
+            522.7333984375,
+            635.859619140625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nHôtel de Paris (Monaco): A luxurious family-friendly hotel oﬀering spacious rooms,\nbeautiful gardens, and a variety of activities for children. The elegant decor and \nattentive service ensure a comfortable stay for families.",
+          "coordinates": [
+            87.2762680053711,
+            649.3819580078125,
+            521.16015625,
+            695.0513916015625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [],
+      "element_counts": {}
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.824,
+          "text": "Upscale Hotels",
+          "coordinates": [
+            69.88549041748047,
+            73.4120101928711,
+            149.63375854492188,
+            84.91199493408203
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nHotel Negresco (Nice): A historic five-star hotel located on the Promenade des \nAnglais, oﬀering luxurious rooms and exceptional service. The opulent decor and \nprime location make it a landmark in Nice.",
+          "coordinates": [
+            87.73760986328125,
+            98.1436538696289,
+            511.84063720703125,
+            144.48699951171875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nInterContinental Marseille - Hotel Dieu (Marseille): A luxurious hotel located in a \nbeautifully restored 18th-century building, oﬀering stunning views of the Old Port and \nthe city. The elegant rooms and top-notch amenities make it a standout choice.",
+          "coordinates": [
+            87.76617431640625,
+            157.20370483398438,
+            536.0435180664062,
+            203.55307006835938
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nHotel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette, \noﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The \nglamorous setting and high-end services make it a favorite among celebrities.",
+          "coordinates": [
+            87.62547302246094,
+            216.10641479492188,
+            528.54248046875,
+            263.7891845703125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nLa Bastide de Gordes (Gordes): A luxurious hotel located in a historic building, \noﬀering elegant rooms, beautiful gardens, and stunning views of the Luberon Valley. \nThe refined decor and serene atmosphere make it a perfect retreat.",
+          "coordinates": [
+            87.7027359008789,
+            276.3238220214844,
+            527.9574584960938,
+            322.4948425292969
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nHôtel Barrière Le Majestic (Cannes): A luxurious hotel located on the Boulevard de la\nCroisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. \nThe glamorous setting and high-end services make it a favorite among celebrities.",
+          "coordinates": [
+            87.92550659179688,
+            335.068603515625,
+            531.6653442382812,
+            381.9981994628906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nHôtel du Cap-Eden-Roc (Antibes): A luxurious hotel located on the Boulevard de la \nCroisette, oﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. \nThe glamorous setting and high-end services make it a favorite among celebrities.",
+          "coordinates": [
+            88.09932708740234,
+            394.241455078125,
+            528.2977294921875,
+            441.8350524902344
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nHôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious hotel located on the \nBoulevard de la Croisette, oﬀering elegant rooms, a private beach, and a Michelin-\nstarred restaurant. The glamorous setting and high-end services make it a favorite \namong celebrities.",
+          "coordinates": [
+            87.63510131835938,
+            454.0816345214844,
+            517.4368286132812,
+            517.4182739257812
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.938,
+          "text": "• \nHôtel Le Negresco (Nice): A luxurious hotel located on the Boulevard de la Croisette,\noﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The \nglamorous setting and high-end services make it a favorite among celebrities.",
+          "coordinates": [
+            87.7118148803711,
+            530.4867553710938,
+            530.9263305664062,
+            576.743408203125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nHôtel Martinez (Cannes): A luxurious hotel located on the Boulevard de la Croisette, \noﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The \nglamorous setting and high-end services make it a favorite among celebrities.",
+          "coordinates": [
+            87.49583435058594,
+            589.3890991210938,
+            528.2628784179688,
+            637.094970703125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.925,
+          "text": "• \nHôtel de Paris (Monaco): A luxurious hotel located on the Boulevard de la Croisette,\noﬀering elegant rooms, a private beach, and a Michelin-starred restaurant. The \nglamorous setting and high-end services make it a favorite among celebrities.",
+          "coordinates": [
+            87.26375579833984,
+            649.3815307617188,
+            527.1280517578125,
+            695.963134765625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.801,
+          "text": "Luxurious Hotels",
+          "coordinates": [
+            70.05876922607422,
+            73.7276382446289,
+            159.4490966796875,
+            83.92678833007812
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "• \nGrand-Hôtel du Cap-Ferrat, A Four Seasons Hotel (Saint-Jean-Cap-Ferrat): A luxurious\nhotel set on 7 hectares of Mediterranean gardens, oﬀering elegant rooms, a spa, and a \nprivate beach. The exclusive setting and world-class amenities make it a top choice for\nluxury travelers.",
+          "coordinates": [
+            87.7259750366211,
+            98.15697479248047,
+            536.992919921875,
+            160.91220092773438
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \nHôtel de Paris Monte-Carlo (Monaco): A luxurious hotel located in the heart of \nMonaco, oﬀering opulent rooms, a world-class spa, and several Michelin-starred\nrestaurants. The historic grandeur and exceptional service make it a premier \ndestination.",
+          "coordinates": [
+            87.28955078125,
+            174.17051696777344,
+            508.1068115234375,
+            237.14453125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nChâteau Saint-Martin & Spa (Vence): A luxurious hotel set in a historic château, \noﬀering elegant rooms, a Michelin-starred restaurant, and a world-class spa. The\ntranquil setting and luxurious amenities make it a perfect getaway.",
+          "coordinates": [
+            87.51819610595703,
+            251.34556579589844,
+            508.64923095703125,
+            297.9644470214844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "• \nAirelles Château de la Messardière (Saint-Tropez): A luxurious hotel set in a historic \nchâteau, oﬀering elegant rooms, beautiful gardens, and stunning views of the \nMediterranean. The refined ambiance and top-tier services make it a standout choice\nfor luxury accommodations.",
+          "coordinates": [
+            87.50341796875,
+            310.34332275390625,
+            531.4824829101562,
+            373.1755065917969
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nHôtel du Cap-Eden-Roc (Antibes): A legendary hotel oﬀering luxurious rooms, a \nprivate beach, and a world-class spa. The stunning location and impeccable service \nmake it a favorite among celebrities and discerning travelers.",
+          "coordinates": [
+            87.93732452392578,
+            386.3408203125,
+            522.1422729492188,
+            433.82073974609375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "• \nLa Réserve Ramatuelle (Ramatuelle): A luxurious hotel oﬀering elegant rooms, a spa,\nand breathtaking views of the Mediterranean. The serene setting and exceptional \nservice make it a top choice for a relaxing retreat.",
+          "coordinates": [
+            87.73724365234375,
+            446.5154113769531,
+            532.12939453125,
+            492.67694091796875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nVilla La Coste (Le Puy-Sainte-Réparade): A luxurious hotel set in a vineyard, oﬀering \nelegant rooms, a spa, and a Michelin-starred restaurant. The artistic ambiance and \nworld-class amenities make it a unique and memorable stay.",
+          "coordinates": [
+            88.00973510742188,
+            505.22967529296875,
+            528.2557373046875,
+            551.0701293945312
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nHôtel Hermitage Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a \nworld-class spa, and several fine dining options. The historic charm and exceptional \nservice make it a premier destination in Monaco.",
+          "coordinates": [
+            87.75796508789062,
+            564.3759765625,
+            530.9437255859375,
+            610.2763671875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nLe Byblos (Saint-Tropez): A luxurious hotel oﬀering elegant rooms, a spa, and a vibrant\nnightlife scene. The glamorous setting and top-notch amenities make it a favorite \namong the jet set.",
+          "coordinates": [
+            87.2874526977539,
+            624.1941528320312,
+            539.417724609375,
+            670.9353637695312
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 9
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "• \nHôtel Métropole Monte-Carlo (Monaco): A luxurious hotel oﬀering opulent rooms, a\nworld-class spa, and several Michelin-starred restaurants. The refined elegance and \nexceptional service make it a top choice for luxury travelers.",
+          "coordinates": [
+            87.75497436523438,
+            73.36275482177734,
+            529.766357421875,
+            120.57566833496094
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 1
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.851,
+          "text": "Conclusion",
+          "coordinates": [
+            69.88256072998047,
+            74.10861206054688,
+            129.08531188964844,
+            84.20309448242188
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.966,
+          "text": "The South of France oﬀers a wide range of dining and accommodation options to suit every \nbudget and preference. Whether you're looking for budget-friendly eateries, family-friendly \nspots, upscale dining, or luxurious experiences, this guide will help you find the perfect places\nto eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming \nvillages of Provence, the South of France promises an unforgettable travel experience. Bon \nvoyage!",
+          "coordinates": [
+            68.89967346191406,
+            98.43264770507812,
+            538.794677734375,
+            196.2738037109375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+[
+  {
+    "title": "Edit text in a PDF",
+    "text": "Open the PDF you want to edit in Acrobat, and then select Edit in the global bar. The PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a\nscanned document, Acrobat automatically runs OCR to make the text and images editable. The Edit panel includes options to modify the page, add content, redact a PDF, and convert \nvarious documents to PDF forms. You can use the options in the Edit panel to replace, edit, or\nadd text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment, \nadd superscripts or subscripts, and resize text or paragraphs.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 2
+  },
+  {
+    "title": "Set the default font for adding and editing text",
+    "text": "When you add text in a PDF, by default Acrobat chooses nearby font attributes for the new \ntext. When you edit text, any font that isn't available on the system is substituted by a default \nfall-back font for the particular script. For example, Minion Pro is the default fall-back font for \nRoman script fonts. The substitution of unavailable fonts by default fonts can introduce \ninconsistency in the look and feel of text in a PDF document. To avoid inconsistency, choose a\nspecific font for any text that is added or modified in the PDF document from Font \nOptions under Content Editing. 1. From the hamburger menu \n (Windows) or the Acrobat menu (macOS), 1. From the hamburger menu \n (Windows) or the Acrobat menu (macOS), \nchoose Preferences. The Preferences dialog box is displayed. \n(Alternatively, you can press Ctrl+K keys on Windows® or Command+K keys on \nmacOS.) (Alternatively, you can press Ctrl+K keys on Windows® or Command+K keys on\nmacOS.) 2. In the dialog box, select Content Editing under Categories to display Font Options. 3. Select an appropriate font in the drop-down lists: 1. Fallback font for Editing. 2. Default font for Add Text and Font Size. 4. Select OK to save the changes and close the Preferences dialog box.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 3
+  },
+  {
+    "title": "Change, replace, or delete text",
+    "text": "When you edit text, the text in the paragraph reflows within its text box to accommodate the \nchanges. Each text box is independent, and inserting text in one text block doesn’t push down\nan adjacent text box or reflow to the next page. 1. Select Edit in the global bar. 2. Select the text that you want to edit. The text-box turns blue upon selection, and a\nrotation handle appears at the top of the selected text-box.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 4
+  },
+  {
+    "title": "3. Edit the text by doing one of the following:",
+    "text": "1. Type new text to replace the selected text, or press Delete to remove it. 2. To rotate the text box, use the rotation handle at the top of the selected text\nbox. 3. Manage list items using the list controls (bulleted and numbered) in the left \nFormat panel. You can create lists and, conversely, convert a list item to a \nparagraph or change list types. 4. Select a font, font size, or other formatting options in the left Format panel. You\ncan also try the advanced format options, such as line spacing, character \nspacing, horizontal scaling, stroke width, and color.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 4
+  },
+  {
+    "title": "Format text",
+    "text": "1. Select Edit in the global bar. 2. Select the text that you want to change. 3. In the Format Text section on the left panel, select a font, font size, bold, or other \nformatting options. You can also try the advanced format options, such as line spacing,\ncharacter spacing, horizontal scaling, stroke width, and color. Formatting options on the left pane •\nBold : Bolds the text. •\nItalic : Makes the text italic. • \nUnderline: Underlines the text. • \nSuperscript : Converts the selected text into superscript. • \nSubscript: Converts the sleected text into subscript. 4. Select outside the selection to deselect it and start over.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 5
+  },
+  {
+    "title": "Add new text",
+    "text": "You can add or insert new text into a PDF using any of the fonts installed on the system. 1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add \nContent. 2. Drag to define the width of the text block that you want to add. 3. The Add text tool intelligently detects the following text properties of text close to the\npoint of click: • \nFont name, size, and color • \nCharacter, paragraph, and line spacing • \nHorizontal scaling These text properties are automatically applied to the text that you add at the point of click. You can change the text properties using the options under Format in the left pane. 4. Type the text. 5. To resize the text box, drag a selection handle. 6. To move the text box, place the pointer over the line of the bounding box (avoid the \nselection handles). When the cursor changes to Move pointer \n, drag the box to the\nnew location. To maintain alignment with the other list items, press Shift as you drag.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "Move, rotate, or resize a text box",
+    "text": "You can move or rotate text boxes on a page. The Edit tool outlines each text box, so it's clear \nwhat text is affected. Edits are confined to the page. You can't drag a text block to another \npage, or move or rotate individual characters or words within a text box. However, you can \ncopy text boxes and paste them on another page. Resizing a text box causes the text to reflow within the new text box boundaries. It doesn't \nchange the size of the text. As with other text edits, resizing is limited to the current page. Text \ndoesn't flow to the next page. 1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add 2. Select the text box that you want to move, rotate, or resize.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "3. Do any of the following:",
+    "text": "1. Move: Place the pointer over the line of the bounding box (avoid the selection\nhandles). When the cursor changes to Move pointer \n, drag the box to the \ndesired location. Hold down the Shift key as you drag to constrain the \nmovement vertically or horizontally. 2. Rotate: Click and hold the  Rotation pointer \n, drag in the direction you\nwant it to rotate. 3. Resize: Place the pointer over any of the circular selection handles, and drag the handle to resize the text block.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Add or edit lists",
+    "text": "You can add items to a numbered or bulleted list, create list items, convert a paragraph to a\nlist item, and conversely. You can also change list types. 1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add \nContent. 2. To add or remove items from a numbered or bulleted list: • Note: You can add or remove items to the list at all nested levels using the \nsame familiar controls that you use in Microsoft® Office. For example, \npress Enter at the end of a list item to insert a new row. Press Backspace to \nremove the new row and position the cursor back to the end of the previous\nlist item. To create a numbered or bulleted list: 1. Place the cursor in the document at the location where you want to add a list. 2. Choose the appropriate list type under Format Text. To convert an existing paragraph to a list item: • \nPlace the cursor in the paragraph, and then choose the appropriate list type \nunder Format Text. To convert an existing list item to a paragraph: 1. Select all items in the list. The appropriate list type is highlighted under Format Text. 2. Click the highlighted list type. To convert from one list type to another: 1. Place the cursor in the list item or select all items. 2. Choose the appropriate list type under Format Text.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Change font color",
+    "text": "1. Select Edit in the global bar. 2. Select the text that you want to change. 3. In the Format Text section on the Edit panel, select Font color next to Font size. 4. For Windows: You see a color panel for Windows to choose the color you want. Select\nthe color you want your text to change into. For macOS: You see a Color dialog box with options to change the font color. You can\nselect the color you want and then close the dialog box to change the font color.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Change font",
+    "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add \nContent. 2. Select the text that you want to change. 3. In the Format Text section on the Edit panel, from the Font drop-down menu, select\nthe Font you want for the selected text.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 11
+  },
+  {
+    "title": "Change font size",
+    "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add\nContent. 2. Select the text that you want to change. 3. In the Format Text section on the Edit panel, from the Font size menu, select the font \nsize you want for the selected text.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 11
+  },
+  {
+    "title": "Redo text in Acrobat",
+    "text": "1. Open the PDF in which you want to redo the text. 2. (Windows) Select the hamburger menu in the upper left. Then select Undo, Redo &\nmore > Redo. (macOS) Select Edit in the upper left. Then select Undo, Redo and More > Redo.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 11
+  },
+  {
+    "title": "Undo text in Acrobat",
+    "text": "1. Open the PDF in which you want to redo the text. 2. (Windows) Select the hamburger menu in the upper left. Then select Undo, Redo &\nmore > Undo. (macOS) Select Edit in the upper left. Then select Undo, Redo and More > Undo.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 11
+  },
+  {
+    "title": "Change paragraph spacing",
+    "text": "You can change paragraph spacing in Acrobat using format text options: 1. Select Edit from the global bar in the upper left. 2. Select the text for which you want to modify the paragraph spacing. 3. From the FORMAT TEXT panel, select Paragraph spacing after drop-down menu and\nthen select the value to adjust spacing as needed.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 12
+  },
+  {
+    "title": "About editing text and images",
+    "text": "Adobe Acrobat provides powerful tools and capabilities for editing PDF images and text. You might encounter formatting challenges that require manual adjustments. Acrobat's \nimage-editing capabilities are limited, and using high-resolution images can lead to performance issues due to larger file sizes. To address this, improve images using other tools\nbefore adding them to PDF documents. If the original font isn't available, font substitutions may occur, altering the text's appearance.\nTo maintain consistency across devices, we suggest you use the available fonts or embed \nthem within the PDF. You can also enhance document accessibility using Acrobat's features, such as adding \nalternative text for images and proper content tagging. Refer to the following topics to learn how to add, resize, move, or replace images and objects\nin a PDF using Acrobat.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 13
+  },
+  {
+    "title": "Add images in a PDF",
+    "text": "1. Open the PDF in Acrobat. Select Edit a PDF from the All tools menu and then\nselect Image. 2. From the drop-down menu, select Choose image to select an image from your device\nor Select Generate image to generate an image from text.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 13
+  },
+  {
+    "title": "Note:",
+    "text": "To learn how to generate images from text, go to Generate unique AI images from text. 3. In the dialog, select the image file you want to insert. 4. Select where you want to insert the image or select drag to resize it as you insert. A copy of the image file appears on the page, with the same resolution as the original\nfile. 5. Once the image is added, you can take any of the following actions: • \nTo move the image, hover over the image, press and hold the move icon, and\nthen drag the image to the desired location. • \nTo resize the image, select the image, hold the resize corner handles, and then\ndrag the handles in or out to reduce or enlarge the image size.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 13
+  },
+  {
+    "title": "Modify images in a PDF",
+    "text": "To modify images in a PDF, select Edit from the global bar. Select the image you want to \nmodify, then from the Edit panel, under Adjust Objects, select one of the following tools: • \n Flip Vertical: Flips the image vertically, on the horizontal axis. • \n Flip Horizontal: Flips the image horizontally, on the vertical axis. • \n Rotate left: Rotates the selected image 90° in the counterclockwise direction. • \n Rotate right: Rotates the selected image 90° in the clockwise direction. • \n Crop image: Crops or clips the selected image. Drag a selection handle to crop the image. • \n Replace image: From the drop-down menu, select Choose image to select an image\nfrom your device or Select Generate image to an image from text. • \n Align objects: To align multiple objects on a side - left, vertical center, right, top, \nhorizontal, center, and bottom. When you align objects relative to each other by their edges, one of the objects remains \nstationary. For example, the left option aligns the left edges of the selected objects with the\nleftmost object. • \n Arrange objects: To move an image or object in front of or behind other elements. You\ncan push an item forward or back on just one level. Alternatively, you can send it to the front\nor back of the stacking order of elements on the page. Place the pointer just outside a selection handle to rotate the selected image manually. When the\ncursor changes to the rotation pointer\n, drag in the direction you want it to turn.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 14
+  },
+  {
+    "title": "Delete images from a PDF",
+    "text": "1. Open the PDF document in Adobe Acrobat. Select Edit from the global bar. 2. Select the image you want to delete, and a contextual menu opens. Select \nDelete   from the contextual menu. Alternatively, you can also select the image and press Delete.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 15
+  },
+  {
+    "title": "Add Objects to PDF",
+    "text": "1. Open a PDF, and then from the All tools menu, select Edit a PDF. .From the left panel, select More from under Add Content to expand the menu and\nselect a desired tool.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 15
+  },
+  {
+    "title": "2. To add a button:",
+    "text": "1. From the left menu, select Button. 2. Once the button coordinates appear, move the mouse to a desired location\nand place the button. 3. In the dialog that appears, provide a name to the button. 4. To change the properties of the button, double-click the button and then select\nin the dialog that appears, set the properties as desired.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 15
+  },
+  {
+    "title": "3. To add a video:",
+    "text": "1. From the left menu, select Video. 2. Drag your cursor on the document where you want to add the video. 3. In the Insert Video dialog that appears, browse and select the video file that you\nwant to add. 4. Select OK.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "4. To add sound to the PDF:",
+    "text": "4. To add sound to the PDF: 1. From the left menu, select Sound. 2. Drag the cursor over the text or image that you want to add sound to. 3. In the Insert Sound dialog that appears, browse and select the audio file that\nyou want to add. 4. Select OK.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "5. To add 3D Media to the video:",
+    "text": "5. To add 3D Media to the video: 1. From the left menu, select 3D Media. 2. Once the button coordinates appear, move the mouse to a desired location\nand place the button. 3. In the dialog that appears, browse and select the file. 4. Select Ok.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "Edit an image outside Acrobat",
+    "text": "You can edit an image or graphic using another application, such as Photoshop, Illustrator, or \nMicrosoft® Paint. When you save the image or graphic, Acrobat automatically updates the PDF\nwith the changes. The applications that appear in the Edit using menu depend upon what \nyou've installed and the type of image or graphic you've selected. Optionally, you can specify \nthe application you want to use. 1. Open the PDF in Acrobat, choose Edit, and then select the image or object. Note: Select multiple items if you want to edit them together in the same file. To edit all the\nimages and objects on the page, choose Select All from the context menu. 2. Under Adjust Objects in the Edit panel, select Edit using, and then choose an editor. \nTo choose a different editor than offered on the menu, select Open with, find the app, and the app\nand select Open. Note: If a message asks whether to convert to ICC profiles, choose Don’t Convert. If the image\nwindow displays a checkerboard pattern when it opens, the image data couldn't be read.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+    "page_number": 16
+  }
+]

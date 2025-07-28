@@ -1,0 +1,158 @@
+[
+  {
+    "title": "Types of PDF forms",
+    "text": "• \nInteractive forms: These contain fields that you can select and fill in. • \nFlat forms: These do not have interactive fields. It could be a paper form or PDF that \nhasn’t been optimized for form filling. The Fill & Sign tool automatically detects the \nform fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if \nrequired. You can complete the forms by entering information and adding your signatures. Acrobat\nalso allows you to send your completed forms to others and securely save them in Adobe\ncloud storage.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 2
+  },
+  {
+    "title": "Fill and sign PDF forms",
+    "text": "To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the\nglobal bar. Alternatively, you can select All tools > Fill & Sign. It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the\nform using the sign tools described in the following topics.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 2
+  },
+  {
+    "title": "To fill text fields:",
+    "text": "1. From the left panel, select Fill in form fields \n, and then select the field where you\nwant to add text. It displays a text field along with a toolbar. 2. Select the text field again and enter your text. 3. To reposition the text box to align it with the text field, select the textbox and hover\nover it. Once you see a plus icon with arrows, move the textbox to the desired \nposition. 4. To edit the text, select the text box. Once you see the cursor and keypad, edit the text\nand then click elsewhere to enter. 5. To change the text size, select A or A as required.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 2
+  },
+  {
+    "title": "Note:",
+    "text": "Resize the first annotation you place to fit the check box or radio button in the \ndocument, and the next annotations you add will be of the same size and will fit the\nrest of the box/circle fields. 6. To change the text color, select the color from the quick toolbar and select a desired\ncolor from the color palette. The default color for signatures is black. To change the color of signatures, you must\ndeselect the Keep signatures black checkbox. Repeat the step to fill all the required fields in the form.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 3
+  },
+  {
+    "title": "To fill radio option fields:",
+    "text": "1. Hover over the field with the radio option. It automatically displays the default checkmark or the selected radio field symbol. 2. Select the radio option field to enter the symbol. 3. To change the symbol, select the field again, and then from the menu, ellipsis ( ) and\nthen select another symbol. It marks the field with the selected symbol.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 5
+  },
+  {
+    "title": "To add signature and initials:",
+    "text": "1. Create your signature and initials if not already done. To do so: 1. From the Quick action toolbar, select Add your signature or initials 2. To add a signature, select Add signature. In the dialog that appears, type or \ndraw your signature and then select Done. 3. To add your initials, select Add initials. In the dialog that appears, type or draw\nyour initials and then select Done. Note: You may also add an image as your signature or initials. To add an existing \nimage, tap the image icon from the top menu. To take a new picture to be added as\nyour signature, tap the camera icon and follow through with the workflow.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 5
+  },
+  {
+    "title": "2. To add a signature:",
+    "text": "1. From the Quick actions toolbar, select Add your signature or initials \nSelect Add Signature. 2. Your signature appears in the field. Note: Once you add a signature or initial to a form and save it, you cannot edit\nit again. 3. To adjust the placement of your signature, hover over the signature till you see\na plus icon, and then click and move the signature as desired. 4. To adjust the size of your signature, hover over the blue circle at the corner and\nthen hold and drag it as desired. Once you add a signature or an initial to a form and save it, you cannot edit it again.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "3. To add your initials:",
+    "text": "1. From the Quick actions toolbar, select Add your signature or initials \nSelect Add Initials. Your initials appear in the field. 2. To adjust the placement of your signature, hover over it until you see a plus\nicon, and then click and move the signature as desired. 3. To adjust the size of your signature, hover over the blue circle at the corner and\nthen hold and drag it as desired.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Note:",
+    "text": "If you want to use an image as your signature or initials: • \nSign your name in black ink on a clean, blank sheet of white paper. Sign in the middle\nof the paper so you don't photograph or scan the edges. • \nPhotograph or scan your signature. If you are taking a picture of your signature, make\nsure that the page is lit and that no shadows fall across the signature. • \nTransfer the photo or scan to your computer. Acrobat/Reader accepts JPG, JPEG, PNG,\nGIF, TIFF, TIF, and BMP files. You do not need to crop the image. Acrobat/Reader \nimports just the signature if the photo or scan is fairly clean.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Is the form fillable?",
+    "text": "Not all forms are fillable. Sometimes form creators don’t convert their PDFs to \ninteractive fillable forms. Or, they intentionally design a form that you can fill in only by hand\nor with the Fill & Sign tool. These non-interactive forms are called flat forms. ",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Fill in interactive forms",
+    "text": "An interactive form contains fields that you can select or fill in.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Note:",
+    "text": "The forms preferences apply to the way that the application handles open forms as you work.\nThe preferences aren’t saved with the PDF forms themselves.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Enable the Auto-Complete option",
+    "text": "1. From the hamburger menu, select Preferences (Windows®), or select Acrobat \n/ Acrobat Reader > Preferences (macOS). 2. In the Preferences dialog, select Forms as the preference category. 3. Under Auto-Complete, choose Basic or Advanced from the menu. 4. Select Remember Numerical Data if you want the Auto-Complete memory to store\nnumbers that you type into forms.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Note:",
+    "text": "When you select an option in the Auto-Complete menu, a description of how it affects\nthe Auto-Complete behavior appears in the text area below.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Delete an entry from the Auto-Complete memory",
+    "text": "1. Open the Preferences dialog. From the hamburger menu, \nselect Preferences (Windows®), or select Acrobat / Acrobat \nReader > Preferences (macOS). 2. Select Forms on the left. 3. Click Edit Entry List under Auto-Complete. 4. In the Auto-Complete Entry List dialog box, do one of the following, and then\nselect Yes to confirm: • \nTo remove all entries, select Remove All. • \nTo remove some of the entries, select the entries and click Remove. (Shift-\nselect to select multiple adjacent entries; Ctrl-select to select multiple \nnonadjacent entries.)",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Change flat forms to fillable (Acrobat Pro)",
+    "text": "You can change a flat form to a fillable form by either using the Prepare Form tool or \nenabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool\nto fill in flat forms.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 12
+  },
+  {
+    "title": "Interactive form",
+    "text": "To create an interactive form, use the Prepare Forms tool. See Create a form from an existing\ndocument.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 12
+  },
+  {
+    "title": "Flat form",
+    "text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) \nchoose Save As Other  > Acrobat Reader Extended PDF > Enable More Tools (includes\nForm Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this\ntask to enable Acrobat Reader users to use the tools.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 12
+  },
+  {
+    "title": "Save forms",
+    "text": "• \nTo save the completed form, choose Save As from the hamburger menu (File > Save\nAs in macOS) and rename the file. • \nTo remove extended Acrobat Reader features, choose Save A Copy (File > Save A \nCopy in macOS). • \nTo allow Acrobat Reader users to save the data they typed, choose one of the\nfollowing depending upon your operating system: Windows®: Save As Other > Acrobat Reader Extended PDF > Enable More Tools \n(Includes Form Fill-in & Save) macOS: File > Save As Other > Acrobat Reader Extended PDF > Enable More Tools\n(Includes Form Fill-in & Save).",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 13
+  },
+  {
+    "title": "Print forms",
+    "text": "1. Select Print this file \n from the upper right. 2. Choose an appropriate printer in the Print dialog box. 3. In the Comments And Forms menu, choose one of the following, and then select OK: • \n(Interactive or flat form) To print the form and the typed entries, choose Document. This option prints text that you’ve typed using the Add \nText tool. • \n(Interactive or flat form) To print the form, the typed entries, and any \ncomments on the form, choose Document And Markups. This option prints\ntext that you’ve typed using the Add Text tool. • \n(Interactive form only) To print only the typed entries and not the form itself,\nchoose Form Fields Only.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 14
+  },
+  {
+    "title": "Clear unsaved form entries",
+    "text": "1. Choose Tools > Prepare a form. In the Fields side panel, choose Clear Form from the\nOptions menu  . You can sign a document to attest to its contents or approve the document. This document \nexplains how to sign a document or agreement using Acrobat or Reader desktop application. To sign a PDF document or form, you can type, draw, or insert an image of your handwritten \nsignature. You can also add text, such as your name, company, title, or date. When you save \nthe document, the signature and text become part of the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 15
+  },
+  {
+    "title": "Note:",
+    "text": "You can also capture a picture of your signature on mobile using Adobe Acrobat Reader mobile\napp and save it in Adobe cloud storage so that it's synced and available for use across your \ndesktop and other mobile devices. 1. Open the PDF document. Select E-sign from the global bar. 2. Create your signature and initials if not already done. To do so: 1. To add a signature, select Add signature. In the dialog that appears, type, draw,\nor add an image of your signature and then select Done. 2. To add your initials, select Add initials. In the dialog that appears, type, draw, or\nadd an image of your initials and then select Done. 3. Select your signature. 4. The form fields are detected automatically. Hover the mouse over a field to display a \nblue box. Click anywhere in the blue box, the cursor will be placed at the right position\nautomatically. Type your text to fill the field. To fill the PDF form with your desired color, from the Quick actions toolbar, select the Color \nicon and then select a color. By default, the signature color is black. To retain the default color of the signature, make sure\nthe Keep signatures black option is unchecked. 5. If you've already added your signature or initials, just select it from the Sign options, \nand then click at the place in the PDF where you want to add your signature. Skip to \nthe next step. If you are signing for the first time, you see the Signature or Initials panel. Below is an example\nof the Signature panel. 6. Select Apply, and then click on the place in the PDF where you want to place the\nsignature or initial. 7. To move the placed signature or initial, select the field to highlight it and then use\nthe arrow keys. To resize or delete the field, use the options in the field toolbar. If you want to use an image as your signature: • \nSign your name in black ink on a clean, blank sheet of white paper. Sign in the middle\nof the paper so you don't photograph or scan the edges. • \nPhotograph or scan your signature. If you are taking a picture of your signature, make \nsure that the page is lit and that no shadows fall across the signature. • \nTransfer the photo or scan to your computer. Acrobat/Reader accepts JPG, JPEG, PNG,\nGIF, TIFF, TIF, and BMP files. You do not need to crop the image. Acrobat/Reader \nimports just the signature if the photo or scan is fairly clean.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 15
+  },
+  {
+    "title": "Sign an agreement",
+    "text": "If you receive an email request for a signature from someone using Adobe Acrobat Sign, you\ncan access the agreement from the link in your email or through your Acrobat or Acrobat \nReader desktop application. You will see a notification that an agreement has been shared \nwith you for signing. You can sign the agreement using one of the following two ways:",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "Sign using Acrobat/Reader desktop application",
+    "text": "1. Go to Acrobat or Acrobat Reader Home and then from under Agreements,\nselect Adobe Acrobat Sign. It takes you to the Adobe Acrobat Sign page where all the agreements shared or\nreceived for signature are displayed. 2. Double-click the agreement with the Waiting For You status, or select the \nagreement, and click Sign in the right-pane. The agreement opens. 3. Select the fields and enter the required information. 4. Select the signature field and then select Apply. Note: If you are signing for the first time, you see the Signature or Initials panel as\nshown below. • \nType: Type your name in the field. You can choose from a small selection of \nsignature styles; click Change Style to view a different style. • \nDraw: Draw your signature in the field. • \nImage: Browse and select an image of your signature. • \nMobile: Select this option to create your signature on a mobile device. Enter\nyour mobile number and click Send. A link is sent to your mobile. Clicking \nthe link opens the web browser on your mobile device where you can draw \nor select an image of your signature. • \nSave: When this check box is selected, and you're signed in to Acrobat \nReader or Acrobat, the added signature is saved securely in Adobe cloud \nstorage for reuse. 5. Once you complete all the fields and sign, select Click To Sign.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "Sign using the email link",
+    "text": "1. Select the link of the agreement received in your email for signing. The agreement\nopens in a web browser. 2. Select the fields and enter the requested information. 3. Select the signature field and then select Apply. • Type: Type your name in the field. You can choose from a small selection of signature\nstyles; click Change Style to view a different style. • Draw: Draw your signature in the field. • Image: Browse and select an image of your signature. • Mobile: Select this option to create your signature on a mobile device. Enter your \nmobile number and click Send. A link is sent to your mobile. Clicking the link opens\nthe web browser on your mobile device where you can draw or select an image of \nyour signature. • Save: When this check box is selected, and you're signed in to Acrobat Reader or \nAcrobat, the added signature is saved securely in Adobe cloud storage for reuse. 4. Select Click To Sign.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 17
+  },
+  {
+    "title": "Remove your signature or initials",
+    "text": "You can remove your saved signature or initials from Acrobat: 1. Open a PDF in Acrobat. 2. Select your signature present on the page. 3. From the floating toolbar, select Delete",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Fill and Sign.pdf",
+    "page_number": 18
+  }
+]

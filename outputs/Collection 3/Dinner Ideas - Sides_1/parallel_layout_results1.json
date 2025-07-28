@@ -1,0 +1,5831 @@
+{
+  "document": "CHALLENGE_1B\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+  "total_pages": 15,
+  "processing_time": "92.13s",
+  "layout_time_total": "104.50s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.976,
+          "text": "",
+          "coordinates": [
+            12.429546356201172,
+            14.798860549926758,
+            601.0509033203125,
+            775.2843017578125
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.783,
+          "text": "Acarajé",
+          "coordinates": [
+            69.7297134399414,
+            73.18567657470703,
+            109.90711975097656,
+            83.92821502685547
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.832,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.83753967285156,
+            88.60195922851562,
+            167.4115753173828,
+            98.85746765136719
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.643,
+          "text": "o 2 cups black-eyed peas",
+          "coordinates": [
+            124.18508911132812,
+            103.60053253173828,
+            255.5446319580078,
+            114.19552612304688
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.636,
+          "text": "o 1 small onion",
+          "coordinates": [
+            124.50233459472656,
+            118.21820068359375,
+            210.02145385742188,
+            127.80126953125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.633,
+          "text": "o 2 cloves garlic",
+          "coordinates": [
+            124.2437973022461,
+            132.77566528320312,
+            212.7484588623047,
+            142.53750610351562
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.642,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.44793701171875,
+            147.61318969726562,
+            218.6632537841797,
+            157.76272583007812
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.641,
+          "text": "o Oil for frying",
+          "coordinates": [
+            124.84748077392578,
+            162.1373291015625,
+            205.72068786621094,
+            172.06613159179688
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.831,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.84021759033203,
+            177.0454864501953,
+            170.41363525390625,
+            185.84754943847656
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.808,
+          "text": "o Soak black-eyed peas overnight, then peel and rinse.",
+          "coordinates": [
+            123.71946716308594,
+            191.15994262695312,
+            399.57470703125,
+            201.677490234375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.814,
+          "text": "o Blend peas with diced onion, minced garlic, and salt until smooth.",
+          "coordinates": [
+            123.70307922363281,
+            205.3843536376953,
+            462.03387451171875,
+            216.1332244873047
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.8,
+          "text": "o Form mixture into balls and fry in hot oil until golden.",
+          "coordinates": [
+            123.60087585449219,
+            220.3280487060547,
+            402.77435302734375,
+            231.32579040527344
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.805,
+          "text": "o Drain on paper towels and serve warm.",
+          "coordinates": [
+            124.14663696289062,
+            235.8812255859375,
+            335.2686767578125,
+            245.97750854492188
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.86,
+          "text": "Agedashi Tofu",
+          "coordinates": [
+            69.81625366210938,
+            264.2381286621094,
+            142.50375366210938,
+            274.5554504394531
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.712,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.79527282714844,
+            279.8604431152344,
+            167.8811798095703,
+            289.64239501953125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.626,
+          "text": "o 1 block tofu",
+          "coordinates": [
+            124.07624816894531,
+            293.52752685546875,
+            202.5560302734375,
+            303.283447265625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.617,
+          "text": "o 1/4 cup cornstarch",
+          "coordinates": [
+            124.19940185546875,
+            308.7677001953125,
+            236.28211975097656,
+            318.34423828125
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.618,
+          "text": "o 1 cup dashi broth",
+          "coordinates": [
+            124.20901489257812,
+            322.6236267089844,
+            229.96206665039062,
+            332.5587463378906
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.714,
+          "text": "o 2 tablespoons soy sauce",
+          "coordinates": [
+            124.04701232910156,
+            338.3583984375,
+            261.75457763671875,
+            347.84613037109375
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.666,
+          "text": "o 1 tablespoon mirin",
+          "coordinates": [
+            124.30307006835938,
+            352.9327392578125,
+            237.15609741210938,
+            362.3856201171875
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.653,
+          "text": "o 1/4 cup green onions",
+          "coordinates": [
+            124.22718811035156,
+            366.9181213378906,
+            248.4244384765625,
+            377.2066955566406
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.642,
+          "text": "o 1/4 cup grated daikon",
+          "coordinates": [
+            124.76300048828125,
+            381.52252197265625,
+            251.03204345703125,
+            391.7474365234375
+          ]
+        },
+        {
+          "id": 22,
+          "type": "paragraph_title",
+          "confidence": 0.824,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.71144104003906,
+            397.0556945800781,
+            170.7990264892578,
+            405.74072265625
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "o Cut tofu into cubes and coat with cornstarch.",
+          "coordinates": [
+            123.6014404296875,
+            410.57159423828125,
+            362.68743896484375,
+            420.4452819824219
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.82,
+          "text": "o Fry in hot oil until golden.",
+          "coordinates": [
+            123.80812072753906,
+            425.6929931640625,
+            269.3429260253906,
+            435.51171875
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.846,
+          "text": "o Heat dashi broth with soy sauce and mirin.",
+          "coordinates": [
+            123.5405502319336,
+            440.46429443359375,
+            352.0965576171875,
+            450.4112548828125
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.829,
+          "text": "o Serve tofu in broth, topped with green onions and grated daikon.",
+          "coordinates": [
+            123.52444458007812,
+            454.2693786621094,
+            458.3539733886719,
+            465.23016357421875
+          ]
+        },
+        {
+          "id": 27,
+          "type": "paragraph_title",
+          "confidence": 0.819,
+          "text": "Aloo Gobi",
+          "coordinates": [
+            69.80852508544922,
+            484.1092224121094,
+            122.24723815917969,
+            493.609619140625
+          ]
+        },
+        {
+          "id": 28,
+          "type": "paragraph_title",
+          "confidence": 0.739,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.75912475585938,
+            498.62237548828125,
+            167.57907104492188,
+            508.72991943359375
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.683,
+          "text": "g\no 2 potatoes \no 1 cauliflower \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon turmeric \no 1 teaspoon coriander \no 1 teaspoon garam masala \no 1 teaspoon salt \no 2 tablespoons oil",
+          "coordinates": [
+            114.18694305419922,
+            509.32049560546875,
+            269.4089660644531,
+            656.7619018554688
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.565,
+          "text": "o 1 teaspoon garam masala",
+          "coordinates": [
+            124.4873046875,
+            615.8220825195312,
+            268.1809387207031,
+            626.3923950195312
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.517,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.83145141601562,
+            630.477294921875,
+            219.212158203125,
+            640.8746337890625
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.558,
+          "text": "o 2 tablespoons oil",
+          "coordinates": [
+            124.9765853881836,
+            645.3478393554688,
+            227.67872619628906,
+            655.8313598632812
+          ]
+        },
+        {
+          "id": 33,
+          "type": "paragraph_title",
+          "confidence": 0.84,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.7629623413086,
+            660.1131591796875,
+            170.7886505126953,
+            668.8946533203125
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.777,
+          "text": "o Peel and dice potatoes, cut cauliflower into florets.",
+          "coordinates": [
+            123.8641128540039,
+            674.3549194335938,
+            390.7777404785156,
+            684.8601684570312
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.659,
+          "text": "o Heat oil in a pan and sauté diced onion and minced garlic until translucent.",
+          "coordinates": [
+            123.1724853515625,
+            689.104248046875,
+            505.59210205078125,
+            700.003173828125
+          ]
+        },
+        {
+          "id": 36,
+          "type": "text",
+          "confidence": 0.687,
+          "text": "o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute.",
+          "coordinates": [
+            123.39950561523438,
+            703.6658325195312,
+            484.2353515625,
+            714.09326171875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 9,
+        "text": 27
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.775,
+          "text": "o Add potatoes and cauliflower, stir to coat with spices.",
+          "coordinates": [
+            123.54304504394531,
+            73.2440185546875,
+            402.70538330078125,
+            83.90523529052734
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.746,
+          "text": "o Cover and cook until vegetables are tender, stirring occasionally.",
+          "coordinates": [
+            123.71863555908203,
+            88.42282104492188,
+            453.7033996582031,
+            99.3109130859375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.69,
+          "text": "o Add salt to taste and serve.",
+          "coordinates": [
+            124.173828125,
+            103.93165588378906,
+            276.02337646484375,
+            113.54161071777344
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.82,
+          "text": "Albondigas",
+          "coordinates": [
+            69.94202423095703,
+            132.025146484375,
+            127.74234008789062,
+            142.9994354248047
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.753,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.82894134521484,
+            147.722900390625,
+            167.63906860351562,
+            158.0477294921875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.568,
+          "text": "g\no 1/2 pound ground beef\no 1/2 pound ground pork\no 1 small onion \no 2 cloves garlic \no 1/4 cup breadcrumbs \no 1 egg \no 1 teaspoon paprika \no 1 teaspoon salt \no 1/2 teaspoon pepper \no 1/4 cup olive oil \no 1 cup tomato sauce i",
+          "coordinates": [
+            122.59943389892578,
+            158.46328735351562,
+            255.30575561523438,
+            320.4012451171875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.52,
+          "text": "o 2 cloves garlic",
+          "coordinates": [
+            124.78750610351562,
+            205.66554260253906,
+            211.8920440673828,
+            216.74156188964844
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.515,
+          "text": "o 1/4 cup breadcrumbs",
+          "coordinates": [
+            124.46434020996094,
+            220.71566772460938,
+            248.38693237304688,
+            231.2825927734375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.562,
+          "text": "o 1 egg",
+          "coordinates": [
+            124.43174743652344,
+            236.34982299804688,
+            170.91510009765625,
+            246.54391479492188
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.548,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.54582977294922,
+            265.1050109863281,
+            219.27249145507812,
+            275.0130615234375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.519,
+          "text": "o 1/2 teaspoon pepper",
+          "coordinates": [
+            124.6884765625,
+            280.28558349609375,
+            247.00799560546875,
+            290.9114074707031
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.533,
+          "text": "o 1/4 cup olive oil",
+          "coordinates": [
+            124.9328842163086,
+            293.4135437011719,
+            221.67884826660156,
+            304.13800048828125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.579,
+          "text": "o 1 cup tomato sauce",
+          "coordinates": [
+            125.0486831665039,
+            309.190673828125,
+            239.6997528076172,
+            318.89410400390625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.836,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.8060302734375,
+            323.3306579589844,
+            170.35067749023438,
+            331.8539123535156
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "o Mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beaten\negg, paprika, salt, and pepper in a bowl.",
+          "coordinates": [
+            123.02912902832031,
+            337.15484619140625,
+            531.354736328125,
+            363.1290283203125
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.813,
+          "text": "o Form mixture into meatballs.",
+          "coordinates": [
+            123.62397766113281,
+            366.7937316894531,
+            285.8404846191406,
+            376.5462646484375
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "o Heat olive oil in a pan and brown meatballs on all sides.",
+          "coordinates": [
+            123.5771484375,
+            381.2127380371094,
+            413.0655212402344,
+            391.2332763671875
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "o Add tomato sauce and simmer for 20 minutes.",
+          "coordinates": [
+            123.94902038574219,
+            396.51220703125,
+            369.61273193359375,
+            406.46160888671875
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.642,
+          "text": "o Serve warm.",
+          "coordinates": [
+            124.5776596069336,
+            411.31744384765625,
+            204.6468963623047,
+            420.5250549316406
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.811,
+          "text": "Antipasto",
+          "coordinates": [
+            69.92265319824219,
+            440.7412109375,
+            121.1955337524414,
+            450.3094787597656
+          ]
+        },
+        {
+          "id": 21,
+          "type": "paragraph_title",
+          "confidence": 0.744,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.95377349853516,
+            454.97705078125,
+            167.7072296142578,
+            464.6889343261719
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.645,
+          "text": "o Assorted cured meats (salami, prosciutto)",
+          "coordinates": [
+            123.71223449707031,
+            469.5965270996094,
+            346.7918701171875,
+            479.96295166015625
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.667,
+          "text": "o Cheeses (mozzarella, provolone)",
+          "coordinates": [
+            124.29409790039062,
+            484.40423583984375,
+            302.0989074707031,
+            495.2536926269531
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.61,
+          "text": "o Olives",
+          "coordinates": [
+            124.25015258789062,
+            498.6808166503906,
+            174.34950256347656,
+            508.71038818359375
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.756,
+          "text": "o Marinated vegetables (artichokes, peppers)",
+          "coordinates": [
+            124.1260986328125,
+            513.2510986328125,
+            355.661865234375,
+            524.603271484375
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.65,
+          "text": "o Breadsticks",
+          "coordinates": [
+            124.54812622070312,
+            528.3378295898438,
+            199.85992431640625,
+            538.3526000976562
+          ]
+        },
+        {
+          "id": 27,
+          "type": "paragraph_title",
+          "confidence": 0.757,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.79710388183594,
+            542.9515380859375,
+            170.7238006591797,
+            551.8828125
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.592,
+          "text": "o Serve with breadsticks.",
+          "coordinates": [
+            124.4566650390625,
+            572.637939453125,
+            254.89401245117188,
+            582.5531616210938
+          ]
+        },
+        {
+          "id": 29,
+          "type": "paragraph_title",
+          "confidence": 0.774,
+          "text": "Arancini",
+          "coordinates": [
+            69.94096374511719,
+            601.0668334960938,
+            113.83361053466797,
+            610.9490356445312
+          ]
+        },
+        {
+          "id": 30,
+          "type": "paragraph_title",
+          "confidence": 0.762,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.0797348022461,
+            615.6732788085938,
+            167.6468505859375,
+            625.856689453125
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.591,
+          "text": "o 2 cups cooked risotto\no 1/2 cup mozzarella \no 1/2 cup flour \no 2 eggs \no 1 cup breadcrumbs \no 1 cup vegetable oil",
+          "coordinates": [
+            122.83110809326172,
+            630.4127197265625,
+            246.6613006591797,
+            714.6024780273438
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.574,
+          "text": "o 2 cups cooked risotto",
+          "coordinates": [
+            124.19188690185547,
+            630.7591552734375,
+            247.34201049804688,
+            640.7320556640625
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.576,
+          "text": "o 2 eggs",
+          "coordinates": [
+            124.64576721191406,
+            675.1088256835938,
+            175.1951904296875,
+            685.8297119140625
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.515,
+          "text": "o 1 cup vegetable oil",
+          "coordinates": [
+            125.14585876464844,
+            704.1389770507812,
+            235.6877899169922,
+            714.7274780273438
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 26,
+        "paragraph_title": 8
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.849,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.98845672607422,
+            73.61273956298828,
+            170.59317016601562,
+            82.843994140625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.85,
+          "text": "o Form risotto into balls and stuff with a cube of mozzarella.",
+          "coordinates": [
+            123.77001953125,
+            88.16283416748047,
+            425.7005920410156,
+            98.60498809814453
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "o Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs.",
+          "coordinates": [
+            123.36314392089844,
+            103.38123321533203,
+            476.154541015625,
+            113.88700866699219
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.847,
+          "text": "o Fry in hot oil until golden.",
+          "coordinates": [
+            124.04889678955078,
+            117.96712493896484,
+            268.8683166503906,
+            127.89857482910156
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "o Drain on paper towels and serve warm.",
+          "coordinates": [
+            123.99449157714844,
+            133.1959686279297,
+            335.1256408691406,
+            142.92648315429688
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.87,
+          "text": "Baba Ganoush",
+          "coordinates": [
+            70.17964172363281,
+            161.28321838378906,
+            144.64657592773438,
+            170.74530029296875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.761,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.89549255371094,
+            176.95590209960938,
+            167.97225952148438,
+            186.90652465820312
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.642,
+          "text": "o 2 eggplants",
+          "coordinates": [
+            124.08987426757812,
+            191.87779235839844,
+            201.1074981689453,
+            202.03602600097656
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.746,
+          "text": "o 1/4 cup tahini",
+          "coordinates": [
+            124.53926849365234,
+            205.696044921875,
+            212.84381103515625,
+            215.64309692382812
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.745,
+          "text": "o 1/4 cup lemon juice",
+          "coordinates": [
+            124.09992218017578,
+            220.7282257080078,
+            240.63414001464844,
+            231.225341796875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.721,
+          "text": "o 2 cloves garlic",
+          "coordinates": [
+            124.43683624267578,
+            235.7279510498047,
+            212.8055877685547,
+            245.44619750976562
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.734,
+          "text": "o 1/4 cup olive oil",
+          "coordinates": [
+            124.369873046875,
+            249.48391723632812,
+            222.5134735107422,
+            259.9345397949219
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.753,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.26697540283203,
+            264.7899169921875,
+            219.76397705078125,
+            274.4506530761719
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.836,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.73926544189453,
+            280.08966064453125,
+            170.91860961914062,
+            289.35223388671875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.838,
+          "text": "o Roast eggplants until soft, then peel and mash.",
+          "coordinates": [
+            123.84416198730469,
+            293.2801208496094,
+            371.8581848144531,
+            303.74407958984375
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food\nprocessor.",
+          "coordinates": [
+            123.3638687133789,
+            308.1852111816406,
+            512.8056030273438,
+            332.0630798339844
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.861,
+          "text": "o Slowly add olive oil while blending until smooth.",
+          "coordinates": [
+            123.59745025634766,
+            337.26806640625,
+            378.26373291015625,
+            347.7151184082031
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.842,
+          "text": "o Serve with a drizzle of olive oil.",
+          "coordinates": [
+            124.20600128173828,
+            352.5204772949219,
+            294.19464111328125,
+            362.4253845214844
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.87,
+          "text": "Baked Beans",
+          "coordinates": [
+            70.23983001708984,
+            381.41485595703125,
+            135.82763671875,
+            390.607666015625
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.799,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.93560791015625,
+            396.8724670410156,
+            168.00799560546875,
+            406.1280517578125
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.616,
+          "text": "o 4 cups cooked navy beans",
+          "coordinates": [
+            123.88346099853516,
+            410.840576171875,
+            270.1537780761719,
+            420.84173583984375
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.666,
+          "text": "o 1 small onion",
+          "coordinates": [
+            124.17342376708984,
+            426.0013732910156,
+            209.84576416015625,
+            435.8553466796875
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.683,
+          "text": "o 1/2 cup molasses",
+          "coordinates": [
+            124.04940795898438,
+            440.90496826171875,
+            229.34974670410156,
+            450.5937194824219
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.704,
+          "text": "o 1/4 cup brown sugar",
+          "coordinates": [
+            124.0709228515625,
+            455.6890869140625,
+            245.2764434814453,
+            465.4666748046875
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.7,
+          "text": "o 1/4 cup ketchup",
+          "coordinates": [
+            124.18891143798828,
+            470.0721740722656,
+            223.4476776123047,
+            479.8495788574219
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.665,
+          "text": "o 1 tablespoon mustard",
+          "coordinates": [
+            124.26351165771484,
+            484.819091796875,
+            250.7523193359375,
+            494.9015197753906
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.677,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.65373229980469,
+            498.8930969238281,
+            219.13937377929688,
+            508.80096435546875
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.553,
+          "text": "o 1/2 teaspoon pepper",
+          "coordinates": [
+            124.52288818359375,
+            514.1137084960938,
+            247.59976196289062,
+            524.3515625
+          ]
+        },
+        {
+          "id": 29,
+          "type": "paragraph_title",
+          "confidence": 0.828,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.7673568725586,
+            528.8931884765625,
+            170.94699096679688,
+            538.1932373046875
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.818,
+          "text": "o Preheat oven to 350°F (175°C).",
+          "coordinates": [
+            124.04228973388672,
+            541.97705078125,
+            293.890380859375,
+            552.3717041015625
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.848,
+          "text": "o Sauté diced onion until translucent.",
+          "coordinates": [
+            123.8673324584961,
+            557.5689697265625,
+            317.31781005859375,
+            567.1954956054688
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "o Mix beans, onion, molasses, brown sugar, ketchup, mustard, salt, and pepper in a\nbaking dish.",
+          "coordinates": [
+            122.98770904541016,
+            572.2266235351562,
+            537.8623046875,
+            596.5880126953125
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.841,
+          "text": "o Bake for 1 hour, stirring occasionally.",
+          "coordinates": [
+            123.5938949584961,
+            601.3438110351562,
+            321.6722717285156,
+            612.2510986328125
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.752,
+          "text": "o\nServe warm.",
+          "coordinates": [
+            124.4383316040039,
+            616.5814819335938,
+            204.97396850585938,
+            625.40869140625
+          ]
+        },
+        {
+          "id": 35,
+          "type": "paragraph_title",
+          "confidence": 0.76,
+          "text": "Bammy",
+          "coordinates": [
+            70.33207702636719,
+            645.8997192382812,
+            110.05296325683594,
+            655.3967895507812
+          ]
+        },
+        {
+          "id": 36,
+          "type": "paragraph_title",
+          "confidence": 0.759,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.99229431152344,
+            659.72021484375,
+            167.71665954589844,
+            669.8228149414062
+          ]
+        },
+        {
+          "id": 37,
+          "type": "text",
+          "confidence": 0.634,
+          "text": "o 2 cups grated cassava",
+          "coordinates": [
+            124.59014892578125,
+            674.8486938476562,
+            248.1875,
+            685.472412109375
+          ]
+        },
+        {
+          "id": 38,
+          "type": "text",
+          "confidence": 0.684,
+          "text": "o 1/4 cup coconut milk",
+          "coordinates": [
+            124.44865417480469,
+            689.8497314453125,
+            246.91139221191406,
+            699.77978515625
+          ]
+        },
+        {
+          "id": 39,
+          "type": "text",
+          "confidence": 0.676,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.62615966796875,
+            704.3718872070312,
+            218.74256896972656,
+            713.803955078125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 9,
+        "text": 30
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.849,
+          "text": "o Oil for frying",
+          "coordinates": [
+            124.44042205810547,
+            73.39569091796875,
+            205.4193115234375,
+            84.00863647460938
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.785,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.79238891601562,
+            88.92753601074219,
+            170.92385864257812,
+            97.83631896972656
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "o Mix grated cassava with coconut milk and salt.",
+          "coordinates": [
+            123.60108947753906,
+            103.22784423828125,
+            368.8836975097656,
+            113.64952087402344
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.854,
+          "text": "o Form mixture into flat cakes.",
+          "coordinates": [
+            124.06836700439453,
+            117.88324737548828,
+            282.8376770019531,
+            127.58576965332031
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.827,
+          "text": "o Fry in hot oil until golden.",
+          "coordinates": [
+            123.8459243774414,
+            132.7477569580078,
+            268.9945068359375,
+            142.8644256591797
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.861,
+          "text": "o Drain on paper towels and serve warm.",
+          "coordinates": [
+            124.17701721191406,
+            148.03956604003906,
+            335.0220642089844,
+            157.82640075683594
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.837,
+          "text": "Banchan",
+          "coordinates": [
+            70.1412353515625,
+            176.7240753173828,
+            115.87855529785156,
+            185.59542846679688
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.687,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.9454574584961,
+            191.64120483398438,
+            168.27920532226562,
+            201.49989318847656
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.763,
+          "text": "o Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi\n \nInstructions:",
+          "coordinates": [
+            87.45989990234375,
+            204.7923583984375,
+            509.2433166503906,
+            229.88182067871094
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.736,
+          "text": " \nInstructions:",
+          "coordinates": [
+            88.0481948852539,
+            221.1128692626953,
+            170.9473114013672,
+            230.48960876464844
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "o Prepare each side dish separately.",
+          "coordinates": [
+            123.8927230834961,
+            235.35064697265625,
+            308.8438415527344,
+            245.6583709716797
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.834,
+          "text": "o Arrange on small plates.",
+          "coordinates": [
+            123.9696273803711,
+            249.86614990234375,
+            261.8099060058594,
+            259.984619140625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "o Serve as accompaniments to the main meal.",
+          "coordinates": [
+            123.93060302734375,
+            264.5852966308594,
+            358.3511962890625,
+            274.6983337402344
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.84,
+          "text": "Banh Beo",
+          "coordinates": [
+            70.25452423095703,
+            293.6069641113281,
+            120.1994400024414,
+            302.6568908691406
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.766,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.80487060546875,
+            308.475341796875,
+            167.8443603515625,
+            318.4519958496094
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.504,
+          "text": "o 1 cup rice flour \no 1/2 cup water \no 1/2 cup coconut milk \no 1/4 cup shrimp \no 1/4 cup green onions\no 1/4 cup fried shallots\no 1 teaspoon salt \no 1/2 teaspoon sugar",
+          "coordinates": [
+            123.11914825439453,
+            321.8268737792969,
+            246.55673217773438,
+            435.77093505859375
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.505,
+          "text": "o\n1 cup rice flour",
+          "coordinates": [
+            124.38548278808594,
+            322.6532897949219,
+            217.082763671875,
+            332.36846923828125
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.541,
+          "text": "o 1/2 cup water",
+          "coordinates": [
+            124.2701187133789,
+            337.8538818359375,
+            213.28836059570312,
+            347.9398193359375
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.579,
+          "text": "o 1/2 cup coconut milk",
+          "coordinates": [
+            124.0543441772461,
+            352.54217529296875,
+            246.92279052734375,
+            362.59454345703125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.633,
+          "text": "o 1/4 cup shrimp",
+          "coordinates": [
+            124.11424255371094,
+            367.2452697753906,
+            218.4858856201172,
+            377.4364013671875
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.572,
+          "text": "o 1/4 cup green onions",
+          "coordinates": [
+            124.2002182006836,
+            381.7210388183594,
+            247.35494995117188,
+            391.8419494628906
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.575,
+          "text": "o 1/4 cup fried shallots",
+          "coordinates": [
+            124.31111145019531,
+            396.55023193359375,
+            246.7753448486328,
+            406.8111267089844
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.623,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.40040588378906,
+            410.93121337890625,
+            219.1460723876953,
+            420.64666748046875
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.579,
+          "text": "o 1/2 teaspoon sugar",
+          "coordinates": [
+            124.75261688232422,
+            426.022216796875,
+            238.6769256591797,
+            436.0913391113281
+          ]
+        },
+        {
+          "id": 25,
+          "type": "paragraph_title",
+          "confidence": 0.793,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.70503997802734,
+            440.9552917480469,
+            170.6066436767578,
+            450.045654296875
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.679,
+          "text": "o Mix rice flour, water, coconut milk, salt, and sugar to form a batter.",
+          "coordinates": [
+            123.62635040283203,
+            454.12322998046875,
+            465.6047058105469,
+            465.2856750488281
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.793,
+          "text": "o Pour batter into small dishes and steam until set.",
+          "coordinates": [
+            123.56098937988281,
+            469.564697265625,
+            381.118408203125,
+            479.110595703125
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "o Sauté chopped shrimp and green onions until cooked.",
+          "coordinates": [
+            123.65091705322266,
+            484.36798095703125,
+            405.99981689453125,
+            494.6981506347656
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.793,
+          "text": "o Top steamed cakes with shrimp, green onions, and fried shallots.",
+          "coordinates": [
+            123.34322357177734,
+            498.3672790527344,
+            456.3961181640625,
+            508.9598388671875
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.695,
+          "text": "o Serve with dipping sauce.",
+          "coordinates": [
+            124.24462127685547,
+            513.91845703125,
+            267.40692138671875,
+            524.0133056640625
+          ]
+        },
+        {
+          "id": 31,
+          "type": "paragraph_title",
+          "confidence": 0.833,
+          "text": "Banh Xeo",
+          "coordinates": [
+            70.36734008789062,
+            542.2509155273438,
+            119.41340637207031,
+            551.3866577148438
+          ]
+        },
+        {
+          "id": 32,
+          "type": "paragraph_title",
+          "confidence": 0.775,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.94795989990234,
+            557.4832763671875,
+            167.5143280029297,
+            567.82958984375
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.706,
+          "text": "o 1 cup rice flour \no 1/2 cup coconut milk \no 1/2 cup water \no 1/2 pound shrimp \no 1/2 pound pork \no 1 small onion \no 1/2 cup bean sprouts\no 1/4 cup green onions\no 1/4 cup cilantro \no 1 teaspoon turmeric",
+          "coordinates": [
+            123.09786987304688,
+            572.5559692382812,
+            246.9724884033203,
+            714.0264892578125
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.521,
+          "text": "o 1 cup rice flour",
+          "coordinates": [
+            124.56622314453125,
+            572.5667724609375,
+            217.36111450195312,
+            582.69775390625
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.506,
+          "text": "o 1 teaspoon turmeric",
+          "coordinates": [
+            125.08592224121094,
+            704.2329711914062,
+            242.907958984375,
+            714.0377197265625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 10,
+        "text": 25
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.639,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.12873840332031,
+            73.4509506225586,
+            218.4004364013672,
+            83.66249084472656
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.725,
+          "text": "o Oil for frying",
+          "coordinates": [
+            124.43043518066406,
+            88.6725082397461,
+            205.5848846435547,
+            99.15828704833984
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.819,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.88627624511719,
+            103.9007568359375,
+            170.78379821777344,
+            113.0079574584961
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.755,
+          "text": "o Mix rice flour, coconut milk, water, turmeric, and salt to form a batter.",
+          "coordinates": [
+            123.80569458007812,
+            117.45697021484375,
+            481.2647399902344,
+            128.4547119140625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.818,
+          "text": "o Sauté sliced pork, shrimp, and diced onion until cooked.",
+          "coordinates": [
+            123.81625366210938,
+            132.2039794921875,
+            415.4968566894531,
+            142.66200256347656
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.817,
+          "text": "o Heat oil in a pan and pour in a ladle of batter, swirling to coat the pan.",
+          "coordinates": [
+            123.47007751464844,
+            147.42120361328125,
+            482.4216613769531,
+            158.1269989013672
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.829,
+          "text": "o Add cooked pork, shrimp, bean sprouts, green onions, and cilantro.",
+          "coordinates": [
+            123.54174041748047,
+            161.65969848632812,
+            470.1789855957031,
+            171.98976135253906
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "o Fold pancake in half and cook until crispy.",
+          "coordinates": [
+            124.03392028808594,
+            176.72763061523438,
+            345.9303894042969,
+            186.86402893066406
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "o Serve with lettuce and dipping sauce.",
+          "coordinates": [
+            124.20159149169922,
+            191.8028106689453,
+            325.416748046875,
+            201.77069091796875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.84,
+          "text": "Basturma",
+          "coordinates": [
+            70.42325592041016,
+            220.69224548339844,
+            120.2264175415039,
+            229.86119079589844
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.776,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.99339294433594,
+            235.69183349609375,
+            167.9235382080078,
+            245.7079620361328
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.652,
+          "text": "o 1 pound beef tenderloin",
+          "coordinates": [
+            124.07707214355469,
+            249.38121032714844,
+            262.861328125,
+            259.64715576171875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.8,
+          "text": "o 1/4 cup paprika",
+          "coordinates": [
+            124.36101531982422,
+            264.9598388671875,
+            221.4111328125,
+            274.7209167480469
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.783,
+          "text": "o 2 tablespoons cumin",
+          "coordinates": [
+            124.1109619140625,
+            280.1507873535156,
+            246.0547637939453,
+            289.8216857910156
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.816,
+          "text": "o 2 tablespoons fenugreek",
+          "coordinates": [
+            124.54042053222656,
+            293.7074890136719,
+            265.1053771972656,
+            303.5981750488281
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.79,
+          "text": "o 1 tablespoon garlic powder",
+          "coordinates": [
+            124.3740234375,
+            308.8454895019531,
+            276.7933654785156,
+            319.53607177734375
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.785,
+          "text": "o\n1 tablespoon salt",
+          "coordinates": [
+            124.55467987060547,
+            322.7412109375,
+            228.33277893066406,
+            332.1831359863281
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.837,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.81156921386719,
+            338.1357727050781,
+            170.8061981201172,
+            346.95166015625
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "o Rub beef with salt and let cure in the refrigerator for 24 hours.",
+          "coordinates": [
+            123.56658172607422,
+            352.1438903808594,
+            446.18170166015625,
+            362.5121154785156
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.808,
+          "text": "o Rinse and pat dry.",
+          "coordinates": [
+            124.04927062988281,
+            367.125732421875,
+            231.7024383544922,
+            377.1708679199219
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "o Mix paprika, cumin, fenugreek, and garlic powder, then coat beef with the\nmixture.",
+          "coordinates": [
+            123.36100769042969,
+            381.1488952636719,
+            502.35064697265625,
+            405.7098388671875
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "o Wrap in cheesecloth and hang in a cool, dry place for 1-2 weeks.",
+          "coordinates": [
+            123.22704315185547,
+            410.24365234375,
+            454.9980773925781,
+            420.92437744140625
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.792,
+          "text": "o Slice thinly and serve.",
+          "coordinates": [
+            124.20574951171875,
+            425.9739685058594,
+            249.47535705566406,
+            435.6923522949219
+          ]
+        },
+        {
+          "id": 24,
+          "type": "paragraph_title",
+          "confidence": 0.813,
+          "text": "Batbout",
+          "coordinates": [
+            70.31322479248047,
+            454.5374755859375,
+            113.10304260253906,
+            463.27593994140625
+          ]
+        },
+        {
+          "id": 25,
+          "type": "paragraph_title",
+          "confidence": 0.79,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.0888900756836,
+            469.6683044433594,
+            168.0144500732422,
+            479.62689208984375
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.665,
+          "text": "o 2 1/4 teaspoons active dry yeast",
+          "coordinates": [
+            124.42062377929688,
+            484.5614318847656,
+            301.3274841308594,
+            495.78118896484375
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.741,
+          "text": "o 1 teaspoon sugar",
+          "coordinates": [
+            124.1377182006836,
+            499.5254821777344,
+            228.47410583496094,
+            508.890869140625
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.748,
+          "text": "o 1 cup warm water",
+          "coordinates": [
+            124.16700744628906,
+            514.3475952148438,
+            232.62254333496094,
+            524.02587890625
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.718,
+          "text": "o 3 cups flour",
+          "coordinates": [
+            124.46713256835938,
+            528.8831176757812,
+            201.88040161132812,
+            538.5303344726562
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.683,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.67162322998047,
+            542.2307739257812,
+            219.51588439941406,
+            552.512451171875
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.699,
+          "text": "o 1/4 cup olive oil",
+          "coordinates": [
+            124.97359466552734,
+            557.6614379882812,
+            222.16580200195312,
+            567.6624145507812
+          ]
+        },
+        {
+          "id": 32,
+          "type": "paragraph_title",
+          "confidence": 0.807,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.88092803955078,
+            573.0650024414062,
+            170.26193237304688,
+            581.9711303710938
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "o Dissolve yeast and sugar in warm water, let sit until foamy.",
+          "coordinates": [
+            123.95423889160156,
+            586.2401123046875,
+            427.29376220703125,
+            597.1573486328125
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.846,
+          "text": "o Mix flour and salt in a bowl, then add yeast mixture and olive oil.",
+          "coordinates": [
+            123.61151885986328,
+            601.3358764648438,
+            457.6820373535156,
+            611.5574951171875
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.827,
+          "text": "o Knead until smooth, then let rise until doubled.",
+          "coordinates": [
+            123.40708923339844,
+            615.6604614257812,
+            373.7234191894531,
+            625.6621704101562
+          ]
+        },
+        {
+          "id": 36,
+          "type": "text",
+          "confidence": 0.851,
+          "text": "o Divide dough into balls and roll out into circles.",
+          "coordinates": [
+            123.7230453491211,
+            630.4752807617188,
+            371.9786682128906,
+            640.25439453125
+          ]
+        },
+        {
+          "id": 37,
+          "type": "text",
+          "confidence": 0.824,
+          "text": "o Cook on a hot griddle until puffed and golden.",
+          "coordinates": [
+            123.72209930419922,
+            645.3831787109375,
+            367.0514831542969,
+            656.5214233398438
+          ]
+        },
+        {
+          "id": 38,
+          "type": "text",
+          "confidence": 0.773,
+          "text": "o Serve warm.",
+          "coordinates": [
+            124.71927642822266,
+            660.251708984375,
+            204.732177734375,
+            669.444091796875
+          ]
+        },
+        {
+          "id": 39,
+          "type": "paragraph_title",
+          "confidence": 0.772,
+          "text": "Bhindi Masala",
+          "coordinates": [
+            70.59784698486328,
+            689.221923828125,
+            142.81027221679688,
+            698.9757080078125
+          ]
+        },
+        {
+          "id": 40,
+          "type": "paragraph_title",
+          "confidence": 0.514,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.01209259033203,
+            703.9324340820312,
+            167.01454162597656,
+            713.6083374023438
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 31,
+        "paragraph_title": 9
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.722,
+          "text": "o 1 pound okra \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon turmeric \no 1 teaspoon garam masala \no 1 teaspoon salt \no 2 tablespoons oil",
+          "coordinates": [
+            122.84837341308594,
+            73.07881927490234,
+            269.3401794433594,
+            201.5869140625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.822,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.63067626953125,
+            205.9442596435547,
+            170.77645874023438,
+            215.1302947998047
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.705,
+          "text": "o Wash and dry okra, then cut into pieces.",
+          "coordinates": [
+            123.60435485839844,
+            220.12008666992188,
+            340.1966247558594,
+            231.15530395507812
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.719,
+          "text": "o Heat oil in a pan and sauté diced onion and minced garlic until translucent.",
+          "coordinates": [
+            123.39989471435547,
+            235.12806701660156,
+            505.7138671875,
+            245.73464965820312
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.676,
+          "text": "o Add cumin, coriander, turmeric, and garam masala, cook for 1 minute.",
+          "coordinates": [
+            123.12627410888672,
+            249.4834747314453,
+            483.6185607910156,
+            260.1536865234375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.799,
+          "text": "o Add okra and stir to coat with spices.",
+          "coordinates": [
+            123.67253112792969,
+            264.817138671875,
+            323.8371887207031,
+            274.69366455078125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "o Cook until okra is tender, stirring occasionally.",
+          "coordinates": [
+            123.62675476074219,
+            279.15679931640625,
+            365.3927917480469,
+            290.29364013671875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.646,
+          "text": "o Add salt to taste and serve.",
+          "coordinates": [
+            124.15387725830078,
+            294.00799560546875,
+            276.17401123046875,
+            303.66632080078125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.73,
+          "text": "Bobotie",
+          "coordinates": [
+            70.155517578125,
+            322.4115295410156,
+            111.18421936035156,
+            331.59747314453125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.711,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.15850830078125,
+            337.9405517578125,
+            167.59193420410156,
+            347.9503479003906
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.621,
+          "text": "Ingredients: \no 1 pound ground beef \no 1 small onion \no 2 cloves garlic \no 1/4 cup raisins \no 1/4 cup almonds \no 1 tablespoon curry powder\no 1 teaspoon salt \no 1/2 teaspoon pepper \no 2 eggs \no 1/2 cup milk \no 1/4 cup breadcrumbs",
+          "coordinates": [
+            108.92509460449219,
+            345.7737121582031,
+            272.5962219238281,
+            509.8321228027344
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.816,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.76708221435547,
+            513.8831176757812,
+            170.45101928710938,
+            523.2532958984375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.704,
+          "text": "o Preheat oven to 350°F (175°C).",
+          "coordinates": [
+            123.6728744506836,
+            528.0587158203125,
+            294.1697082519531,
+            538.8682861328125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "o Sauté diced onion and minced garlic until softened.",
+          "coordinates": [
+            123.89282989501953,
+            541.9856567382812,
+            392.99053955078125,
+            552.6351318359375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "o Add ground beef, raisins, almonds, curry powder, salt, and pepper, cook until\nbeef is browned.",
+          "coordinates": [
+            122.91586303710938,
+            556.9859619140625,
+            515.4193725585938,
+            582.1089477539062
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.813,
+          "text": "o Transfer mixture to a baking dish.",
+          "coordinates": [
+            123.4061279296875,
+            586.6012573242188,
+            305.74542236328125,
+            597.0176391601562
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.827,
+          "text": "o Beat eggs with milk and pour over the beef mixture.",
+          "coordinates": [
+            123.35049438476562,
+            601.3590087890625,
+            396.3118591308594,
+            611.8260498046875
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.776,
+          "text": "o Sprinkle with breadcrumbs.",
+          "coordinates": [
+            123.62216186523438,
+            615.9005737304688,
+            277.94549560546875,
+            625.663818359375
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.798,
+          "text": "o Bake for 30 minutes until set and golden.",
+          "coordinates": [
+            123.73574829101562,
+            630.2430419921875,
+            342.60174560546875,
+            640.8360595703125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.637,
+          "text": "o Serve warm.",
+          "coordinates": [
+            124.4411392211914,
+            646.2935791015625,
+            204.8866424560547,
+            655.3800659179688
+          ]
+        },
+        {
+          "id": 21,
+          "type": "paragraph_title",
+          "confidence": 0.829,
+          "text": "Bok Choy with Garlic",
+          "coordinates": [
+            70.0433120727539,
+            674.1491088867188,
+            175.7574462890625,
+            684.5934448242188
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.55,
+          "text": "o 1 pound bok choy",
+          "coordinates": [
+            123.96461486816406,
+            703.5874633789062,
+            231.10150146484375,
+            714.4689331054688
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 17,
+        "paragraph_title": 5
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.597,
+          "text": "o 2 cloves garlic",
+          "coordinates": [
+            123.90031433105469,
+            73.2846450805664,
+            212.46849060058594,
+            83.93789672851562
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.593,
+          "text": "o 2 tablespoons soy sauce",
+          "coordinates": [
+            124.48516845703125,
+            89.16596221923828,
+            261.7234191894531,
+            99.30497741699219
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.637,
+          "text": "o 1 tablespoon sesame oil",
+          "coordinates": [
+            124.27184295654297,
+            103.79568481445312,
+            261.7464904785156,
+            113.5933837890625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.842,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.86019134521484,
+            117.94699096679688,
+            170.60324096679688,
+            127.03292083740234
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.798,
+          "text": "o Sauté minced garlic in sesame oil until fragrant.",
+          "coordinates": [
+            123.6215591430664,
+            132.09109497070312,
+            373.4544677734375,
+            143.25059509277344
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.816,
+          "text": "o Add bok choy and stir-fry until tender.",
+          "coordinates": [
+            123.95980834960938,
+            147.36575317382812,
+            328.5091552734375,
+            157.75901794433594
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.783,
+          "text": "o Add soy sauce and cook for 2 minutes.",
+          "coordinates": [
+            123.77944946289062,
+            161.6206512451172,
+            330.6722106933594,
+            171.6328887939453
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.656,
+          "text": "o Serve warm.",
+          "coordinates": [
+            124.51176452636719,
+            177.31446838378906,
+            204.9561004638672,
+            186.494384765625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.882,
+          "text": "Bolinho de Bacalhau",
+          "coordinates": [
+            70.30769348144531,
+            205.2346649169922,
+            173.4819793701172,
+            215.0744171142578
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.611,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.71231079101562,
+            220.69874572753906,
+            168.44728088378906,
+            230.9546661376953
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.612,
+          "text": "o 1 pound salted cod \no 4 potatoes \no 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 2 eggs \no 1 cup breadcrumbs \no Oil for frying",
+          "coordinates": [
+            123.10111999511719,
+            234.82884216308594,
+            238.28488159179688,
+            347.973876953125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.525,
+          "text": "o 2 eggs",
+          "coordinates": [
+            124.49958801269531,
+            309.2370910644531,
+            175.70486450195312,
+            319.3959655761719
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.826,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.75433349609375,
+            353.08514404296875,
+            171.06137084960938,
+            361.8323059082031
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.798,
+          "text": "o Soak salted cod in water overnight, then rinse and flake.",
+          "coordinates": [
+            123.8345718383789,
+            366.05145263671875,
+            415.7971496582031,
+            376.8345642089844
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.836,
+          "text": "o Boil potatoes until tender, then mash.",
+          "coordinates": [
+            124.17981719970703,
+            381.4717102050781,
+            327.9090270996094,
+            391.5032958984375
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "o Mix cod with mashed potatoes, diced onion, minced garlic, chopped parsley, and\nbeaten eggs.",
+          "coordinates": [
+            123.10416412353516,
+            396.2596435546875,
+            535.3760986328125,
+            420.44439697265625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.854,
+          "text": "o Form mixture into balls and coat with breadcrumbs.",
+          "coordinates": [
+            123.24871826171875,
+            425.3794250488281,
+            395.55694580078125,
+            435.6987609863281
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.803,
+          "text": "o Fry in hot oil until golden.",
+          "coordinates": [
+            123.76139068603516,
+            440.69189453125,
+            269.06524658203125,
+            450.5469970703125
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.839,
+          "text": "o Drain on paper towels and serve warm.",
+          "coordinates": [
+            123.7219009399414,
+            455.1007385253906,
+            335.2121887207031,
+            464.8030700683594
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.85,
+          "text": "Bouillabaisse",
+          "coordinates": [
+            70.05931091308594,
+            484.27960205078125,
+            137.92430114746094,
+            493.6401672363281
+          ]
+        },
+        {
+          "id": 21,
+          "type": "paragraph_title",
+          "confidence": 0.721,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.72706604003906,
+            498.82965087890625,
+            167.80545043945312,
+            508.5033874511719
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.747,
+          "text": "o 1 pound fish fillets \no 1/2 pound shrimp \no 1/2 pound mussels \no 1 small onion \no 2 cloves garlic \no 4 tomatoes \no 4 cups fish stock \no 1/2 cup white wine \no 1 teaspoon saffron \no 1 teaspoon thyme \no 1 teaspoon salt \no 1/2 teaspoon pepper",
+          "coordinates": [
+            121.89118957519531,
+            513.2723999023438,
+            246.67787170410156,
+            685.704345703125
+          ]
+        },
+        {
+          "id": 23,
+          "type": "paragraph_title",
+          "confidence": 0.828,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.89140319824219,
+            690.0523071289062,
+            170.70294189453125,
+            698.8348388671875
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.761,
+          "text": "o Sauté diced onion and minced garlic in olive oil until softened.",
+          "coordinates": [
+            123.74532318115234,
+            703.181396484375,
+            443.68768310546875,
+            713.7119140625
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 17,
+        "paragraph_title": 7
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.91,
+          "text": "o Add diced tomatoes, fish stock, wine, saffron, thyme, salt, and pepper, simmer\nfor 20 minutes.",
+          "coordinates": [
+            123.40357971191406,
+            73.02326965332031,
+            523.94189453125,
+            98.18415832519531
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.832,
+          "text": "o Add fish fillets, shrimp, and mussels, cook until seafood is done.",
+          "coordinates": [
+            123.32196044921875,
+            103.3238296508789,
+            452.6798095703125,
+            113.68800354003906
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.76,
+          "text": "o Serve hot with crusty bread.",
+          "coordinates": [
+            124.06878662109375,
+            117.9624252319336,
+            281.21881103515625,
+            128.0946502685547
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.864,
+          "text": "Bratkartoffeln (Fried Potatoes)",
+          "coordinates": [
+            70.02127075195312,
+            147.18772888183594,
+            223.41090393066406,
+            157.7120361328125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.598,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.59222412109375,
+            161.62130737304688,
+            167.8369903564453,
+            172.0840301513672
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.56,
+          "text": "o 4 potatoes \no 1 small onion \no 1/4 cup bacon \no 2 tablespoons butter \no 1 teaspoon salt \no 1/2 teaspoon pepper",
+          "coordinates": [
+            121.35002899169922,
+            174.1963653564453,
+            247.2261962890625,
+            260.3511962890625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.561,
+          "text": "o 2 tablespoons butter",
+          "coordinates": [
+            124.2538833618164,
+            220.8468475341797,
+            245.81060791015625,
+            230.8749237060547
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.539,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.84920501708984,
+            235.82064819335938,
+            219.08970642089844,
+            245.77874755859375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.53,
+          "text": "o 1/2 teaspoon pepper",
+          "coordinates": [
+            124.99417114257812,
+            250.45933532714844,
+            247.1991424560547,
+            260.28118896484375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.803,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.69146728515625,
+            265.1470031738281,
+            170.6427001953125,
+            273.98944091796875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.765,
+          "text": "o Boil potatoes until tender, then slice.",
+          "coordinates": [
+            123.66667175292969,
+            279.2412109375,
+            322.475830078125,
+            290.00341796875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "o Cook diced bacon until crispy, then remove and set aside.",
+          "coordinates": [
+            123.50031280517578,
+            293.4721374511719,
+            422.1463317871094,
+            303.7395324707031
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.821,
+          "text": "o Sauté sliced potatoes and diced onion in butter until golden.",
+          "coordinates": [
+            123.28218078613281,
+            308.354736328125,
+            436.0646057128906,
+            319.5390319824219
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.693,
+          "text": "o Stir in bacon, salt, and pepper.",
+          "coordinates": [
+            123.91739654541016,
+            322.8623962402344,
+            291.7420349121094,
+            332.81884765625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.593,
+          "text": "o Serve warm.",
+          "coordinates": [
+            124.2811279296875,
+            338.3030700683594,
+            204.50396728515625,
+            347.6710510253906
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.684,
+          "text": "Briam",
+          "coordinates": [
+            70.25902557373047,
+            366.34625244140625,
+            102.1705322265625,
+            376.042236328125
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.735,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.0196762084961,
+            381.62139892578125,
+            167.5757293701172,
+            392.19970703125
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.742,
+          "text": "o 2 potatoes \no 2 zucchinis \no 2 eggplants \no 2 tomatoes \no 1 small onion \no 4 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon oregano \no 1 teaspoon salt \no 1/2 teaspoon pepper",
+          "coordinates": [
+            116.02822875976562,
+            394.6380310058594,
+            245.25030517578125,
+            539.4038696289062
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.791,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.71044921875,
+            543.0042724609375,
+            170.64060974121094,
+            551.8873901367188
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.759,
+          "text": "o Preheat oven to 375°F (190°C).",
+          "coordinates": [
+            123.52667999267578,
+            556.8330078125,
+            294.2872619628906,
+            567.7052001953125
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.769,
+          "text": "o Slice potatoes, zucchinis, eggplants, and tomatoes.",
+          "coordinates": [
+            123.42942810058594,
+            572.79638671875,
+            390.4403076171875,
+            582.7030029296875
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.75,
+          "text": "o Sauté diced onion and minced garlic in olive oil until softened.",
+          "coordinates": [
+            123.33824157714844,
+            585.9500732421875,
+            445.07049560546875,
+            596.72802734375
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.646,
+          "text": "o Layer vegetables in a baking dish, seasoning with oregano, salt, and pepper.",
+          "coordinates": [
+            123.06658935546875,
+            601.7816162109375,
+            509.4595947265625,
+            612.653564453125
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.655,
+          "text": "o Pour sautéed onion and garlic over the top.",
+          "coordinates": [
+            123.58047485351562,
+            615.7229614257812,
+            354.5240478515625,
+            626.2622680664062
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.711,
+          "text": "o Bake for 45 minutes until vegetables are tender.",
+          "coordinates": [
+            123.79244995117188,
+            630.318115234375,
+            375.7330322265625,
+            640.7236938476562
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.597,
+          "text": "o Serve warm.",
+          "coordinates": [
+            124.46383666992188,
+            646.2633666992188,
+            204.7104034423828,
+            655.4663696289062
+          ]
+        },
+        {
+          "id": 27,
+          "type": "paragraph_title",
+          "confidence": 0.741,
+          "text": "Briouats",
+          "coordinates": [
+            70.25393676757812,
+            674.3831787109375,
+            113.97303771972656,
+            683.8971557617188
+          ]
+        },
+        {
+          "id": 28,
+          "type": "paragraph_title",
+          "confidence": 0.636,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.02418518066406,
+            689.6416625976562,
+            167.81822204589844,
+            700.1029663085938
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.606,
+          "text": "o 1/2 pound ground beef",
+          "coordinates": [
+            124.15791320800781,
+            703.3365478515625,
+            257.123046875,
+            714.5430908203125
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 21,
+        "paragraph_title": 8
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.703,
+          "text": "o 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 1 teaspoon cumin \no 1 teaspoon cinnamon \no 1 teaspoon salt \no 1/2 teaspoon pepper \no 1 package phyllo dough \no 1/4 cup butter \no Oil for frying",
+          "coordinates": [
+            122.67366027832031,
+            73.0857162475586,
+            259.26727294921875,
+            216.49249267578125
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.796,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.78382873535156,
+            220.65853881835938,
+            170.5228729248047,
+            230.4474639892578
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.537,
+          "text": "o Sauté ground beef, diced onion, and minced garlic until cooked.",
+          "coordinates": [
+            124.01641082763672,
+            234.87562561035156,
+            451.4090270996094,
+            245.7216033935547
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.535,
+          "text": "o Stir in chopped parsley, cumin, cinnamon, salt, and pepper.",
+          "coordinates": [
+            123.62030792236328,
+            249.72061157226562,
+            430.7131652832031,
+            261.1517639160156
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.597,
+          "text": "o Cut phyllo dough into strips and brush with melted butter.",
+          "coordinates": [
+            123.64205169677734,
+            264.37939453125,
+            425.8933410644531,
+            275.05291748046875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.627,
+          "text": "o Place a spoonful of filling on each strip and fold into triangles.",
+          "coordinates": [
+            123.54817199707031,
+            279.2025451660156,
+            442.05572509765625,
+            290.9654541015625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.527,
+          "text": "o Fry in hot oil until golden.",
+          "coordinates": [
+            124.2147216796875,
+            293.60595703125,
+            269.0255432128906,
+            304.1243591308594
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.559,
+          "text": "o Drain on paper towels and serve warm.",
+          "coordinates": [
+            124.23737335205078,
+            308.8387145996094,
+            334.9593200683594,
+            318.9853515625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.8,
+          "text": "Bruschetta",
+          "coordinates": [
+            70.4088363647461,
+            337.74700927734375,
+            125.64568328857422,
+            347.1321105957031
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.694,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.14197540283203,
+            352.72052001953125,
+            168.0135955810547,
+            362.8110046386719
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.669,
+          "text": "o 1 baguette \no 4 tomatoes \no 1/4 cup basil \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon salt i",
+          "coordinates": [
+            122.89598083496094,
+            365.7394714355469,
+            222.02696228027344,
+            452.7519226074219
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.764,
+          "text": "\nInstructions:",
+          "coordinates": [
+            88.0411605834961,
+            455.0159606933594,
+            170.6696014404297,
+            464.1341552734375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.607,
+          "text": "o Slice baguette and toast until golden.",
+          "coordinates": [
+            123.48975372314453,
+            469.3393249511719,
+            323.7333679199219,
+            480.00439453125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.721,
+          "text": "o Dice tomatoes and chop basil.",
+          "coordinates": [
+            123.97891998291016,
+            484.5555114746094,
+            290.394287109375,
+            494.8101806640625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.711,
+          "text": "o Mix tomatoes, basil, minced garlic, olive oil, and salt.",
+          "coordinates": [
+            123.17875671386719,
+            498.01983642578125,
+            399.18017578125,
+            508.9884338378906
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.641,
+          "text": "o Spoon mixture onto toasted bread and serve.",
+          "coordinates": [
+            123.82980346679688,
+            513.6821899414062,
+            364.1754150390625,
+            524.088623046875
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.8,
+          "text": "Bulgur Pilaf",
+          "coordinates": [
+            70.17325592041016,
+            541.8287353515625,
+            129.93475341796875,
+            552.8338012695312
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.656,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.7707290649414,
+            557.3546142578125,
+            167.62351989746094,
+            568.2022094726562
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.572,
+          "text": "Ingredients: \no 1 cup bulgur \no 2 cups chicken broth \no 1 small onion \no 1 carrot \no 1/4 cup parsley \no 2 tablespoons olive oil \no 1 teaspoon salt i",
+          "coordinates": [
+            105.89524841308594,
+            565.7385864257812,
+            253.1489715576172,
+            672.9840698242188
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.75,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.68795776367188,
+            674.8092651367188,
+            170.5145721435547,
+            684.403564453125
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.524,
+          "text": "o Add bulgur and cook for 2 minutes.",
+          "coordinates": [
+            124.02416229248047,
+            703.640625,
+            314.76531982421875,
+            713.8893432617188
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 14,
+        "paragraph_title": 7
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.753,
+          "text": "o Pour in chicken broth and bring to a boil.",
+          "coordinates": [
+            123.82023620605469,
+            73.17107391357422,
+            341.8368225097656,
+            83.52855682373047
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.747,
+          "text": "o Reduce heat, cover, and simmer until bulgur is tender.",
+          "coordinates": [
+            124.02269744873047,
+            88.23054504394531,
+            404.7086486816406,
+            99.4177017211914
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.706,
+          "text": "o Stir in chopped parsley and salt.",
+          "coordinates": [
+            124.15290832519531,
+            103.74105834960938,
+            299.1025390625,
+            113.91838836669922
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.702,
+          "text": "o Serve warm.",
+          "coordinates": [
+            124.53038024902344,
+            118.39118194580078,
+            204.95433044433594,
+            127.8563232421875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.864,
+          "text": "Ca Tim Nuong (Grilled Eggplant)",
+          "coordinates": [
+            69.81132507324219,
+            147.02847290039062,
+            230.3657989501953,
+            158.5129852294922
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.598,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.607177734375,
+            161.7288818359375,
+            168.3218536376953,
+            172.20823669433594
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.585,
+          "text": "o 2 eggplants",
+          "coordinates": [
+            124.3607406616211,
+            176.69430541992188,
+            201.0159912109375,
+            187.3482208251953
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.624,
+          "text": "o 2 cloves garlic",
+          "coordinates": [
+            124.38574981689453,
+            191.32720947265625,
+            212.5809326171875,
+            202.03890991210938
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.712,
+          "text": "o 2 tablespoons fish sauce",
+          "coordinates": [
+            124.19251251220703,
+            205.77565002441406,
+            263.020263671875,
+            215.72219848632812
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.674,
+          "text": "o 1 tablespoon lime juice",
+          "coordinates": [
+            124.36318969726562,
+            220.7296600341797,
+            257.9192199707031,
+            231.4359893798828
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.649,
+          "text": "o 1 tablespoon sugar",
+          "coordinates": [
+            124.63501739501953,
+            236.1595458984375,
+            236.9850616455078,
+            246.28839111328125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.646,
+          "text": "o 1/4 cup cilantro",
+          "coordinates": [
+            125.01475524902344,
+            249.9652099609375,
+            221.63531494140625,
+            260.0683898925781
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.83,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.8449478149414,
+            265.1137390136719,
+            170.556396484375,
+            273.9512939453125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.699,
+          "text": "o Grill eggplants until charred and tender.",
+          "coordinates": [
+            123.81898498535156,
+            279.0942077636719,
+            337.1861877441406,
+            290.14422607421875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.775,
+          "text": "o Peel and slice eggplants.",
+          "coordinates": [
+            124.26646423339844,
+            293.7350769042969,
+            263.1120300292969,
+            303.78509521484375
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.791,
+          "text": "o Mix minced garlic, fish sauce, lime juice, and sugar in a bowl.",
+          "coordinates": [
+            123.55311584472656,
+            308.36126708984375,
+            437.37225341796875,
+            319.8749084472656
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.802,
+          "text": "o Toss eggplants with the dressing.",
+          "coordinates": [
+            124.06937408447266,
+            322.7000732421875,
+            303.7266540527344,
+            332.9510498046875
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.815,
+          "text": "o Garnish with chopped cilantro and serve.",
+          "coordinates": [
+            123.9620361328125,
+            337.6216735839844,
+            343.5753173828125,
+            347.8032531738281
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.795,
+          "text": "Callaloo",
+          "coordinates": [
+            69.83193969726562,
+            366.0102233886719,
+            112.26976776123047,
+            375.72607421875
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.791,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.0040512084961,
+            381.6413269042969,
+            168.0683135986328,
+            391.8580627441406
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.507,
+          "text": "o 1 pound callaloo leaves\no 1 small onion \no 2 cloves garlic \no 1/4 cup coconut milk \no 1 teaspoon thyme \no 1 teaspoon salt \no 1/2 teaspoon pepper i",
+          "coordinates": [
+            122.41068267822266,
+            395.7422180175781,
+            256.15411376953125,
+            496.3970031738281
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.55,
+          "text": "o 1 pound callaloo leaves",
+          "coordinates": [
+            124.41339874267578,
+            396.6839904785156,
+            257.45477294921875,
+            406.869140625
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.573,
+          "text": "o 1 small onion",
+          "coordinates": [
+            124.456298828125,
+            411.0807189941406,
+            209.61790466308594,
+            420.5290832519531
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.567,
+          "text": "o 2 cloves garlic",
+          "coordinates": [
+            124.30892181396484,
+            426.14263916015625,
+            212.4012451171875,
+            436.0265197753906
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.598,
+          "text": "o 1/4 cup coconut milk",
+          "coordinates": [
+            124.22176361083984,
+            440.5725402832031,
+            247.0031280517578,
+            450.7634582519531
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.58,
+          "text": "o 1 teaspoon thyme",
+          "coordinates": [
+            124.4273681640625,
+            455.1273193359375,
+            232.50112915039062,
+            465.2104187011719
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.561,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.66303253173828,
+            469.37408447265625,
+            219.0968780517578,
+            480.2095642089844
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.576,
+          "text": "o 1/2 teaspoon pepper",
+          "coordinates": [
+            124.81624603271484,
+            484.9093017578125,
+            247.1642608642578,
+            495.3560791015625
+          ]
+        },
+        {
+          "id": 29,
+          "type": "paragraph_title",
+          "confidence": 0.828,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.78539276123047,
+            499.031005859375,
+            170.28012084960938,
+            508.2410583496094
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.79,
+          "text": "o Sauté diced onion and minced garlic until softened.",
+          "coordinates": [
+            123.96372985839844,
+            513.0980834960938,
+            392.185791015625,
+            523.9635620117188
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.786,
+          "text": "o Add callaloo leaves and cook until wilted.",
+          "coordinates": [
+            123.83441925048828,
+            528.0420532226562,
+            344.1548767089844,
+            538.1871948242188
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.79,
+          "text": "o Stir in coconut milk, thyme, salt, and pepper.",
+          "coordinates": [
+            123.94358825683594,
+            542.8396606445312,
+            361.0000305175781,
+            553.3146362304688
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.651,
+          "text": "o Simmer for 10 minutes.",
+          "coordinates": [
+            124.29600524902344,
+            557.5888671875,
+            257.94195556640625,
+            567.6768798828125
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.635,
+          "text": "o Serve warm.",
+          "coordinates": [
+            124.59130859375,
+            573.2360229492188,
+            204.55905151367188,
+            582.6248168945312
+          ]
+        },
+        {
+          "id": 35,
+          "type": "paragraph_title",
+          "confidence": 0.81,
+          "text": "Canh Chua",
+          "coordinates": [
+            69.99330139160156,
+            601.1743774414062,
+            125.05743408203125,
+            611.0399780273438
+          ]
+        },
+        {
+          "id": 36,
+          "type": "paragraph_title",
+          "confidence": 0.754,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.25955200195312,
+            615.7022094726562,
+            167.3853302001953,
+            625.876220703125
+          ]
+        },
+        {
+          "id": 37,
+          "type": "text",
+          "confidence": 0.614,
+          "text": "o 4 cups fish stock \no 1/2 pound fish fillets\no 1 cup pineapple \no 1 cup tomatoes \no 1 cup bean sprouts \no 2 stalks lemongrass",
+          "coordinates": [
+            122.4849624633789,
+            630.5203247070312,
+            243.8268280029297,
+            714.6880493164062
+          ]
+        },
+        {
+          "id": 38,
+          "type": "text",
+          "confidence": 0.556,
+          "text": "o 4 cups fish stock",
+          "coordinates": [
+            124.45038604736328,
+            630.701171875,
+            224.11489868164062,
+            640.7749633789062
+          ]
+        },
+        {
+          "id": 39,
+          "type": "text",
+          "confidence": 0.539,
+          "text": "o 1/2 pound fish fillets",
+          "coordinates": [
+            124.59872436523438,
+            645.565185546875,
+            244.76144409179688,
+            656.20458984375
+          ]
+        },
+        {
+          "id": 40,
+          "type": "text",
+          "confidence": 0.54,
+          "text": "o 1 cup pineapple",
+          "coordinates": [
+            124.48175048828125,
+            660.2333984375,
+            221.76800537109375,
+            670.6984252929688
+          ]
+        },
+        {
+          "id": 41,
+          "type": "text",
+          "confidence": 0.526,
+          "text": "o 1 cup tomatoes",
+          "coordinates": [
+            124.67487335205078,
+            675.2544555664062,
+            220.5178985595703,
+            685.8526611328125
+          ]
+        },
+        {
+          "id": 42,
+          "type": "text",
+          "confidence": 0.518,
+          "text": "o 1 cup bean sprouts",
+          "coordinates": [
+            124.85397338867188,
+            689.979248046875,
+            236.8131561279297,
+            700.9945068359375
+          ]
+        },
+        {
+          "id": 43,
+          "type": "text",
+          "confidence": 0.543,
+          "text": "o 2 stalks lemongrass",
+          "coordinates": [
+            125.17974090576172,
+            704.3743896484375,
+            237.95458984375,
+            714.4500732421875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 35,
+        "paragraph_title": 8
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.718,
+          "text": "o\n2-3 Thai chilies",
+          "coordinates": [
+            124.1324234008789,
+            73.34230041503906,
+            216.91188049316406,
+            82.9727783203125
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.774,
+          "text": "o 2 tablespoons fish sauce",
+          "coordinates": [
+            124.48683166503906,
+            88.7604751586914,
+            263.5649108886719,
+            98.49762725830078
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.785,
+          "text": "o 2 tablespoons tamarind paste",
+          "coordinates": [
+            124.06968688964844,
+            103.8368148803711,
+            288.7182922363281,
+            113.75849914550781
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.804,
+          "text": "o 1 tablespoon sugar",
+          "coordinates": [
+            124.42333984375,
+            118.10621643066406,
+            237.26527404785156,
+            128.31149291992188
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.713,
+          "text": "o 1/4 cup cilantro",
+          "coordinates": [
+            124.25836944580078,
+            132.90560913085938,
+            221.4794921875,
+            142.6785125732422
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.833,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.80908966064453,
+            147.92739868164062,
+            170.77810668945312,
+            156.98272705078125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.812,
+          "text": "o Bring fish stock to a boil.",
+          "coordinates": [
+            124.14929962158203,
+            161.09707641601562,
+            263.1383972167969,
+            171.6046600341797
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.837,
+          "text": "o Add lemongrass, chilies, and tamarind paste, simmer for 10 minutes.",
+          "coordinates": [
+            123.64521026611328,
+            176.3819580078125,
+            475.7045593261719,
+            186.90684509277344
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "o Add pineapple, tomatoes, and fish fillets, cook until fish is done.",
+          "coordinates": [
+            123.70220184326172,
+            191.3548583984375,
+            453.3565673828125,
+            202.26727294921875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.848,
+          "text": "o Stir in fish sauce, sugar, and bean sprouts.",
+          "coordinates": [
+            124.07559967041016,
+            206.12002563476562,
+            346.7170104980469,
+            215.916259765625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.803,
+          "text": "o Garnish with chopped cilantro and serve.",
+          "coordinates": [
+            124.40364074707031,
+            220.48928833007812,
+            343.3511962890625,
+            230.76840209960938
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.849,
+          "text": "Caprese Salad",
+          "coordinates": [
+            69.64563751220703,
+            249.19439697265625,
+            142.14996337890625,
+            259.1629333496094
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.694,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.78364562988281,
+            264.9114990234375,
+            167.7354736328125,
+            274.5748291015625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.637,
+          "text": "o 4 tomatoes",
+          "coordinates": [
+            124.17479705810547,
+            280.15863037109375,
+            200.0760040283203,
+            289.86419677734375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.697,
+          "text": "o 1 pound fresh mozzarella",
+          "coordinates": [
+            124.1195068359375,
+            293.53021240234375,
+            266.98504638671875,
+            303.37725830078125
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.705,
+          "text": "o 1/4 cup basil",
+          "coordinates": [
+            124.24089050292969,
+            308.56610107421875,
+            207.61817932128906,
+            318.71630859375
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.709,
+          "text": "o\n2 tablespoons olive oil",
+          "coordinates": [
+            124.3447265625,
+            322.5804748535156,
+            254.08811950683594,
+            332.1785888671875
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.718,
+          "text": "o 1 tablespoon balsamic glaze",
+          "coordinates": [
+            124.50691223144531,
+            337.811279296875,
+            280.06573486328125,
+            348.54364013671875
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.669,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.67525482177734,
+            352.6032409667969,
+            219.0894775390625,
+            362.3093566894531
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.783,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.78296661376953,
+            367.039794921875,
+            170.87266540527344,
+            375.88848876953125
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.822,
+          "text": "o Slice tomatoes and mozzarella.",
+          "coordinates": [
+            123.91142272949219,
+            381.51263427734375,
+            294.1463928222656,
+            391.291259765625
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.821,
+          "text": "o Arrange on a plate, alternating slices.",
+          "coordinates": [
+            123.89301300048828,
+            396.4215087890625,
+            324.2749938964844,
+            406.95648193359375
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.823,
+          "text": "o Sprinkle with chopped basil, olive oil, balsamic glaze, and salt.",
+          "coordinates": [
+            123.49262237548828,
+            410.25714111328125,
+            442.7987060546875,
+            421.0622253417969
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.706,
+          "text": "o Serve immediately.",
+          "coordinates": [
+            124.51183319091797,
+            425.95526123046875,
+            236.68670654296875,
+            436.2070007324219
+          ]
+        },
+        {
+          "id": 25,
+          "type": "paragraph_title",
+          "confidence": 0.841,
+          "text": "Carrot Salad",
+          "coordinates": [
+            69.94686126708984,
+            454.3180236816406,
+            133.52865600585938,
+            463.5950012207031
+          ]
+        },
+        {
+          "id": 26,
+          "type": "paragraph_title",
+          "confidence": 0.747,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.01790618896484,
+            469.6506042480469,
+            167.95457458496094,
+            479.64996337890625
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.609,
+          "text": "o 4 carrots",
+          "coordinates": [
+            124.79375457763672,
+            485.0986328125,
+            187.4155731201172,
+            494.57269287109375
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.586,
+          "text": "o 1/4 cup raisins",
+          "coordinates": [
+            124.28087615966797,
+            498.8434753417969,
+            215.59271240234375,
+            508.74578857421875
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.635,
+          "text": "o 1/4 cup parsley",
+          "coordinates": [
+            124.29219818115234,
+            514.3690185546875,
+            219.64369201660156,
+            524.3056030273438
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.607,
+          "text": "o 1/4 cup lemon juice",
+          "coordinates": [
+            124.21351623535156,
+            529.0252685546875,
+            240.62957763671875,
+            538.7777099609375
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.615,
+          "text": "o 1/4 cup olive oil",
+          "coordinates": [
+            124.50022888183594,
+            542.8281860351562,
+            222.51055908203125,
+            552.9653930664062
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.637,
+          "text": "o 1 teaspoon cumin",
+          "coordinates": [
+            124.9290542602539,
+            557.9400634765625,
+            231.28001403808594,
+            568.0706787109375
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.612,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.70166778564453,
+            572.4592895507812,
+            218.98109436035156,
+            582.6085815429688
+          ]
+        },
+        {
+          "id": 34,
+          "type": "paragraph_title",
+          "confidence": 0.753,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.66590881347656,
+            587.019775390625,
+            170.9862060546875,
+            596.2428588867188
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.795,
+          "text": "o Grate carrots and mix with raisins and chopped parsley.",
+          "coordinates": [
+            123.7806167602539,
+            601.1654663085938,
+            413.1573486328125,
+            612.0255737304688
+          ]
+        },
+        {
+          "id": 36,
+          "type": "text",
+          "confidence": 0.785,
+          "text": "o Whisk lemon juice, olive oil, cumin, and salt, then pour over salad.",
+          "coordinates": [
+            123.4671401977539,
+            615.3829956054688,
+            464.24749755859375,
+            626.466552734375
+          ]
+        },
+        {
+          "id": 37,
+          "type": "text",
+          "confidence": 0.697,
+          "text": "o Toss well and serve chilled.",
+          "coordinates": [
+            124.04613494873047,
+            630.5123291015625,
+            274.9431457519531,
+            640.3817138671875
+          ]
+        },
+        {
+          "id": 38,
+          "type": "paragraph_title",
+          "confidence": 0.773,
+          "text": "Ceviche",
+          "coordinates": [
+            69.90463256835938,
+            659.5169677734375,
+            110.63521575927734,
+            668.64306640625
+          ]
+        },
+        {
+          "id": 39,
+          "type": "paragraph_title",
+          "confidence": 0.687,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.78397369384766,
+            674.7075805664062,
+            168.0233612060547,
+            684.719970703125
+          ]
+        },
+        {
+          "id": 40,
+          "type": "text",
+          "confidence": 0.657,
+          "text": "o 1 pound fresh fish or shrimp",
+          "coordinates": [
+            124.0777816772461,
+            689.5989990234375,
+            281.2578430175781,
+            700.1289672851562
+          ]
+        },
+        {
+          "id": 41,
+          "type": "text",
+          "confidence": 0.706,
+          "text": "o 1 cup lime juice",
+          "coordinates": [
+            124.27830505371094,
+            703.8890380859375,
+            220.32447814941406,
+            714.4114990234375
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 32,
+        "paragraph_title": 9
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.694,
+          "text": "o 1 small onion \no 2 tomatoes \no 1 jalapeño \no 1/4 cup cilantro\no 1 teaspoon salt",
+          "coordinates": [
+            123.50445556640625,
+            73.26641082763672,
+            220.04319763183594,
+            143.34083557128906
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.518,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.98550415039062,
+            132.50721740722656,
+            218.8505401611328,
+            143.2068634033203
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.841,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.91709899902344,
+            147.69444274902344,
+            170.55299377441406,
+            157.14759826660156
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.793,
+          "text": "o Dice fish or shrimp and place in a bowl.",
+          "coordinates": [
+            123.7486343383789,
+            161.00506591796875,
+            334.8116455078125,
+            171.858642578125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.819,
+          "text": "o Pour lime juice over the seafood and let marinate for 30 minutes.",
+          "coordinates": [
+            123.42498779296875,
+            176.50340270996094,
+            459.067626953125,
+            186.66275024414062
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.824,
+          "text": "o Dice onion, tomatoes, and jalapeño.",
+          "coordinates": [
+            123.47659301757812,
+            191.57276916503906,
+            319.96514892578125,
+            202.21194458007812
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.806,
+          "text": "o Chop cilantro.",
+          "coordinates": [
+            123.99935150146484,
+            205.9315185546875,
+            212.70884704589844,
+            215.9075469970703
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.817,
+          "text": "o Mix all ingredients together and add salt.",
+          "coordinates": [
+            123.68678283691406,
+            219.886474609375,
+            342.9986572265625,
+            231.19720458984375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.73,
+          "text": "o Serve chilled.",
+          "coordinates": [
+            124.44351196289062,
+            235.23509216308594,
+            208.82591247558594,
+            245.4086456298828
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.83,
+          "text": "Cha Gio",
+          "coordinates": [
+            69.86726379394531,
+            264.20782470703125,
+            110.68195343017578,
+            273.81182861328125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.807,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.12361145019531,
+            279.6739196777344,
+            167.53492736816406,
+            289.7873229980469
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.6,
+          "text": "o 1 package spring roll wrappers",
+          "coordinates": [
+            124.01904296875,
+            293.6528015136719,
+            292.228515625,
+            304.68829345703125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.604,
+          "text": "o 1/2 pound ground pork",
+          "coordinates": [
+            124.16683959960938,
+            308.51617431640625,
+            259.2318420410156,
+            319.8025817871094
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.584,
+          "text": "o 1/2 cup shrimp",
+          "coordinates": [
+            124.26163482666016,
+            322.8907775878906,
+            218.3008575439453,
+            333.07427978515625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.607,
+          "text": "o 1/2 cup mushrooms",
+          "coordinates": [
+            123.9792709350586,
+            338.2184753417969,
+            242.26475524902344,
+            347.9808044433594
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.601,
+          "text": "o 1/4 cup carrots",
+          "coordinates": [
+            124.17176818847656,
+            352.7841491699219,
+            218.82940673828125,
+            362.7088317871094
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.645,
+          "text": "o 1/4 cup green onions",
+          "coordinates": [
+            124.11723327636719,
+            367.2315979003906,
+            247.60354614257812,
+            376.8817443847656
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.614,
+          "text": "o 2 cloves garlic",
+          "coordinates": [
+            124.26347351074219,
+            381.6325988769531,
+            212.9795684814453,
+            392.0527648925781
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.625,
+          "text": "o 2 tablespoons fish sauce",
+          "coordinates": [
+            124.28358459472656,
+            396.5337829589844,
+            262.4405822753906,
+            406.8399658203125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.619,
+          "text": "o 1 tablespoon sugar",
+          "coordinates": [
+            124.27464294433594,
+            411.20855712890625,
+            237.15122985839844,
+            421.34716796875
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.666,
+          "text": "o Oil for frying",
+          "coordinates": [
+            124.50724029541016,
+            425.7861633300781,
+            205.84437561035156,
+            436.1838684082031
+          ]
+        },
+        {
+          "id": 22,
+          "type": "paragraph_title",
+          "confidence": 0.837,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.6701431274414,
+            440.95916748046875,
+            170.5955352783203,
+            449.9944763183594
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "o Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped\ngreen onions, minced garlic, fish sauce, and sugar in a bowl.",
+          "coordinates": [
+            123.25201416015625,
+            454.07470703125,
+            537.7255859375,
+            480.3662109375
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.797,
+          "text": "o Place a spoonful of filling on each wrapper and roll tightly.",
+          "coordinates": [
+            123.3557357788086,
+            484.483642578125,
+            425.5201721191406,
+            495.3136291503906
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.803,
+          "text": "o Fry in hot oil until golden.",
+          "coordinates": [
+            123.61924743652344,
+            498.3597106933594,
+            269.085693359375,
+            508.86248779296875
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.851,
+          "text": "o Drain on paper towels and serve with dipping sauce.",
+          "coordinates": [
+            123.40148162841797,
+            513.5386962890625,
+            398.02484130859375,
+            524.147705078125
+          ]
+        },
+        {
+          "id": 27,
+          "type": "paragraph_title",
+          "confidence": 0.842,
+          "text": "Chakchouka",
+          "coordinates": [
+            69.88092041015625,
+            542.0203857421875,
+            132.2803192138672,
+            551.7719116210938
+          ]
+        },
+        {
+          "id": 28,
+          "type": "paragraph_title",
+          "confidence": 0.755,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.97296142578125,
+            557.4656982421875,
+            167.30181884765625,
+            567.8773803710938
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.707,
+          "text": "o 4 tomatoes \no 2 bell peppers \no 1 small onion \no 2 cloves garlic \no 1/4 cup olive oil \no 1 teaspoon cumin \no 1 teaspoon paprika\no 1 teaspoon salt \no 4 eggs \no 1/4 cup cilantro",
+          "coordinates": [
+            118.39928436279297,
+            570.2579345703125,
+            236.86526489257812,
+            714.817138671875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 23,
+        "paragraph_title": 6
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.866,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.95411682128906,
+            73.6398696899414,
+            170.5072784423828,
+            82.8694839477539
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "o Sauté diced onion, minced garlic, and sliced bell peppers in olive oil until\nsoftened.",
+          "coordinates": [
+            123.88085174560547,
+            88.19182586669922,
+            495.3277282714844,
+            112.64866638183594
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "o Add diced tomatoes, cumin, paprika, and salt, simmer for 10 minutes.",
+          "coordinates": [
+            123.35075378417969,
+            117.34201049804688,
+            481.5940246582031,
+            127.86918640136719
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.847,
+          "text": "o Make wells in the sauce and crack eggs into each well.",
+          "coordinates": [
+            123.44373321533203,
+            132.60848999023438,
+            407.4390869140625,
+            142.71278381347656
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "o Cover and cook until eggs are set.",
+          "coordinates": [
+            124.10009765625,
+            147.86456298828125,
+            307.48138427734375,
+            157.5902557373047
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.844,
+          "text": "o Garnish with chopped cilantro and serve warm.",
+          "coordinates": [
+            124.0068359375,
+            161.64048767089844,
+            374.1119384765625,
+            171.4678497314453
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.859,
+          "text": "Chana Masala",
+          "coordinates": [
+            69.76944732666016,
+            191.2917022705078,
+            142.58653259277344,
+            200.973388671875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.75,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.84233856201172,
+            205.94448852539062,
+            167.76002502441406,
+            215.7601318359375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.559,
+          "text": "o 2 cups cooked chickpeas \no 1 small onion \no 2 cloves garlic \no 1 teaspoon cumin \no 1 teaspoon coriander \no 1 teaspoon garam masala\no 1 teaspoon turmeric \no 1 teaspoon salt \no 1 can diced tomatoes \no 2 tablespoons oil",
+          "coordinates": [
+            122.2640380859375,
+            218.5991973876953,
+            266.480712890625,
+            362.8016357421875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.514,
+          "text": "o 1 small onion",
+          "coordinates": [
+            124.58353424072266,
+            235.8365936279297,
+            209.8902130126953,
+            245.58056640625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.526,
+          "text": "o 2 cloves garlic",
+          "coordinates": [
+            124.45791625976562,
+            250.17755126953125,
+            212.2093963623047,
+            260.0559997558594
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.56,
+          "text": "o 1 teaspoon cumin",
+          "coordinates": [
+            124.43267822265625,
+            265.0868225097656,
+            231.80517578125,
+            274.811767578125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.56,
+          "text": "o 1 teaspoon coriander",
+          "coordinates": [
+            124.18305969238281,
+            279.9715270996094,
+            248.8566131591797,
+            289.9822692871094
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.605,
+          "text": "o 1 teaspoon garam masala",
+          "coordinates": [
+            124.28895568847656,
+            294.0445861816406,
+            268.3179016113281,
+            303.6154479980469
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.608,
+          "text": "o 1 teaspoon turmeric",
+          "coordinates": [
+            124.22518920898438,
+            309.3222961425781,
+            244.2749786376953,
+            318.7879333496094
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.591,
+          "text": "o\n1 teaspoon salt",
+          "coordinates": [
+            124.46824645996094,
+            322.79803466796875,
+            219.23374938964844,
+            332.3841552734375
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.598,
+          "text": "o 1 can diced tomatoes",
+          "coordinates": [
+            124.60089874267578,
+            338.06463623046875,
+            247.8814697265625,
+            347.98046875
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.622,
+          "text": "o 2 tablespoons oil",
+          "coordinates": [
+            124.83782958984375,
+            352.56231689453125,
+            227.6943359375,
+            362.44903564453125
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.808,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.7966079711914,
+            367.0049133300781,
+            170.89430236816406,
+            375.8954772949219
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.699,
+          "text": "o Heat oil in a pan and sauté diced onion and minced garlic until translucent.",
+          "coordinates": [
+            123.13298034667969,
+            381.0698547363281,
+            505.68084716796875,
+            391.36590576171875
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.733,
+          "text": "o Add cumin, coriander, garam masala, and turmeric, cook for 1 minute.",
+          "coordinates": [
+            123.32015228271484,
+            396.6402282714844,
+            483.87371826171875,
+            406.9953308105469
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.828,
+          "text": "o Add chickpeas and diced tomatoes, stir to combine.",
+          "coordinates": [
+            123.71074676513672,
+            410.716796875,
+            395.5845031738281,
+            420.5484619140625
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.816,
+          "text": "o Simmer for 15 minutes, stirring occasionally.",
+          "coordinates": [
+            123.87742614746094,
+            425.70343017578125,
+            359.6511535644531,
+            436.1019592285156
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.782,
+          "text": "o Add salt to taste and serve.",
+          "coordinates": [
+            124.07720184326172,
+            440.9641418457031,
+            276.22088623046875,
+            450.2613220214844
+          ]
+        },
+        {
+          "id": 25,
+          "type": "paragraph_title",
+          "confidence": 0.792,
+          "text": "Chapati",
+          "coordinates": [
+            69.79596710205078,
+            469.2986755371094,
+            110.86235809326172,
+            479.3481750488281
+          ]
+        },
+        {
+          "id": 26,
+          "type": "paragraph_title",
+          "confidence": 0.747,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.7245864868164,
+            484.69549560546875,
+            167.74832153320312,
+            494.88311767578125
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.532,
+          "text": "o 2 cups flour \no 1/4 cup oil \no 1/2 cup water \no 1 teaspoon salt",
+          "coordinates": [
+            123.37157440185547,
+            498.62738037109375,
+            219.02037048339844,
+            552.7041625976562
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.514,
+          "text": "o 1/4 cup oil",
+          "coordinates": [
+            124.72992706298828,
+            513.5987548828125,
+            196.36050415039062,
+            524.19970703125
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.524,
+          "text": "o 1/2 cup water",
+          "coordinates": [
+            124.59175872802734,
+            529.0444946289062,
+            213.1660614013672,
+            539.1797485351562
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.559,
+          "text": "o 1 teaspoon salt",
+          "coordinates": [
+            124.58415985107422,
+            542.4053955078125,
+            218.6244659423828,
+            552.256591796875
+          ]
+        },
+        {
+          "id": 31,
+          "type": "paragraph_title",
+          "confidence": 0.768,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.6711654663086,
+            557.8662109375,
+            170.56053161621094,
+            566.9800415039062
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.744,
+          "text": "o Mix flour, oil, water, and salt to form a dough, then let rest.",
+          "coordinates": [
+            123.56873321533203,
+            572.3616943359375,
+            430.1210021972656,
+            582.9605712890625
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.757,
+          "text": "o Divide dough into balls and roll out into circles.",
+          "coordinates": [
+            123.54655456542969,
+            586.7803955078125,
+            372.1174621582031,
+            596.8721923828125
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.761,
+          "text": "o Cook on a hot griddle until golden on both sides.",
+          "coordinates": [
+            123.66272735595703,
+            601.4373168945312,
+            379.4891662597656,
+            611.6508178710938
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.646,
+          "text": "o\nServe warm.",
+          "coordinates": [
+            124.34080505371094,
+            616.413330078125,
+            204.87957763671875,
+            625.3722534179688
+          ]
+        },
+        {
+          "id": 36,
+          "type": "paragraph_title",
+          "confidence": 0.799,
+          "text": "Char Siu",
+          "coordinates": [
+            69.79790496826172,
+            645.3908081054688,
+            113.15464782714844,
+            654.9192504882812
+          ]
+        },
+        {
+          "id": 37,
+          "type": "paragraph_title",
+          "confidence": 0.704,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.10298919677734,
+            659.7317504882812,
+            167.94737243652344,
+            669.8073120117188
+          ]
+        },
+        {
+          "id": 38,
+          "type": "text",
+          "confidence": 0.536,
+          "text": "o 1 pound pork shoulder",
+          "coordinates": [
+            124.59139251708984,
+            674.6221313476562,
+            255.5880584716797,
+            685.0396728515625
+          ]
+        },
+        {
+          "id": 39,
+          "type": "text",
+          "confidence": 0.59,
+          "text": "o 1/4 cup hoisin sauce",
+          "coordinates": [
+            124.57860565185547,
+            690.0327758789062,
+            243.8582305908203,
+            699.665771484375
+          ]
+        },
+        {
+          "id": 40,
+          "type": "text",
+          "confidence": 0.628,
+          "text": "o 2 tablespoons soy sauce",
+          "coordinates": [
+            124.61360931396484,
+            704.5404663085938,
+            261.1700744628906,
+            714.0768432617188
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 9,
+        "text": 31
+      }
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.747,
+          "text": "o 2 tablespoons honey",
+          "coordinates": [
+            123.89717864990234,
+            73.50662231445312,
+            246.66424560546875,
+            83.76276397705078
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.812,
+          "text": "o 1 tablespoon rice wine",
+          "coordinates": [
+            124.36141967773438,
+            89.02758026123047,
+            255.6249237060547,
+            98.48038482666016
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.82,
+          "text": "o 1 teaspoon five-spice powder",
+          "coordinates": [
+            123.96581268310547,
+            103.56439971923828,
+            288.0479431152344,
+            113.51884460449219
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.772,
+          "text": "o 1 teaspoon garlic powder",
+          "coordinates": [
+            124.13153076171875,
+            117.56763458251953,
+            268.1405334472656,
+            128.34429931640625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.878,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.76206970214844,
+            132.88827514648438,
+            170.906982421875,
+            142.0836944580078
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "o Mix hoisin sauce, soy sauce, honey, rice wine, five-spice powder, and garlic\npowder in a bowl.",
+          "coordinates": [
+            123.99291229248047,
+            147.14012145996094,
+            505.67828369140625,
+            171.64056396484375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "o Marinate pork in the mixture for at least 2 hours.",
+          "coordinates": [
+            123.50859069824219,
+            176.25453186035156,
+            381.3469543457031,
+            186.48175048828125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.856,
+          "text": "o Preheat oven to 375°F (190°C).",
+          "coordinates": [
+            123.61029052734375,
+            191.23533630371094,
+            294.499755859375,
+            201.8823699951172
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.823,
+          "text": "o Place pork on a baking sheet and roast for 45 minutes, basting occasionally.",
+          "coordinates": [
+            123.5178451538086,
+            204.97991943359375,
+            508.7420349121094,
+            216.46034240722656
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.725,
+          "text": "o Let rest before slicing and serving.",
+          "coordinates": [
+            124.19442749023438,
+            220.8131561279297,
+            309.5960693359375,
+            231.4801025390625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.854,
+          "text": "Chawanmushi",
+          "coordinates": [
+            69.7233657836914,
+            249.18930053710938,
+            143.1846466064453,
+            258.91192626953125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.681,
+          "text": " \nIngredients:",
+          "coordinates": [
+            88.06997680664062,
+            264.91436767578125,
+            167.6898193359375,
+            274.870849609375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.59,
+          "text": "o 2 eggs",
+          "coordinates": [
+            124.32095336914062,
+            280.13134765625,
+            175.8887176513672,
+            290.5212707519531
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.682,
+          "text": "o 1 cup dashi broth",
+          "coordinates": [
+            124.3537368774414,
+            293.4346618652344,
+            229.88784790039062,
+            303.4186096191406
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.652,
+          "text": "o 1 tablespoon soy sauce",
+          "coordinates": [
+            124.10858154296875,
+            309.66949462890625,
+            257.29986572265625,
+            318.9161071777344
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.703,
+          "text": "o 1 tablespoon mirin",
+          "coordinates": [
+            124.12591552734375,
+            323.27569580078125,
+            236.91700744628906,
+            332.51324462890625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.658,
+          "text": "o 1/4 cup chicken",
+          "coordinates": [
+            124.23658752441406,
+            337.7796325683594,
+            221.35255432128906,
+            347.9423828125
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.682,
+          "text": "o 1/4 cup shrimp",
+          "coordinates": [
+            124.57149505615234,
+            353.0057678222656,
+            218.39236450195312,
+            362.6815185546875
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.62,
+          "text": "o 1/4 cup mushrooms",
+          "coordinates": [
+            124.74079895019531,
+            367.0908508300781,
+            241.6511993408203,
+            376.6532287597656
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.835,
+          "text": "\nInstructions:",
+          "coordinates": [
+            87.77470397949219,
+            382.1487731933594,
+            170.739501953125,
+            390.78997802734375
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.813,
+          "text": "o Beat eggs with dashi broth, soy sauce, and mirin.",
+          "coordinates": [
+            123.99657440185547,
+            396.591552734375,
+            381.7148132324219,
+            406.89453125
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "o Place chicken, shrimp, and mushrooms in small bowls.",
+          "coordinates": [
+            123.6364517211914,
+            410.5266418457031,
+            406.8165283203125,
+            420.5719909667969
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.812,
+          "text": "o Pour egg mixture over the top.",
+          "coordinates": [
+            123.81477355957031,
+            426.21466064453125,
+            293.4396057128906,
+            435.975830078125
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.796,
+          "text": "o Steam for 15 minutes until set.",
+          "coordinates": [
+            124.0288314819336,
+            440.67474365234375,
+            293.536376953125,
+            450.4128723144531
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.741,
+          "text": "o Serve warm.",
+          "coordinates": [
+            124.51528930664062,
+            455.41119384765625,
+            204.80702209472656,
+            464.3761291503906
+          ]
+        },
+        {
+          "id": 26,
+          "type": "paragraph_title",
+          "confidence": 0.865,
+          "text": "Chiles Rellenos",
+          "coordinates": [
+            69.76021575927734,
+            484.1653747558594,
+            147.13192749023438,
+            493.904052734375
+          ]
+        },
+        {
+          "id": 27,
+          "type": "paragraph_title",
+          "confidence": 0.682,
+          "text": " \nIngredients:",
+          "coordinates": [
+            87.61375427246094,
+            498.9550476074219,
+            167.9170379638672,
+            508.55078125
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.684,
+          "text": "o 4 poblano peppers",
+          "coordinates": [
+            124.11323547363281,
+            514.54736328125,
+            236.1582489013672,
+            524.2680053710938
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.689,
+          "text": "o 1 cup shredded cheese",
+          "coordinates": [
+            124.0462646484375,
+            529.1263427734375,
+            255.94149780273438,
+            538.4050903320312
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.639,
+          "text": "o 1/2 cup flour",
+          "coordinates": [
+            124.26866912841797,
+            542.886962890625,
+            208.1216583251953,
+            552.5977783203125
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.672,
+          "text": "o 4 eggs",
+          "coordinates": [
+            124.32632446289062,
+            558.1959838867188,
+            175.88861083984375,
+            568.3786010742188
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.633,
+          "text": "o 1 cup vegetable oil",
+          "coordinates": [
+            124.55207061767578,
+            572.67431640625,
+            236.45164489746094,
+            582.676025390625
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.656,
+          "text": "o 1 cup tomato sauce",
+          "coordinates": [
+            125.10684204101562,
+            587.4957885742188,
+            239.44960021972656,
+            596.7938232421875
+          ]
+        },
+        {
+          "id": 34,
+          "type": "paragraph_title",
+          "confidence": 0.818,
+          "text": " \nInstructions:",
+          "coordinates": [
+            87.7057113647461,
+            601.9450073242188,
+            170.67990112304688,
+            610.9501953125
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.682,
+          "text": "o Roast peppers until charred, then peel and remove seeds.",
+          "coordinates": [
+            123.48909759521484,
+            615.2928466796875,
+            423.5311584472656,
+            625.91064453125
+          ]
+        },
+        {
+          "id": 36,
+          "type": "text",
+          "confidence": 0.768,
+          "text": "o Stuff peppers with cheese.",
+          "coordinates": [
+            124.07865142822266,
+            630.7704467773438,
+            273.0776062011719,
+            640.5232543945312
+          ]
+        },
+        {
+          "id": 37,
+          "type": "text",
+          "confidence": 0.785,
+          "text": "o Separate eggs and beat whites until stiff, then fold in yolks.",
+          "coordinates": [
+            123.13945007324219,
+            645.349609375,
+            427.5018615722656,
+            655.9763793945312
+          ]
+        },
+        {
+          "id": 38,
+          "type": "text",
+          "confidence": 0.829,
+          "text": "o Dredge peppers in flour, then dip in egg mixture.",
+          "coordinates": [
+            123.61073303222656,
+            659.8421020507812,
+            379.9931945800781,
+            670.4050903320312
+          ]
+        },
+        {
+          "id": 39,
+          "type": "text",
+          "confidence": 0.812,
+          "text": "o Fry in hot oil until golden.",
+          "coordinates": [
+            123.82560729980469,
+            674.7415771484375,
+            269.34393310546875,
+            685.24853515625
+          ]
+        },
+        {
+          "id": 40,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "o Serve with warmed tomato sauce.",
+          "coordinates": [
+            123.92205810546875,
+            690.0616455078125,
+            309.7601623535156,
+            699.4789428710938
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 33,
+        "paragraph_title": 7
+      }
+    }
+  ]
+}

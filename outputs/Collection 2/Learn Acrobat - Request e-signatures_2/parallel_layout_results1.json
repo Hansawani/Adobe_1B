@@ -1,0 +1,1577 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Request e-signatures_2.pdf",
+  "total_pages": 11,
+  "processing_time": "59.58s",
+  "layout_time_total": "56.56s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.649,
+          "text": "Adobe LiveCycle Rights Management\n(ALCRM) servers",
+          "coordinates": [
+            69.15983581542969,
+            90.96524047851562,
+            458.883056640625,
+            143.76600646972656
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.603,
+          "text": "Adobe LiveCycle Rights Management\n(ALCRM) servers",
+          "coordinates": [
+            69.15983581542969,
+            90.96524047851562,
+            458.883056640625,
+            143.76600646972656
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "Adobe LiveCycleRights Management (ALCRM) servers let you define centralized policies to \ncontrol access to documents. The policies are stored on the ALCRM server. You require server\naccess to use them.",
+          "coordinates": [
+            68.30327606201172,
+            163.1934814453125,
+            537.9356689453125,
+            202.96640014648438
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "ALCRM servers embed user access information in documents. Therefore, specify document \nrecipients in ALCRM policies. Alternatively, let the ALCRM server retrieve the list of recipients\nfrom LDAP directories.",
+          "coordinates": [
+            68.29827880859375,
+            215.10301208496094,
+            534.890625,
+            254.719482421875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "Use ALCRM servers to set permissions for separate document tasks, for example opening,\nediting, and printing. You can also define document auditing policies on ALCRM servers.",
+          "coordinates": [
+            68.77073669433594,
+            266.0732727050781,
+            517.226806640625,
+            293.91558837890625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.883,
+          "text": "What is a digital signature?",
+          "coordinates": [
+            68.87522888183594,
+            328.41094970703125,
+            278.63067626953125,
+            345.6526184082031
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "Digital signatures are a secure and efficient way to electronically sign and authenticate \ndocuments, ensuring their authenticity and integrity. By using digital signatures, you can sign\ndocuments quickly and easily, and be confident that they can’t be tampered with or forged.",
+          "coordinates": [
+            68.96217346191406,
+            355.39697265625,
+            529.574462890625,
+            398.1358642578125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.884,
+          "text": "Why validate a digital signature?",
+          "coordinates": [
+            69.08526611328125,
+            431.4317932128906,
+            323.3130187988281,
+            448.6649475097656
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "When you receive a signed document, you may want to validate its signature to verify the \nsigner and the signed content. Depending on how you’ve configured your application, \nvalidation may occur automatically. Signature validity is determined by checking the \nauthenticity of the signature’s digital ID certificate status and document integrity.",
+          "coordinates": [
+            68.44197845458984,
+            459.3531799316406,
+            516.0118408203125,
+            515.9571533203125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.962,
+          "text": "To verify authenticity, the validator checks if the signer's certificate or its parent certificates are\ntrusted. The validity of the signing certificate is also checked based on the user's Acrobat or \nAcrobat Reader settings.",
+          "coordinates": [
+            68.50853729248047,
+            525.4862060546875,
+            537.31396484375,
+            567.06298828125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "To verify document integrity, the validator checks if the signed content was altered after \nsigning. If changes were made, the verification ensures that the signer allowed the changes.",
+          "coordinates": [
+            68.61920928955078,
+            577.4820556640625,
+            523.82958984375,
+            605.0936889648438
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "paragraph_title": 3,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "number",
+          "confidence": 0.768,
+          "text": "",
+          "coordinates": [
+            528.7799682617188,
+            76.43160247802734,
+            536.66552734375,
+            83.425537109375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "confidence": 0.919,
+          "text": "",
+          "coordinates": [
+            76.98836517333984,
+            84.41854858398438,
+            539.291748046875,
+            485.1515197753906
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.755,
+          "text": "Set preferences for validating digital signatures",
+          "coordinates": [
+            69.54298400878906,
+            492.4007568359375,
+            436.4095153808594,
+            509.91534423828125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "You can set verification preferences in advance so digital signatures are valid when you open\na PDF and verification details appear with the signature. When Digital Signatures are \nvalidated, an icon appears in the document message bar to indicate the signature status.",
+          "coordinates": [
+            68.76268005371094,
+            519.7050170898438,
+            531.434326171875,
+            561.5728759765625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "1. Select the hamburger menu   (Windows®), or go to Acrobat (macOS)> Preferences.",
+          "coordinates": [
+            100.12124633789062,
+            571.3159790039062,
+            531.3032836914062,
+            583.7730712890625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "2. In the Preferences dialog box, from under categories, select Signatures.",
+          "coordinates": [
+            100.4168472290039,
+            594.2632446289062,
+            475.9010925292969,
+            606.908447265625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "3. From the Verification box in the Digital Signatures panel, select More...",
+          "coordinates": [
+            100.63573455810547,
+            616.2551879882812,
+            471.86700439453125,
+            628.6001586914062
+          ]
+        }
+      ],
+      "element_counts": {
+        "number": 1,
+        "image": 1,
+        "paragraph_title": 1,
+        "text": 4
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.822,
+          "text": "",
+          "coordinates": [
+            121.99382781982422,
+            75.68254089355469,
+            526.8113403320312,
+            479.6867370605469
+          ]
+        },
+        {
+          "id": 2,
+          "type": "number",
+          "confidence": 0.724,
+          "text": "",
+          "coordinates": [
+            514.6390380859375,
+            75.86785888671875,
+            522.4996948242188,
+            83.46023559570312
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.792,
+          "text": "4. In the 'Signature Verification Preferences' dialog that opens, you can control the\nfollowing settings:",
+          "coordinates": [
+            101.12931823730469,
+            491.4754943847656,
+            517.6424560546875,
+            518.8580322265625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "• \nSet automatic validation of signatures: With the Verify signatures when the\ndocument is opened check box selected, Acrobat automatically validates all \nsignatures in a PDF when you open the document.",
+          "coordinates": [
+            137.3203582763672,
+            528.6524658203125,
+            532.5562744140625,
+            570.5438232421875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "• \nSet verification behavior: The options specify methods that determine \nwhich plug-in to choose when verifying a signature. The appropriate plug-in\nis often selected automatically. Contact your system administrator about \nspecific plug-in requirements for validating signatures.",
+          "coordinates": [
+            137.05557250976562,
+            577.6768798828125,
+            534.6587524414062,
+            635.3135986328125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "• \nCheck the revocation status of certificates: With the Require certificate \nrevocation checking to succeed... checkbox selected, Acrobat checks \ncertificates against a list of excluded certificates during validation. If you \ndeselect the check box, the revocation status for Acrobat Approval",
+          "coordinates": [
+            137.02371215820312,
+            641.581787109375,
+            512.0333251953125,
+            698.088134765625
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "number": 1,
+        "text": 4
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "signatures is ignored. The revocation status is always checked to certify\nsignatures.",
+          "coordinates": [
+            154.17184448242188,
+            73.43486785888672,
+            509.31298828125,
+            100.20158386230469
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "• \nUse expired timestamps: The option is selected by default. It uses the time\nmentioned in the timestamp or embedded in the signature, even if the \nsignature’s certificate has expired. If you deselect the check box, Acrobat \ndiscards expired timestamps.",
+          "coordinates": [
+            137.3570098876953,
+            107.57896423339844,
+            530.0828857421875,
+            163.0375518798828
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "• \nSet verification for time: You can select the appropriate options under \n'Verification time' to check the time at which the signature was created, to \ncheck the timestamp embedded in the signature, or to check the current \ntime.",
+          "coordinates": [
+            137.23374938964844,
+            171.60153198242188,
+            526.3616943359375,
+            226.4727325439453
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "• \nAdd verification information: Select appropriate options under 'Verification\ninformation' to add verification information to the signed PDF or to alert the \nuser when the verification information is too large.",
+          "coordinates": [
+            137.31210327148438,
+            234.40966796875,
+            535.7398681640625,
+            275.7588806152344
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.925,
+          "text": "• \nConfigure to trust the root certificates in the Windows® certificate store: \nYou can specify whether to trust all root certificates in the Windows® \nCertificates store for:",
+          "coordinates": [
+            137.16525268554688,
+            283.4570007324219,
+            524.0130004882812,
+            323.73919677734375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nValidating signatures: Certificates are trusted for Acrobat Approval\nsignature validation.",
+          "coordinates": [
+            172.77664184570312,
+            332.5330810546875,
+            527.8768310546875,
+            358.88128662109375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "• \nValidating certified documents: Certificates are trusted for \ncertification signature validation.",
+          "coordinates": [
+            173.44845581054688,
+            366.46014404296875,
+            487.1318359375,
+            392.6775817871094
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "Note: Selecting these options can compromise security.",
+          "coordinates": [
+            149.09169006347656,
+            400.8869934082031,
+            428.4835510253906,
+            412.76605224609375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.905,
+          "text": "Set the trust level of a certificate",
+          "coordinates": [
+            69.0458755493164,
+            447.6719970703125,
+            320.434814453125,
+            461.76947021484375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "In Acrobat or Acrobat Reader, the signature of a certified or signed document is valid if you \nand the signer have a trust relationship. The trust level of the certificate indicates the actions \nfor which you trust the signer.",
+          "coordinates": [
+            68.67774200439453,
+            474.2087707519531,
+            528.3121948242188,
+            517.0108642578125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "You can change the trust settings of certificates to allow specific actions. For example, you can\nchange the settings to enable the dynamic content and embedded JavaScript™ within the \ncertified document.",
+          "coordinates": [
+            68.76625061035156,
+            526.46142578125,
+            537.0617065429688,
+            566.8045654296875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "1. Navigate to the hamburger menu   (Windows) or the Acrobat menu (macOS) \n> Preferences > Signatures.",
+          "coordinates": [
+            100.38626098632812,
+            578.0546264648438,
+            504.14739990234375,
+            605.2722778320312
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.899,
+          "text": "2. For identities & Trusted Certificates, select More...",
+          "coordinates": [
+            100.86035919189453,
+            615.4501342773438,
+            364.8102722167969,
+            626.6876220703125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "3. From the left panel, select Trusted Certificates.",
+          "coordinates": [
+            101.07556915283203,
+            638.5645141601562,
+            355.0748596191406,
+            649.9267578125
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 13,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.869,
+          "text": "",
+          "coordinates": [
+            120.22116088867188,
+            71.3258285522461,
+            588.0005493164062,
+            247.99142456054688
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.721,
+          "text": "4. Select a certificate from the list and then select Edit Trust.",
+          "coordinates": [
+            100.96770477294922,
+            258.3950500488281,
+            408.21197509765625,
+            269.4161071777344
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "5. In the Edit Certificate Trust dialog that opens, select any of the following items to\ntrust the certificate:",
+          "coordinates": [
+            100.41604614257812,
+            280.2680969238281,
+            519.5288696289062,
+            306.0016784667969
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "• \nUse this certificate as a trusted root: A root certificate is an originating \nauthority in a chain of certificate authorities that issued the certificate. By \ntrusting the root certificate, you trust all certificates issued by that certificate \nauthority.",
+          "coordinates": [
+            123.1949234008789,
+            318.53265380859375,
+            518.3168334960938,
+            373.2085266113281
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "• \nSigned documents or data: It acknowledges the identity of the signer.",
+          "coordinates": [
+            123.67085266113281,
+            381.41204833984375,
+            492.46246337890625,
+            393.7123107910156
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "• \nCertified documents: It trusts documents in which the author has certified the\ndocument with a signature. You trust the signer for certifying documents, and \nyou accept actions that the certified document takes.",
+          "coordinates": [
+            123.07625579833984,
+            401.5215148925781,
+            530.7963256835938,
+            442.55059814453125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "When the 'Certified documents' option is selected, the following options are \navailable:",
+          "coordinates": [
+            138.34657287597656,
+            445.5943603515625,
+            521.3135986328125,
+            471.19342041015625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nDynamic content: It allows movies, sound, and other dynamic elements\nto play in a certified document.",
+          "coordinates": [
+            159.3477325439453,
+            479.4920654296875,
+            538.3133544921875,
+            506.1798095703125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "• \nEmbedded high privilege JavaScript™: It allows privileged JavaScript™ \nembedded in PDF files to run. JavaScript™ files can be used in malicious \nways. It’s prudent to select this option only when necessary on \ncertificates you trust.",
+          "coordinates": [
+            159.09596252441406,
+            513.5145874023438,
+            531.8577270507812,
+            569.7918701171875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "• \nPrivileged system operations: It allows Internet connections, cross-\ndomain scripting, silent printing, external-object references, and \nimport/export methodology operations on certified documents.",
+          "coordinates": [
+            159.45391845703125,
+            577.70458984375,
+            516.0526123046875,
+            618.4655151367188
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "Note: Allow Embedded high privilege JavaScript™ and Privileged system operations only\nfor sources that you trust and work closely with. For example, use these options for \nyour employer or service provider.",
+          "coordinates": [
+            103.52632904052734,
+            639.0639038085938,
+            539.1521606445312,
+            681.22119140625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.666,
+          "text": "6. Select OK.",
+          "coordinates": [
+            88.0553970336914,
+            683.7008666992188,
+            159.401611328125,
+            694.2177124023438
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "text": 10,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "Note: You can right-click a signature field in the Signatures panel to do most signature-\nrelated tasks, including adding, clearing, and validating signatures. In some cases, however,\nthe signature field becomes locked after you sign it.",
+          "coordinates": [
+            68.60567474365234,
+            73.45875549316406,
+            521.4951171875,
+            114.78263092041016
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.892,
+          "text": "Sign in preview mode for document integrity",
+          "coordinates": [
+            68.97465515136719,
+            141.31179809570312,
+            419.3173522949219,
+            158.3885040283203
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "When document integrity is critical for your signature workflow, you can enable 'View \ndocuments in Preview mode', and then sign the document. This feature analyzes the \ndocument for content that may alter the look and feel of the document and suppresses such\ncontent to allow you to view and sign the document in a static and secure state.",
+          "coordinates": [
+            68.84911346435547,
+            169.49424743652344,
+            529.4192504882812,
+            224.9920654296875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "By signing in preview mode, you can find if the document contains:",
+          "coordinates": [
+            69.0252685546875,
+            236.47532653808594,
+            405.2332763671875,
+            248.45440673828125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "• \nAny dynamic content or external dependencies.",
+          "coordinates": [
+            87.11768341064453,
+            258.6705017089844,
+            346.6534729003906,
+            270.1000671386719
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nAny constructs such as form fields, multimedia, or JavaScript™ that may affect its look\nand feel.",
+          "coordinates": [
+            87.30337524414062,
+            277.4939270019531,
+            526.1580810546875,
+            302.3477478027344
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "After reviewing the report, you can contact the author of the document about the problems\nlisted in the report.",
+          "coordinates": [
+            69.03084564208984,
+            314.3230895996094,
+            526.5689086914062,
+            340.6849670410156
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.86,
+          "text": "Certify a PDF",
+          "coordinates": [
+            69.45790100097656,
+            375.3209228515625,
+            172.3138427734375,
+            392.1704406738281
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "Certifying a PDF means approving its contents and specifying what changes are allowed for \nthe document to remain certified. For example, a government agency creates a form with \nsignature fields and certifies it, allowing users to only change form fields and sign the \ndocument. Removing pages or adding comments will result in losing the certified status.",
+          "coordinates": [
+            68.4388427734375,
+            403.11871337890625,
+            524.2048950195312,
+            459.5180969238281
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "A certifying signature can only be applied if the PDF has no other signatures. These signatures\ncan be visible or invisible, and a blue ribbon icon  \n in the Signatures panel confirms a valid \ncertifying signature. Adding a certifying digital signature requires a digital ID.",
+          "coordinates": [
+            68.66726684570312,
+            469.6208801269531,
+            535.44482421875,
+            520.0555419921875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.862,
+          "text": "Timestamp a document",
+          "coordinates": [
+            69.67707061767578,
+            555.02197265625,
+            256.28607177734375,
+            570.9840698242188
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "Acrobat allows users to add a document timestamp to a PDF without needing an identity-\nbased signature. To timestamp a PDF, a timestamp server is needed. See how to configure a\ntimestamp server.",
+          "coordinates": [
+            68.64082336425781,
+            581.3499145507812,
+            527.3325805664062,
+            622.7234497070312
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "A timestamp guarantees the authenticity and existence of a document at a specific time and\ncomplies with ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard.",
+          "coordinates": [
+            68.96053314208984,
+            626.2750854492188,
+            527.3956909179688,
+            652.3448486328125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.701,
+          "text": "Validate a digital signature",
+          "coordinates": [
+            69.2645492553711,
+            686.9131469726562,
+            278.24627685546875,
+            704.9384155273438
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "paragraph_title": 4
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.832,
+          "text": "If the signature status is unknown or unverified, manually validate it to identify the issue and \nfind a potential solution. In case the signature status is invalid, you must contact the signer to\nresolve the issue.",
+          "coordinates": [
+            69.04773712158203,
+            73.02579498291016,
+            529.3867797851562,
+            113.7552261352539
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 1
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.779,
+          "text": "Validate all digital signatures",
+          "coordinates": [
+            69.08924102783203,
+            76.02476501464844,
+            370.4415588378906,
+            100.01423645019531
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "1. Open the PDF for which you want to validate all digital signatures.",
+          "coordinates": [
+            100.15387725830078,
+            117.06812286376953,
+            448.7555847167969,
+            129.94700622558594
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "2. From the global bar in the upper-left, select All tools.",
+          "coordinates": [
+            100.3813705444336,
+            139.91334533691406,
+            386.5225830078125,
+            152.5165557861328
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "3. From the All tools pane, select Use a certificate > Validate all signature.",
+          "coordinates": [
+            100.422607421875,
+            162.25750732421875,
+            484.0726623535156,
+            173.93460083007812
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "4. Select OK in the confirmation dialog box. Once all the signatures are validated. You\nget a confirmation message.",
+          "coordinates": [
+            100.79362487792969,
+            184.1165313720703,
+            534.6315307617188,
+            211.57737731933594
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.9,
+          "text": "View previous versions of a digitally signed document",
+          "coordinates": [
+            68.7794189453125,
+            246.0756072998047,
+            488.75531005859375,
+            263.01031494140625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "Whenever a certificate is used to sign a document, a signed version of the PDF is created and \nsaved along with the original PDF. The saved versions are in an append-only format, meaning\nthe original PDF can’t be modified. The Signatures panel provides access to all digital \nsignatures and their corresponding versions.",
+          "coordinates": [
+            68.22225952148438,
+            273.2839660644531,
+            536.488037109375,
+            330.7342834472656
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "To view previous versions, open the Signature panel and then select Options \n > View \nSigned Version.",
+          "coordinates": [
+            68.4441909790039,
+            342.2319641113281,
+            516.805908203125,
+            369.9681091308594
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "The previous version opens as a new PDF, with the version information and the name of the\nsigner in the title bar. To return to the original document, choose the document name from \nthe Windows® menu.",
+          "coordinates": [
+            68.57600402832031,
+            380.25750732421875,
+            527.555908203125,
+            421.01318359375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.897,
+          "text": "Compare versions of a signed document",
+          "coordinates": [
+            69.0744400024414,
+            456.5847473144531,
+            383.9809265136719,
+            473.1044006347656
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "After a document is signed, you can display a list of the changes made to the document after\nthe last version.",
+          "coordinates": [
+            68.51880645751953,
+            484.1270751953125,
+            530.3523559570312,
+            510.1871643066406
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "To compare the previous versions, open the Signatures panel and then select the signature.\nThen, select Options \n  > Compare Signed Version To Current Version.",
+          "coordinates": [
+            68.87344360351562,
+            521.2288208007812,
+            524.867431640625,
+            551.21630859375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.87,
+          "text": "Once you're done, close the temporary document.",
+          "coordinates": [
+            69.29912567138672,
+            561.4342651367188,
+            322.90496826171875,
+            573.4923095703125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.88,
+          "text": "Trust a signer’s certificate",
+          "coordinates": [
+            69.74679565429688,
+            630.4413452148438,
+            267.7507019042969,
+            647.7383422851562
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.97,
+          "text": "To trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity \nManager. Also, its trust level must be set manually. End users can exchange certificates or add\nthem directly from signed documents and set their trust levels. However, enterprises may \nrequire employees to validate signatures without any manual intervention. Acrobat trusts all",
+          "coordinates": [
+            68.4464340209961,
+            658.44921875,
+            535.5726928710938,
+            715.2162475585938
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "text": 11
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "certificates that are signed and certified by a trust anchor. Therefore, administrators can\npreconfigure client installations or allow end users to add a trust anchor.",
+          "coordinates": [
+            68.76119995117188,
+            73.3067855834961,
+            503.8068542480469,
+            100.43809509277344
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.893,
+          "text": "Sign component PDFs and PDF Portfolios",
+          "coordinates": [
+            68.75923156738281,
+            134.5902862548828,
+            392.3209228515625,
+            151.5482635498047
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.968,
+          "text": "You can sign component PDFs within a PDF Portfolio, or sign the PDF Portfolio as a whole. \nSigning a component PDF locks the PDF for editing and secures its content. After signing all \nthe component PDFs, you can sign the entire PDF Portfolio to finalize it. Alternatively, you can\nsign the PDF Portfolio as a whole to lock the content of all component PDFs simultaneously.",
+          "coordinates": [
+            68.10098266601562,
+            162.41421508789062,
+            538.0982055664062,
+            218.45896911621094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nTo sign a component PDF, see Signing PDFs. The signed PDF is automatically saved to\nthe PDF Portfolio.",
+          "coordinates": [
+            87.74330139160156,
+            228.31585693359375,
+            535.4404296875,
+            253.94961547851562
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "• \nTo sign a PDF Portfolio as a whole, sign the cover sheet (View > Portfolio > Cover \nSheet). Once you sign the PDF Portfolio as a whole, you can’t add signatures to the \ncomponent documents. However, you can add more signatures to the cover sheet.",
+          "coordinates": [
+            87.72772216796875,
+            265.200927734375,
+            518.6449584960938,
+            307.7584533691406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.895,
+          "text": "Digitally sign on attachments to component PDFs",
+          "coordinates": [
+            69.3448715209961,
+            341.374267578125,
+            455.09954833984375,
+            358.17547607421875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "You can add signatures to attachments before signing the cover sheet. To do so:",
+          "coordinates": [
+            69.14289093017578,
+            369.5859680175781,
+            469.57440185546875,
+            381.2124328613281
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "1. Open the PDF in a separate window.",
+          "coordinates": [
+            86.98764038085938,
+            391.609130859375,
+            290.577880859375,
+            402.4124450683594
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.907,
+          "text": "2. Right-click the attachment and select Open file.",
+          "coordinates": [
+            86.9797592163086,
+            410.57025146484375,
+            346.0061950683594,
+            421.98846435546875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "3. To view signatures on the PDF Portfolio, navigate to the cover sheet to view the\ndocument message bar and signatures pane.",
+          "coordinates": [
+            86.8858642578125,
+            430.4114074707031,
+            502.69464111328125,
+            456.38604736328125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.893,
+          "text": "View signed and certified PDF Portfolios",
+          "coordinates": [
+            68.69475555419922,
+            488.33123779296875,
+            383.6290283203125,
+            504.1607360839844
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "A properly signed or certified PDF Portfolio has one or more signatures that approve or certify\nthe PDF Portfolio. The most significant signature appears in a Signature badge in the toolbar. \nDetails of all signatures appear on the cover sheet.",
+          "coordinates": [
+            68.56035614013672,
+            516.1705932617188,
+            537.910888671875,
+            557.383056640625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "• \nTo view the name of the organization or person that signed the PDF Portfolio, hover\nthe pointer over the Signature Badge.",
+          "coordinates": [
+            87.51441955566406,
+            567.4186401367188,
+            525.7880249023438,
+            594.9422607421875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "• \nTo view details about the signature that appears on the Signature Badge, click \nthe Signature Badge. The cover sheet and the Signatures pane on the left are open \nwith details.",
+          "coordinates": [
+            87.5601806640625,
+            604.3562622070312,
+            517.7265014648438,
+            644.4653930664062
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "If the PDF Portfolio approval or certification is invalid or has a problem, the Signature \nBadge shows a warning icon. To view an explanation of the problem, hover the pointer over \na Signature Badge with a warning icon. Different warning icons appear for different situations",
+          "coordinates": [
+            68.61196899414062,
+            656.1846313476562,
+            532.7003173828125,
+            699.3923950195312
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 12,
+        "paragraph_title": 3
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "header",
+          "confidence": 0.624,
+          "text": "",
+          "coordinates": [
+            69.47099304199219,
+            73.4164047241211,
+            423.06292724609375,
+            85.61338806152344
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.594,
+          "text": "For a list and explanation of each warning, see the DigSig Admin Guide.",
+          "coordinates": [
+            69.47099304199219,
+            73.4164047241211,
+            423.06292724609375,
+            85.61338806152344
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.869,
+          "text": "XML data signatures",
+          "coordinates": [
+            69.22366333007812,
+            119.73092651367188,
+            229.305419921875,
+            136.7541961669922
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.957,
+          "text": "Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML\nForms Architectures (XFA) forms. The form author provides XML signing, validating, or \nclearing instructions for form events, such as button click, file save, or submit.",
+          "coordinates": [
+            68.75106048583984,
+            147.3379364013672,
+            525.6218872070312,
+            189.3209228515625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "XML data signatures conform to the W3C XML-Signature standard. Like PDF digital \nsignatures, XML digital signatures ensure integrity, authentication, and non-repudiation in \ndocuments.",
+          "coordinates": [
+            68.75720977783203,
+            199.2233123779297,
+            517.107666015625,
+            239.2509307861328
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "However, PDF signatures have multiple data verification states. Some states are called when a \nuser alters the PDF-signed content. In contrast, XML signatures only have two data verification\nstates, valid and invalid. The invalid state is called when a user alters the XML-signed content.",
+          "coordinates": [
+            68.62322235107422,
+            251.2943878173828,
+            537.8419189453125,
+            292.0829772949219
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.885,
+          "text": "Establish long-term signature validation",
+          "coordinates": [
+            69.7335433959961,
+            327.49053955078125,
+            381.337158203125,
+            344.3538818359375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "Long-term signature validation allows you to verify the signature's validity long after the \ndocument was signed. To achieve this, all the necessary elements for signature validation\nmust be embedded in the signed PDF. These elements can be embedded during the \ndocument signing process or added afterward.",
+          "coordinates": [
+            68.59039306640625,
+            354.4449157714844,
+            513.8355712890625,
+            411.4356994628906
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.963,
+          "text": "If certain information is not included in the PDF, the signature can only be validated for a \nlimited time because certificates related to the signature eventually expire or are revoked.\nWhen a certificate expires, the issuing authority is no longer responsible for providing \nrevocation status, rendering the signature unverifiable.",
+          "coordinates": [
+            68.5604476928711,
+            421.4262390136719,
+            517.4058837890625,
+            477.2227783203125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "The necessary elements for signature validity include the signing certificate chain, certificate \nrevocation status, and possibly a timestamp. If these elements are embedded during signing,\nthe signature can be validated without requiring external resources.",
+          "coordinates": [
+            68.72461700439453,
+            487.3890686035156,
+            529.3287963867188,
+            529.3855590820312
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "Acrobat and Acrobat Reader can embed the necessary elements if available, and the PDF \ncreator must enable usage rights for Acrobat Reader users by going to the hamburger \nmenu   (Windows) or the Acrobat menu (macOS) > Save as other > Acrobat Reader \nextended PDF.",
+          "coordinates": [
+            68.72962951660156,
+            539.2793579101562,
+            515.3848876953125,
+            594.9993896484375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "Note: Embedding timestamp information requires an appropriately configured timestamp\nserver. In addition, the signature validation time must be set to Secure Time by navigating \nto Preferences > Security > Advanced Preferences > Verification tab.",
+          "coordinates": [
+            68.46572875976562,
+            606.4801025390625,
+            519.8655395507812,
+            648.1033325195312
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.963,
+          "text": "CDS certificates can add verification information, such as revocation and timestamp into the \ndocument without requiring any configuration from the signer. However, the signer must be\nonline to fetch the appropriate information.",
+          "coordinates": [
+            68.73710632324219,
+            658.3341064453125,
+            527.9133911132812,
+            699.2911376953125
+          ]
+        }
+      ],
+      "element_counts": {
+        "header": 1,
+        "text": 10,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.855,
+          "text": "Add verification information at signing",
+          "coordinates": [
+            69.41374969482422,
+            97.06586456298828,
+            370.9736633300781,
+            114.9870376586914
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.788,
+          "text": "To add verification information while signing:",
+          "coordinates": [
+            69.52032470703125,
+            125.29849243164062,
+            299.1568908691406,
+            138.0819549560547
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "1. Ensure that your computer can connect to the appropriate network resources.",
+          "coordinates": [
+            86.84916687011719,
+            147.77662658691406,
+            495.5654296875,
+            159.00291442871094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "2. Go to Preferences > Signatures > Creation & Appearances: More and make sure that\nthe Include signature’s revocation status option is selected.",
+          "coordinates": [
+            87.00264739990234,
+            166.7261199951172,
+            537.4072265625,
+            193.1342010498047
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.842,
+          "text": "3. Sign the PDF.",
+          "coordinates": [
+            87.71866607666016,
+            200.4968719482422,
+            174.74317932128906,
+            212.42202758789062
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "If all the elements of the certificate chain are available, the information is added to the PDF\nautomatically. If a timestamp server has been configured, the timestamp is also added.",
+          "coordinates": [
+            69.012939453125,
+            223.27207946777344,
+            521.92431640625,
+            249.63140869140625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.892,
+          "text": "Add verification information after signing",
+          "coordinates": [
+            69.27983093261719,
+            284.2215881347656,
+            392.07598876953125,
+            301.9892272949219
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.967,
+          "text": "In certain workflows, signature validation information may be unavailable during the signing\nbut can be obtained later. For instance, a company official may sign a contract on a laptop \nwhile traveling without internet access. When internet access is later available, anyone \nvalidating the signature can add timestamping and revocation information to the PDF. \nSubsequent signature validations can also make use of this information.",
+          "coordinates": [
+            68.67996215820312,
+            312.5534973144531,
+            529.8616333007812,
+            382.9884948730469
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.586,
+          "text": "To add verification information after signing:",
+          "coordinates": [
+            69.62007904052734,
+            393.8623046875,
+            293.77447509765625,
+            405.88677978515625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.523,
+          "text": "To add verification information after signing:",
+          "coordinates": [
+            69.62007904052734,
+            393.8623046875,
+            293.77447509765625,
+            405.88677978515625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "1. Ensure that your computer can connect to the appropriate network resources, and\nthen right-click the signature in the PDF.",
+          "coordinates": [
+            87.75408172607422,
+            415.78765869140625,
+            517.56103515625,
+            442.1386413574219
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.763,
+          "text": "2. Select Add Verification Information.",
+          "coordinates": [
+            87.46006774902344,
+            449.6583557128906,
+            291.72979736328125,
+            460.1574401855469
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.966,
+          "text": "Information and methods used to include this long-term validation (LTV) information in the\nPDF comply with Part 4 of the ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) \nstandard.",
+          "coordinates": [
+            68.66376495361328,
+            471.37725830078125,
+            527.6707763671875,
+            512.3684692382812
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "The command is unavailable if the signature is invalid, or is signed with a self-signed \ncertificate. The command is also unavailable in case the verification time equals the current \ntime.",
+          "coordinates": [
+            68.74095916748047,
+            523.2457885742188,
+            524.3471069335938,
+            564.2107543945312
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 11
+      }
+    }
+  ]
+}

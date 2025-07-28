@@ -1,0 +1,2117 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_2.pdf",
+  "total_pages": 16,
+  "processing_time": "114.62s",
+  "layout_time_total": "79.56s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.664,
+          "text": "1. Make the desired changes in the app. Bear in mind the following:",
+          "coordinates": [
+            86.66243743896484,
+            100.37371826171875,
+            431.60723876953125,
+            112.33672332763672
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nIf you change the dimensions of the image, the image may not align correctly in\nthe PDF.",
+          "coordinates": [
+            123.2199478149414,
+            122.49049377441406,
+            539.317626953125,
+            148.56573486328125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nTransparency information is preserved only for masks that are specified as\nindex values in an indexed color space.",
+          "coordinates": [
+            123.27891540527344,
+            156.2420196533203,
+            511.6238708496094,
+            182.35890197753906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.896,
+          "text": "• \nIf you're working in Photoshop, flatten the image.",
+          "coordinates": [
+            123.20549011230469,
+            190.71409606933594,
+            389.7092590332031,
+            202.4295196533203
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "• \nImage masks aren't supported.",
+          "coordinates": [
+            123.6854248046875,
+            209.8936309814453,
+            297.45428466796875,
+            221.59683227539062
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nIf you change image modes while editing the image, you may lose valuable\ninformation that can be applied only in the original mode.",
+          "coordinates": [
+            123.38663482666016,
+            229.3128662109375,
+            517.1408081054688,
+            255.562255859375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.639,
+          "text": "2. In the editing app, choose File > Save. The object is automatically updated and\ndisplayed in the PDF when you bring Acrobat to the foreground.",
+          "coordinates": [
+            86.76268005371094,
+            282.1936950683594,
+            500.2528076171875,
+            309.44390869140625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "Note: For Photoshop, if the image is in a format supported by Photoshop 6.0 or later, your \nedited image is saved back into the PDF. However, if the image is in an unsupported format,\nPhotoshop handles the image as a generic PDF image. The edited image is saved to disk \ninstead of the PDF.",
+          "coordinates": [
+            68.55176544189453,
+            319.2984619140625,
+            527.1718139648438,
+            373.9279479980469
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.871,
+          "text": "Export PDF images to another format",
+          "coordinates": [
+            69.19356536865234,
+            399.96240234375,
+            329.94207763671875,
+            415.02752685546875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "You can save every page (all text, images, and vector objects on a page) to an image format. \nChoose Convert > Export PDF To > Image format > [Image Type]. You can also export each\nimage in a PDF to a separate image file.",
+          "coordinates": [
+            68.59477233886719,
+            425.272705078125,
+            531.3629760742188,
+            467.9192199707031
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [],
+      "element_counts": {}
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.579,
+          "text": "Rotate, move, delete, extract, or renumber\npages in a PDF",
+          "coordinates": [
+            69.95126342773438,
+            76.76408386230469,
+            511.5201416015625,
+            129.40975952148438
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.557,
+          "text": "Rotate, move, delete, extract, or renumber\npages in a PDF",
+          "coordinates": [
+            69.95126342773438,
+            76.76408386230469,
+            511.5201416015625,
+            129.40975952148438
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.802,
+          "text": "Rotate pages in a PDF",
+          "coordinates": [
+            69.40286254882812,
+            153.99671936035156,
+            222.64450073242188,
+            169.2198028564453
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.923,
+          "text": "You can rotate all or select pages in a document. Rotation is based on 90-degree increments.\nYou can rotate pages using the rotate tools in the Page Thumbnails pane or \nthe Rotate option.",
+          "coordinates": [
+            68.35748291015625,
+            178.9968719482422,
+            533.3626708984375,
+            220.69357299804688
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "1. Open the PDF in Acrobat, choose All tools > Organize pages.",
+          "coordinates": [
+            86.85938262939453,
+            231.37554931640625,
+            414.32489013671875,
+            243.53707885742188
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "2. From the left pane, specify the page range on which you want to apply the rotation.\nSelect the drop-down menu under PAGES SELECTED, then select the appropriate \noption. Alternatively, you can enter the page number you want to operate on.",
+          "coordinates": [
+            86.9894790649414,
+            253.0675048828125,
+            521.5429077148438,
+            296.1242980957031
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.788,
+          "text": "3. After specifying the page range, for Direction, select either Rotate page left for \ncounterclockwise 90° rotation\n or Rotate page right° for clockwise 90° rotation",
+          "coordinates": [
+            87.35506439208984,
+            304.9442138671875,
+            536.7344970703125,
+            340.910888671875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.561,
+          "text": "counterclockwise 90° rotation\n or Rotate page right° for clockwise 90° rotation\n.",
+          "coordinates": [
+            104.39417266845703,
+            320.0633544921875,
+            536.9195556640625,
+            341.29266357421875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.901,
+          "text": "4. You can also apply the page rotation on a specific page by selecting the buttons in the\nright pane.",
+          "coordinates": [
+            87.70368194580078,
+            351.3330993652344,
+            535.1806640625,
+            378.39544677734375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "image",
+          "confidence": 0.893,
+          "text": "",
+          "coordinates": [
+            101.25324249267578,
+            400.87689208984375,
+            259.1917419433594,
+            571.83349609375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "figure_title",
+          "confidence": 0.683,
+          "text": "",
+          "coordinates": [
+            68.77852630615234,
+            610.8713989257812,
+            530.1937866210938,
+            654.2510375976562
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.592,
+          "text": "Note: To temporarily change your view of the page, from the hamburger menu   (Windows) \nor the View menu (macOS), choose View > Rotate view > Rotate view right or Rotate view\nleft. The original page orientation is restored the next time you open the PDF.",
+          "coordinates": [
+            68.77852630615234,
+            610.8713989257812,
+            530.1937866210938,
+            654.2510375976562
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "paragraph_title": 2,
+        "text": 7,
+        "image": 1,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.694,
+          "text": "Extract pages from a PDF",
+          "coordinates": [
+            70.61463928222656,
+            76.8332290649414,
+            331.18096923828125,
+            100.11418914794922
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "Extraction is reusing selected pages of one PDF in a different PDF. Extracted pages include the\ncontent and the form fields, comments, and links of the original document.",
+          "coordinates": [
+            68.47386169433594,
+            117.14063262939453,
+            535.7117919921875,
+            144.0935516357422
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.906,
+          "text": "You can leave the extracted pages in the original document or remove them during \nextraction.",
+          "coordinates": [
+            68.9917984008789,
+            154.29518127441406,
+            487.6715087890625,
+            179.84854125976562
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.763,
+          "text": "Note: Any bookmarks or article threadings associated with pages aren't extracted.",
+          "coordinates": [
+            69.3378677368164,
+            198.3285369873047,
+            479.28912353515625,
+            210.4127960205078
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "1. Open the PDF in Acrobat. From the upper left, select All Tools > Organize pages.",
+          "coordinates": [
+            86.83333587646484,
+            227.3238067626953,
+            511.83319091796875,
+            239.4627685546875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "2. Specify the page range or the pages you want to extract. Select the drop-down menu\nunder PAGES SELECTED, then select the appropriate option. Alternatively, you can \nenter the page number you want to operate on.",
+          "coordinates": [
+            86.98491668701172,
+            249.3129119873047,
+            529.4365234375,
+            291.35894775390625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "3. Select Extract pages   under PAGE OPTIONS.",
+          "coordinates": [
+            87.1056900024414,
+            301.2720031738281,
+            332.11895751953125,
+            312.6982116699219
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "4. In the dialog, select one or more of the following before you select Extract:",
+          "coordinates": [
+            86.93111419677734,
+            324.1113586425781,
+            480.2925109863281,
+            336.1537780761719
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nTo remove the extracted pages from the original document, select Delete \npages after extracting.",
+          "coordinates": [
+            123.20283508300781,
+            359.3609924316406,
+            510.8401184082031,
+            387.0995178222656
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "• \nTo create a single-page PDF for each extracted page, select Extract pages as\nseparate files.",
+          "coordinates": [
+            123.21088409423828,
+            393.9193420410156,
+            522.9613037109375,
+            419.73443603515625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "• \nTo keep the original pages intact and create a single PDF for the extracted\npages, deselect both options.",
+          "coordinates": [
+            123.3788833618164,
+            427.16259765625,
+            511.3485412597656,
+            454.5841064453125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "The extracted pages are placed in a new document.",
+          "coordinates": [
+            69.47557067871094,
+            464.4187316894531,
+            328.59552001953125,
+            476.0008239746094
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.769,
+          "text": "Note: The creator of a PDF document can set the security to prevent the extraction of pages.\nTo view the security settings for a document, choose Document properties from the \nhamburger menu \n (Windows) or File menu in macOS and then select the Security tab in \nthe dialog.",
+          "coordinates": [
+            68.54005432128906,
+            493.34271240234375,
+            530.077392578125,
+            550.25439453125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.866,
+          "text": "Extract random pages from a PDF",
+          "coordinates": [
+            69.52806854248047,
+            587.7855224609375,
+            303.52716064453125,
+            602.8700561523438
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "You can also select and extract discontinuous pages from the page thumbnails in the right\nnavigation pane of Acrobat.",
+          "coordinates": [
+            68.79363250732422,
+            614.275390625,
+            518.3641357421875,
+            640.1575927734375
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "1. Open the PDF in Acrobat. From the upper left, select All Tools > Organize pages.",
+          "coordinates": [
+            87.03943634033203,
+            651.2438354492188,
+            512.0276489257812,
+            663.8463745117188
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "2. Specify the pages which you want to extract separated with a comma. For example, if \nyou want to extract pages 3 and 5, enter 3, 5 in the pages field under PAGES \nSELECTED.",
+          "coordinates": [
+            86.82886505126953,
+            673.320556640625,
+            531.5572509765625,
+            712.5510864257812
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "header",
+          "confidence": 0.535,
+          "text": "",
+          "coordinates": [
+            105.92190551757812,
+            86.66710662841797,
+            349.7066345214844,
+            98.33596801757812
+          ]
+        },
+        {
+          "id": 2,
+          "type": "image",
+          "confidence": 0.979,
+          "text": "",
+          "coordinates": [
+            71.42085266113281,
+            107.06360626220703,
+            427.18560791015625,
+            335.84747314453125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.53,
+          "text": "3. In the dialog, select one or more of the following before you select Extract:",
+          "coordinates": [
+            86.91873168945312,
+            352.4113464355469,
+            479.9962463378906,
+            364.3240051269531
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.522,
+          "text": "3. In the dialog, select one or more of the following before you select Extract:",
+          "coordinates": [
+            86.91873168945312,
+            352.4113464355469,
+            479.9962463378906,
+            364.3240051269531
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "• \nTo remove the extracted pages from the original document, select Delete \npages after extracting.",
+          "coordinates": [
+            123.29574584960938,
+            381.3965148925781,
+            511.9237060546875,
+            408.8147888183594
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nTo create a single-page PDF for each extracted page, select Extract pages as\nseparate files.",
+          "coordinates": [
+            122.90650939941406,
+            412.1175231933594,
+            522.8719482421875,
+            437.35516357421875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nTo keep the original pages intact and create a single PDF for the extracted \npages, deselect both options.",
+          "coordinates": [
+            123.14115142822266,
+            440.62847900390625,
+            511.70111083984375,
+            467.51873779296875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.681,
+          "text": "The extracted pages are placed in a new document.",
+          "coordinates": [
+            69.77641296386719,
+            484.2261962890625,
+            328.0621032714844,
+            496.8046569824219
+          ]
+        }
+      ],
+      "element_counts": {
+        "header": 1,
+        "image": 1,
+        "paragraph_title": 1,
+        "text": 5
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.642,
+          "text": "Split PDFs into multiple documents",
+          "coordinates": [
+            69.44414520263672,
+            91.35305786132812,
+            435.6563720703125,
+            114.6950454711914
+          ]
+        },
+        {
+          "id": 2,
+          "type": "doc_title",
+          "confidence": 0.531,
+          "text": "Split PDFs into multiple documents",
+          "coordinates": [
+            69.44414520263672,
+            91.35305786132812,
+            435.6563720703125,
+            114.6950454711914
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "You can split one or more PDFs into multiple smaller PDFs. When splitting a PDF, you can\nspecify the split by the maximum number of pages, maximum file size, or top-level \nbookmarks.",
+          "coordinates": [
+            68.47517395019531,
+            133.42320251464844,
+            516.0443725585938,
+            173.76483154296875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.861,
+          "text": "1. Open the PDF in Acrobat. From the upper left, select All Tools > Organize pages.",
+          "coordinates": [
+            87.08032989501953,
+            185.22366333007812,
+            512.1603393554688,
+            197.6317138671875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.938,
+          "text": "2. In the left pane, under PAGE OPTIONS, select Split. A command dialog appears for\nthe Split operation.",
+          "coordinates": [
+            87.11018371582031,
+            207.34991455078125,
+            521.5155029296875,
+            234.09884643554688
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "3. In the Split By list, select the criteria for dividing the document:",
+          "coordinates": [
+            87.3043212890625,
+            244.16896057128906,
+            420.4150085449219,
+            256.4920349121094
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.795,
+          "text": "Number of pages",
+          "coordinates": [
+            105.43119049072266,
+            287.67462158203125,
+            197.4989013671875,
+            298.8318176269531
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.86,
+          "text": "Specify the maximum number of pages for each document in the split.",
+          "coordinates": [
+            104.88681030273438,
+            302.3849792480469,
+            456.1976013183594,
+            314.98760986328125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.618,
+          "text": "File Size",
+          "coordinates": [
+            105.13553619384766,
+            345.3457336425781,
+            151.13595581054688,
+            355.45379638671875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.863,
+          "text": "Specify the maximum file size for each document in the split.",
+          "coordinates": [
+            104.83187866210938,
+            359.3161926269531,
+            408.2862243652344,
+            371.3467712402344
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.739,
+          "text": "Top-level Bookmarks",
+          "coordinates": [
+            105.00091552734375,
+            402.3772277832031,
+            220.9679718017578,
+            413.0489196777344
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "If the document includes bookmarks, it creates one document for every top-level \nbookmark.",
+          "coordinates": [
+            104.54552459716797,
+            417.3011169433594,
+            511.56512451171875,
+            442.6403503417969
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "4. To specify a target folder for the split files and filename preferences, select Output\nOptions. Specify the options as needed, and then select OK.",
+          "coordinates": [
+            87.50677490234375,
+            454.1669006347656,
+            514.302001953125,
+            481.3159484863281
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.698,
+          "text": "5. Select Split.",
+          "coordinates": [
+            87.85742950439453,
+            491.2775573730469,
+            166.2283935546875,
+            502.9868469238281
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.86,
+          "text": "Split multiple PDFs",
+          "coordinates": [
+            69.12007904052734,
+            534.7283935546875,
+            204.42092895507812,
+            549.3458862304688
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.842,
+          "text": "1. Open the PDF in Acrobat. From the upper left, select All Tools > Organize pages.",
+          "coordinates": [
+            86.76345825195312,
+            553.2506103515625,
+            512.1089477539062,
+            565.9861450195312
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "2. In the left pane, under PAGE OPTIONS, select Split. A command dialog appears for\nthe Split operation.",
+          "coordinates": [
+            86.77462768554688,
+            575.2786865234375,
+            521.5364379882812,
+            602.0059204101562
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.866,
+          "text": "3. In the Split by list, select the criteria for dividing the document:",
+          "coordinates": [
+            87.30724334716797,
+            613.3314819335938,
+            420.0745849609375,
+            625.5196533203125
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.701,
+          "text": "Number of pages",
+          "coordinates": [
+            105.2238540649414,
+            655.5950927734375,
+            197.9160919189453,
+            667.4620971679688
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.796,
+          "text": "Specify the maximum number of pages for each document in the split.",
+          "coordinates": [
+            104.62019348144531,
+            670.3202514648438,
+            456.0780944824219,
+            683.0131225585938
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 6,
+        "doc_title": 1,
+        "text": 13
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.64,
+          "text": "File Size",
+          "coordinates": [
+            105.74188995361328,
+            73.68824005126953,
+            150.54954528808594,
+            83.8409423828125
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.683,
+          "text": "Specify the maximum file size for each document in the split.",
+          "coordinates": [
+            105.27021026611328,
+            88.46743774414062,
+            407.80999755859375,
+            100.91094970703125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.787,
+          "text": "Top-level Bookmarks",
+          "coordinates": [
+            105.29912567138672,
+            130.41445922851562,
+            220.6753387451172,
+            141.2042999267578
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "If the document includes bookmarks, it creates one document for every top-level \nbookmark.",
+          "coordinates": [
+            104.72473907470703,
+            145.28541564941406,
+            511.4321594238281,
+            171.03765869140625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "4. To specify a target folder for the split files and filename preferences, select Output\nOptions. Specify the options as needed, and then select OK.",
+          "coordinates": [
+            87.32737731933594,
+            182.24021911621094,
+            514.5499877929688,
+            209.68063354492188
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.833,
+          "text": "5. Select Split multiple files. Select Add Files, and choose Add Files, Add Folders, \nor Add Open Files. Select the files or folder, and then select OK. Select Split.",
+          "coordinates": [
+            87.56459045410156,
+            219.14747619628906,
+            504.4269714355469,
+            246.2904815673828
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 4
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.702,
+          "text": "Move or copy pages in a PDF",
+          "coordinates": [
+            70.4671630859375,
+            77.62877655029297,
+            370.0133361816406,
+            100.38487243652344
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.969,
+          "text": "To copy or move pages within a document, use the page thumbnails in the right navigation\npane or the document area. You can also transfer pages between documents using these \nthumbnails. In the Organize Pages view, drag and drop thumbnails to rearrange pages, or \nselect a thumbnail and copy it as needed.",
+          "coordinates": [
+            68.52728271484375,
+            117.32997131347656,
+            523.979736328125,
+            174.1368408203125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.868,
+          "text": "Move or copy a page",
+          "coordinates": [
+            69.54791259765625,
+            207.06492614746094,
+            216.8502960205078,
+            220.74868774414062
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "1. Open the PDF in Acrobat, and select All tools > Organize pages.  The page thumbnails\nare displayed in the Document area.",
+          "coordinates": [
+            87.13352966308594,
+            222.8849334716797,
+            539.0978393554688,
+            249.7135009765625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "2. Select one or more page thumbnails.",
+          "coordinates": [
+            86.93221282958984,
+            260.4871520996094,
+            291.7540588378906,
+            271.9168395996094
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.876,
+          "text": "3. Do one of the following:",
+          "coordinates": [
+            87.10405731201172,
+            283.30780029296875,
+            229.24261474609375,
+            295.4770202636719
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nTo move a page, drag the corresponding page thumbnail to the new location.\nA bar will appear to show the new position of the page thumbnail. The pages \nwill be renumbered.",
+          "coordinates": [
+            123.3943099975586,
+            325.1368103027344,
+            530.2139892578125,
+            366.3978271484375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.968,
+          "text": "• \nTo cut or copy a page, select the page, and then select the ellipsis icon   in the \ncontext menu bar displayed next to it. Select Cut or Copy from the context \nmenu. Select between the page thumbnails where you want to paste the page. \nA blue horizontal marker shows the selected location where you want to paste. \nSelect Paste from the context menu. You can paste the pages in another PDF as\nwell.",
+          "coordinates": [
+            123.23336791992188,
+            374.8433532714844,
+            538.1428833007812,
+            458.26715087890625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.921,
+          "text": "Note: You can also move or copy pages by selecting the Page Thumbnails \n button from\nthe right pane.",
+          "coordinates": [
+            68.7009048461914,
+            476.119140625,
+            527.3592529296875,
+            503.42340087890625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.868,
+          "text": "Copy a page between two PDFs",
+          "coordinates": [
+            69.41880798339844,
+            528.1591186523438,
+            291.2379150390625,
+            542.4517211914062
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.851,
+          "text": "1. Open both PDFs and display them alongside each other.",
+          "coordinates": [
+            86.59341430664062,
+            546.216796875,
+            388.2779846191406,
+            558.465576171875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.7,
+          "text": "To display the PDFs side by side, select Window from the hamburger \nmenu \n (Windows) or the Window menu (macOS). Then select Tile > Vertically.",
+          "coordinates": [
+            104.72240447998047,
+            580.5277099609375,
+            513.7196044921875,
+            608.400146484375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.662,
+          "text": "To display the PDFs side by side, select Window from the hamburger",
+          "coordinates": [
+            104.71131896972656,
+            581.1010131835938,
+            451.9736633300781,
+            593.6227416992188
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.51,
+          "text": "menu \n (Windows) or the Window menu (macOS). Then select Tile > Vertically.",
+          "coordinates": [
+            104.99642944335938,
+            596.096435546875,
+            513.5055541992188,
+            608.1443481445312
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "2. Select All tools > Organize pages. The page thumbnails are displayed in the \nDocument area.",
+          "coordinates": [
+            86.71866607666016,
+            618.1318969726562,
+            487.46685791015625,
+            644.1129150390625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "3. Select the page thumbnail of the page you want to cut or copy. To select multiple \npages, press Ctrl (Windows) or command (macOS) and then select the pages. From\nthe page thumbnail context menu, select Copy.",
+          "coordinates": [
+            86.85086059570312,
+            655.2313842773438,
+            521.3085327148438,
+            697.9769287109375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 13
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "4. In the page thumbnails of the target PDF, select between the page thumbnails where \nyou want to insert the page. A blue horizontal marker indicates the location where you\nwant to paste. Right-select and choose Paste.",
+          "coordinates": [
+            87.49597930908203,
+            73.62226867675781,
+            538.2171630859375,
+            114.59089660644531
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "The page is copied into the document, and the pages are renumbered. You can paste \nthe pages in another PDF as well. Alternatively, you can also drag the page thumbnail\ninto the Page Thumbnails panel of the target PDF.",
+          "coordinates": [
+            101.70277404785156,
+            125.36197662353516,
+            532.2884521484375,
+            167.54759216308594
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 2
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.667,
+          "text": "Delete or replace pages in a PDF",
+          "coordinates": [
+            70.25760650634766,
+            91.46456909179688,
+            406.8973083496094,
+            115.50261688232422
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.971,
+          "text": "You can replace an entire PDF page with another PDF page. Only the text and images on the \noriginal page are replaced. Any interactive elements associated with the original page, such as\nlinks and bookmarks, aren't affected. Likewise, bookmarks and links that may have been \npreviously associated with the replacement page don't carry over. Comments, however, are \ncarried over and are combined with any existing comments in the document.",
+          "coordinates": [
+            68.67374420166016,
+            133.5127410888672,
+            537.676025390625,
+            204.1193389892578
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "After you delete or replace pages, it’s a good idea to use the Reduce File Size command to\nrename and save the restructured document to the smallest possible file size.",
+          "coordinates": [
+            69.042724609375,
+            214.24560546875,
+            523.3135375976562,
+            240.63992309570312
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.983,
+          "text": "",
+          "coordinates": [
+            74.70851135253906,
+            275.8302307128906,
+            434.17340087890625,
+            501.8250732421875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.619,
+          "text": "Delete multiple pages in a PDF\nNote: You can't undo the Delete command.",
+          "coordinates": [
+            69.22077941894531,
+            537.7237548828125,
+            283.0034484863281,
+            566.37548828125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "1. Select All tools > Organize pages. The page thumbnails are displayed in the\nDocument area.",
+          "coordinates": [
+            87.22040557861328,
+            597.210693359375,
+            486.58563232421875,
+            623.1218872070312
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "2. Specify the page thumbnail of the pages you want to delete and separate them with a\ncomma. For example, if you want to delete pages 3 and 5, enter 3, 5 in the pages field\nunder PAGES SELECTED.  You can also choose from the options given in the drop-\ndown menu.",
+          "coordinates": [
+            87.09105682373047,
+            627.2066650390625,
+            532.4597778320312,
+            681.7889404296875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.75,
+          "text": "3. In the left pane, select Delete pages \n, and the select OK to confirm.",
+          "coordinates": [
+            87.68028259277344,
+            683.5927734375,
+            459.97723388671875,
+            709.2424926757812
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 5,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "header",
+          "confidence": 0.635,
+          "text": "",
+          "coordinates": [
+            105.17810821533203,
+            73.54560852050781,
+            478.44183349609375,
+            85.51119232177734
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.542,
+          "text": "You can't delete all pages; at least one page must remain in the document.",
+          "coordinates": [
+            105.17810821533203,
+            73.54560852050781,
+            478.44183349609375,
+            85.51119232177734
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.913,
+          "text": "Note: If you select Use Logical Page Numbers in the Page Display panel of \nthe Preferences dialog box, you can enter a page number in parentheses to delete the \ncorresponding page. For example, if the first page in the document is numbered i, you can\nenter (1) in the Enter Page Range list, and the page is deleted.",
+          "coordinates": [
+            68.4009780883789,
+            102.66577911376953,
+            517.7880249023438,
+            159.7161865234375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.854,
+          "text": "Delete a page in a PDF",
+          "coordinates": [
+            69.47624969482422,
+            198.9261932373047,
+            228.82369995117188,
+            214.0267791748047
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "1. Select All tools > Organize pages. The page thumbnails are displayed in the\nDocument area.",
+          "coordinates": [
+            87.9843978881836,
+            217.49143981933594,
+            485.7732849121094,
+            243.1827392578125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "2. Select a page thumbnail of the page you want to delete. Then, select Delete \npages\n from the contextual toolbar that appears next to the selected page\nthumbnail.",
+          "coordinates": [
+            87.0035400390625,
+            253.98292541503906,
+            490.4384460449219,
+            305.00006103515625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.873,
+          "text": "Replace pages in a PDF",
+          "coordinates": [
+            69.49883270263672,
+            337.9356384277344,
+            232.47442626953125,
+            353.18280029296875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "1. Open the PDF that contains the pages you want to replace.",
+          "coordinates": [
+            87.18234252929688,
+            363.3651428222656,
+            400.7363586425781,
+            375.6279296875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "2. Select All tools > Organize pages. The page thumbnails are displayed in the\nDocument area.",
+          "coordinates": [
+            87.25735473632812,
+            385.11871337890625,
+            486.3665466308594,
+            410.81048583984375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "3. In the left tools pane, select Replace. The file explorer window appears.",
+          "coordinates": [
+            86.99134063720703,
+            422.16204833984375,
+            462.8699645996094,
+            434.5955810546875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "4. Select the document containing the replacement pages.",
+          "coordinates": [
+            87.17158508300781,
+            445.61859130859375,
+            386.07696533203125,
+            457.4032287597656
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "5. In the Replace Pages dialog box, under Original, enter the pages to be replaced in the\noriginal document.",
+          "coordinates": [
+            87.328125,
+            467.2142639160156,
+            536.5350952148438,
+            494.1169128417969
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "6. In the Replace Pages dialog box, under Replacement, enter the first page of the \nreplacement page range. The last page is calculated based on the number of pages to\nbe replaced in the original document.",
+          "coordinates": [
+            87.9141616821289,
+            504.260009765625,
+            532.4974365234375,
+            546.5088500976562
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.815,
+          "text": "7.\nSelect OK.",
+          "coordinates": [
+            87.69474792480469,
+            556.4567260742188,
+            158.92681884765625,
+            566.6737670898438
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.872,
+          "text": "Replace pages between multiple PDFs",
+          "coordinates": [
+            69.6801986694336,
+            599.7991333007812,
+            336.6775817871094,
+            614.6641235351562
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "1. Open the PDF that contains the pages you want to replace, and then open the PDF\nthat contains the replacement pages.",
+          "coordinates": [
+            87.75108337402344,
+            618.52783203125,
+            518.7261352539062,
+            645.8052978515625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "2. Select All tools > Organize pages for both PDFs. The page thumbnails are displayed in\nthe Document area.",
+          "coordinates": [
+            86.7561264038086,
+            655.3525390625,
+            537.8549194335938,
+            681.2178344726562
+          ]
+        }
+      ],
+      "element_counts": {
+        "header": 1,
+        "text": 13,
+        "paragraph_title": 3
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "3. In the PDF containing the replacement pages, select a page or group of pages you \nwant as replacements. For Windows, press Ctrl and then select the pages; for MacOS,\npress Command and then select the pages.",
+          "coordinates": [
+            87.48587036132812,
+            73.322998046875,
+            530.1785888671875,
+            115.86848449707031
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "4. Press Ctrl (Windows) or command (macOS) and then drag the selected page \nthumbnails in the document area of the target document where thumbnails are \ndisplayed. Release the mouse button when the pointer is directly over the page \nnumber box of the page thumbnail you want to replace. The corresponding pages are\nhighlighted.",
+          "coordinates": [
+            87.97267150878906,
+            125.2931900024414,
+            534.1491088867188,
+            196.77183532714844
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.861,
+          "text": "The pages you selected in the first document replace an equal number of pages in the\nsecond document. It starts at the page number that you selected to drop the new \npages.",
+          "coordinates": [
+            103.79608154296875,
+            219.13284301757812,
+            534.0684814453125,
+            262.5668029785156
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 3
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.742,
+          "text": "Renumber pages in a PDF",
+          "coordinates": [
+            70.11851501464844,
+            91.51482391357422,
+            337.8653259277344,
+            115.27616119384766
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.972,
+          "text": "The page numbers on the document pages don't always match the page numbers that appear\nbelow the page thumbnails and in the right Page Navigation toolbar. Pages are numbered \nwith integers, starting with page 1 for the first page of the document. Because some PDFs may \ncontain front matter, such as a copyright page and table of contents, their body pages may \nnot follow the numbering shown in the right Page Navigation toolbar.",
+          "coordinates": [
+            68.38616943359375,
+            133.22824096679688,
+            537.5159912109375,
+            204.6475372314453
+          ]
+        },
+        {
+          "id": 3,
+          "type": "image",
+          "confidence": 0.982,
+          "text": "",
+          "coordinates": [
+            78.19119262695312,
+            215.40570068359375,
+            424.438232421875,
+            349.10687255859375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "figure_title",
+          "confidence": 0.939,
+          "text": "",
+          "coordinates": [
+            68.91559600830078,
+            364.3246765136719,
+            537.3423461914062,
+            420.2975769042969
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "Note: Using the Number Pages command affects only the page thumbnails on \nthe Pages panel. You can physically add new page numbers to a PDF using the headers and\nfooters feature.",
+          "coordinates": [
+            68.73263549804688,
+            437.300537109375,
+            527.2522583007812,
+            477.9039306640625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.685,
+          "text": "1. Select All tools from the global bar. Then select Organize pages > Page labels.",
+          "coordinates": [
+            86.80867767333984,
+            495.98956298828125,
+            501.64654541015625,
+            508.29827880859375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.614,
+          "text": "2. Specify a page range. (Selected implies pages selected in the Page Thumbnails panel.)\n3. Select one of the following, and then select OK:",
+          "coordinates": [
+            86.63175964355469,
+            510.7744140625,
+            538.9387817382812,
+            538.1771850585938
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "Begin New Section: Starts a new numbering sequence. Choose a style from the pop-up\nmenu, and enter a starting page number for the section. Specify a Prefix, if desired.",
+          "coordinates": [
+            69.29673767089844,
+            583.0892333984375,
+            506.0888366699219,
+            611.2111206054688
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "Extend Numbering Used In Preceding Section To Selected Pages: Continues the numbering\nsequence from previous pages without interruption.",
+          "coordinates": [
+            69.05472564697266,
+            656.3009643554688,
+            537.2977294921875,
+            684.67578125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 6,
+        "image": 1,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.752,
+          "text": "Edit Scanned PDFs",
+          "coordinates": [
+            70.65547180175781,
+            76.7201919555664,
+            263.6171569824219,
+            95.9581069946289
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "Editing a scanned PDF can be complicated if it includes low-quality text or images, non-\neditable text, line breaks, or complex formatting. Other inhibiting factors include compatibility\nissues, security restrictions, and large file sizes, which are more prevalent in PDFs created from\nscanned images.",
+          "coordinates": [
+            68.5521469116211,
+            116.02262115478516,
+            537.8013305664062,
+            173.58055114746094
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "To streamline the process, consider the following best practices and guidelines before editing\na scanned document:",
+          "coordinates": [
+            68.66075897216797,
+            189.09579467773438,
+            535.0535888671875,
+            215.52163696289062
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "Check the accuracy of optical character recognition (OCR) output. When you open a \nscanned document, Acrobat automatically runs OCR in the background to make the \ndocument editable. Before editing, review the document to ensure that the content is \naccurate and complete. If necessary, rescan the document using the Scan & OCR > Recognize\nText tool to improve the output.",
+          "coordinates": [
+            68.73422241210938,
+            233.57461547851562,
+            537.9187622070312,
+            303.756591796875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "Enhance image quality. If the scanned PDF contains low-quality images, use the Enhance \nscanned file or Enhance camera image feature to improve the quality of images before \nattempting to edit the document. For more information, see Scan documents to PDF.",
+          "coordinates": [
+            68.76786041259766,
+            321.2211608886719,
+            518.416259765625,
+            363.1130676269531
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "Use the correct font and formatting. When editing the document, ensure that the font and \nformatting of the edited text match the original document as closely as possible. If you don't \nhave the desired fonts on your computer, see Add fonts to your computer.",
+          "coordinates": [
+            68.58946228027344,
+            380.19537353515625,
+            529.5774536132812,
+            421.3111572265625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "Remove security restrictions. If the scanned PDF has security restrictions that prevent editing,\nremove these restrictions before attempting to edit the document. To know how to remove \nsecurity from a PDF, see Unlock a PDF.",
+          "coordinates": [
+            68.71007537841797,
+            438.28009033203125,
+            537.916259765625,
+            479.85272216796875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "Avoid editing complex elements. If the scanned PDF contains tables, graphs, or images, \navoid unnecessary edits that could alter the layout or formatting of these elements.",
+          "coordinates": [
+            69.25872802734375,
+            496.1340026855469,
+            510.4205322265625,
+            523.5198364257812
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "Check for compatibility issues. Ensure that the version of Adobe Acrobat you're using is \ncompatible with the scanned PDF. If you encounter compatibility issues, try updating Adobe\nAcrobat. For more information, see System requirements.",
+          "coordinates": [
+            68.75595092773438,
+            540.3570556640625,
+            528.77490234375,
+            582.2883911132812
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "Save a backup copy. Always save a backup copy of the original scanned PDF before making\nany edits. Revert to the original document if any issues arise during the editing process.",
+          "coordinates": [
+            68.74629974365234,
+            599.2603759765625,
+            529.9054565429688,
+            626.0718994140625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.846,
+          "text": "Recognize text on scanned PDF",
+          "coordinates": [
+            69.4735336303711,
+            644.1060180664062,
+            287.98175048828125,
+            658.417236328125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "You can use the Scan & OCR tool to recognize text, change OCR language, and make all\npages editable in one go. To do so:",
+          "coordinates": [
+            68.6703872680664,
+            669.4091186523438,
+            509.145751953125,
+            696.8499755859375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.654,
+          "text": "1. Open the scanned file, and then from the top banner that appears, select Get\nstarted.",
+          "coordinates": [
+            123.28571319580078,
+            73.28298950195312,
+            525.2678833007812,
+            98.7818603515625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.553,
+          "text": "1. Open the scanned file, and then from the top banner that appears, select Get\nstarted.",
+          "coordinates": [
+            123.28571319580078,
+            73.28298950195312,
+            525.2678833007812,
+            98.7818603515625
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.615,
+          "text": "It opens the Scan & OCR tool options in the left panel",
+          "coordinates": [
+            141.4182891845703,
+            117.35785675048828,
+            410.13079833984375,
+            130.0132598876953
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.899,
+          "text": "",
+          "coordinates": [
+            147.06478881835938,
+            145.83604431152344,
+            428.36822509765625,
+            329.0455017089844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "2. From the left panel, under Recognize text, select In this file.",
+          "coordinates": [
+            123.48506927490234,
+            349.528076171875,
+            438.5638732910156,
+            361.09515380859375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "3. In the dialog that opens, select the pages that you want to apply text\nrecognition for and the language.",
+          "coordinates": [
+            123.58587646484375,
+            372.41937255859375,
+            483.294677734375,
+            398.7763366699219
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.65,
+          "text": "4. Select Recognize text.",
+          "coordinates": [
+            123.78703308105469,
+            409.6479187011719,
+            255.283447265625,
+            421.2386474609375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.861,
+          "text": "Edit a scanned document",
+          "coordinates": [
+            69.96392059326172,
+            453.0209045410156,
+            247.6719207763672,
+            466.06634521484375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "1. Open the scanned PDF file in Acrobat.",
+          "coordinates": [
+            87.28128814697266,
+            470.78656005859375,
+            297.4984436035156,
+            481.67425537109375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.902,
+          "text": "2. From the global bar in the upper left, select Edit.",
+          "coordinates": [
+            87.28124237060547,
+            493.3944396972656,
+            348.2545471191406,
+            505.67889404296875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "3. Select the text element that you want to edit and start typing. The new text matches\nthe original font in your scanned PDF.",
+          "coordinates": [
+            87.29317474365234,
+            515.5364379882812,
+            524.0338745117188,
+            542.2619018554688
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "4. From the upper-left corner, select the hamburger menu\n (Windows) or File \n(macOS)> Save as and enter a new name for your document.",
+          "coordinates": [
+            87.31214904785156,
+            551.7345581054688,
+            488.2614440917969,
+            578.6949462890625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "Initially, the language is set to the default locale, and the other options are disabled. Any\nchanges to these settings are persisted and are applied when you edit the document.",
+          "coordinates": [
+            69.1931381225586,
+            590.1280517578125,
+            509.5928649902344,
+            617.1089477539062
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "paragraph_title": 2,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.603,
+          "text": "Enhance scanned file or camera images for\nclear PDFs",
+          "coordinates": [
+            69.57462310791016,
+            76.08378601074219,
+            513.2969360351562,
+            125.25409698486328
+          ]
+        },
+        {
+          "id": 2,
+          "type": "doc_title",
+          "confidence": 0.577,
+          "text": "Enhance scanned file or camera images for\nclear PDFs",
+          "coordinates": [
+            69.57462310791016,
+            76.08378601074219,
+            513.2969360351562,
+            125.25409698486328
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.975,
+          "text": "You can capture document photos with your smartphone and use the Enhance camera \nimage feature to create polished, clear, and compact PDFs without needing a standard \nscanner. This feature addresses common issues in mobile-captured images, such as incorrect\nperspectives, areas beyond boundaries, shadows, and inconsistent lighting. While it may not \neliminate all problems, it significantly improves the overall quality of your resulting PDF.",
+          "coordinates": [
+            68.54094696044922,
+            140.57406616210938,
+            530.524169921875,
+            211.97987365722656
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.845,
+          "text": "Enhance camera image",
+          "coordinates": [
+            69.73121643066406,
+            223.85952758789062,
+            228.1566619873047,
+            238.14942932128906
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "1. Open the photograph or image of the document in Acrobat.",
+          "coordinates": [
+            87.1126480102539,
+            241.6278839111328,
+            406.8777770996094,
+            253.19891357421875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.896,
+          "text": "2. From the All tools menu, select Scan & OCR.",
+          "coordinates": [
+            86.92807006835938,
+            263.51641845703125,
+            332.4747314453125,
+            274.3211364746094
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "3. From the left panel, select Enhance camera image and then from the dialog that\nopens, select Enhance.",
+          "coordinates": [
+            87.0920181274414,
+            285.43359375,
+            509.3554992675781,
+            312.0086364746094
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.843,
+          "text": "4. The image is enhanced and a PDF of the image is shown.",
+          "coordinates": [
+            87.54423522949219,
+            323.2836608886719,
+            390.3238525390625,
+            335.19366455078125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "image",
+          "confidence": 0.954,
+          "text": "",
+          "coordinates": [
+            104.67546844482422,
+            343.64630126953125,
+            300.4082336425781,
+            584.019287109375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "figure_title",
+          "confidence": 0.66,
+          "text": "",
+          "coordinates": [
+            86.62030029296875,
+            599.09326171875,
+            480.4908142089844,
+            624.75341796875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "doc_title": 1,
+        "text": 5,
+        "image": 1,
+        "figure_title": 1
+      }
+    }
+  ]
+}

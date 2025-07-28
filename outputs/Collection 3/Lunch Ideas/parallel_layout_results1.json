@@ -1,0 +1,5868 @@
+{
+  "document": "CHALLENGE_1B\\Collection 3\\PDFs\\Lunch Ideas.pdf",
+  "total_pages": 15,
+  "processing_time": "45.48s",
+  "layout_time_total": "73.74s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.983,
+          "text": "",
+          "coordinates": [
+            11.128793716430664,
+            13.462976455688477,
+            601.2002563476562,
+            776.7516479492188
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.784,
+          "text": "Chicken Caesar Wrap",
+          "coordinates": [
+            70.22814178466797,
+            73.72193145751953,
+            181.651611328125,
+            85.2501220703125
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.699,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.3231201171875,
+            88.71784973144531,
+            134.77093505859375,
+            100.26033020019531
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.804,
+          "text": "• \n1 whole wheat tortilla",
+          "coordinates": [
+            87.22649383544922,
+            102.61412048339844,
+            216.12193298339844,
+            113.5542221069336
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.841,
+          "text": "• \n1 cup cooked chicken breast, sliced",
+          "coordinates": [
+            88.41939544677734,
+            117.84371948242188,
+            282.4276123046875,
+            129.24595642089844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.847,
+          "text": "• \n1 cup romaine lettuce, chopped",
+          "coordinates": [
+            88.14429473876953,
+            133.4020233154297,
+            265.23809814453125,
+            144.5805206298828
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.834,
+          "text": "• \n2 tablespoons Caesar dressing",
+          "coordinates": [
+            88.23563385009766,
+            148.53109741210938,
+            260.9933166503906,
+            159.9882354736328
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.817,
+          "text": "• \n2 tablespoons grated Parmesan cheese",
+          "coordinates": [
+            88.1981430053711,
+            162.21621704101562,
+            303.6940002441406,
+            172.8069610595703
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.816,
+          "text": "• \nOptional: croutons for extra crunch",
+          "coordinates": [
+            88.22425842285156,
+            176.86280822753906,
+            284.30615234375,
+            187.96446228027344
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.765,
+          "text": "Instructions:",
+          "coordinates": [
+            70.12989044189453,
+            192.5897216796875,
+            137.51918029785156,
+            202.13565063476562
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.822,
+          "text": "• \nLay the tortilla flat and spread the Caesar dressing evenly.",
+          "coordinates": [
+            87.34820556640625,
+            206.441650390625,
+            394.9864196777344,
+            219.19491577148438
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.827,
+          "text": "• \nAdd the chicken, lettuce, and Parmesan cheese.",
+          "coordinates": [
+            88.15409851074219,
+            221.2000274658203,
+            345.2647399902344,
+            231.9495086669922
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "• \nRoll up the tortilla tightly and slice in half.",
+          "coordinates": [
+            88.58873748779297,
+            235.3702850341797,
+            315.2395935058594,
+            248.10891723632812
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.821,
+          "text": "Quinoa Salad",
+          "coordinates": [
+            69.94970703125,
+            294.8618469238281,
+            142.1139373779297,
+            305.357177734375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.668,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.76265716552734,
+            309.56829833984375,
+            135.85833740234375,
+            321.7352600097656
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.765,
+          "text": "• \n1 cup cooked quinoa",
+          "coordinates": [
+            87.63224029541016,
+            324.9342346191406,
+            211.63539123535156,
+            336.4090270996094
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "• \n1/2 cup cherry tomatoes, halved",
+          "coordinates": [
+            88.00003814697266,
+            339.7005920410156,
+            268.33514404296875,
+            350.9211730957031
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "• \n1/2 cucumber, diced",
+          "coordinates": [
+            88.19812774658203,
+            354.4367980957031,
+            208.59820556640625,
+            364.7452697753906
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.805,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            87.48067474365234,
+            368.59228515625,
+            275.272216796875,
+            380.3286437988281
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.829,
+          "text": "• \n1/4 cup feta cheese, crumbled",
+          "coordinates": [
+            88.10270690917969,
+            384.155517578125,
+            257.47467041015625,
+            394.87384033203125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.792,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            87.85800170898438,
+            398.7021789550781,
+            222.22032165527344,
+            409.77191162109375
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.804,
+          "text": "• \n1 tablespoon lemon juice",
+          "coordinates": [
+            88.40637969970703,
+            413.53564453125,
+            232.84716796875,
+            424.0951843261719
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.762,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.2746353149414,
+            428.3644714355469,
+            227.56658935546875,
+            439.9947204589844
+          ]
+        },
+        {
+          "id": 23,
+          "type": "paragraph_title",
+          "confidence": 0.694,
+          "text": "Instructions:",
+          "coordinates": [
+            70.2244873046875,
+            443.40948486328125,
+            137.48574829101562,
+            453.0194091796875
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.799,
+          "text": "• \nDrizzle with olive oil and lemon juice.",
+          "coordinates": [
+            88.3989028930664,
+            472.896240234375,
+            295.3728942871094,
+            483.3787841796875
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.827,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            87.84098815917969,
+            486.87469482421875,
+            361.2695007324219,
+            498.0852966308594
+          ]
+        },
+        {
+          "id": 26,
+          "type": "paragraph_title",
+          "confidence": 0.789,
+          "text": "Turkey and Avocado Sandwich \nIngredients:",
+          "coordinates": [
+            69.61878204345703,
+            545.4661254882812,
+            231.4871368408203,
+            572.717041015625
+          ]
+        },
+        {
+          "id": 27,
+          "type": "paragraph_title",
+          "confidence": 0.605,
+          "text": "Turkey and Avocado Sandwich",
+          "coordinates": [
+            70.18482208251953,
+            545.8377075195312,
+            231.11280822753906,
+            556.9042358398438
+          ]
+        },
+        {
+          "id": 28,
+          "type": "paragraph_title",
+          "confidence": 0.551,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.29414367675781,
+            561.45751953125,
+            134.2698974609375,
+            573.021240234375
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.782,
+          "text": "• \n2 slices whole grain bread",
+          "coordinates": [
+            87.31851196289062,
+            575.955322265625,
+            237.1405487060547,
+            587.33935546875
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.825,
+          "text": "• \n4 slices turkey breast",
+          "coordinates": [
+            88.39215850830078,
+            591.4524536132812,
+            213.86737060546875,
+            601.4387817382812
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.803,
+          "text": "• \n1/2 avocado, sliced",
+          "coordinates": [
+            88.32032775878906,
+            605.3232421875,
+            201.9893798828125,
+            615.8245239257812
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "• \n1/2 cup spinach leaves",
+          "coordinates": [
+            88.73278045654297,
+            620.41943359375,
+            219.87481689453125,
+            630.6200561523438
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.786,
+          "text": "• \n1 tablespoon mustard or mayo",
+          "coordinates": [
+            88.22135162353516,
+            635.7152099609375,
+            260.7998046875,
+            646.9036254882812
+          ]
+        },
+        {
+          "id": 34,
+          "type": "paragraph_title",
+          "confidence": 0.675,
+          "text": "Instructions:",
+          "coordinates": [
+            70.22734832763672,
+            650.3905029296875,
+            137.44821166992188,
+            660.233154296875
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "• \nSpread mustard or mayo on one slice of bread.",
+          "coordinates": [
+            87.82091522216797,
+            663.5922241210938,
+            341.19036865234375,
+            675.3567504882812
+          ]
+        },
+        {
+          "id": 36,
+          "type": "text",
+          "confidence": 0.849,
+          "text": "• \nLayer the turkey, avocado, and spinach on top.",
+          "coordinates": [
+            88.57748413085938,
+            679.0892944335938,
+            340.09796142578125,
+            690.3019409179688
+          ]
+        },
+        {
+          "id": 37,
+          "type": "text",
+          "confidence": 0.841,
+          "text": "• \nTop with the second slice of bread and cut in half.",
+          "coordinates": [
+            88.15267944335938,
+            693.9305419921875,
+            353.37628173828125,
+            705.2865600585938
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 10,
+        "text": 27
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.756,
+          "text": "Greek Yogurt Parfait",
+          "coordinates": [
+            69.89503479003906,
+            117.65927124023438,
+            178.70205688476562,
+            129.7782440185547
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.674,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.80694580078125,
+            133.0142364501953,
+            135.23037719726562,
+            144.69354248046875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.684,
+          "text": "• \n1 cup Greek yogurt",
+          "coordinates": [
+            87.60001373291016,
+            147.84690856933594,
+            203.0006866455078,
+            160.1674346923828
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.719,
+          "text": "• \n1/2 cup granola",
+          "coordinates": [
+            88.32647705078125,
+            162.58456420898438,
+            185.30136108398438,
+            173.85989379882812
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.686,
+          "text": "• \n1/2 cup mixed berries (strawberries, blueberries, raspberries)",
+          "coordinates": [
+            88.20819091796875,
+            176.12672424316406,
+            409.9075622558594,
+            189.0617218017578
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.646,
+          "text": "• \n1 tablespoon honey",
+          "coordinates": [
+            87.89054107666016,
+            192.33572387695312,
+            205.91162109375,
+            203.70806884765625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.73,
+          "text": "Instructions:",
+          "coordinates": [
+            70.1844711303711,
+            207.52626037597656,
+            137.46607971191406,
+            217.44664001464844
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.778,
+          "text": "• \nIn a bowl or jar, layer the Greek yogurt, granola, and mixed berries.",
+          "coordinates": [
+            87.34513854980469,
+            220.13877868652344,
+            440.67425537109375,
+            233.29141235351562
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.778,
+          "text": "• \nDrizzle with honey.",
+          "coordinates": [
+            88.49166107177734,
+            236.59329223632812,
+            204.25277709960938,
+            247.1208038330078
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.774,
+          "text": "• \nRepeat the layers if desired.",
+          "coordinates": [
+            88.16069030761719,
+            250.560546875,
+            245.3833465576172,
+            262.35626220703125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.627,
+          "text": "Hummus and Veggie Pita\nIngredients:",
+          "coordinates": [
+            69.4439697265625,
+            309.6463623046875,
+            202.38711547851562,
+            335.78778076171875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.708,
+          "text": "Hummus and Veggie Pita",
+          "coordinates": [
+            69.76211547851562,
+            309.91943359375,
+            202.10606384277344,
+            321.1804504394531
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.669,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.16521453857422,
+            325.05792236328125,
+            134.93084716796875,
+            336.5828857421875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.668,
+          "text": "• \n1 whole wheat pita bread",
+          "coordinates": [
+            87.50309753417969,
+            339.6614990234375,
+            233.0372772216797,
+            350.5229797363281
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.765,
+          "text": "• \n1/2 cup hummus",
+          "coordinates": [
+            88.26200103759766,
+            354.5709228515625,
+            191.5679931640625,
+            364.7138977050781
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.764,
+          "text": "• \n1/2 cup cucumber, sliced",
+          "coordinates": [
+            87.72270965576172,
+            368.695068359375,
+            230.6450653076172,
+            379.41021728515625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.805,
+          "text": "• \n1/2 cup bell pepper, sliced",
+          "coordinates": [
+            87.98204803466797,
+            383.9228820800781,
+            237.2201690673828,
+            394.9877014160156
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.74,
+          "text": "• \n1/4 cup shredded carrots",
+          "coordinates": [
+            88.16624450683594,
+            398.9724426269531,
+            231.3857879638672,
+            410.4170837402344
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.754,
+          "text": "• \n1/4 cup baby spinach",
+          "coordinates": [
+            88.25296783447266,
+            412.600830078125,
+            212.73419189453125,
+            424.48382568359375
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.728,
+          "text": "Instructions:",
+          "coordinates": [
+            70.07930755615234,
+            428.3028259277344,
+            138.0067138671875,
+            438.28839111328125
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.855,
+          "text": "• \nCut the pita bread in half to create pockets.",
+          "coordinates": [
+            87.65474700927734,
+            442.45849609375,
+            322.3533935546875,
+            453.6607971191406
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.816,
+          "text": "• \nSpread hummus inside each pocket.",
+          "coordinates": [
+            88.03468322753906,
+            457.7749328613281,
+            288.6480407714844,
+            468.9427490234375
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.809,
+          "text": "• \nFill with cucumber, bell pepper, carrots, and spinach.",
+          "coordinates": [
+            87.96450805664062,
+            472.5964660644531,
+            368.33160400390625,
+            484.5970153808594
+          ]
+        },
+        {
+          "id": 24,
+          "type": "paragraph_title",
+          "confidence": 0.771,
+          "text": "Tuna Salad",
+          "coordinates": [
+            70.06193542480469,
+            531.5875244140625,
+            129.95204162597656,
+            541.4990234375
+          ]
+        },
+        {
+          "id": 25,
+          "type": "paragraph_title",
+          "confidence": 0.587,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.00419616699219,
+            545.3329467773438,
+            135.0877227783203,
+            557.478271484375
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.737,
+          "text": "• \n1 can tuna, drained",
+          "coordinates": [
+            87.49899291992188,
+            560.8606567382812,
+            202.3905029296875,
+            571.4056396484375
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.78,
+          "text": "• \n1/4 cup mayonnaise",
+          "coordinates": [
+            87.95343017578125,
+            576.4298706054688,
+            208.11500549316406,
+            587.2564086914062
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.799,
+          "text": "• \n1 tablespoon Dijon mustard",
+          "coordinates": [
+            87.95523071289062,
+            591.29931640625,
+            246.59153747558594,
+            601.603759765625
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.795,
+          "text": "• \n1 celery stalk, diced",
+          "coordinates": [
+            87.95121765136719,
+            605.2152099609375,
+            206.212890625,
+            616.4542236328125
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.813,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            88.02468872070312,
+            619.782958984375,
+            275.58184814453125,
+            631.408447265625
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.782,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.32562255859375,
+            635.2506103515625,
+            228.25314331054688,
+            646.3900756835938
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.754,
+          "text": "• \nLettuce leaves or whole grain bread for serving",
+          "coordinates": [
+            88.30343627929688,
+            649.4022216796875,
+            342.73834228515625,
+            662.0508422851562
+          ]
+        },
+        {
+          "id": 33,
+          "type": "paragraph_title",
+          "confidence": 0.697,
+          "text": "Instructions:",
+          "coordinates": [
+            70.07749938964844,
+            665.186767578125,
+            137.65084838867188,
+            675.3391723632812
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.776,
+          "text": "• \nIn a bowl, combine the tuna, mayonnaise, Dijon mustard, celery, and red onion.",
+          "coordinates": [
+            87.44645690917969,
+            678.3176879882812,
+            502.6390380859375,
+            691.1502685546875
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.718,
+          "text": "• \nSeason with salt and pepper.",
+          "coordinates": [
+            88.21603393554688,
+            694.5551147460938,
+            251.68836975097656,
+            705.90869140625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 10,
+        "text": 25
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.553,
+          "text": "• \nServe on lettuce leaves or whole grain bread.",
+          "coordinates": [
+            87.62963104248047,
+            73.28173065185547,
+            331.42730712890625,
+            85.1152572631836
+          ]
+        },
+        {
+          "id": 2,
+          "type": "header",
+          "confidence": 0.538,
+          "text": "",
+          "coordinates": [
+            87.62963104248047,
+            73.28173065185547,
+            331.42730712890625,
+            85.1152572631836
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.723,
+          "text": "Caprese Sandwich",
+          "coordinates": [
+            70.02812194824219,
+            132.810302734375,
+            167.34219360351562,
+            144.05320739746094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.662,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.34894561767578,
+            147.6306915283203,
+            134.72154235839844,
+            159.48243713378906
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.701,
+          "text": "• \n2 slices ciabatta bread",
+          "coordinates": [
+            87.58686828613281,
+            161.81275939941406,
+            218.53317260742188,
+            172.5950469970703
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.759,
+          "text": "• \n1/2 cup fresh mozzarella, sliced",
+          "coordinates": [
+            88.51667785644531,
+            176.64480590820312,
+            262.9229736328125,
+            188.6168212890625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.723,
+          "text": "• \n1 tomato, sliced",
+          "coordinates": [
+            88.30146789550781,
+            191.72262573242188,
+            186.28897094726562,
+            202.71714782714844
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.757,
+          "text": "• \nFresh basil leaves",
+          "coordinates": [
+            88.291748046875,
+            207.46778869628906,
+            196.173828125,
+            217.52195739746094
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.741,
+          "text": "• \n1 tablespoon balsamic glaze",
+          "coordinates": [
+            87.75699615478516,
+            220.87705993652344,
+            247.96665954589844,
+            232.5863037109375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.75,
+          "text": "• \n1 tablespoon olive oil",
+          "coordinates": [
+            88.5008773803711,
+            235.9118194580078,
+            215.3498077392578,
+            247.1414337158203
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.717,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            87.91434478759766,
+            251.21888732910156,
+            227.46551513671875,
+            262.56463623046875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.704,
+          "text": "Instructions:",
+          "coordinates": [
+            70.12298583984375,
+            266.3311462402344,
+            137.5068817138672,
+            276.45697021484375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.804,
+          "text": "• \nDrizzle olive oil on one slice of bread.",
+          "coordinates": [
+            87.5055923461914,
+            279.09515380859375,
+            294.7510986328125,
+            290.72216796875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.796,
+          "text": "• \nLayer the mozzarella, tomato, and basil on top.",
+          "coordinates": [
+            87.93667602539062,
+            295.1392517089844,
+            342.6280822753906,
+            306.25628662109375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.777,
+          "text": "• \nDrizzle with balsamic glaze and season with salt and pepper.",
+          "coordinates": [
+            87.33645629882812,
+            309.7726135253906,
+            408.80419921875,
+            321.6590576171875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.778,
+          "text": "• \nTop with the second slice of bread and cut in half.",
+          "coordinates": [
+            88.10408782958984,
+            324.2991027832031,
+            354.0779724121094,
+            336.3631591796875
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.792,
+          "text": "Chicken Salad Lettuce Wraps",
+          "coordinates": [
+            69.91678619384766,
+            383.802734375,
+            221.52386474609375,
+            395.50555419921875
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.68,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.83763885498047,
+            398.697509765625,
+            135.1136016845703,
+            410.7060852050781
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.772,
+          "text": "• \n1 cup cooked chicken breast, shredded",
+          "coordinates": [
+            87.41671752929688,
+            412.47613525390625,
+            300.71453857421875,
+            424.03955078125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.771,
+          "text": "• \n1/4 cup mayonnaise",
+          "coordinates": [
+            87.96763610839844,
+            428.2712707519531,
+            208.39407348632812,
+            439.2574462890625
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.788,
+          "text": "• \n1 tablespoon Dijon mustard",
+          "coordinates": [
+            87.98657989501953,
+            443.069091796875,
+            246.47833251953125,
+            453.5929260253906
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.779,
+          "text": "• \n1 celery stalk, diced",
+          "coordinates": [
+            87.6683349609375,
+            457.73980712890625,
+            206.10523986816406,
+            468.81793212890625
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.764,
+          "text": "• \n1/4 cup red grapes, halved",
+          "coordinates": [
+            87.88020324707031,
+            471.83441162109375,
+            239.34417724609375,
+            483.0498962402344
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.744,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.21022033691406,
+            487.35089111328125,
+            228.15713500976562,
+            498.7789001464844
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.683,
+          "text": "• \nLettuce leaves for serving",
+          "coordinates": [
+            88.0323486328125,
+            502.26092529296875,
+            235.9734344482422,
+            513.8142700195312
+          ]
+        },
+        {
+          "id": 26,
+          "type": "paragraph_title",
+          "confidence": 0.681,
+          "text": "Instructions:",
+          "coordinates": [
+            70.22190856933594,
+            517.1060791015625,
+            137.59765625,
+            527.510009765625
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.761,
+          "text": "• \nIn a bowl, combine the chicken, mayonnaise, Dijon mustard, celery, and grapes.",
+          "coordinates": [
+            87.59664154052734,
+            530.1189575195312,
+            503.4332580566406,
+            543.4668579101562
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.724,
+          "text": "• \nSeason with salt and pepper.",
+          "coordinates": [
+            88.36695098876953,
+            546.4452514648438,
+            252.0388641357422,
+            558.29443359375
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.76,
+          "text": "• \nServe in lettuce leaves.",
+          "coordinates": [
+            88.25326538085938,
+            561.306640625,
+            222.01901245117188,
+            571.3723754882812
+          ]
+        },
+        {
+          "id": 30,
+          "type": "paragraph_title",
+          "confidence": 0.731,
+          "text": "Veggie and Hummus Wrap",
+          "coordinates": [
+            69.90890502929688,
+            620.1369018554688,
+            209.3582000732422,
+            632.1567993164062
+          ]
+        },
+        {
+          "id": 31,
+          "type": "paragraph_title",
+          "confidence": 0.615,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.25177764892578,
+            634.6224975585938,
+            134.86703491210938,
+            646.6941528320312
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.748,
+          "text": "• \n1 whole wheat tortilla",
+          "coordinates": [
+            88.1353530883789,
+            649.9303588867188,
+            215.91436767578125,
+            660.4942626953125
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.771,
+          "text": "• \n1/2 cup hummus",
+          "coordinates": [
+            88.1646957397461,
+            664.2939453125,
+            191.31134033203125,
+            675.2299194335938
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.783,
+          "text": "• \n1/2 cup cucumber, sliced",
+          "coordinates": [
+            88.39299774169922,
+            679.0287475585938,
+            231.2439727783203,
+            689.7847290039062
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.787,
+          "text": "• \n1/2 cup bell pepper, sliced",
+          "coordinates": [
+            88.2431640625,
+            693.9710083007812,
+            236.4516143798828,
+            705.7647094726562
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 26,
+        "header": 1,
+        "paragraph_title": 8
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.72,
+          "text": "• \n1/4 cup shredded carrots",
+          "coordinates": [
+            88.0058822631836,
+            73.58953094482422,
+            230.7286376953125,
+            84.83609771728516
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.737,
+          "text": "• \n1/4 cup baby spinach",
+          "coordinates": [
+            88.08613586425781,
+            88.89491271972656,
+            212.30755615234375,
+            101.09394073486328
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.726,
+          "text": "Instructions:",
+          "coordinates": [
+            70.00862121582031,
+            103.35742950439453,
+            137.7947540283203,
+            113.31170654296875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.844,
+          "text": "• \nLay the tortilla flat and spread the hummus evenly.",
+          "coordinates": [
+            87.8972396850586,
+            117.4383316040039,
+            361.86590576171875,
+            129.6262969970703
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.834,
+          "text": "• \nAdd the cucumber, bell pepper, carrots, and spinach.",
+          "coordinates": [
+            88.12702941894531,
+            132.7833251953125,
+            369.1220397949219,
+            144.40687561035156
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.827,
+          "text": "• \nRoll up the tortilla tightly and slice in half.",
+          "coordinates": [
+            88.24342346191406,
+            147.57823181152344,
+            314.9938659667969,
+            159.83016967773438
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.81,
+          "text": "Egg Salad Sandwich",
+          "coordinates": [
+            70.09090423583984,
+            206.636962890625,
+            175.88880920410156,
+            218.09271240234375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.694,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.96359252929688,
+            221.13746643066406,
+            135.15277099609375,
+            232.49378967285156
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.739,
+          "text": "• \n4 hard-boiled eggs, chopped",
+          "coordinates": [
+            87.95355987548828,
+            235.5869598388672,
+            252.2265167236328,
+            248.48133850097656
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "• \n1/4 cup mayonnaise",
+          "coordinates": [
+            88.13994598388672,
+            251.76956176757812,
+            208.48370361328125,
+            262.2452392578125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.769,
+          "text": "• \n1 tablespoon Dijon mustard",
+          "coordinates": [
+            88.27835845947266,
+            266.3438415527344,
+            246.26629638671875,
+            276.6697998046875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.753,
+          "text": "• \n1 celery stalk, diced",
+          "coordinates": [
+            87.78074645996094,
+            279.89208984375,
+            206.4110107421875,
+            290.9207458496094
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.743,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.39054870605469,
+            295.3122253417969,
+            228.32421875,
+            305.8056335449219
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.67,
+          "text": "• \n2 slices whole grain bread",
+          "coordinates": [
+            87.92342376708984,
+            309.611572265625,
+            237.31585693359375,
+            321.1668701171875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.75,
+          "text": "Instructions:",
+          "coordinates": [
+            70.26416778564453,
+            325.3539733886719,
+            137.38064575195312,
+            335.43609619140625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.758,
+          "text": "• \nIn a bowl, combine the eggs, mayonnaise, Dijon mustard, and celery.",
+          "coordinates": [
+            87.62757110595703,
+            339.2583312988281,
+            450.7723083496094,
+            352.6282958984375
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "• \nSeason with salt and pepper.",
+          "coordinates": [
+            88.4730453491211,
+            354.6229553222656,
+            251.9551239013672,
+            365.20660400390625
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.795,
+          "text": "• \nSpread on one slice of bread and top with the second slice.",
+          "coordinates": [
+            87.74685668945312,
+            367.98809814453125,
+            399.7325134277344,
+            380.201416015625
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.781,
+          "text": "Pasta Salad",
+          "coordinates": [
+            69.90015411376953,
+            427.520751953125,
+            132.04342651367188,
+            437.81524658203125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.671,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.10796356201172,
+            442.76654052734375,
+            134.44122314453125,
+            454.63775634765625
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.735,
+          "text": "• \n2 cups cooked pasta (such as rotini or penne)",
+          "coordinates": [
+            87.22712707519531,
+            457.4706726074219,
+            333.9764404296875,
+            469.91156005859375
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.777,
+          "text": "• \n1/2 cup cherry tomatoes, halved",
+          "coordinates": [
+            88.37955474853516,
+            472.10540771484375,
+            268.8887634277344,
+            482.787109375
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.775,
+          "text": "• \n1/2 cup cucumber, diced",
+          "coordinates": [
+            87.84369659423828,
+            487.1243896484375,
+            230.085693359375,
+            498.20855712890625
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.769,
+          "text": "• \n1/4 cup black olives, sliced",
+          "coordinates": [
+            88.12332916259766,
+            502.0083312988281,
+            240.46810913085938,
+            512.6986083984375
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.761,
+          "text": "• \n1/4 cup feta cheese, crumbled",
+          "coordinates": [
+            87.73333740234375,
+            516.4637451171875,
+            257.1927185058594,
+            527.9095458984375
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.763,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            88.28797149658203,
+            531.1362915039062,
+            222.822021484375,
+            541.537841796875
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.702,
+          "text": "• \n1 tablespoon red wine vinegar",
+          "coordinates": [
+            88.20964050292969,
+            546.7378540039062,
+            258.16998291015625,
+            558.5864868164062
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.719,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.16392517089844,
+            561.2976684570312,
+            228.1282501220703,
+            572.7195434570312
+          ]
+        },
+        {
+          "id": 29,
+          "type": "paragraph_title",
+          "confidence": 0.691,
+          "text": "Instructions:",
+          "coordinates": [
+            70.20403289794922,
+            576.25146484375,
+            137.79690551757812,
+            586.5333251953125
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.706,
+          "text": "• \nIn a large bowl, combine the pasta, tomatoes, cucumber, olives, and feta cheese.",
+          "coordinates": [
+            87.56827545166016,
+            590.5084838867188,
+            507.71209716796875,
+            602.1884765625
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.783,
+          "text": "• \nDrizzle with olive oil and red wine vinegar.",
+          "coordinates": [
+            88.53850555419922,
+            605.390869140625,
+            321.50360107421875,
+            617.1930541992188
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.773,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            88.1076889038086,
+            619.9264526367188,
+            361.26690673828125,
+            631.4578857421875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 25,
+        "paragraph_title": 7
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.762,
+          "text": "• \n1 cup cooked chicken breast, diced",
+          "coordinates": [
+            87.64926147460938,
+            73.49964141845703,
+            280.6875305175781,
+            85.14520263671875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.815,
+          "text": "• \n1/2 avocado, diced",
+          "coordinates": [
+            88.38304901123047,
+            89.12879180908203,
+            200.67176818847656,
+            99.81966400146484
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "• \n1/4 cup cherry tomatoes, halved",
+          "coordinates": [
+            87.93101501464844,
+            103.07897186279297,
+            269.5692443847656,
+            114.10675811767578
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.839,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            88.22038269042969,
+            117.93144226074219,
+            275.5807189941406,
+            130.02169799804688
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.83,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            88.07269287109375,
+            133.42349243164062,
+            222.45770263671875,
+            143.66624450683594
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.84,
+          "text": "• \n1 tablespoon lemon juice",
+          "coordinates": [
+            88.31710052490234,
+            148.64895629882812,
+            232.95367431640625,
+            159.7718048095703
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.792,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            87.98484802246094,
+            162.42007446289062,
+            228.2466583251953,
+            173.57191467285156
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.799,
+          "text": "Instructions:",
+          "coordinates": [
+            70.11834716796875,
+            177.5062255859375,
+            137.47105407714844,
+            187.08621215820312
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.846,
+          "text": "• \nIn a bowl, combine the chicken, avocado, tomatoes, and red onion.",
+          "coordinates": [
+            87.47071838378906,
+            191.5338897705078,
+            441.2147521972656,
+            203.3329620361328
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "• \nDrizzle with olive oil and lemon juice.",
+          "coordinates": [
+            88.43651580810547,
+            207.34945678710938,
+            295.4687805175781,
+            218.07623291015625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.849,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            88.05333709716797,
+            220.84701538085938,
+            360.70379638671875,
+            232.37022399902344
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.849,
+          "text": "Turkey and Cheese Roll-Ups",
+          "coordinates": [
+            70.15937042236328,
+            279.6169738769531,
+            218.08538818359375,
+            291.4788513183594
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.724,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.0814208984375,
+            295.2331848144531,
+            135.00509643554688,
+            306.86383056640625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.814,
+          "text": "• \n4 slices turkey breast",
+          "coordinates": [
+            87.16937255859375,
+            310.1327819824219,
+            213.6584014892578,
+            320.9695129394531
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.848,
+          "text": "• \n4 slices cheese (such as cheddar or Swiss)",
+          "coordinates": [
+            88.37030029296875,
+            324.4097595214844,
+            316.39019775390625,
+            336.0307312011719
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.816,
+          "text": "• \n1/2 cup baby spinach",
+          "coordinates": [
+            88.06478118896484,
+            340.1633605957031,
+            212.85092163085938,
+            351.0591125488281
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.821,
+          "text": "• \n1/4 cup hummus",
+          "coordinates": [
+            87.82638549804688,
+            354.17034912109375,
+            191.63140869140625,
+            365.0689697265625
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.704,
+          "text": "Instructions:",
+          "coordinates": [
+            70.138916015625,
+            369.4128723144531,
+            138.29547119140625,
+            378.98004150390625
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "• \nLay a slice of turkey flat and spread with hummus.",
+          "coordinates": [
+            87.50019836425781,
+            383.3294982910156,
+            357.14892578125,
+            395.1401062011719
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "• \nPlace a slice of cheese and a few spinach leaves on top.",
+          "coordinates": [
+            87.79434204101562,
+            399.02728271484375,
+            382.2980651855469,
+            410.29254150390625
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.851,
+          "text": "• \nRoll up tightly and repeat with remaining ingredients.",
+          "coordinates": [
+            88.40312957763672,
+            413.0265808105469,
+            372.4988098144531,
+            425.2546691894531
+          ]
+        },
+        {
+          "id": 22,
+          "type": "paragraph_title",
+          "confidence": 0.51,
+          "text": "Mediterranean Chickpea Salad \nIngredients:",
+          "coordinates": [
+            69.6618423461914,
+            471.5588073730469,
+            231.51939392089844,
+            498.1469421386719
+          ]
+        },
+        {
+          "id": 23,
+          "type": "paragraph_title",
+          "confidence": 0.769,
+          "text": "Mediterranean Chickpea Salad",
+          "coordinates": [
+            69.9455795288086,
+            471.7298278808594,
+            231.4677734375,
+            482.5943298339844
+          ]
+        },
+        {
+          "id": 24,
+          "type": "paragraph_title",
+          "confidence": 0.566,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.08354187011719,
+            486.4287414550781,
+            135.4105682373047,
+            498.5587463378906
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.838,
+          "text": "• \n1 can chickpeas, drained and rinsed",
+          "coordinates": [
+            87.60194396972656,
+            501.4636535644531,
+            283.9477844238281,
+            512.6806030273438
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "• \n1/2 cup cherry tomatoes, halved",
+          "coordinates": [
+            88.1009292602539,
+            516.7550048828125,
+            268.7499694824219,
+            528.321044921875
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.837,
+          "text": "•\n1/2 cucumber, diced",
+          "coordinates": [
+            88.3792724609375,
+            531.340576171875,
+            208.87010192871094,
+            541.35986328125
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.84,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            87.9165267944336,
+            545.6812133789062,
+            275.55755615234375,
+            557.685546875
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "• \n1/4 cup feta cheese, crumbled",
+          "coordinates": [
+            88.18087005615234,
+            561.170166015625,
+            257.58502197265625,
+            571.7374267578125
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.84,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            88.02315521240234,
+            576.0071411132812,
+            222.24722290039062,
+            587.0870971679688
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.839,
+          "text": "• \n1 tablespoon lemon juice",
+          "coordinates": [
+            88.53556823730469,
+            590.762451171875,
+            233.13894653320312,
+            601.1286010742188
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.82,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.53080749511719,
+            605.5889282226562,
+            227.81320190429688,
+            616.5075073242188
+          ]
+        },
+        {
+          "id": 33,
+          "type": "paragraph_title",
+          "confidence": 0.782,
+          "text": "Instructions:",
+          "coordinates": [
+            70.04901123046875,
+            620.4743041992188,
+            137.38099670410156,
+            629.7109375
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "• \nIn a large bowl, combine the chickpeas, tomatoes, cucumber, red onion, and feta\ncheese.",
+          "coordinates": [
+            88.00180053710938,
+            634.79345703125,
+            508.99102783203125,
+            659.5032348632812
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.866,
+          "text": "• \nDrizzle with olive oil and lemon juice.",
+          "coordinates": [
+            88.21907043457031,
+            664.181884765625,
+            295.37384033203125,
+            675.27099609375
+          ]
+        },
+        {
+          "id": 36,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            87.99616241455078,
+            679.064208984375,
+            360.9897155761719,
+            690.6467895507812
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 28,
+        "paragraph_title": 8
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.758,
+          "text": "Chicken and Veggie Stir-Fry",
+          "coordinates": [
+            69.8940200805664,
+            132.38758850097656,
+            215.6209259033203,
+            144.6916961669922
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.723,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.21212768554688,
+            147.81077575683594,
+            135.2545166015625,
+            159.1787567138672
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.751,
+          "text": "• \n1 cup cooked chicken breast, sliced",
+          "coordinates": [
+            87.32730102539062,
+            161.44850158691406,
+            281.9295654296875,
+            173.028564453125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.796,
+          "text": "• \n1/2 cup bell pepper, sliced",
+          "coordinates": [
+            88.6023178100586,
+            177.12620544433594,
+            237.6322021484375,
+            188.54429626464844
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.759,
+          "text": "• \n1/2 cup broccoli florets",
+          "coordinates": [
+            88.00465393066406,
+            192.4125213623047,
+            221.54037475585938,
+            202.83432006835938
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.792,
+          "text": "• \n1/4 cup snap peas",
+          "coordinates": [
+            88.18406677246094,
+            207.97715759277344,
+            197.2706298828125,
+            218.7677001953125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.768,
+          "text": "• \n2 tablespoons soy sauce",
+          "coordinates": [
+            87.77171325683594,
+            222.1450653076172,
+            229.71627807617188,
+            232.01380920410156
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.731,
+          "text": "• \n1 tablespoon olive oil",
+          "coordinates": [
+            88.13627624511719,
+            236.354736328125,
+            214.85267639160156,
+            247.00559997558594
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.73,
+          "text": "• \n1 teaspoon sesame oil",
+          "coordinates": [
+            88.08810424804688,
+            250.9925537109375,
+            218.94444274902344,
+            261.88568115234375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.733,
+          "text": "• \nCooked rice for serving",
+          "coordinates": [
+            88.02739715576172,
+            266.3033752441406,
+            224.4678955078125,
+            277.8179931640625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.772,
+          "text": "Instructions:",
+          "coordinates": [
+            69.9347152709961,
+            281.32012939453125,
+            137.4552459716797,
+            291.1072692871094
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.83,
+          "text": "• \nIn a large skillet, heat olive oil over medium heat.",
+          "coordinates": [
+            87.50846862792969,
+            294.51947021484375,
+            354.4790954589844,
+            305.682861328125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.795,
+          "text": "• \nAdd bell pepper, broccoli, and snap peas, and stir-fry until tender.",
+          "coordinates": [
+            87.13836669921875,
+            309.3424377441406,
+            432.8952941894531,
+            321.1307678222656
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.82,
+          "text": "• \nAdd the cooked chicken and soy sauce, and stir to combine.",
+          "coordinates": [
+            88.0309066772461,
+            325.0079650878906,
+            405.76190185546875,
+            335.8656005859375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.783,
+          "text": "• \nDrizzle with sesame oil and serve over rice.",
+          "coordinates": [
+            88.09831237792969,
+            339.9458312988281,
+            323.1260070800781,
+            350.5262145996094
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.829,
+          "text": "Shrimp and Avocado Salad",
+          "coordinates": [
+            69.96183776855469,
+            398.512451171875,
+            211.68984985351562,
+            409.3686218261719
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.737,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.20301055908203,
+            413.1624450683594,
+            135.03594970703125,
+            424.6210632324219
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.746,
+          "text": "• \n1 cup cooked shrimp, peeled and deveined",
+          "coordinates": [
+            87.18428802490234,
+            427.3783264160156,
+            321.2165222167969,
+            440.04864501953125
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.767,
+          "text": "• \n1/2 avocado, diced",
+          "coordinates": [
+            88.42961120605469,
+            443.3402404785156,
+            201.10655212402344,
+            453.4719543457031
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.811,
+          "text": "• \n1/4 cup cherry tomatoes, halved",
+          "coordinates": [
+            87.6977310180664,
+            457.7420654296875,
+            269.7422790527344,
+            468.8074645996094
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.809,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            87.90705871582031,
+            472.12109375,
+            275.7243957519531,
+            483.1278381347656
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.779,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            87.87830352783203,
+            487.1419372558594,
+            221.9647979736328,
+            498.035888671875
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.795,
+          "text": "• \n1 tablespoon lemon juice",
+          "coordinates": [
+            88.40058135986328,
+            502.5728454589844,
+            233.07472229003906,
+            513.0034790039062
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.76,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.06710815429688,
+            517.1953735351562,
+            228.01792907714844,
+            528.9945678710938
+          ]
+        },
+        {
+          "id": 25,
+          "type": "paragraph_title",
+          "confidence": 0.758,
+          "text": "Instructions:",
+          "coordinates": [
+            70.04915618896484,
+            532.2150268554688,
+            137.74586486816406,
+            542.0994873046875
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.815,
+          "text": "• \nIn a bowl, combine the shrimp, avocado, tomatoes, and red onion.",
+          "coordinates": [
+            87.14193725585938,
+            545.5321655273438,
+            437.84228515625,
+            557.8541870117188
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.836,
+          "text": "• \nDrizzle with olive oil and lemon juice.",
+          "coordinates": [
+            88.38218688964844,
+            561.1666259765625,
+            295.5631103515625,
+            571.8468017578125
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.832,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            87.91199493408203,
+            575.8734130859375,
+            361.18304443359375,
+            587.0887451171875
+          ]
+        },
+        {
+          "id": 29,
+          "type": "paragraph_title",
+          "confidence": 0.853,
+          "text": "Black Bean and Corn Salad",
+          "coordinates": [
+            70.07015991210938,
+            634.62646484375,
+            211.012451171875,
+            644.9476928710938
+          ]
+        },
+        {
+          "id": 30,
+          "type": "paragraph_title",
+          "confidence": 0.693,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.05050659179688,
+            649.8529663085938,
+            134.89068603515625,
+            661.27978515625
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.824,
+          "text": "• \n1 can black beans, drained and rinsed",
+          "coordinates": [
+            86.78826904296875,
+            663.559814453125,
+            293.9501953125,
+            674.9966430664062
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.841,
+          "text": "• \n1 cup corn kernels (fresh or canned)",
+          "coordinates": [
+            88.3409652709961,
+            678.7599487304688,
+            287.17529296875,
+            689.9034423828125
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.832,
+          "text": "• \n1/2 cup cherry tomatoes, halved",
+          "coordinates": [
+            88.20330810546875,
+            694.2138061523438,
+            268.0102844238281,
+            705.4163818359375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 8,
+        "text": 25
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.731,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            87.64207458496094,
+            73.391357421875,
+            275.03643798828125,
+            85.6175308227539
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.8,
+          "text": "• \n1/4 cup cilantro, chopped",
+          "coordinates": [
+            88.2519302368164,
+            89.17401885986328,
+            234.79466247558594,
+            100.76602935791016
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.792,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            88.03932189941406,
+            103.42987823486328,
+            222.21435546875,
+            113.92214965820312
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.803,
+          "text": "• \n1 tablespoon lime juice",
+          "coordinates": [
+            88.41119384765625,
+            118.1600112915039,
+            222.9950408935547,
+            130.3631591796875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.77,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.17768096923828,
+            133.11361694335938,
+            227.340576171875,
+            144.2393341064453
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.723,
+          "text": "Instructions:",
+          "coordinates": [
+            70.338623046875,
+            148.4397430419922,
+            137.37596130371094,
+            158.43296813964844
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.762,
+          "text": "• \nIn a large bowl, combine the black beans, corn, tomatoes, red onion, and cilantro.",
+          "coordinates": [
+            87.1715087890625,
+            161.0939483642578,
+            513.3782348632812,
+            173.81256103515625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.812,
+          "text": "• \nDrizzle with olive oil and lime juice.",
+          "coordinates": [
+            88.4256591796875,
+            177.35398864746094,
+            285.2058410644531,
+            188.074951171875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.807,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            87.99708557128906,
+            191.6090545654297,
+            360.98663330078125,
+            203.17408752441406
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.759,
+          "text": "Chicken and Pesto Sandwich",
+          "coordinates": [
+            69.96385192871094,
+            250.5697479248047,
+            220.47950744628906,
+            261.31280517578125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.648,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.02652740478516,
+            265.7380065917969,
+            134.9239959716797,
+            277.4993591308594
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.791,
+          "text": "• \n2 slices whole grain bread",
+          "coordinates": [
+            86.95068359375,
+            279.53118896484375,
+            238.1715850830078,
+            290.7569885253906
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.821,
+          "text": "• \n1 cup cooked chicken breast, sliced",
+          "coordinates": [
+            88.23703002929688,
+            294.7850646972656,
+            281.8310852050781,
+            306.18328857421875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "• \n2 tablespoons pesto",
+          "coordinates": [
+            87.95988464355469,
+            310.174072265625,
+            210.28404235839844,
+            321.5386657714844
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.825,
+          "text": "• \n1/2 cup baby spinach",
+          "coordinates": [
+            88.43994903564453,
+            324.98248291015625,
+            212.80447387695312,
+            336.19866943359375
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.602,
+          "text": "• \n1/4 cup roasted red peppers, sliced",
+          "coordinates": [
+            87.28717041015625,
+            339.44000244140625,
+            280.8047180175781,
+            351.20074462890625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.646,
+          "text": "Instructions:",
+          "coordinates": [
+            70.10352325439453,
+            354.4034423828125,
+            137.69613647460938,
+            364.3459777832031
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.84,
+          "text": "• \nSpread pesto on one slice of bread.",
+          "coordinates": [
+            87.56696319580078,
+            368.3733215332031,
+            283.122802734375,
+            379.8398742675781
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.788,
+          "text": "• \nLayer the chicken, spinach, and roasted red peppers on top.",
+          "coordinates": [
+            88.19812774658203,
+            383.6924133300781,
+            403.14794921875,
+            396.2802734375
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.796,
+          "text": "• \nTop with the second slice of bread and cut in half.",
+          "coordinates": [
+            87.94074249267578,
+            398.4576721191406,
+            354.2411804199219,
+            410.23968505859375
+          ]
+        },
+        {
+          "id": 21,
+          "type": "paragraph_title",
+          "confidence": 0.767,
+          "text": "Lentil Salad",
+          "coordinates": [
+            69.91080474853516,
+            486.2161560058594,
+            133.54010009765625,
+            497.3463134765625
+          ]
+        },
+        {
+          "id": 22,
+          "type": "paragraph_title",
+          "confidence": 0.683,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.98055267333984,
+            501.7897644042969,
+            134.7149658203125,
+            513.6039428710938
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.767,
+          "text": "• \n1 cup cooked lentils",
+          "coordinates": [
+            87.26851654052734,
+            516.5906372070312,
+            206.3124542236328,
+            528.0841064453125
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.803,
+          "text": "• \n1/2 cup cherry tomatoes, halved",
+          "coordinates": [
+            88.24031066894531,
+            531.9649047851562,
+            268.46240234375,
+            543.1217041015625
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.815,
+          "text": "• \n1/2 cucumber, diced",
+          "coordinates": [
+            87.83920288085938,
+            546.3778076171875,
+            208.0893096923828,
+            556.7332763671875
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.834,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            87.93055725097656,
+            560.7033081054688,
+            275.5921325683594,
+            572.0445556640625
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.827,
+          "text": "• \n1/4 cup feta cheese, crumbled",
+          "coordinates": [
+            87.63197326660156,
+            575.9210205078125,
+            257.385009765625,
+            587.0839233398438
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.825,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            88.11228942871094,
+            591.0707397460938,
+            222.8564910888672,
+            601.6044921875
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.792,
+          "text": "• \n1 tablespoon red wine vinegar",
+          "coordinates": [
+            88.12366485595703,
+            606.0507202148438,
+            258.4549255371094,
+            617.4053955078125
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.803,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.46245574951172,
+            620.2769775390625,
+            228.18588256835938,
+            631.4348754882812
+          ]
+        },
+        {
+          "id": 31,
+          "type": "paragraph_title",
+          "confidence": 0.701,
+          "text": "Instructions:",
+          "coordinates": [
+            70.13471221923828,
+            635.3112182617188,
+            137.7417449951172,
+            645.2057495117188
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.626,
+          "text": "• \nIn a large bowl, combine the lentils, tomatoes, cucumber, red onion, and feta cheese.",
+          "coordinates": [
+            87.48607635498047,
+            649.5247192382812,
+            529.5846557617188,
+            660.840576171875
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.761,
+          "text": "• \nDrizzle with olive oil and red wine vinegar.",
+          "coordinates": [
+            88.40496826171875,
+            664.9251708984375,
+            321.1356201171875,
+            676.2259521484375
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            87.9524154663086,
+            679.016357421875,
+            361.54498291015625,
+            690.649169921875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 27,
+        "paragraph_title": 7
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.721,
+          "text": "Chickpea and Avocado Sandwich\nIngredients:",
+          "coordinates": [
+            69.49513244628906,
+            102.44188690185547,
+            243.21356201171875,
+            129.4751434326172
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.67,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.2598876953125,
+            117.89822387695312,
+            134.90072631835938,
+            129.75807189941406
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.706,
+          "text": "• \n2 slices whole grain bread",
+          "coordinates": [
+            87.55060577392578,
+            132.64981079101562,
+            237.579833984375,
+            144.01651000976562
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.77,
+          "text": "• \n1/2 avocado, mashed",
+          "coordinates": [
+            88.48108673095703,
+            148.21783447265625,
+            214.03570556640625,
+            158.82630920410156
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "• \n1/2 cup chickpeas, mashed",
+          "coordinates": [
+            88.21388244628906,
+            161.86410522460938,
+            241.4828338623047,
+            172.74014282226562
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.768,
+          "text": "• \n1/4 cup cherry tomatoes, halved",
+          "coordinates": [
+            88.22077941894531,
+            176.81723022460938,
+            268.1477355957031,
+            188.51348876953125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.754,
+          "text": "• \n1 tablespoon olive oil",
+          "coordinates": [
+            88.25309753417969,
+            192.14663696289062,
+            215.51437377929688,
+            202.93600463867188
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.717,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.11515808105469,
+            207.23204040527344,
+            227.69444274902344,
+            218.2315216064453
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.752,
+          "text": "Instructions:",
+          "coordinates": [
+            70.08326721191406,
+            221.33058166503906,
+            137.54708862304688,
+            231.4983367919922
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.786,
+          "text": "• \nIn a bowl, combine the mashed avocado and chickpeas.",
+          "coordinates": [
+            87.6807861328125,
+            235.45314025878906,
+            386.2734069824219,
+            247.19607543945312
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.813,
+          "text": "• \nSpread the mixture on one slice of bread.",
+          "coordinates": [
+            88.00083923339844,
+            250.4991912841797,
+            313.2837829589844,
+            261.6122741699219
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.772,
+          "text": "• \nTop with cherry tomatoes and drizzle with olive oil.",
+          "coordinates": [
+            88.43340301513672,
+            265.5838623046875,
+            364.39251708984375,
+            276.991943359375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.759,
+          "text": "• \nSeason with salt and pepper, then top with the second slice of bread.",
+          "coordinates": [
+            87.9183349609375,
+            279.2561340332031,
+            448.61572265625,
+            291.1438293457031
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.8,
+          "text": "Greek Salad",
+          "coordinates": [
+            70.09718322753906,
+            339.6019287109375,
+            135.44467163085938,
+            350.17596435546875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.687,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.26718139648438,
+            353.67816162109375,
+            134.84776306152344,
+            365.80621337890625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.695,
+          "text": "• \n1 cup cherry tomatoes, halved",
+          "coordinates": [
+            87.00912475585938,
+            368.5631408691406,
+            258.1843566894531,
+            380.1619873046875
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.729,
+          "text": "• \n1/2 cucumber, diced",
+          "coordinates": [
+            88.54309844970703,
+            384.2649230957031,
+            208.6961669921875,
+            394.90704345703125
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.726,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            87.63931274414062,
+            398.6006164550781,
+            275.3133544921875,
+            410.72723388671875
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.753,
+          "text": "• \n1/4 cup black olives, sliced",
+          "coordinates": [
+            88.06722259521484,
+            413.1569519042969,
+            240.49732971191406,
+            423.71563720703125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.734,
+          "text": "• \n1/4 cup feta cheese, crumbled",
+          "coordinates": [
+            87.96854400634766,
+            427.6790771484375,
+            257.9270935058594,
+            438.7030944824219
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.759,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            88.33621215820312,
+            443.01239013671875,
+            222.4899444580078,
+            453.67376708984375
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.694,
+          "text": "• \n1 tablespoon red wine vinegar",
+          "coordinates": [
+            88.15994262695312,
+            458.36920166015625,
+            258.1296691894531,
+            470.340576171875
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.741,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.10966491699219,
+            472.1274719238281,
+            227.83132934570312,
+            483.87188720703125
+          ]
+        },
+        {
+          "id": 24,
+          "type": "paragraph_title",
+          "confidence": 0.717,
+          "text": "Instructions:",
+          "coordinates": [
+            70.1613540649414,
+            487.2168273925781,
+            137.81346130371094,
+            497.41943359375
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.738,
+          "text": "• \nDrizzle with olive oil and red wine vinegar.",
+          "coordinates": [
+            88.31163787841797,
+            517.1226806640625,
+            320.22186279296875,
+            529.0213623046875
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.75,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            88.2784194946289,
+            531.0338745117188,
+            360.86334228515625,
+            542.4396362304688
+          ]
+        },
+        {
+          "id": 27,
+          "type": "paragraph_title",
+          "confidence": 0.799,
+          "text": "Turkey and Cranberry Wrap\nIngredients:",
+          "coordinates": [
+            69.8634033203125,
+            590.5715942382812,
+            215.0673370361328,
+            616.54833984375
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.722,
+          "text": "• \n1 whole wheat tortilla",
+          "coordinates": [
+            87.9493179321289,
+            619.8550415039062,
+            215.89781188964844,
+            630.159912109375
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.701,
+          "text": "• \n4 slices turkey breast",
+          "coordinates": [
+            88.3748779296875,
+            635.1168212890625,
+            213.40589904785156,
+            646.203369140625
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.726,
+          "text": "• \n2 tablespoons cranberry sauce",
+          "coordinates": [
+            88.1121826171875,
+            650.7763671875,
+            260.53289794921875,
+            661.2875366210938
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.742,
+          "text": "• \n1/2 cup baby spinach",
+          "coordinates": [
+            88.29129791259766,
+            664.0616455078125,
+            212.77847290039062,
+            675.84423828125
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.649,
+          "text": "• \n1/4 cup shredded carrots",
+          "coordinates": [
+            88.79911804199219,
+            679.0628051757812,
+            230.9501495361328,
+            689.6128540039062
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 7,
+        "text": 25
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.777,
+          "text": "• \nLay the tortilla flat and spread the cranberry sauce evenly.",
+          "coordinates": [
+            87.67359161376953,
+            73.31519317626953,
+            396.22186279296875,
+            85.64509582519531
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.793,
+          "text": "• \nAdd the turkey, spinach, and carrots.",
+          "coordinates": [
+            88.43431091308594,
+            88.83111572265625,
+            290.21148681640625,
+            100.5846176147461
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.768,
+          "text": "• \nRoll up the tortilla tightly and slice in half.",
+          "coordinates": [
+            88.12974548339844,
+            102.52643585205078,
+            314.45782470703125,
+            115.12477111816406
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.804,
+          "text": "Caprese Salad",
+          "coordinates": [
+            70.06180572509766,
+            161.6910858154297,
+            146.1433563232422,
+            172.75645446777344
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.699,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.2432632446289,
+            176.8646240234375,
+            134.92596435546875,
+            188.5192108154297
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.773,
+          "text": "• \n1 cup cherry tomatoes, halved",
+          "coordinates": [
+            87.27362823486328,
+            191.92425537109375,
+            258.7147216796875,
+            203.20611572265625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.797,
+          "text": "• \n1/2 cup fresh mozzarella, diced",
+          "coordinates": [
+            88.41886901855469,
+            206.61122131347656,
+            261.993408203125,
+            218.63253784179688
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.791,
+          "text": "• \nFresh basil leaves",
+          "coordinates": [
+            87.76901245117188,
+            221.0836181640625,
+            195.89016723632812,
+            231.84353637695312
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.799,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            88.2917251586914,
+            236.00076293945312,
+            222.18106079101562,
+            246.86476135253906
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.78,
+          "text": "• \n1 tablespoon balsamic glaze",
+          "coordinates": [
+            87.94793701171875,
+            251.04837036132812,
+            247.89993286132812,
+            262.9064636230469
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.782,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.5306167602539,
+            266.26092529296875,
+            227.80206298828125,
+            277.302978515625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.737,
+          "text": "Instructions:",
+          "coordinates": [
+            70.05646514892578,
+            281.208251953125,
+            137.50355529785156,
+            291.33807373046875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.805,
+          "text": "• \nIn a bowl, combine the tomatoes, mozzarella, and basil.",
+          "coordinates": [
+            87.71539306640625,
+            294.4061584472656,
+            384.899169921875,
+            306.2757263183594
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.833,
+          "text": "• \nDrizzle with olive oil and balsamic glaze.",
+          "coordinates": [
+            87.94510650634766,
+            309.7745056152344,
+            310.8233947753906,
+            321.3893737792969
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.825,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            87.95488739013672,
+            324.61309814453125,
+            360.74493408203125,
+            336.1201477050781
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.83,
+          "text": "Chicken and Veggie Skewers",
+          "coordinates": [
+            69.92884063720703,
+            383.580078125,
+            220.22824096679688,
+            395.38543701171875
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.514,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.97981262207031,
+            398.914794921875,
+            134.98974609375,
+            410.44610595703125
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.795,
+          "text": "• \n1 cup cooked chicken breast, cubed",
+          "coordinates": [
+            87.52942657470703,
+            412.6289978027344,
+            284.5976867675781,
+            423.82958984375
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "• \n1/2 cup bell pepper, cubed",
+          "coordinates": [
+            87.98009490966797,
+            427.7800598144531,
+            240.1028289794922,
+            439.2554626464844
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.786,
+          "text": "• \n1/2 cup zucchini, sliced",
+          "coordinates": [
+            88.18804168701172,
+            443.4139709472656,
+            222.20172119140625,
+            453.84423828125
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.827,
+          "text": "• \n1/4 cup red onion, cubed",
+          "coordinates": [
+            87.7514877319336,
+            457.6936340332031,
+            232.06565856933594,
+            468.7658996582031
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            88.06494140625,
+            472.2649230957031,
+            222.1230926513672,
+            482.76904296875
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.772,
+          "text": "• \n1 tablespoon lemon juice",
+          "coordinates": [
+            87.87340545654297,
+            487.45086669921875,
+            232.6901092529297,
+            498.78399658203125
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.758,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.3146743774414,
+            502.291748046875,
+            228.52394104003906,
+            513.2322387695312
+          ]
+        },
+        {
+          "id": 25,
+          "type": "paragraph_title",
+          "confidence": 0.713,
+          "text": "Instructions:",
+          "coordinates": [
+            70.21260070800781,
+            517.2652587890625,
+            137.67352294921875,
+            527.5645751953125
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.82,
+          "text": "• \nThread the chicken, bell pepper, zucchini, and red onion onto skewers.",
+          "coordinates": [
+            87.67512512207031,
+            530.4175415039062,
+            457.2400817871094,
+            542.4019165039062
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.837,
+          "text": "• \nDrizzle with olive oil and lemon juice.",
+          "coordinates": [
+            88.28729248046875,
+            546.1767578125,
+            295.31964111328125,
+            557.7306518554688
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.855,
+          "text": "• \nSeason with salt and pepper.",
+          "coordinates": [
+            88.4521255493164,
+            561.5782470703125,
+            252.3309326171875,
+            572.0745849609375
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.85,
+          "text": "• \nServe cold or reheat before serving.",
+          "coordinates": [
+            88.25570678710938,
+            576.1823120117188,
+            285.8919982910156,
+            587.71875
+          ]
+        },
+        {
+          "id": 30,
+          "type": "paragraph_title",
+          "confidence": 0.823,
+          "text": "Tuna and Avocado Salad",
+          "coordinates": [
+            70.21908569335938,
+            634.6769409179688,
+            199.49464416503906,
+            644.9327392578125
+          ]
+        },
+        {
+          "id": 31,
+          "type": "paragraph_title",
+          "confidence": 0.659,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.17801666259766,
+            649.9097290039062,
+            135.0719451904297,
+            661.6267700195312
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.787,
+          "text": "• \n1 can tuna, drained",
+          "coordinates": [
+            87.0564193725586,
+            664.1925048828125,
+            201.7779083251953,
+            674.7884521484375
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.815,
+          "text": "• \n1/2 avocado, diced",
+          "coordinates": [
+            88.57389831542969,
+            679.2437744140625,
+            201.4337158203125,
+            689.2595825195312
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "• \n1/4 cup cherry tomatoes, halved",
+          "coordinates": [
+            88.10987854003906,
+            693.8365478515625,
+            267.59417724609375,
+            705.7060546875
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 26,
+        "paragraph_title": 8
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.769,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            87.53562927246094,
+            73.52339172363281,
+            275.002685546875,
+            85.49712371826172
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            88.13921356201172,
+            89.36258697509766,
+            222.26014709472656,
+            99.97142028808594
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.838,
+          "text": "• \n1 tablespoon lemon juice",
+          "coordinates": [
+            88.10096740722656,
+            103.56104278564453,
+            233.09327697753906,
+            114.49059295654297
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.832,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            87.88963317871094,
+            117.9133529663086,
+            228.2981719970703,
+            129.6817626953125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.799,
+          "text": "Instructions:",
+          "coordinates": [
+            70.03475189208984,
+            133.2406463623047,
+            137.79083251953125,
+            143.19873046875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.848,
+          "text": "• \nIn a bowl, combine the tuna, avocado, tomatoes, and red onion.",
+          "coordinates": [
+            87.38163757324219,
+            147.4150848388672,
+            425.6636047363281,
+            159.5860595703125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.85,
+          "text": "• \nDrizzle with olive oil and lemon juice.",
+          "coordinates": [
+            88.47213745117188,
+            161.87937927246094,
+            295.51544189453125,
+            173.2281951904297
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.855,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            88.23304748535156,
+            176.65235900878906,
+            360.792724609375,
+            188.0874481201172
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.858,
+          "text": "Veggie Sushi Rolls",
+          "coordinates": [
+            69.64231872558594,
+            235.48147583007812,
+            166.3789825439453,
+            247.29132080078125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.731,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.66229248046875,
+            250.962890625,
+            134.97854614257812,
+            262.5616149902344
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.818,
+          "text": "• \n1 cup cooked sushi rice",
+          "coordinates": [
+            87.5543212890625,
+            265.84100341796875,
+            222.43743896484375,
+            276.8701477050781
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.828,
+          "text": "• \n1/2 cucumber, julienned",
+          "coordinates": [
+            87.72781372070312,
+            279.8067321777344,
+            227.63160705566406,
+            290.7900695800781
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.833,
+          "text": "• \n1/2 avocado, sliced",
+          "coordinates": [
+            88.1373291015625,
+            295.00341796875,
+            202.6480712890625,
+            305.5364990234375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.841,
+          "text": "• \n1/4 cup carrot, julienned",
+          "coordinates": [
+            87.68428802490234,
+            309.89556884765625,
+            229.03016662597656,
+            320.7934265136719
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "• \n2 sheets nori (seaweed)",
+          "coordinates": [
+            88.2853775024414,
+            324.9332275390625,
+            227.42303466796875,
+            335.7789306640625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.751,
+          "text": "• \nSoy sauce for dipping",
+          "coordinates": [
+            87.79672241210938,
+            340.4744567871094,
+            216.0288543701172,
+            352.0451354980469
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.751,
+          "text": "Instructions:",
+          "coordinates": [
+            70.10684967041016,
+            354.44696044921875,
+            137.5421142578125,
+            364.04254150390625
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.849,
+          "text": "• \nLay a sheet of nori on a bamboo sushi mat.",
+          "coordinates": [
+            87.42903137207031,
+            368.55810546875,
+            323.5851135253906,
+            379.8180236816406
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.854,
+          "text": "• \nSpread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top.",
+          "coordinates": [
+            87.57008361816406,
+            383.3988342285156,
+            501.3692321777344,
+            395.5410461425781
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.795,
+          "text": "• \nArrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice.",
+          "coordinates": [
+            86.99593353271484,
+            398.4775085449219,
+            536.584228515625,
+            410.6534729003906
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "• \nRoll the nori tightly using the bamboo mat.",
+          "coordinates": [
+            87.89702606201172,
+            413.1383056640625,
+            323.4745178222656,
+            424.1102294921875
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.843,
+          "text": "• \nSlice into bite-sized pieces and serve with soy sauce.",
+          "coordinates": [
+            87.92375183105469,
+            428.1333923339844,
+            368.9075622558594,
+            439.1319274902344
+          ]
+        },
+        {
+          "id": 23,
+          "type": "paragraph_title",
+          "confidence": 0.747,
+          "text": "Spinach and Feta Stuﬀed Pita",
+          "coordinates": [
+            69.9240493774414,
+            516.3790283203125,
+            223.2813262939453,
+            527.7614135742188
+          ]
+        },
+        {
+          "id": 24,
+          "type": "paragraph_title",
+          "confidence": 0.718,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.0210189819336,
+            532.2015991210938,
+            134.9741668701172,
+            543.5868530273438
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.773,
+          "text": "• \n1 whole wheat pita bread",
+          "coordinates": [
+            86.81578826904297,
+            545.781982421875,
+            233.64830017089844,
+            556.974365234375
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "• \n1/2 cup spinach, chopped",
+          "coordinates": [
+            88.23533630371094,
+            561.1204223632812,
+            235.4108123779297,
+            572.5639038085938
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.86,
+          "text": "• \n1/4 cup feta cheese, crumbled",
+          "coordinates": [
+            87.7049789428711,
+            575.6907348632812,
+            257.7232666015625,
+            586.8333129882812
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.844,
+          "text": "• \n1/4 cup cherry tomatoes, halved",
+          "coordinates": [
+            87.87718963623047,
+            591.0350341796875,
+            268.6982727050781,
+            602.0338745117188
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.836,
+          "text": "• \n1 tablespoon olive oil",
+          "coordinates": [
+            88.1141128540039,
+            605.3302001953125,
+            215.22970581054688,
+            616.1101684570312
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.795,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.376220703125,
+            620.2657470703125,
+            227.87753295898438,
+            631.1766967773438
+          ]
+        },
+        {
+          "id": 31,
+          "type": "paragraph_title",
+          "confidence": 0.742,
+          "text": "Instructions:",
+          "coordinates": [
+            70.08757019042969,
+            635.4837646484375,
+            137.7674560546875,
+            645.292236328125
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.855,
+          "text": "• \nCut the pita bread in half to create pockets.",
+          "coordinates": [
+            87.98175811767578,
+            649.7296752929688,
+            323.2131042480469,
+            661.0299682617188
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.813,
+          "text": "• \nIn a bowl, combine the spinach, feta cheese, and cherry tomatoes.",
+          "coordinates": [
+            87.53307342529297,
+            663.9363403320312,
+            436.5849609375,
+            675.8043212890625
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "• \nDrizzle with olive oil and season with salt and pepper.",
+          "coordinates": [
+            87.95201873779297,
+            679.1722412109375,
+            376.90863037109375,
+            690.6503295898438
+          ]
+        },
+        {
+          "id": 35,
+          "type": "text",
+          "confidence": 0.855,
+          "text": "• \nStuﬀ the mixture into the pita pockets.",
+          "coordinates": [
+            88.06637573242188,
+            694.0556640625,
+            299.5610656738281,
+            705.3380737304688
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 28,
+        "paragraph_title": 7
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.801,
+          "text": "BBQ Chicken Wrap",
+          "coordinates": [
+            70.22772216796875,
+            117.77418518066406,
+            169.6028289794922,
+            129.56967163085938
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.72,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.90263366699219,
+            133.46380615234375,
+            135.0806121826172,
+            144.42599487304688
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.754,
+          "text": "• \n1 whole wheat tortilla",
+          "coordinates": [
+            87.84683990478516,
+            147.5535125732422,
+            215.99147033691406,
+            158.9219512939453
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.785,
+          "text": "• \n1 cup cooked chicken breast, shredded",
+          "coordinates": [
+            87.87037658691406,
+            161.64309692382812,
+            300.7925720214844,
+            172.80746459960938
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.773,
+          "text": "• \n2 tablespoons BBQ sauce",
+          "coordinates": [
+            88.20338439941406,
+            177.35218811035156,
+            235.70301818847656,
+            188.0703125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.757,
+          "text": "• \n1/4 cup shredded cheese",
+          "coordinates": [
+            88.07549285888672,
+            192.08433532714844,
+            232.418212890625,
+            202.96788024902344
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.756,
+          "text": "• \n1/4 cup coleslaw mix",
+          "coordinates": [
+            88.07444763183594,
+            207.15591430664062,
+            212.30950927734375,
+            218.0342254638672
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.732,
+          "text": "Instructions:",
+          "coordinates": [
+            70.02457427978516,
+            221.4341278076172,
+            137.6455078125,
+            231.49807739257812
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.803,
+          "text": "• \nLay the tortilla flat and spread the BBQ sauce evenly.",
+          "coordinates": [
+            87.78874206542969,
+            235.56446838378906,
+            370.65826416015625,
+            247.73875427246094
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.834,
+          "text": "• \nAdd the chicken, cheese, and coleslaw mix.",
+          "coordinates": [
+            88.00115203857422,
+            250.9578094482422,
+            323.3908996582031,
+            261.6996765136719
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.812,
+          "text": "• \nRoll up the tortilla tightly and slice in half.",
+          "coordinates": [
+            88.27652740478516,
+            265.52655029296875,
+            315.2121887207031,
+            278.0381164550781
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.82,
+          "text": "Couscous Salad",
+          "coordinates": [
+            69.84386444091797,
+            324.81427001953125,
+            153.19639587402344,
+            335.17999267578125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.66,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.8462142944336,
+            339.924560546875,
+            135.157470703125,
+            351.43023681640625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.775,
+          "text": "• \n1 cup cooked couscous",
+          "coordinates": [
+            87.90216827392578,
+            354.1150207519531,
+            223.1954345703125,
+            364.5657043457031
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.793,
+          "text": "• \n1/2 cup cherry tomatoes, halved",
+          "coordinates": [
+            87.767578125,
+            368.84857177734375,
+            268.6242370605469,
+            379.8826599121094
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "• \n1/2 cucumber, diced",
+          "coordinates": [
+            88.20503997802734,
+            384.6055603027344,
+            208.71951293945312,
+            394.6033020019531
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.793,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            87.56237030029297,
+            398.6441650390625,
+            275.33819580078125,
+            410.3575134277344
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "• \n1/4 cup feta cheese, crumbled",
+          "coordinates": [
+            88.1009750366211,
+            413.2707214355469,
+            257.600341796875,
+            423.572509765625
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.794,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            87.85986328125,
+            428.03533935546875,
+            222.3705596923828,
+            438.7562255859375
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "• \n1 tablespoon lemon juice",
+          "coordinates": [
+            88.47538757324219,
+            443.39569091796875,
+            233.06288146972656,
+            454.01556396484375
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.771,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            87.95875549316406,
+            458.1842041015625,
+            227.85887145996094,
+            469.79510498046875
+          ]
+        },
+        {
+          "id": 22,
+          "type": "paragraph_title",
+          "confidence": 0.695,
+          "text": "Instructions:",
+          "coordinates": [
+            70.12460327148438,
+            472.50634765625,
+            137.50729370117188,
+            482.24249267578125
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "• \nIn a large bowl, combine the couscous, tomatoes, cucumber, red onion, and feta\ncheese.",
+          "coordinates": [
+            87.74118041992188,
+            486.372802734375,
+            506.58721923828125,
+            512.1076049804688
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.822,
+          "text": "• \nDrizzle with olive oil and lemon juice.",
+          "coordinates": [
+            88.32378387451172,
+            516.8372192382812,
+            295.3876953125,
+            528.2894897460938
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.818,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            88.11849975585938,
+            531.1322021484375,
+            360.8799133300781,
+            542.4482421875
+          ]
+        },
+        {
+          "id": 26,
+          "type": "paragraph_title",
+          "confidence": 0.791,
+          "text": "Eggplant and Hummus Sandwich\nIngredients:",
+          "coordinates": [
+            69.7575454711914,
+            590.5448608398438,
+            243.3360137939453,
+            616.2808227539062
+          ]
+        },
+        {
+          "id": 27,
+          "type": "paragraph_title",
+          "confidence": 0.546,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.43497467041016,
+            604.6258544921875,
+            135.0294189453125,
+            616.6614379882812
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "• \n2 slices whole grain bread",
+          "coordinates": [
+            87.85308074951172,
+            619.7933959960938,
+            238.11788940429688,
+            630.8309326171875
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.79,
+          "text": "• \n1/2 cup roasted eggplant slices",
+          "coordinates": [
+            88.1284408569336,
+            635.045654296875,
+            260.5151672363281,
+            646.8837280273438
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.765,
+          "text": "• \n1/4 cup hummus",
+          "coordinates": [
+            88.1345443725586,
+            650.7721557617188,
+            192.36431884765625,
+            660.9833984375
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.772,
+          "text": "• \n1/4 cup baby spinach",
+          "coordinates": [
+            88.1175537109375,
+            664.0886840820312,
+            213.0411834716797,
+            675.3034057617188
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.643,
+          "text": "• \n1/4 cup roasted red peppers, sliced",
+          "coordinates": [
+            88.51560974121094,
+            679.0532836914062,
+            280.3085632324219,
+            690.1681518554688
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 8,
+        "text": 24
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.816,
+          "text": "• \nSpread hummus on one slice of bread.",
+          "coordinates": [
+            87.6227035522461,
+            73.23894500732422,
+            299.7737121582031,
+            85.03213500976562
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.743,
+          "text": "• \nLayer the roasted eggplant, spinach, and roasted red peppers on top.",
+          "coordinates": [
+            87.72119140625,
+            88.51155090332031,
+            450.2200622558594,
+            101.59736633300781
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.714,
+          "text": "• \nTop with the second slice of bread and cut in half.",
+          "coordinates": [
+            88.46839904785156,
+            102.73435974121094,
+            353.9106750488281,
+            114.64044952392578
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.781,
+          "text": "Chicken and Mango Salad",
+          "coordinates": [
+            69.95446014404297,
+            161.3806915283203,
+            206.103271484375,
+            172.90538024902344
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.703,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.04564666748047,
+            176.55494689941406,
+            135.1223907470703,
+            188.50723266601562
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.769,
+          "text": "• \n1 cup cooked chicken breast, diced",
+          "coordinates": [
+            87.07249450683594,
+            191.476806640625,
+            280.8282165527344,
+            203.02496337890625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.768,
+          "text": "• \n1/2 mango, diced",
+          "coordinates": [
+            88.53011322021484,
+            207.1531982421875,
+            193.45968627929688,
+            218.61343383789062
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.798,
+          "text": "• \n1/4 cup red onion, finely chopped",
+          "coordinates": [
+            87.74176788330078,
+            220.69810485839844,
+            275.7552185058594,
+            232.69479370117188
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.815,
+          "text": "• \n1/4 cup cilantro, chopped",
+          "coordinates": [
+            88.24739074707031,
+            236.16714477539062,
+            235.00938415527344,
+            247.41143798828125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.787,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            87.95647430419922,
+            251.1056365966797,
+            222.21212768554688,
+            261.8142395019531
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.765,
+          "text": "• \n1 tablespoon lime juice",
+          "coordinates": [
+            88.47750091552734,
+            266.2099304199219,
+            223.33375549316406,
+            277.6744384765625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.728,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            87.72322845458984,
+            279.92291259765625,
+            227.57571411132812,
+            291.5226745605469
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.758,
+          "text": "Instructions:",
+          "coordinates": [
+            70.10069274902344,
+            295.3457336425781,
+            137.4452667236328,
+            305.3634948730469
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.82,
+          "text": "• \nIn a bowl, combine the chicken, mango, red onion, and cilantro.",
+          "coordinates": [
+            87.02885437011719,
+            309.3553771972656,
+            424.1564025878906,
+            321.7228698730469
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.812,
+          "text": "• \nDrizzle with olive oil and lime juice.",
+          "coordinates": [
+            88.51761627197266,
+            325.1911926269531,
+            285.1888122558594,
+            336.11834716796875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.817,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            87.99378967285156,
+            339.4009704589844,
+            360.82415771484375,
+            351.2560729980469
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.829,
+          "text": "Veggie and Cheese Quesadilla\nIngredients:",
+          "coordinates": [
+            69.34902954101562,
+            398.4006042480469,
+            228.30844116210938,
+            424.3059387207031
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.599,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.2082748413086,
+            413.23565673828125,
+            134.8829345703125,
+            424.77972412109375
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.776,
+          "text": "• \n1 whole wheat tortilla",
+          "coordinates": [
+            87.14324951171875,
+            427.70782470703125,
+            216.57540893554688,
+            438.3799743652344
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.819,
+          "text": "• \n1/2 cup shredded cheese",
+          "coordinates": [
+            88.3413314819336,
+            443.1702575683594,
+            232.10292053222656,
+            453.3514404296875
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.809,
+          "text": "• \n1/4 cup bell pepper, sliced",
+          "coordinates": [
+            87.76753997802734,
+            457.7323303222656,
+            237.30941772460938,
+            469.0633239746094
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.783,
+          "text": "• \n1/4 cup zucchini, sliced",
+          "coordinates": [
+            88.20636749267578,
+            472.1788330078125,
+            222.20230102539062,
+            482.7617492675781
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.716,
+          "text": "• \n1/4 cup red onion, sliced",
+          "coordinates": [
+            88.0489501953125,
+            486.5623474121094,
+            228.9907684326172,
+            498.52947998046875
+          ]
+        },
+        {
+          "id": 24,
+          "type": "paragraph_title",
+          "confidence": 0.698,
+          "text": "Instructions:",
+          "coordinates": [
+            70.10441589355469,
+            502.2833251953125,
+            137.55210876464844,
+            512.2661743164062
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.834,
+          "text": "• \nLay the tortilla flat and sprinkle half of the cheese on one side.",
+          "coordinates": [
+            87.265380859375,
+            516.2611694335938,
+            417.1778564453125,
+            528.3837890625
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.836,
+          "text": "• \nAdd the bell pepper, zucchini, and red onion.",
+          "coordinates": [
+            88.1389389038086,
+            531.1603393554688,
+            332.23712158203125,
+            542.0855102539062
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.823,
+          "text": "• \nSprinkle the remaining cheese on top and fold the tortilla in half.",
+          "coordinates": [
+            87.62944793701172,
+            545.1871337890625,
+            429.8838806152344,
+            557.0151977539062
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "• \nCook in a skillet over medium heat until the cheese is melted and the tortilla is golden\nbrown.",
+          "coordinates": [
+            87.64240264892578,
+            560.4586181640625,
+            536.4716796875,
+            586.7623901367188
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.782,
+          "text": "• \nSlice into wedges.",
+          "coordinates": [
+            88.57746887207031,
+            589.8486938476562,
+            196.66940307617188,
+            601.8751220703125
+          ]
+        },
+        {
+          "id": 30,
+          "type": "paragraph_title",
+          "confidence": 0.673,
+          "text": "Chickpea and Spinach Wrap\nIngredients:",
+          "coordinates": [
+            69.63567352294922,
+            649.6617431640625,
+            215.80487060546875,
+            675.5720825195312
+          ]
+        },
+        {
+          "id": 31,
+          "type": "paragraph_title",
+          "confidence": 0.526,
+          "text": "Chickpea and Spinach Wrap",
+          "coordinates": [
+            70.05781555175781,
+            649.82177734375,
+            215.4748077392578,
+            661.9994506835938
+          ]
+        },
+        {
+          "id": 32,
+          "type": "paragraph_title",
+          "confidence": 0.611,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.26422882080078,
+            663.540283203125,
+            135.02334594726562,
+            675.40087890625
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.82,
+          "text": "• \n1 whole wheat tortilla",
+          "coordinates": [
+            88.00110626220703,
+            678.914306640625,
+            216.65834045410156,
+            689.45068359375
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.836,
+          "text": "• \n1/2 cup chickpeas, mashed",
+          "coordinates": [
+            88.01155853271484,
+            693.9190673828125,
+            240.08041381835938,
+            705.5892944335938
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 25,
+        "paragraph_title": 9
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.674,
+          "text": "• \n1/4 cup spinach, chopped",
+          "coordinates": [
+            87.8505630493164,
+            73.47217559814453,
+            234.3032684326172,
+            85.60060119628906
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.711,
+          "text": "• \n1/4 cup shredded carrots",
+          "coordinates": [
+            88.34156036376953,
+            89.19145202636719,
+            231.48971557617188,
+            100.30562591552734
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.735,
+          "text": "• \n1 tablespoon tahini",
+          "coordinates": [
+            88.1521987915039,
+            103.28462982177734,
+            203.75914001464844,
+            114.0078353881836
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.746,
+          "text": "• \n1 tablespoon lemon juice",
+          "coordinates": [
+            88.4977035522461,
+            117.92843627929688,
+            232.7310028076172,
+            130.2408447265625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.721,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.43360137939453,
+            133.05812072753906,
+            227.96310424804688,
+            144.31517028808594
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.719,
+          "text": "Instructions:",
+          "coordinates": [
+            70.39319610595703,
+            148.4429931640625,
+            137.5419921875,
+            158.5700225830078
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.691,
+          "text": "• \nIn a bowl, combine the mashed chickpeas, spinach, carrots, tahini, and lemon juice.",
+          "coordinates": [
+            87.37033081054688,
+            160.99893188476562,
+            520.7827758789062,
+            174.35507202148438
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.767,
+          "text": "• \nSeason with salt and pepper.",
+          "coordinates": [
+            88.60100555419922,
+            177.32501220703125,
+            251.77735900878906,
+            188.57630920410156
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.804,
+          "text": "• \nLay the tortilla flat and spread the mixture evenly.",
+          "coordinates": [
+            87.78300476074219,
+            191.66725158691406,
+            356.5625,
+            203.54238891601562
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.788,
+          "text": "• \nRoll up the tortilla tightly and slice in half.",
+          "coordinates": [
+            88.36483001708984,
+            206.40829467773438,
+            315.2582092285156,
+            219.20901489257812
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.794,
+          "text": "Turkey and Apple Sandwich",
+          "coordinates": [
+            70.0460205078125,
+            265.5821228027344,
+            216.51629638671875,
+            277.48193359375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.666,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.86335754394531,
+            281.0154113769531,
+            135.3125762939453,
+            292.69140625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.755,
+          "text": "• \n2 slices whole grain bread",
+          "coordinates": [
+            87.88082122802734,
+            294.5382995605469,
+            237.28207397460938,
+            306.06475830078125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.763,
+          "text": "• \n4 slices turkey breast",
+          "coordinates": [
+            87.98908233642578,
+            309.9875183105469,
+            213.94485473632812,
+            321.3551025390625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "• \n1/2 apple, thinly sliced",
+          "coordinates": [
+            88.29251098632812,
+            324.6996765136719,
+            218.64906311035156,
+            336.1501770019531
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.755,
+          "text": "• \n1/4 cup baby spinach",
+          "coordinates": [
+            88.35912322998047,
+            339.8451843261719,
+            212.83035278320312,
+            351.2682800292969
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.738,
+          "text": "• \n1 tablespoon mustard or mayo",
+          "coordinates": [
+            87.8612289428711,
+            354.14190673828125,
+            260.84344482421875,
+            365.6007385253906
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.714,
+          "text": "Instructions:",
+          "coordinates": [
+            70.22209930419922,
+            369.2248229980469,
+            138.15670776367188,
+            379.3059997558594
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.836,
+          "text": "• \nSpread mustard or mayo on one slice of bread.",
+          "coordinates": [
+            87.62374877929688,
+            383.1788024902344,
+            340.9638366699219,
+            395.320556640625
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.804,
+          "text": "• \nLayer the turkey, apple slices, and spinach on top.",
+          "coordinates": [
+            87.99484252929688,
+            398.8255615234375,
+            354.40435791015625,
+            410.7433166503906
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.77,
+          "text": "• \nTop with the second slice of bread and cut in half.",
+          "coordinates": [
+            88.52412414550781,
+            412.9947509765625,
+            353.4531555175781,
+            424.4088134765625
+          ]
+        },
+        {
+          "id": 22,
+          "type": "paragraph_title",
+          "confidence": 0.81,
+          "text": "Mediterranean Tuna Salad\nIngredients:",
+          "coordinates": [
+            69.6985855102539,
+            501.45709228515625,
+            208.96163940429688,
+            528.937255859375
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.743,
+          "text": "• \n1 can tuna, drained",
+          "coordinates": [
+            87.99158477783203,
+            531.8533325195312,
+            202.5726776123047,
+            542.7091064453125
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.754,
+          "text": "• \n1/4 cup cherry tomatoes, halved",
+          "coordinates": [
+            87.92687225341797,
+            545.7606811523438,
+            268.6814880371094,
+            557.2194213867188
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.769,
+          "text": "• \n1/4 cup cucumber, diced",
+          "coordinates": [
+            88.18626403808594,
+            561.2116088867188,
+            230.92898559570312,
+            571.8650512695312
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.803,
+          "text": "• \n1/4 cup black olives, sliced",
+          "coordinates": [
+            87.87181854248047,
+            575.7483520507812,
+            240.11831665039062,
+            587.007080078125
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.791,
+          "text": "• \n1/4 cup feta cheese, crumbled",
+          "coordinates": [
+            88.1512451171875,
+            590.9945068359375,
+            257.1847839355469,
+            601.701416015625
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.762,
+          "text": "• \n2 tablespoons olive oil",
+          "coordinates": [
+            88.13977813720703,
+            605.1171875,
+            222.5145263671875,
+            615.8882446289062
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.776,
+          "text": "• \n1 tablespoon lemon juice",
+          "coordinates": [
+            88.63201904296875,
+            620.2897338867188,
+            233.17935180664062,
+            631.4635009765625
+          ]
+        },
+        {
+          "id": 30,
+          "type": "text",
+          "confidence": 0.736,
+          "text": "• \nSalt and pepper to taste",
+          "coordinates": [
+            88.38226318359375,
+            635.1826782226562,
+            228.25973510742188,
+            647.1176147460938
+          ]
+        },
+        {
+          "id": 31,
+          "type": "paragraph_title",
+          "confidence": 0.706,
+          "text": "Instructions:",
+          "coordinates": [
+            70.0333023071289,
+            650.1801147460938,
+            137.81448364257812,
+            660.145751953125
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.776,
+          "text": "• \nIn a bowl, combine the tuna, tomatoes, cucumber, olives, and feta cheese.",
+          "coordinates": [
+            87.06941986083984,
+            663.4522705078125,
+            475.7477111816406,
+            676.3388061523438
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.815,
+          "text": "• \nDrizzle with olive oil and lemon juice.",
+          "coordinates": [
+            88.46566772460938,
+            678.8603515625,
+            295.3747863769531,
+            690.0253295898438
+          ]
+        },
+        {
+          "id": 34,
+          "type": "text",
+          "confidence": 0.824,
+          "text": "• \nSeason with salt and pepper, then toss to combine.",
+          "coordinates": [
+            87.81352233886719,
+            694.0557250976562,
+            361.2445373535156,
+            705.4153442382812
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 28,
+        "paragraph_title": 6
+      }
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.712,
+          "text": "Chicken and Avocado Wrap",
+          "coordinates": [
+            70.1612548828125,
+            117.62175750732422,
+            214.1251983642578,
+            129.7486572265625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.727,
+          "text": "Ingredients:",
+          "coordinates": [
+            69.86882781982422,
+            132.8603515625,
+            134.96633911132812,
+            144.58616638183594
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.708,
+          "text": "• \n1 whole wheat tortilla",
+          "coordinates": [
+            87.84843444824219,
+            147.64723205566406,
+            215.8670196533203,
+            158.8669891357422
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.746,
+          "text": "• \n1 cup cooked chicken breast, sliced",
+          "coordinates": [
+            88.00664520263672,
+            161.63021850585938,
+            282.03173828125,
+            173.2203369140625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.698,
+          "text": "• \n1/2 avocado, sliced",
+          "coordinates": [
+            88.48151397705078,
+            176.7876434326172,
+            202.2607879638672,
+            187.8609161376953
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.734,
+          "text": "• \n1/4 cup baby spinach",
+          "coordinates": [
+            88.02009582519531,
+            191.8610382080078,
+            213.03616333007812,
+            203.2221221923828
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.625,
+          "text": "• \n1 tablespoon ranch dressing",
+          "coordinates": [
+            87.97260284423828,
+            207.0282440185547,
+            247.07928466796875,
+            219.01661682128906
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.759,
+          "text": "Instructions:",
+          "coordinates": [
+            70.09070587158203,
+            221.41078186035156,
+            137.74462890625,
+            231.65699768066406
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.743,
+          "text": "• \nLay the tortilla flat and spread the ranch dressing evenly.",
+          "coordinates": [
+            87.78408813476562,
+            235.47329711914062,
+            388.8248596191406,
+            248.11529541015625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.784,
+          "text": "• \nAdd the chicken, avocado, and spinach.",
+          "coordinates": [
+            88.11709594726562,
+            250.5767364501953,
+            303.4737243652344,
+            261.7519836425781
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.744,
+          "text": "• \nRoll up the tortilla tightly and slice in half.",
+          "coordinates": [
+            88.33094787597656,
+            265.2588195800781,
+            314.9820861816406,
+            278.1519775390625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.838,
+          "text": "Lentil and Veggie Wrap",
+          "coordinates": [
+            70.00650787353516,
+            324.6646423339844,
+            191.835205078125,
+            337.05145263671875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.713,
+          "text": "• \n1 whole wheat tortilla",
+          "coordinates": [
+            88.03900909423828,
+            353.82550048828125,
+            216.1570281982422,
+            364.5139465332031
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.749,
+          "text": "• \n1/2 cup cooked lentils",
+          "coordinates": [
+            87.8536605834961,
+            368.6012268066406,
+            216.57537841796875,
+            379.9960632324219
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.745,
+          "text": "• \n1/4 cup bell pepper, sliced",
+          "coordinates": [
+            88.1003646850586,
+            384.1990661621094,
+            237.447998046875,
+            395.2284851074219
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.713,
+          "text": "• \n1/4 cup cucumber, diced",
+          "coordinates": [
+            88.02454376220703,
+            399.03497314453125,
+            230.24896240234375,
+            410.2295227050781
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.715,
+          "text": "• \n1/4 cup shredded carrots",
+          "coordinates": [
+            88.36344146728516,
+            413.009765625,
+            230.93276977539062,
+            423.907470703125
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.629,
+          "text": "• \n1 tablespoon hummus",
+          "coordinates": [
+            88.42330169677734,
+            428.2813415527344,
+            218.79608154296875,
+            439.5079040527344
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.707,
+          "text": "Instructions:",
+          "coordinates": [
+            70.3172378540039,
+            443.4259033203125,
+            137.4780731201172,
+            453.13543701171875
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.745,
+          "text": "• \nLay the tortilla flat and spread the hummus evenly.",
+          "coordinates": [
+            87.64608764648438,
+            457.38824462890625,
+            361.17724609375,
+            469.6864929199219
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.778,
+          "text": "• \nAdd the lentils, bell pepper, cucumber, and carrots.",
+          "coordinates": [
+            88.37841033935547,
+            472.53594970703125,
+            360.6593933105469,
+            483.5166320800781
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.787,
+          "text": "• \nRoll up the tortilla tightly and slice in half.",
+          "coordinates": [
+            88.01612091064453,
+            486.4133605957031,
+            315.1934814453125,
+            498.4324951171875
+          ]
+        },
+        {
+          "id": 23,
+          "type": "paragraph_title",
+          "confidence": 0.76,
+          "text": "Turkey and Hummus Wrap\nIngredients:",
+          "coordinates": [
+            69.79708862304688,
+            531.7685546875,
+            209.8590545654297,
+            557.5901489257812
+          ]
+        },
+        {
+          "id": 24,
+          "type": "paragraph_title",
+          "confidence": 0.55,
+          "text": "Ingredients:",
+          "coordinates": [
+            70.36370086669922,
+            545.517578125,
+            134.92938232421875,
+            557.8102416992188
+          ]
+        },
+        {
+          "id": 25,
+          "type": "text",
+          "confidence": 0.736,
+          "text": "• \n1 whole wheat tortilla",
+          "coordinates": [
+            87.78192138671875,
+            560.88916015625,
+            215.83335876464844,
+            571.3228759765625
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.714,
+          "text": "• \n4 slices turkey breast",
+          "coordinates": [
+            88.05142211914062,
+            576.3798217773438,
+            213.5062713623047,
+            587.3936767578125
+          ]
+        },
+        {
+          "id": 27,
+          "type": "text",
+          "confidence": 0.736,
+          "text": "• \n1/4 cup hummus",
+          "coordinates": [
+            88.17045593261719,
+            591.9122314453125,
+            192.251953125,
+            601.8346557617188
+          ]
+        },
+        {
+          "id": 28,
+          "type": "text",
+          "confidence": 0.727,
+          "text": "• \n1/4 cup shredded carrots",
+          "coordinates": [
+            88.27447509765625,
+            605.67041015625,
+            231.21551513671875,
+            615.68310546875
+          ]
+        },
+        {
+          "id": 29,
+          "type": "text",
+          "confidence": 0.702,
+          "text": "• \n1/4 cup baby spinach",
+          "coordinates": [
+            88.46133422851562,
+            620.0106811523438,
+            212.77171325683594,
+            631.4517822265625
+          ]
+        },
+        {
+          "id": 30,
+          "type": "paragraph_title",
+          "confidence": 0.705,
+          "text": "Instructions:",
+          "coordinates": [
+            70.25286865234375,
+            635.441650390625,
+            137.42330932617188,
+            645.268310546875
+          ]
+        },
+        {
+          "id": 31,
+          "type": "text",
+          "confidence": 0.812,
+          "text": "• \nLay the tortilla flat and spread the hummus evenly.",
+          "coordinates": [
+            88.09596252441406,
+            649.6050415039062,
+            361.2470397949219,
+            661.4891967773438
+          ]
+        },
+        {
+          "id": 32,
+          "type": "text",
+          "confidence": 0.789,
+          "text": "• \nAdd the turkey, carrots, and spinach.",
+          "coordinates": [
+            88.27444458007812,
+            664.2959594726562,
+            290.1824951171875,
+            675.333740234375
+          ]
+        },
+        {
+          "id": 33,
+          "type": "text",
+          "confidence": 0.807,
+          "text": "• \nRoll up the tortilla tightly and slice in half.",
+          "coordinates": [
+            88.26746368408203,
+            678.6842651367188,
+            314.9621887207031,
+            691.0988159179688
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 8,
+        "text": 25
+      }
+    }
+  ]
+}

@@ -1,0 +1,3545 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+  "total_pages": 18,
+  "processing_time": "108.09s",
+  "layout_time_total": "159.93s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "Note: If you select Retain Some Layers In The Selected Page, you’ll be prompted to\nchoose which Visio layers to include.",
+          "coordinates": [
+            118.13240814208984,
+            85.90625,
+            527.8654174804688,
+            111.43453979492188
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "1. Click Convert To Adobe PDF, specify a location and filename, and click Save.",
+          "coordinates": [
+            101.37773132324219,
+            115.99695587158203,
+            491.4311828613281,
+            126.85694122314453
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.885,
+          "text": "Select Visio layers to convert (Acrobat Pro)",
+          "coordinates": [
+            68.99166870117188,
+            160.57534790039062,
+            355.91131591796875,
+            174.28631591796875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "You can convert a Visio drawing that contains layers to a PDF and retain some or all of the \nlayers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers \nin layer sets, which are folders in the Acrobat Layers panel.",
+          "coordinates": [
+            68.5221939086914,
+            187.20326232910156,
+            528.8524169921875,
+            227.07029724121094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.925,
+          "text": "1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and\nselect Retain Some Layers In The Selected Page.",
+          "coordinates": [
+            101.0103988647461,
+            238.05844116210938,
+            533.8262939453125,
+            263.5351867675781
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "Note: If the Retain Some Layers In The Selected Page option is not available, deselect\nthe Convert All Pages In Drawing option.",
+          "coordinates": [
+            116.50411987304688,
+            287.985595703125,
+            539.7266845703125,
+            312.7745361328125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.865,
+          "text": "2. Select one or more layers in the Layers In Visio Drawing list.",
+          "coordinates": [
+            100.90119934082031,
+            317.22705078125,
+            414.5030517578125,
+            327.9880676269531
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "3. To add the selected Visio layers to the list of layers to convert to the PDF file, do one\nof the following:",
+          "coordinates": [
+            100.84355163574219,
+            338.77142333984375,
+            532.353271484375,
+            364.5552978515625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nTo convert the selected Visio layers to individual PDF layers within a PDF layer\nset, click Create Layer Set, and optionally, type a layer name.",
+          "coordinates": [
+            136.55409240722656,
+            376.0027160644531,
+            536.4009399414062,
+            402.0660705566406
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "• \nTo convert the selected Visio layers to individual layers (but not grouped\nunder a layer set), click the Add Layer(s) button.",
+          "coordinates": [
+            136.80809020996094,
+            410.3175964355469,
+            510.395263671875,
+            435.06072998046875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.923,
+          "text": "Note: The name of a layer in the Layers In Visio Drawing list is unavailable if that \nlayer is included in the Layers In PDF list. When you select that layer in the Layers In \nPDF list, a bullet appears next to the layer’s name in the Layers In Visio Drawing list.",
+          "coordinates": [
+            118.0848388671875,
+            456.09844970703125,
+            531.4000244140625,
+            497.1324768066406
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.777,
+          "text": "4. Optionally, do any of the following:",
+          "coordinates": [
+            100.86800384521484,
+            508.15191650390625,
+            293.6310119628906,
+            519.0003662109375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "• \nTo reorder the layers in the Layers In PDF list, drag an item up or down in the\nlist.",
+          "coordinates": [
+            136.47837829589844,
+            530.3565673828125,
+            533.1683349609375,
+            555.2833251953125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.762,
+          "text": "• \nTo include a visibility property that can be switched on or off in Acrobat,",
+          "coordinates": [
+            136.95591735839844,
+            564.1270751953125,
+            509.1599426269531,
+            574.7708129882812
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.828,
+          "text": "deselect Locked On adjacent to the PDF layer; to lock the resulting PDF layer’s\nvisibility on, select Locked On.",
+          "coordinates": [
+            136.91275024414062,
+            577.2879638671875,
+            537.4515991210938,
+            604.1525268554688
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "• \nTo save the current settings of Visio layers selected, click Save PDF Settings,\nand click OK. These settings are used the next time you convert the current \nVisio file to a PDF file.",
+          "coordinates": [
+            136.73423767089844,
+            612.2173461914062,
+            527.0423583984375,
+            651.8241577148438
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.745,
+          "text": "5. Click Convert To PDF, specify a folder in the Save In box in which to save the PDF file,\ntype a filename, and then click Save.",
+          "coordinates": [
+            100.2697525024414,
+            660.8306884765625,
+            534.9132080078125,
+            685.7880859375
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 15,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "Note: Visio layers that were selected for conversion and that have Visio settings for \nvisible, printable, or lock are converted to PDF layers; the visible and printable \nproperties are included in the resulting PDF layers. If the Visio file contains a \nbackground page, header, or footer, the PDF file automatically has PDF layers named\nfor those items.",
+          "coordinates": [
+            118.48153686523438,
+            73.06060028076172,
+            534.1594848632812,
+            142.37741088867188
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 1
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.757,
+          "text": "Convert AutoCAD files to PDF (Acrobat Pro for\nWindows)",
+          "coordinates": [
+            69.12771606445312,
+            92.12076568603516,
+            529.1827392578125,
+            142.42356872558594
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "Use PDFMaker to convert AutoCAD files from within the AutoCAD application. You can also use\nthe Batch Conversion feature to convert many AutoCAD files in one operation. Acrobat \nPDFMaker preserves selected layers and layouts when converting AutoCAD files to PDF.",
+          "coordinates": [
+            68.81832885742188,
+            162.83213806152344,
+            534.3232421875,
+            202.7825469970703
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.846,
+          "text": "Convert AutoCAD files when AutoCAD is installed",
+          "coordinates": [
+            69.35897064208984,
+            237.5863494873047,
+            398.928466796875,
+            249.71913146972656
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.962,
+          "text": "When converting individual AutoCAD files, you don't usually need to change page size and \nplotting settings. PDFMaker uses the appropriate layout page size and plotting information to\ncreate a correctly sized PDF file.",
+          "coordinates": [
+            68.93206787109375,
+            263.2818298339844,
+            527.0785522460938,
+            302.12750244140625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.543,
+          "text": "Note:",
+          "coordinates": [
+            69.13496398925781,
+            315.5368347167969,
+            100.11556243896484,
+            324.734619140625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "Acrobat can't convert DWG to PDF without AutoCAD installed.",
+          "coordinates": [
+            68.92668151855469,
+            337.17254638671875,
+            374.8255615234375,
+            347.2117919921875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "1. To change the PDF conversion settings, choose Adobe PDF > Change Conversion\nSettings in AutoCAD.",
+          "coordinates": [
+            101.07582092285156,
+            358.901123046875,
+            513.2356567382812,
+            384.6739501953125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.584,
+          "text": "2. Do one of the following:",
+          "coordinates": [
+            100.80300903320312,
+            396.10662841796875,
+            239.67762756347656,
+            406.6882629394531
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.552,
+          "text": "2. Do one of the following:",
+          "coordinates": [
+            100.80300903320312,
+            396.10662841796875,
+            239.67762756347656,
+            406.6882629394531
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.705,
+          "text": "• \nClick a button in the Adobe PDF toolbar: Convert To Adobe \nPDF \n or Convert To Adobe PDFAnd Send For Review \n.",
+          "coordinates": [
+            136.8635711669922,
+            418.0843811035156,
+            449.5765075683594,
+            451.2507019042969
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "• \nChoose Adobe PDF > Convert To Adobe PDF.",
+          "coordinates": [
+            136.8600311279297,
+            460.18109130859375,
+            378.23529052734375,
+            469.96075439453125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "• \nChoose Adobe PDF > Convert To Adobe PDF And Email.",
+          "coordinates": [
+            136.71507263183594,
+            479.2552185058594,
+            430.78173828125,
+            488.9290466308594
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.877,
+          "text": "• \nChoose Adobe PDF > Convert To Adobe PDFAnd Send For Review.",
+          "coordinates": [
+            136.65188598632812,
+            498.32611083984375,
+            482.5995178222656,
+            508.2495422363281
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.923,
+          "text": "3. In the Choose Layouts dialog box, add or remove layouts as needed. To reorder the\nlayouts, select a layout from the Layouts In PDF list, and click Move Up or Move \nDown.",
+          "coordinates": [
+            101.05896759033203,
+            516.9107666015625,
+            527.1760864257812,
+            556.5579833984375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "4. To determine how the AutoCAD layers are converted, select one of the following, and\nthen click Continue:",
+          "coordinates": [
+            100.7918930053711,
+            568.99462890625,
+            537.7221069335938,
+            592.9318237304688
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nFlatten All Layers. When layers are flattened, only those entities belonging to \nlayers that are not frozen and are printable appear in the converted PDF.",
+          "coordinates": [
+            136.67767333984375,
+            618.2262573242188,
+            535.0943603515625,
+            643.7720947265625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nRetain All Or Some Layers. In the next dialog box, specify the layers to include\nin the resulting PDF.",
+          "coordinates": [
+            136.53782653808594,
+            652.3350219726562,
+            537.7076416015625,
+            677.3377075195312
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.732,
+          "text": "5. Specify a filename and location in the Save As dialog box, and click Save.",
+          "coordinates": [
+            100.81000518798828,
+            686.09228515625,
+            473.2054138183594,
+            696.98974609375
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "text": 15,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.859,
+          "text": "Select AutoCAD layers to convert",
+          "coordinates": [
+            69.39009857177734,
+            94.81366729736328,
+            291.5360107421875,
+            107.51033782958984
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "If you choose to retain all or some AutoCAD layers when converting to PDF, you can specify\nwhich layers are preserved in the PDF.",
+          "coordinates": [
+            68.75932312011719,
+            119.89297485351562,
+            516.09716796875,
+            145.72276306152344
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.898,
+          "text": "1. In AutoCAD, start to convert an AutoCAD file and select the Retain All Or Some\nLayers option.",
+          "coordinates": [
+            101.28807067871094,
+            156.96278381347656,
+            506.4418029785156,
+            181.46368408203125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.622,
+          "text": "2. To show specific AutoCAD layers in the Layers In Drawing list, do any of the\nfollowing:",
+          "coordinates": [
+            100.71102142333984,
+            193.72329711914062,
+            488.8814697265625,
+            218.5659637451172
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.518,
+          "text": "2. To show specific AutoCAD layers in the Layers In Drawing list, do any of the\nfollowing:",
+          "coordinates": [
+            100.71102142333984,
+            193.72329711914062,
+            488.8814697265625,
+            218.5659637451172
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "• \nChoose an option from the Named Layer Filters menu to list all layers that fit \nthat criterion.",
+          "coordinates": [
+            136.96180725097656,
+            229.72885131835938,
+            533.1651611328125,
+            255.2792510986328
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nSelect the Invert option to list all layers except those layers that are described\nby the selected choice in the Named Layer Filters menu.",
+          "coordinates": [
+            136.8560028076172,
+            264.2366638183594,
+            536.6634521484375,
+            289.6611328125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \nTo change the sort order of the layers, click the headings.",
+          "coordinates": [
+            136.90342712402344,
+            298.2966003417969,
+            435.9717712402344,
+            309.294921875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.666,
+          "text": "Note: To change the On, Frozen, or Plot properties for a layer, click Cancel, change\nthe properties in the AutoCAD drawing, and restart the procedure.",
+          "coordinates": [
+            118.59857940673828,
+            330.13330078125,
+            524.6043090820312,
+            355.8140869140625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.542,
+          "text": "3. To select the AutoCAD layers to convert, do any of the following:",
+          "coordinates": [
+            100.81494903564453,
+            367.2241516113281,
+            437.3478088378906,
+            377.8657531738281
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.513,
+          "text": "3. To select the AutoCAD layers to convert, do any of the following:",
+          "coordinates": [
+            100.81494903564453,
+            367.2241516113281,
+            437.3478088378906,
+            377.8657531738281
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "• \nChoose a previously saved set of layers from the PDF Layer Settings menu.",
+          "coordinates": [
+            136.55059814453125,
+            389.25244140625,
+            520.0092163085938,
+            399.93450927734375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nSelect one or more layers from the Layers In Drawing List.",
+          "coordinates": [
+            136.91258239746094,
+            408.1027526855469,
+            440.8500671386719,
+            418.95306396484375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nTo convert all of the layers in the drawing, click Add All Layers, and go to step\n5.",
+          "coordinates": [
+            136.97988891601562,
+            427.1593322753906,
+            535.2356567382812,
+            451.7698669433594
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.618,
+          "text": "4. To add the selected AutoCAD layers to the Layers In PDF list, do one of the following:",
+          "coordinates": [
+            100.37848663330078,
+            463.86248779296875,
+            535.511474609375,
+            474.78143310546875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nTo convert the selected AutoCAD layers to individual layers within a PDF layer\nset, click Create Layer Set. This action creates a folder of layers in \nthe Layers navigation pane in Acrobat.",
+          "coordinates": [
+            136.88035583496094,
+            486.23126220703125,
+            535.7374267578125,
+            525.6224975585938
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nTo convert the selected AutoCAD layers to individual layers, click Add\nLayer(s).",
+          "coordinates": [
+            137.1233367919922,
+            535.1968383789062,
+            494.9811096191406,
+            559.93701171875
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.659,
+          "text": "5. Optionally, do any of the following in the Layers In PDF list:",
+          "coordinates": [
+            100.84088897705078,
+            567.9208374023438,
+            410.3367614746094,
+            578.7953491210938
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nTo reorder layers, drag an item up or down in the list.",
+          "coordinates": [
+            136.8027801513672,
+            590.1193237304688,
+            417.8219909667969,
+            600.9041137695312
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "• \nTo include a visibility property that can be switched on or off in Acrobat,\ndeselect Locked On for the PDF layer. To lock the resulting PDF layer’s \nvisibility on, select Locked On.",
+          "coordinates": [
+            136.8065185546875,
+            610.06103515625,
+            508.85052490234375,
+            649.6790161132812
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nTo save the current list of selected AutoCAD layers, click Add PDF Setting.\nLater, you can retrieve this list from the PDF Layer Settings menu.",
+          "coordinates": [
+            136.53001403808594,
+            658.1470947265625,
+            515.3010864257812,
+            683.8484497070312
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.724,
+          "text": "6. Click Convert, specify a filename and location, and then click Save.",
+          "coordinates": [
+            100.66600799560547,
+            692.131103515625,
+            444.4425964355469,
+            702.7694702148438
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 17
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.856,
+          "text": "Convert AutoCAD files in batches",
+          "coordinates": [
+            69.37271118164062,
+            96.82845306396484,
+            291.5442199707031,
+            109.0277328491211
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.775,
+          "text": "1. Choose Adobe PDF > Batch Conversion.",
+          "coordinates": [
+            101.27752685546875,
+            122.05866241455078,
+            315.5480651855469,
+            132.26971435546875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.722,
+          "text": "2. Specify your preferences for layers, page size, plot style, and output PDFs.\nClick Conversion Settings to specify the Acrobat PDFMaker settings.",
+          "coordinates": [
+            100.79251861572266,
+            144.9497528076172,
+            480.1286926269531,
+            169.62127685546875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.559,
+          "text": "3. In the DWG List, do any of the following:",
+          "coordinates": [
+            100.94286346435547,
+            181.19540405273438,
+            319.6700134277344,
+            191.5441436767578
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.517,
+          "text": "3. In the DWG List, do any of the following:",
+          "coordinates": [
+            100.94286346435547,
+            181.19540405273438,
+            319.6700134277344,
+            191.5441436767578
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "•\nClick Add Folder or Add Files, and then specify the folder or files.",
+          "coordinates": [
+            136.2045135498047,
+            203.01068115234375,
+            473.7590026855469,
+            213.3734893798828
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nTo load a previously saved list of files, click Append List, and then specify the\nlist.",
+          "coordinates": [
+            136.47947692871094,
+            223.26287841796875,
+            530.5241088867188,
+            247.2525634765625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "• \nAs needed, expand individual files and select or deselect the items you want,\nsuch as model space and layouts. To exclude or include all model space, click \nthe associated buttons.",
+          "coordinates": [
+            136.90997314453125,
+            256.1908874511719,
+            531.4743041992188,
+            296.14654541015625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "• \nTo exclude a file from the conversion, deselect the file box. As needed, select \nor deselect all of the files in the list, change the order of the files, remove files,\nor clear the list.",
+          "coordinates": [
+            136.85682678222656,
+            305.1298522949219,
+            539.18310546875,
+            343.8846130371094
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.849,
+          "text": "• \nTo show the complete file paths, select Expand File Name(s).",
+          "coordinates": [
+            137.1226043701172,
+            353.2088623046875,
+            454.9723205566406,
+            363.7873840332031
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "• \nTo save the DWG list for later use, click Save List. This action saves the list in\nits current state, including the file order and file selections. You can retrieve \nthis list at any time by clicking Append List.",
+          "coordinates": [
+            137.04541015625,
+            373.30950927734375,
+            527.3084106445312,
+            412.8445129394531
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.673,
+          "text": "4. Click Convert.",
+          "coordinates": [
+            101.2998046875,
+            421.2353820800781,
+            188.7061004638672,
+            430.7607727050781
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "5. Once the conversion has finished, you can click Save Details to save a log file of the\nconversion.",
+          "coordinates": [
+            100.8730239868164,
+            442.767333984375,
+            525.5654296875,
+            468.1082763671875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.644,
+          "text": "Application-specific PDFMaker settings",
+          "coordinates": [
+            69.31871032714844,
+            92.6657943725586,
+            459.27423095703125,
+            114.21200561523438
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.535,
+          "text": "Application-specific PDFMaker settings",
+          "coordinates": [
+            69.31871032714844,
+            92.6657943725586,
+            459.27423095703125,
+            114.21200561523438
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "Sometimes the conversion settings in one PDFMaker-enabled application are different from the\nsettings in a different application.",
+          "coordinates": [
+            68.64002227783203,
+            133.1665496826172,
+            537.182861328125,
+            158.87400817871094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "Some PDFMaker settings are common to several or most applications. Some options are unique\nto a specific application.",
+          "coordinates": [
+            68.70648193359375,
+            170.2740020751953,
+            537.4749145507812,
+            195.7584228515625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.876,
+          "text": "Settings tab options available from within most applications",
+          "coordinates": [
+            69.23311614990234,
+            227.5071258544922,
+            471.35504150390625,
+            241.4147491455078
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "The following settings appear on the Settings tab available from within most PDFMaker-\nenabled applications.",
+          "coordinates": [
+            68.99028015136719,
+            254.31927490234375,
+            500.6325378417969,
+            278.29400634765625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.798,
+          "text": "Attach Source File",
+          "coordinates": [
+            69.38187408447266,
+            290.51165771484375,
+            162.14210510253906,
+            299.6946716308594
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "Includes the document being converted as an attachment to the PDF.",
+          "coordinates": [
+            68.93279266357422,
+            313.2846374511719,
+            409.1888732910156,
+            323.3884582519531
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.795,
+          "text": "Create Bookmarks",
+          "coordinates": [
+            69.39737701416016,
+            335.71173095703125,
+            164.00193786621094,
+            344.7401123046875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "Converts certain elements in original Office documents to PDF bookmarks: Word headings, \nExcel worksheet names, or PowerPoint titles. Selecting this option overrides any settings on\nthe Bookmarks tab of the Conversion Settings dialog box.",
+          "coordinates": [
+            68.89175415039062,
+            357.4277648925781,
+            517.623291015625,
+            396.70440673828125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.791,
+          "text": "Add Links",
+          "coordinates": [
+            69.34347534179688,
+            408.489013671875,
+            120.26426696777344,
+            417.4317932128906
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "Includes active links and hypertext in the PDF.",
+          "coordinates": [
+            69.02916717529297,
+            430.3497619628906,
+            295.3633117675781,
+            440.2599792480469
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.596,
+          "text": "Note:",
+          "coordinates": [
+            69.32832336425781,
+            453.667724609375,
+            99.92842102050781,
+            462.4226379394531
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "If this option is deselected, but the recipient of the PDF has the create Links From URLs\npreference selected, URLs in the PDF are still active.",
+          "coordinates": [
+            69.2685546875,
+            474.90478515625,
+            494.56011962890625,
+            499.26873779296875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.665,
+          "text": "Enable Accessibility And Reflow With Tagged Adobe PDF",
+          "coordinates": [
+            69.56710052490234,
+            512.1502075195312,
+            353.0914306640625,
+            522.4187622070312
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.855,
+          "text": "Embeds tags in the PDF.",
+          "coordinates": [
+            69.71849822998047,
+            534.3187255859375,
+            188.75872802734375,
+            544.2593383789062
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.892,
+          "text": "Excel-specific options on the Settings tab",
+          "coordinates": [
+            69.88959503173828,
+            579.6488037109375,
+            342.40716552734375,
+            593.7081909179688
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.726,
+          "text": "Convert Comments",
+          "coordinates": [
+            69.7327880859375,
+            605.9112548828125,
+            167.9499969482422,
+            614.75732421875
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.707,
+          "text": "Converts user-created Excel comments to notes and lists them in the Acrobat Comments panel.",
+          "coordinates": [
+            68.92363739013672,
+            628.5399780273438,
+            536.6198120117188,
+            638.472900390625
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.552,
+          "text": "Actual Size",
+          "coordinates": [
+            69.556640625,
+            650.2922973632812,
+            126.26737976074219,
+            659.71435546875
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "Uses actual size specified in the worksheet. Worksheets are not resized.",
+          "coordinates": [
+            69.2308578491211,
+            672.2823486328125,
+            421.1495666503906,
+            682.14794921875
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.552,
+          "text": "Fit Worksheet To A Single Page",
+          "coordinates": [
+            69.77342224121094,
+            694.479248046875,
+            226.634033203125,
+            705.0055541992188
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "paragraph_title": 10,
+        "text": 11
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "Adjusts the size of each worksheet so that all the entries on that worksheet appear on the same\npage of the PDF.",
+          "coordinates": [
+            68.57341003417969,
+            73.19792175292969,
+            537.6868286132812,
+            98.6629867553711
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.858,
+          "text": "Fit To Paper Width",
+          "coordinates": [
+            69.42156982421875,
+            110.29270935058594,
+            164.9816436767578,
+            120.13215637207031
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "Adjusts the width of each worksheet so that all the columns on that worksheet appear on one\npage in the PDF.",
+          "coordinates": [
+            68.76707458496094,
+            132.3187255859375,
+            528.6647338867188,
+            157.35250854492188
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.858,
+          "text": "Prompt For Selecting Excel Sheets",
+          "coordinates": [
+            69.49850463867188,
+            169.3029327392578,
+            240.28921508789062,
+            179.4959716796875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "Opens a dialog box at the beginning of the file conversion process. In this dialog box, you can \nspecify which worksheets are included in the PDF and the order in which the sheets appear in\nthe PDF.",
+          "coordinates": [
+            68.66869354248047,
+            191.37449645996094,
+            526.41650390625,
+            230.723388671875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.901,
+          "text": "PowerPoint-specific options on the Settings tab",
+          "coordinates": [
+            69.65675354003906,
+            263.8179931640625,
+            386.3955383300781,
+            277.2933349609375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.778,
+          "text": "Preserve Slide Transitions",
+          "coordinates": [
+            69.51326751708984,
+            289.39703369140625,
+            200.62713623046875,
+            299.02099609375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "Converts PowerPoint slide transition effects to PDF transition effects.",
+          "coordinates": [
+            69.17035675048828,
+            311.2055969238281,
+            408.20428466796875,
+            321.09014892578125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.744,
+          "text": "Convert Hidden Slides To PDF Pages",
+          "coordinates": [
+            69.22798156738281,
+            334.2569274902344,
+            251.19027709960938,
+            344.42462158203125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "Converts any PowerPoint slides that are not seen in the usual playing of the presentation to\nPDF pages.",
+          "coordinates": [
+            68.76277160644531,
+            356.210205078125,
+            517.9051513671875,
+            380.6472473144531
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.834,
+          "text": "Convert Speaker Notes",
+          "coordinates": [
+            69.35289764404297,
+            393.5807800292969,
+            186.73365783691406,
+            403.2316589355469
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "Converts any speaker notes for the PowerPoint presentation into Text notes in the PDF.",
+          "coordinates": [
+            69.11323547363281,
+            415.22430419921875,
+            497.67193603515625,
+            425.58770751953125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.9,
+          "text": "Email-specific options on the Settings tab",
+          "coordinates": [
+            69.72724151611328,
+            460.64117431640625,
+            345.333740234375,
+            474.50518798828125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "The following options appear when you open the PDFMaker settings from within Microsoft\nOutlook or Lotus Notes.",
+          "coordinates": [
+            68.96083068847656,
+            486.30841064453125,
+            515.1660766601562,
+            509.82489013671875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.858,
+          "text": "Compatibility",
+          "coordinates": [
+            69.34111022949219,
+            523.3433837890625,
+            139.52378845214844,
+            533.92578125
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.975,
+          "text": "Sets the compatibility level of the PDF. Use the most recent version (in this case, version 1.7\nADBE-3) to include all the latest features and functionality. If you’re creating PDFs that are \ndistributed widely, choose an earlier level to ensure that all users can view and print the \ndocument.",
+          "coordinates": [
+            68.86992645263672,
+            545.2352294921875,
+            518.455810546875,
+            598.5382080078125
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.847,
+          "text": "Attachments",
+          "coordinates": [
+            69.66441345214844,
+            611.7427978515625,
+            136.34356689453125,
+            620.5653686523438
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "Indicates whether all files attached to email messages are included in the PDF.",
+          "coordinates": [
+            69.1218032836914,
+            633.1466674804688,
+            452.1885986328125,
+            643.4585571289062
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.82,
+          "text": "Output Adobe PDF Portfolio When Creating A New PDF File",
+          "coordinates": [
+            69.29512023925781,
+            655.245361328125,
+            366.77166748046875,
+            665.2763671875
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "When selected, always converts individual messages as component files of a PDF Portfolio.\nWhen deselected, merges individual messages as separate pages of a PDF.",
+          "coordinates": [
+            68.76408386230469,
+            677.234130859375,
+            513.9822387695312,
+            703.0741577148438
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "paragraph_title": 10
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.79,
+          "text": "Do Not Include Folder Name Information",
+          "coordinates": [
+            69.63866424560547,
+            73.56388092041016,
+            275.8108825683594,
+            82.87467193603516
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "When selected, excludes mail folder names from PDFs.",
+          "coordinates": [
+            69.19850158691406,
+            96.15799713134766,
+            338.42315673828125,
+            106.14613342285156
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.808,
+          "text": "Embed Index For Faster Search",
+          "coordinates": [
+            69.42948150634766,
+            118.63109588623047,
+            226.1051025390625,
+            127.89566040039062
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "Creates an embedded index, which speeds up searches, especially when you convert large\nnumbers of email messages or message folders.",
+          "coordinates": [
+            69.09273529052734,
+            140.42604064941406,
+            510.6836242675781,
+            165.3578643798828
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.854,
+          "text": "Block Download Of External Content",
+          "coordinates": [
+            69.52935028076172,
+            177.47933959960938,
+            254.4951171875,
+            186.66798400878906
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "When selected, prevents the downloading of any external Internet content, such as images,\nCSS, and JavaScript.",
+          "coordinates": [
+            69.0914535522461,
+            199.46304321289062,
+            518.174560546875,
+            223.2699432373047
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.852,
+          "text": "Page Layout options",
+          "coordinates": [
+            69.50071716308594,
+            236.57073974609375,
+            172.95477294921875,
+            246.95912170410156
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "Specifies page properties, like the properties found in the Print dialog box: page dimensions,\norientation, and margins.",
+          "coordinates": [
+            69.02659606933594,
+            258.3486633300781,
+            521.0345458984375,
+            282.7200927734375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.848,
+          "text": "Show This Number Of Recent Archives (Outlook only)",
+          "coordinates": [
+            69.20018768310547,
+            295.28118896484375,
+            338.49395751953125,
+            305.5528869628906
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.736,
+          "text": "When converting email messages and folders, the Adobe PDF > [Convert Selected",
+          "coordinates": [
+            68.92674255371094,
+            317.2909851074219,
+            473.4589538574219,
+            327.7919616699219
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "Messages and Convert Selected Folders] menus can list recently created PDFs to append. This\noption specifies the maximum number of PDFs to list in the menus.",
+          "coordinates": [
+            68.88355255126953,
+            331.3403015136719,
+            529.9629516601562,
+            356.8897399902344
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.771,
+          "text": "Show “Attach As Adobe PDF” Buttons",
+          "coordinates": [
+            69.38951110839844,
+            368.36053466796875,
+            260.34844970703125,
+            377.9561462402344
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.877,
+          "text": "If selected, the Attach As Adobe PDF button appears in the Outlook email message window.",
+          "coordinates": [
+            69.32661437988281,
+            390.3589782714844,
+            520.361083984375,
+            400.5871276855469
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.884,
+          "text": "AutoCAD-specific options on the Settings tab (Acrobat Pro)",
+          "coordinates": [
+            69.29386901855469,
+            435.7903137207031,
+            462.7090148925781,
+            449.6730041503906
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "The following options appear when you open the PDFMaker settings from within Autodesk\nAutoCAD.",
+          "coordinates": [
+            68.8726577758789,
+            461.481689453125,
+            514.2365112304688,
+            486.37841796875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.816,
+          "text": "Compliance Standard",
+          "coordinates": [
+            69.2391586303711,
+            498.43695068359375,
+            179.1280059814453,
+            508.0543212890625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "Specify the PDF/A or PDF/E compliance standard, or none.",
+          "coordinates": [
+            68.94652557373047,
+            520.3848266601562,
+            355.8211975097656,
+            530.7575073242188
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.586,
+          "text": "Open Layers Pane When Viewed In Acrobat",
+          "coordinates": [
+            69.19160461425781,
+            543.5658569335938,
+            289.4834289550781,
+            553.3414916992188
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.537,
+          "text": "Open Layers Pane When Viewed In Acrobat",
+          "coordinates": [
+            69.19160461425781,
+            543.5658569335938,
+            289.4834289550781,
+            553.3414916992188
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "Shows the layers structure when a PDF is opened in Acrobat.",
+          "coordinates": [
+            69.20836639404297,
+            565.3714599609375,
+            367.41546630859375,
+            575.486572265625
+          ]
+        },
+        {
+          "id": 21,
+          "type": "paragraph_title",
+          "confidence": 0.691,
+          "text": "Embed Scale Information",
+          "coordinates": [
+            69.67185974121094,
+            587.5747680664062,
+            198.35482788085938,
+            596.7798461914062
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "Preserves drawing-scale information, which is usable with the Acrobat measurement tools.",
+          "coordinates": [
+            69.34213256835938,
+            609.599365234375,
+            513.5690307617188,
+            619.4114990234375
+          ]
+        },
+        {
+          "id": 23,
+          "type": "paragraph_title",
+          "confidence": 0.741,
+          "text": "Do Not Convert Model Space To 3D",
+          "coordinates": [
+            69.65105438232422,
+            631.4910278320312,
+            248.67190551757812,
+            641.2991333007812
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.868,
+          "text": "When selected, the model space layout is not converted to a 3D annotation in the PDF.",
+          "coordinates": [
+            69.22891998291016,
+            653.2674560546875,
+            494.8374938964844,
+            663.561767578125
+          ]
+        },
+        {
+          "id": 25,
+          "type": "paragraph_title",
+          "confidence": 0.75,
+          "text": "Choose Layout Option",
+          "coordinates": [
+            69.53141021728516,
+            675.5728759765625,
+            182.9763946533203,
+            685.715087890625
+          ]
+        },
+        {
+          "id": 26,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "Specifies whether Current Layout, All Layouts, or Selected Layouts are included in the PDF.",
+          "coordinates": [
+            69.0814208984375,
+            698.270751953125,
+            515.8631591796875,
+            709.0624389648438
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 12,
+        "text": 14
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.789,
+          "text": "Exclude Model Space",
+          "coordinates": [
+            69.68193817138672,
+            73.36857604980469,
+            176.8404998779297,
+            83.39900207519531
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "(Available only when Convert All Layouts Without Prompting is selected from Choose Layout\nOption.) When selected, all layouts except the model space are included in the PDF.",
+          "coordinates": [
+            68.60762786865234,
+            96.10384368896484,
+            527.6770629882812,
+            121.06664276123047
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.807,
+          "text": "Choose Layer Option",
+          "coordinates": [
+            69.3166732788086,
+            132.38348388671875,
+            175.5963897705078,
+            142.70367431640625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.868,
+          "text": "Specifies whether All Layers, Selected Layers, or No Layers are included as layers in the PDF.",
+          "coordinates": [
+            69.14659118652344,
+            155.18829345703125,
+            521.208984375,
+            165.83297729492188
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.872,
+          "text": "Visio-specific options on the Settings tab (Acrobat Pro)",
+          "coordinates": [
+            69.0553970336914,
+            199.5318145751953,
+            434.6442565917969,
+            213.72828674316406
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "The following options appear when you open the PDFMaker settings from within Microsoft \nVisio.",
+          "coordinates": [
+            68.89540100097656,
+            226.17393493652344,
+            515.8958129882812,
+            250.149658203125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.802,
+          "text": "Include Visio Custom Properties As Object Data In The Adobe PDF",
+          "coordinates": [
+            69.00159454345703,
+            262.2087097167969,
+            398.4602966308594,
+            272.2803039550781
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "Indicates whether custom properties of the Visio image are included as object data in the new\nPDF.",
+          "coordinates": [
+            69.06278228759766,
+            285.5094299316406,
+            529.9827880859375,
+            308.8068542480469
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.783,
+          "text": "Exclude Visio Objects With No Custom Properties",
+          "coordinates": [
+            69.29701232910156,
+            321.43829345703125,
+            317.4352722167969,
+            331.25299072265625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "Indicates whether the new PDF excludes Visio objects without custom properties.",
+          "coordinates": [
+            69.23585510253906,
+            344.2398986816406,
+            468.5346984863281,
+            354.449462890625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.687,
+          "text": "Convert Comments To Adobe PDF Comments",
+          "coordinates": [
+            69.26622009277344,
+            366.65423583984375,
+            297.5434875488281,
+            376.0500183105469
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "Indicates whether the comments in the Visio file are converted to PDF comments in the new\nPDF.",
+          "coordinates": [
+            68.94519805908203,
+            388.41473388671875,
+            521.8068237304688,
+            412.17718505859375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.861,
+          "text": "Always Flatten Layers In Adobe PDF",
+          "coordinates": [
+            69.35879516601562,
+            425.2718200683594,
+            249.82272338867188,
+            435.3660583496094
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.595,
+          "text": "Specifies if the layers are flattened. If you flatten layers, the PDF looks like the original drawing,\nbut doesn’t contain any layer information. All shapes in the Visio drawing are converted, \nregardless of their protection or behavior, and shape custom properties can be converted to \nPDF object data.",
+          "coordinates": [
+            68.91889953613281,
+            447.1070556640625,
+            534.0638427734375,
+            501.0059814453125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.619,
+          "text": "Specifies if the layers are flattened. If you flatten layers, the PDF looks like the original drawing,\nbut doesn’t contain any layer information. All shapes in the Visio drawing are converted,",
+          "coordinates": [
+            68.6490707397461,
+            447.2753601074219,
+            534.5558471679688,
+            471.7584533691406
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.669,
+          "text": "regardless of their protection or behavior, and shape custom properties can be converted to \nPDF object data.",
+          "coordinates": [
+            68.74407196044922,
+            476.8218688964844,
+            522.4342041015625,
+            501.3565979003906
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.845,
+          "text": "Open Layers Pane When Viewed In Acrobat",
+          "coordinates": [
+            69.32762908935547,
+            513.5567016601562,
+            289.0824279785156,
+            523.2662963867188
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "Shows the layers structure when a PDF is opened in Acrobat.",
+          "coordinates": [
+            69.24066162109375,
+            535.403564453125,
+            366.8989562988281,
+            545.43359375
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.891,
+          "text": "Word tab settings (Microsoft Word)",
+          "coordinates": [
+            69.14376831054688,
+            578.6925659179688,
+            309.846923828125,
+            592.0009155273438
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.674,
+          "text": "Convert Displayed Comments To Notes In Adobe PDF",
+          "coordinates": [
+            69.28955841064453,
+            604.2777709960938,
+            336.5129699707031,
+            614.3826904296875
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "Changes any Word comment entries to PDF comments. If the currently open Word document\ncontains comments, more options appear in the Comments list on this tab:",
+          "coordinates": [
+            68.9765853881836,
+            626.2052612304688,
+            526.9369506835938,
+            651.6031494140625
+          ]
+        },
+        {
+          "id": 22,
+          "type": "paragraph_title",
+          "confidence": 0.787,
+          "text": "Reviewer",
+          "coordinates": [
+            69.80593872070312,
+            663.7003173828125,
+            119.23303985595703,
+            672.7900390625
+          ]
+        },
+        {
+          "id": 23,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "Lists the names of reviewers who have entered comments in the current Word document.",
+          "coordinates": [
+            69.41554260253906,
+            685.1422119140625,
+            510.2532653808594,
+            695.5823364257812
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 11,
+        "text": 12
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.81,
+          "text": "Include",
+          "coordinates": [
+            69.66495513916016,
+            73.65623474121094,
+            108.33940124511719,
+            82.39303588867188
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "When deselected, does not include the comments in the PDF.",
+          "coordinates": [
+            69.14659118652344,
+            96.20957946777344,
+            371.4409484863281,
+            106.254638671875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.834,
+          "text": "Notes Open",
+          "coordinates": [
+            69.50142669677734,
+            118.77460479736328,
+            131.46206665039062,
+            128.41526794433594
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "Specifies whether the PDF comment windows automatically open or are closed for that\nreviewer’s comments.",
+          "coordinates": [
+            68.94245910644531,
+            140.23577880859375,
+            497.19439697265625,
+            164.70921325683594
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.798,
+          "text": "Color",
+          "coordinates": [
+            69.40021514892578,
+            177.37936401367188,
+            99.16586303710938,
+            186.494140625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "Shows the color for that reviewer’s comment icons. Clicking the color icon repeatedly cycles\nthrough a limited set of available colors.",
+          "coordinates": [
+            68.91150665283203,
+            199.13487243652344,
+            519.2001953125,
+            223.41078186035156
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.849,
+          "text": "# Of Comments",
+          "coordinates": [
+            69.43414306640625,
+            236.50575256347656,
+            149.2869415283203,
+            245.82240295410156
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "Shows the number of comments that the reviewer made.",
+          "coordinates": [
+            69.2650146484375,
+            258.5780029296875,
+            351.1494140625,
+            268.31072998046875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.576,
+          "text": "Convert Footnote And Endnote Links",
+          "coordinates": [
+            69.49693298339844,
+            280.6731262207031,
+            255.4491729736328,
+            289.77508544921875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.516,
+          "text": "Convert Footnote And Endnote Links",
+          "coordinates": [
+            69.49693298339844,
+            280.6731262207031,
+            255.4491729736328,
+            289.77508544921875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.87,
+          "text": "Integrates these into the PDF.",
+          "coordinates": [
+            69.44160461425781,
+            302.3728332519531,
+            217.18634033203125,
+            311.98040771484375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "Convert signature fields specified by pdfmarks",
+          "coordinates": [
+            69.36299896240234,
+            324.15618896484375,
+            303.1768493652344,
+            334.8695373535156
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "Converts signature fields indicated by pdfmarks.",
+          "coordinates": [
+            69.24987030029297,
+            346.28594970703125,
+            306.25640869140625,
+            356.5773620605469
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.639,
+          "text": "Enable Advanced Tagging",
+          "coordinates": [
+            69.73226165771484,
+            368.7203063964844,
+            199.6291046142578,
+            378.40020751953125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.87,
+          "text": "Integrates this into the PDF.",
+          "coordinates": [
+            69.63497161865234,
+            391.4279479980469,
+            207.48739624023438,
+            401.3520202636719
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.884,
+          "text": "Bookmarks tab settings (Microsoft Word)",
+          "coordinates": [
+            69.71355438232422,
+            436.7171936035156,
+            346.6032409667969,
+            449.96185302734375
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "The options you specify on this tab determine which items are converted into PDF bookmarks\nin the PDF.",
+          "coordinates": [
+            68.99236297607422,
+            462.3326110839844,
+            528.2813110351562,
+            485.8893127441406
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "Note: To include bookmarks in the conversion process, you must select the Add Bookmarks To \nAdobe PDF option on the Settings tab. If you deselect that option, you override any options you\nselect on this tab, and no bookmarks are created.",
+          "coordinates": [
+            68.67779541015625,
+            499.3724365234375,
+            538.107666015625,
+            538.2473754882812
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.782,
+          "text": "Convert Word Headings To Bookmarks",
+          "coordinates": [
+            69.49896240234375,
+            550.5238647460938,
+            264.9454650878906,
+            560.2332153320312
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "Selects all the headings in the Elements list for conversion to PDF bookmarks.",
+          "coordinates": [
+            69.12445068359375,
+            572.199462890625,
+            448.64898681640625,
+            582.2245483398438
+          ]
+        },
+        {
+          "id": 21,
+          "type": "paragraph_title",
+          "confidence": 0.719,
+          "text": "Convert Word Styles To Bookmarks",
+          "coordinates": [
+            69.45332336425781,
+            594.414794921875,
+            248.24078369140625,
+            604.27001953125
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "Selects all the text styles in the Elements list for conversion to PDF bookmarks (deselected by\ndefault).",
+          "coordinates": [
+            68.7790756225586,
+            616.079345703125,
+            525.9320068359375,
+            641.3453979492188
+          ]
+        },
+        {
+          "id": 23,
+          "type": "paragraph_title",
+          "confidence": 0.808,
+          "text": "Convert Word Bookmarks",
+          "coordinates": [
+            69.3859634399414,
+            653.501708984375,
+            200.9578094482422,
+            662.8981323242188
+          ]
+        },
+        {
+          "id": 24,
+          "type": "text",
+          "confidence": 0.866,
+          "text": "Converts any user-created Word bookmarks to PDF bookmarks.",
+          "coordinates": [
+            68.96961975097656,
+            675.3673095703125,
+            380.912109375,
+            685.5297241210938
+          ]
+        },
+        {
+          "id": 25,
+          "type": "paragraph_title",
+          "confidence": 0.614,
+          "text": "Element list",
+          "coordinates": [
+            69.74751281738281,
+            698.5159301757812,
+            131.2890167236328,
+            707.5269775390625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 10,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.808,
+          "text": "Specifies which Word headings and styles are converted to PDF bookmarks.",
+          "coordinates": [
+            69.21903991699219,
+            73.14368438720703,
+            438.4794921875,
+            84.10688018798828
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.801,
+          "text": "Element",
+          "coordinates": [
+            69.76431274414062,
+            96.78355407714844,
+            113.833251953125,
+            106.05968475341797
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.674,
+          "text": "Lists the names of all available Word headings and styles. The icons \nfor Headings \n and Styles  indicate the element types.",
+          "coordinates": [
+            69.20158386230469,
+            118.055908203125,
+            399.5948791503906,
+            146.484619140625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.542,
+          "text": "Lists the names of all available Word headings and styles. The icons",
+          "coordinates": [
+            69.23590850830078,
+            118.35065460205078,
+            399.5841979980469,
+            128.70579528808594
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.556,
+          "text": "for Headings \n and Styles  indicate the element types.",
+          "coordinates": [
+            69.14138793945312,
+            133.3618927001953,
+            350.9854431152344,
+            146.49501037597656
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.735,
+          "text": "Type",
+          "coordinates": [
+            69.60667419433594,
+            157.979736328125,
+            96.36556243896484,
+            168.14199829101562
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.822,
+          "text": "Also indicates whether the element is a heading or style in the Word document.",
+          "coordinates": [
+            69.47010040283203,
+            179.46495056152344,
+            460.3089904785156,
+            189.85292053222656
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.803,
+          "text": "Bookmark",
+          "coordinates": [
+            69.98397064208984,
+            201.43597412109375,
+            123.73792266845703,
+            210.67677307128906
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "Displays X’s, indicating whether individual elements are converted to PDF bookmarks. Clicking\nan individual Bookmark option changes the selection status for that element.",
+          "coordinates": [
+            69.23395538330078,
+            224.20736694335938,
+            528.8092041015625,
+            248.7689666748047
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.732,
+          "text": "Level",
+          "coordinates": [
+            69.59403991699219,
+            260.5400390625,
+            98.65745544433594,
+            269.6192932128906
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "Specifies where the element fits in the hierarchy structure of the PDF Bookmarks panel.\nClicking an individual Level number opens a menu that you can use to change the value.",
+          "coordinates": [
+            69.04894256591797,
+            282.22314453125,
+            500.4508056640625,
+            308.2062683105469
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.749,
+          "text": "Note:",
+          "coordinates": [
+            69.55115509033203,
+            319.75457763671875,
+            99.53807067871094,
+            328.8030700683594
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "When some but not all of the available Word headings and styles are selected for conversion to \nPDF bookmarks, the marker in the corresponding check boxes at the top of the tab change. If all\nelements of the type are selected, a check mark appears. If only some of the elements of that \ntype are selected, a colored square appears. Otherwise, the check box is empty.",
+          "coordinates": [
+            68.75589752197266,
+            341.2013244628906,
+            537.522705078125,
+            396.6315002441406
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 8,
+        "paragraph_title": 5
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.736,
+          "text": "Create PDFs by printing to file",
+          "coordinates": [
+            69.7339096069336,
+            76.8253173828125,
+            367.7101745605469,
+            98.44688415527344
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.789,
+          "text": "In many authoring applications, you can use the Print command with the Adobe PDF printer to \nconvert your file to PDF. Your source document is converted to PostScript and fed directly to \nDistiller for conversion to PDF, without manually starting Distiller. The current Distiller \npreference settings and Adobe PDF settings are used to convert the file. If you’re working with \nnonstandard page sizes, create a custom page size.",
+          "coordinates": [
+            68.5427017211914,
+            110.17109680175781,
+            532.35888671875,
+            179.96334838867188
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.527,
+          "text": "preference settings and Adobe PDF settings are used to convert the file. If you’re working with\nnonstandard page sizes, create a custom page size.",
+          "coordinates": [
+            68.70764923095703,
+            154.4075469970703,
+            531.4138793945312,
+            179.94406127929688
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.581,
+          "text": "Note:",
+          "coordinates": [
+            69.30125427246094,
+            191.67127990722656,
+            99.98859405517578,
+            200.67677307128906
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "(Windows) For Microsoft Office documents, the Adobe PDF printer does not include some of \nthe features that are available from PDFMaker. For example, you cannot create bookmarks and\nhyperlinks using the Adobe PDF printer. If you’re creating a PDF from a Microsoft \nOffice document and you want to use these features, use PDFMaker.",
+          "coordinates": [
+            68.45582580566406,
+            213.1203155517578,
+            536.2821044921875,
+            267.708740234375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "The Adobe PDF printer creates untagged PDFs. A tagged structure is required for reflowing\ncontent to a handheld device and is preferable for producing reliable results with a screen \nreader.",
+          "coordinates": [
+            68.7508773803711,
+            280.0975646972656,
+            513.970458984375,
+            318.89727783203125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.878,
+          "text": "Create a PDF using the Print command (Windows)",
+          "coordinates": [
+            69.12211608886719,
+            354.6894836425781,
+            403.8455505371094,
+            368.2007751464844
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "1. Open the file in its authoring application, and choose File > Print.",
+          "coordinates": [
+            100.96379852294922,
+            380.1590576171875,
+            436.3919982910156,
+            390.6615905761719
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "2. Choose Adobe PDF from the printers menu.",
+          "coordinates": [
+            100.61016082763672,
+            402.07244873046875,
+            335.6353454589844,
+            412.2884826660156
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "3. Click the Properties (or Preferences) button to customize the Adobe PDF printer \nsetting. (In some applications, you may need to click Setup in the Print dialog box to\nopen the list of printers, and then click Properties or Preferences.)",
+          "coordinates": [
+            100.87162017822266,
+            424.02734375,
+            528.900634765625,
+            464.96881103515625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.87,
+          "text": "4. In the Print dialog box, click OK.",
+          "coordinates": [
+            100.9490737915039,
+            476.0198974609375,
+            275.1088562011719,
+            486.5798034667969
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "Note: Your PDF is saved in the folder specified by the setting of the Adobe \nPDF Output Folder in the Preferences dialog box; the default location is My \nDocuments. If you specify Prompt For Adobe PDF Filename, then a Save As dialog\nopens when you print.",
+          "coordinates": [
+            117.29962921142578,
+            518.092529296875,
+            518.231201171875,
+            572.6803588867188
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.89,
+          "text": "Create a PDF using the Print command (Mac OS X)",
+          "coordinates": [
+            69.02132415771484,
+            607.724365234375,
+            404.0254821777344,
+            621.0118408203125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.968,
+          "text": "The method for creating PDFs using the Print command changed in Mac OS v10.6 Snow \nLeopard with Acrobat 9.1 and later. The following procedure describes the method in both\nSnow Leopard and earlier versions of Mac OS X.",
+          "coordinates": [
+            68.43494415283203,
+            633.0643920898438,
+            513.5689697265625,
+            673.4459228515625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.768,
+          "text": "1. Open the file in its authoring application, and choose File > Print.",
+          "coordinates": [
+            100.93499755859375,
+            685.0350952148438,
+            435.9892883300781,
+            695.9502563476562
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "text": 11
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.812,
+          "text": "2. Choose Save As Adobe PDF from the PDF menu at the bottom of the dialog box.",
+          "coordinates": [
+            100.75060272216797,
+            73.13921356201172,
+            511.35284423828125,
+            83.57960510253906
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "3. For Adobe PDF Settings, choose one of the default settings, or customize the settings\nusing Distiller. Any custom settings that you have defined are listed.",
+          "coordinates": [
+            100.84883880615234,
+            96.04206085205078,
+            536.1660766601562,
+            121.26970672607422
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.821,
+          "text": "For most users, the default Adobe PDF conversion settings are adequate.",
+          "coordinates": [
+            117.79420471191406,
+            153.37525939941406,
+            477.3010559082031,
+            163.62945556640625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "4. For After PDF Creation, specify whether to open the PDF.",
+          "coordinates": [
+            100.72563171386719,
+            175.24493408203125,
+            399.5360412597656,
+            185.5933380126953
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.794,
+          "text": "5. Click Continue.",
+          "coordinates": [
+            101.0770263671875,
+            197.2484130859375,
+            193.8332977294922,
+            207.30465698242188
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.843,
+          "text": "6. Select a name and location for your PDF, and click Save.",
+          "coordinates": [
+            100.6353530883789,
+            219.07620239257812,
+            391.9587707519531,
+            229.63787841796875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.807,
+          "text": "Note: By default, your PDF is saved with the same filename and a .pdf extension.",
+          "coordinates": [
+            118.72274780273438,
+            262.0249328613281,
+            513.8001098632812,
+            273.4109191894531
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 7
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.617,
+          "text": "Adobe PDF printing preferences (Windows)",
+          "coordinates": [
+            69.54571533203125,
+            76.18844604492188,
+            502.20880126953125,
+            98.4253158569336
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "Printing preferences apply to all applications that use the Adobe PDF printer, unless you change\nthe settings in an authoring application by using the Page Setup,Document Setup, or Print \nmenu.",
+          "coordinates": [
+            68.7910385131836,
+            117.89035034179688,
+            538.6038208007812,
+            157.18658447265625
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.753,
+          "text": "Note:",
+          "coordinates": [
+            69.5978012084961,
+            169.77830505371094,
+            99.73271179199219,
+            178.95181274414062
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "The dialog box for setting printing preferences is named Adobe PDFPrinting Preferences, \nAdobe PDF Printing Defaults, or Adobe PDFDocument Properties, depending on how you\naccess it.",
+          "coordinates": [
+            69.09929656982422,
+            190.82192993164062,
+            506.7377624511719,
+            230.96543884277344
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.69,
+          "text": "To access printing preferences:",
+          "coordinates": [
+            69.48981475830078,
+            243.47056579589844,
+            223.71014404296875,
+            253.4979248046875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "• \nOpen the Printers window from the Start menu. Right-click the Adobe PDF printer, and\nchoose Printing Preferences.",
+          "coordinates": [
+            87.2010726928711,
+            265.1961669921875,
+            531.2649536132812,
+            290.4754333496094
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.787,
+          "text": "• \nIn an authoring application such as Adobe InDesign, choose File > Print. Select Adobe \nPDF as the printer, and click the Properties (or Preferences) button. (In some \napplications, you may need to click Setup in the Print dialog box to access the list of \nprinters, and then click Properties or Preferences to customize the Adobe PDF settings.)",
+          "coordinates": [
+            87.51439666748047,
+            302.0981750488281,
+            535.2667846679688,
+            356.9082336425781
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.546,
+          "text": "• \nIn an authoring application such as Adobe InDesign, choose File > Print. Select Adobe \nPDF as the printer, and click the Properties (or Preferences) button. (In some",
+          "coordinates": [
+            87.64307403564453,
+            302.3681640625,
+            524.88232421875,
+            328.3601989746094
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "PDF-specific options appear on the Adobe PDF Settings tab. The Paper Quality tab and Layout \ntab contain other familiar options for the paper source, printer ink, page orientation, and \nnumber of pages per sheet.",
+          "coordinates": [
+            68.70865631103516,
+            367.97235107421875,
+            530.075927734375,
+            409.26776123046875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 6
+      }
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.598,
+          "text": "Note:",
+          "coordinates": [
+            69.97592163085938,
+            73.7964096069336,
+            99.38394927978516,
+            82.26846313476562
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "Printing Preferences are different from printer Properties. The Preferences include Adobe PDF-\nspecific options for the conversion process; the Properties dialog box contains tabs of options \nthat are available for any type of printer.",
+          "coordinates": [
+            69.11195373535156,
+            95.7414779663086,
+            532.5407104492188,
+            136.0255126953125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "image",
+          "confidence": 0.959,
+          "text": "",
+          "coordinates": [
+            71.51250457763672,
+            160.5108642578125,
+            424.33538818359375,
+            474.7282409667969
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.704,
+          "text": "Adobe PDFConversion Settings",
+          "coordinates": [
+            69.59937286376953,
+            485.1912536621094,
+            225.9390869140625,
+            495.9708557128906
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "Select a predefined set of options from the Default Settings menu or click Edit to view or\nchange the settings in the Adobe PDF Settings dialog box.",
+          "coordinates": [
+            68.75727844238281,
+            506.8486328125,
+            504.21697998046875,
+            533.0802612304688
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.845,
+          "text": "Adobe PDF Security",
+          "coordinates": [
+            69.4405746459961,
+            544.3492431640625,
+            170.1343994140625,
+            554.2860107421875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "To add security to the PDF, choose one of the following options, or click Edit to view or change\nthe security settings:",
+          "coordinates": [
+            68.8097152709961,
+            566.0179443359375,
+            531.4426879882812,
+            591.6546020507812
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nReconfirm Security For Each Job: Opens the Adobe PDF Security dialog box each time \nyou create a PDF using the Adobe PDF printer. Specify the desired settings in the dialog\nbox.",
+          "coordinates": [
+            87.52100372314453,
+            603.2590942382812,
+            531.6863403320312,
+            641.9249267578125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nUse The Last Known Security Settings: Uses the same security settings that were used\nthe last time a PDF was created using the Adobe PDF printer on your computer.",
+          "coordinates": [
+            87.71283721923828,
+            652.11181640625,
+            528.0547485351562,
+            676.7157592773438
+          ]
+        },
+        {
+          "id": 10,
+          "type": "footer",
+          "confidence": 0.75,
+          "text": "",
+          "coordinates": [
+            69.87157440185547,
+            688.2330322265625,
+            199.67315673828125,
+            698.3200073242188
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 5,
+        "image": 1,
+        "footer": 1
+      }
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "Choose an output folder for the converted PDF, or click Browse to add or change the output \nfolder. Choose Prompt For Adobe PDF Filename to specify a location and filename at the time\nof conversion.",
+          "coordinates": [
+            68.70745086669922,
+            73.54817962646484,
+            528.4501953125,
+            112.97284698486328
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.816,
+          "text": "Adobe PDF Page Size menu",
+          "coordinates": [
+            69.379150390625,
+            125.59557342529297,
+            207.9402313232422,
+            135.4311065673828
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "Select a custom page size that you have defined.",
+          "coordinates": [
+            69.32918548583984,
+            147.72262573242188,
+            308.36920166015625,
+            157.5767364501953
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.839,
+          "text": "Replace Existing PDF",
+          "coordinates": [
+            69.5312728881836,
+            169.64414978027344,
+            174.99732971191406,
+            179.72982788085938
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "Choose if you want to replace the existing PDF Always, Ask Everytime, or Never replace.",
+          "coordinates": [
+            69.39482879638672,
+            191.605224609375,
+            502.146240234375,
+            201.906982421875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.789,
+          "text": "View Adobe PDF Results",
+          "coordinates": [
+            69.54786682128906,
+            213.78668212890625,
+            193.9721221923828,
+            222.61895751953125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.859,
+          "text": "Automatically starts Acrobat and displays the converted document immediately.",
+          "coordinates": [
+            69.24595642089844,
+            236.75521850585938,
+            463.7738037109375,
+            246.8033447265625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.745,
+          "text": "Add Document Information",
+          "coordinates": [
+            69.52412414550781,
+            258.9197692871094,
+            209.95909118652344,
+            268.0260314941406
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.862,
+          "text": "Includes information such as the filename and date and time of creation.",
+          "coordinates": [
+            69.29824829101562,
+            280.68701171875,
+            426.26239013671875,
+            290.1618347167969
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.74,
+          "text": "Rely On System Fonts Only; Do Not Use Document Fonts",
+          "coordinates": [
+            69.4996337890625,
+            302.6873779296875,
+            353.6660461425781,
+            312.61456298828125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "Deselect this option to download fonts when creating the PDF. All your fonts will be available in\nthe PDF, but it will take longer to create it. Leave this option selected if you are working with \nAsian-language documents.",
+          "coordinates": [
+            68.90863037109375,
+            324.2001647949219,
+            537.0450439453125,
+            363.4706726074219
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.839,
+          "text": "Delete Log Files For Successful Jobs",
+          "coordinates": [
+            69.67890930175781,
+            376.4424133300781,
+            246.9436492919922,
+            386.5079345703125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.853,
+          "text": "Automatically deletes the log files unless the job fails.",
+          "coordinates": [
+            69.29959869384766,
+            398.3012390136719,
+            332.2586975097656,
+            409.1281433105469
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 7,
+        "paragraph_title": 6
+      }
+    },
+    {
+      "page_number": 17,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.632,
+          "text": "Set Adobe PDF printer properties (Windows)",
+          "coordinates": [
+            69.18122863769531,
+            76.63139343261719,
+            514.8995971679688,
+            98.08908081054688
+          ]
+        },
+        {
+          "id": 2,
+          "type": "doc_title",
+          "confidence": 0.522,
+          "text": "Set Adobe PDF printer properties (Windows)",
+          "coordinates": [
+            69.18122863769531,
+            76.63139343261719,
+            514.8995971679688,
+            98.08908081054688
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "In Windows, you can usually leave the Adobe PDF printer properties unchanged, unless you\nhave configured printer sharing or set security.",
+          "coordinates": [
+            68.65867614746094,
+            118.1373519897461,
+            519.544677734375,
+            143.22454833984375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.522,
+          "text": "Note:",
+          "coordinates": [
+            69.22000122070312,
+            155.6437225341797,
+            100.15625,
+            164.6931915283203
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.504,
+          "text": "Note:",
+          "coordinates": [
+            69.22000122070312,
+            155.6437225341797,
+            100.15625,
+            164.6931915283203
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "Printing Properties are different from printer Preferences. The Properties dialog box contains\ntabs of options that apply to any type of printer; the Preferences include conversion options \nspecifically for the Adobe PDF printer.",
+          "coordinates": [
+            68.77124786376953,
+            176.8700714111328,
+            524.4102172851562,
+            216.97166442871094
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.891,
+          "text": "Set Adobe PDF printer properties",
+          "coordinates": [
+            69.02604675292969,
+            251.74049377441406,
+            292.18707275390625,
+            264.8405456542969
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "1. Open Devices and Printers from the Start menu, and right-click the Adobe\nPDF printer.",
+          "coordinates": [
+            100.96772003173828,
+            277.988525390625,
+            483.1444396972656,
+            301.9248046875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "2. Choose Properties.",
+          "coordinates": [
+            100.91938781738281,
+            314.0049133300781,
+            213.77078247070312,
+            324.4096374511719
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.898,
+          "text": "3. Click the tabs, and select options as needed.",
+          "coordinates": [
+            100.84693908691406,
+            337.32342529296875,
+            336.4836120605469,
+            347.25311279296875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.896,
+          "text": "Reassign the port that the Adobe PDF printer uses",
+          "coordinates": [
+            69.55789947509766,
+            382.4845886230469,
+            445.3119812011719,
+            397.5260009765625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "1. Quit Distiller if it is running, and allow all queued jobs to the Adobe PDF printer to\ncomplete.",
+          "coordinates": [
+            101.20391845703125,
+            410.10040283203125,
+            520.1142578125,
+            435.0143127441406
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "2. Open Devices and Printers from the Start menu.",
+          "coordinates": [
+            100.47645568847656,
+            447.22021484375,
+            358.0813903808594,
+            457.2965393066406
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "3. Right-click the Adobe PDF printer, and choose Printer Properties.",
+          "coordinates": [
+            100.59062957763672,
+            469.04046630859375,
+            440.1945495605469,
+            479.7334899902344
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.902,
+          "text": "4. Click the Ports tab, and then click Add Port.",
+          "coordinates": [
+            100.84054565429688,
+            491.1085510253906,
+            332.29937744140625,
+            501.11151123046875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "5. Select Adobe PDF Port (Windows XP) or Adobe PDF Port Monitor (Vista/Windows 7) \nfrom the list of available port types, and click New Port.",
+          "coordinates": [
+            100.5394287109375,
+            512.8919067382812,
+            532.8148193359375,
+            538.367919921875
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "6. Select a local folder for PDF output files, and click OK. Then click Close to quit the\nPrinter Ports dialog box.",
+          "coordinates": [
+            100.54220581054688,
+            549.9844360351562,
+            515.2649536132812,
+            575.1192016601562
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "7. In the Adobe PDF Properties dialog box, click Apply, and then click OK.",
+          "coordinates": [
+            100.9341812133789,
+            587.0779418945312,
+            462.6731262207031,
+            597.4963989257812
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "Note: For best results, select a folder on the same system where Distiller is installed. \nAlthough remote or network folders are supported, they have limited user access and\nsecurity issues.",
+          "coordinates": [
+            117.82984161376953,
+            629.3246459960938,
+            538.094970703125,
+            669.1764526367188
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.684,
+          "text": "Delete a folder and reassign the Adobe PDF printer to the default port",
+          "coordinates": [
+            69.77000427246094,
+            701.4264526367188,
+            536.1633911132812,
+            715.6065673828125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "doc_title": 1,
+        "text": 14
+      }
+    },
+    {
+      "page_number": 18,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "1. Quit Distiller if it is running, and allow a few minutes for all queued jobs to Adobe\nPDF to complete.",
+          "coordinates": [
+            101.35051727294922,
+            73.10151672363281,
+            517.7955932617188,
+            98.34158325195312
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.847,
+          "text": "2. Open Devices and Printers from the Start menu.",
+          "coordinates": [
+            100.62020874023438,
+            110.30293273925781,
+            358.1661682128906,
+            120.64524841308594
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "3. Right-click the Adobe PDF printer, and choose Printer Properties.",
+          "coordinates": [
+            100.87196350097656,
+            132.2245635986328,
+            440.048095703125,
+            143.14590454101562
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.828,
+          "text": "4. Click the Ports tab.",
+          "coordinates": [
+            101.1403579711914,
+            155.1853485107422,
+            213.238525390625,
+            165.064697265625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.854,
+          "text": "5. Select the default port, Documents, and click Apply.",
+          "coordinates": [
+            101.03929901123047,
+            177.41122436523438,
+            373.66796875,
+            188.17083740234375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.82,
+          "text": "6. Select the port to delete, click Delete Port, and then click OK to confirm the deletion.",
+          "coordinates": [
+            100.97249603271484,
+            199.1952362060547,
+            532.496826171875,
+            209.9272918701172
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.797,
+          "text": "7. Select the Documents port again and click Close.",
+          "coordinates": [
+            101.49332427978516,
+            221.3668670654297,
+            356.975341796875,
+            231.82809448242188
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 7
+      }
+    }
+  ]
+}

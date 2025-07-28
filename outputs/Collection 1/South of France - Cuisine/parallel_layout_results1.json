@@ -1,0 +1,644 @@
+{
+  "document": "CHALLENGE_1B\\Collection 1\\PDFs\\South of France - Cuisine.pdf",
+  "total_pages": 8,
+  "processing_time": "68.14s",
+  "layout_time_total": "97.13s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.84,
+          "text": "A Culinary Journey Through the South of France",
+          "coordinates": [
+            69.87775421142578,
+            73.71092987060547,
+            319.5771179199219,
+            85.73954010009766
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.822,
+          "text": "Introduction",
+          "coordinates": [
+            70.016357421875,
+            99.0972671508789,
+            136.6100311279297,
+            108.72496795654297
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.967,
+          "text": "The South of France, known for its stunning landscapes and charming villages, is also a \nparadise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors, \nfresh ingredients, and traditional recipes passed down through generations. This guide will \ntake you through the diﬀerent types of food, famous dishes, must-visit restaurants, renowned\nwine regions, and the types of wines they produce to help you plan an unforgettable culinary \nadventure.",
+          "coordinates": [
+            68.7914810180664,
+            123.7401123046875,
+            536.0711059570312,
+            219.81961059570312
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.817,
+          "text": "Types of Food",
+          "coordinates": [
+            69.70582580566406,
+            73.2509994506836,
+            145.20108032226562,
+            85.5881576538086
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "The cuisine in the South of France is diverse, reflecting the region's rich history and cultural\ninfluences. Here are some key types of food you can expect to find:",
+          "coordinates": [
+            69.08939361572266,
+            98.08438873291016,
+            523.726318359375,
+            127.86598205566406
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.966,
+          "text": "• \nSeafood: With its extensive coastline, the South of France oﬀers an abundance of fresh\nseafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with \nMediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea\nbass, and mussels marinière. The region's proximity to the Mediterranean Sea ensures \nthat the seafood is always fresh and flavorful.",
+          "coordinates": [
+            87.11653137207031,
+            139.94119262695312,
+            537.3478393554688,
+            219.9014434814453
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "• \nProvençal Cuisine: This style of cooking emphasizes fresh vegetables, herbs, and olive \noil. Ratatouille, a vegetable stew, and bouillabaisse, a fish soup, are quintessential \nProvençal dishes. Provençal cuisine also includes dishes like tapenade, a spread made\nfrom olives, capers, and anchovies, and pissaladière, a savory tart topped with \ncaramelized onions, olives, and anchovies.",
+          "coordinates": [
+            87.27140045166016,
+            234.23287963867188,
+            535.220947265625,
+            313.7709655761719
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "• \nNiçoise Cuisine: Originating from Nice, this cuisine includes dishes like Salade Niçoise, \na salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other \nNiçoise specialties include pan bagnat, a sandwich made with tuna, vegetables, and \nolive oil, and daube, a slow-cooked beef stew with red wine and vegetables.",
+          "coordinates": [
+            87.80500030517578,
+            327.265625,
+            534.9476928710938,
+            390.1460266113281
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nOccitan Cuisine: This cuisine features hearty dishes like cassoulet, a slow-cooked \ncasserole with beans, sausage, and duck, and aligot, a cheesy mashed potato dish. \nOccitan cuisine also includes dishes like garbure, a thick soup made with cabbage, \nbeans, and confit de canard (duck confit), and brandade de morue, a creamy salt cod\nspread.",
+          "coordinates": [
+            87.69792175292969,
+            403.34039306640625,
+            529.8037109375,
+            484.47296142578125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "• \nBasque Cuisine: Influenced by neighboring Spain, Basque cuisine includes dishes like \npiperade, a pepper and tomato stew, and axoa, a veal stew with peppers. Basque \ncuisine is also known for its pintxos, small snacks typically served in bars, and gâteau\nBasque, a traditional Basque cake filled with pastry cream or cherry jam.",
+          "coordinates": [
+            87.27692413330078,
+            497.3268737792969,
+            529.7814331054688,
+            561.4684448242188
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 6
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.804,
+          "text": "Famous Dishes",
+          "coordinates": [
+            69.76704406738281,
+            73.81016540527344,
+            149.56741333007812,
+            83.9365463256836
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.826,
+          "text": "The South of France is home to many iconic dishes that you must try during your visit:",
+          "coordinates": [
+            69.42570495605469,
+            98.28485107421875,
+            499.86907958984375,
+            111.40255737304688
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.957,
+          "text": "• \nBouillabaisse: A traditional fish stew from Marseille, made with various types of fish,\nshellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is \ntypically served with rouille, a garlicky mayonnaise, and crusty bread. The dish is a \ncelebration of the sea and is best enjoyed in a seaside restaurant with a view of the \nMediterranean.",
+          "coordinates": [
+            87.2988510131836,
+            123.05319213867188,
+            526.7771606445312,
+            202.22145080566406
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "• \nRatatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes,\nand onions, seasoned with herbs de Provence. Ratatouille can be served as a main \ndish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a \ntestament to the region's love for fresh, seasonal produce.",
+          "coordinates": [
+            87.31307983398438,
+            216.4973602294922,
+            526.6190185546875,
+            280.5069885253906
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "• \nSalade Niçoise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans,\nolives, and anchovies, dressed with olive oil and vinegar. Salade Niçoise is a perfect \nexample of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins, \nand healthy fats. It's a light yet satisfying dish that is perfect for a warm summer day.",
+          "coordinates": [
+            87.32252502441406,
+            293.3829040527344,
+            538.1051635742188,
+            356.8739013671875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nSocca: A thin, crispy pancake made from chickpea flour, olive oil, and water, typically \nenjoyed as a street food in Nice. Socca is cooked in a wood-fired oven and is best \neaten hot, straight from the oven. It's a simple yet delicious snack that showcases the \nregion's love for humble, rustic dishes.",
+          "coordinates": [
+            87.42291259765625,
+            369.67181396484375,
+            531.3384399414062,
+            433.60400390625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "• \nCassoulet: A hearty casserole from the Languedoc region, made with white beans, \nsausage, and duck or pork. Cassoulet is a labor of love, requiring hours of slow \ncooking to develop its rich, complex flavors. The dish is a comforting and satisfying \nmeal that is perfect for a chilly evening.",
+          "coordinates": [
+            87.63162231445312,
+            446.4957275390625,
+            521.3274536132812,
+            509.8885192871094
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "• \nTarte Tropézienne: A dessert from Saint-Tropez, consisting of a brioche filled with a \ncreamy mixture of pastry cream and butter. Tarte Tropézienne is a sweet treat that is \nperfect for a special occasion or as an indulgent afternoon snack. The dessert was \ncreated by a Polish baker in the 1950s and quickly became a favorite among locals and\ntourists alike.",
+          "coordinates": [
+            87.36213684082031,
+            522.4345703125,
+            537.56005859375,
+            601.6407470703125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.761,
+          "text": "Must-Visit Restaurants",
+          "coordinates": [
+            70.00536346435547,
+            74.06107330322266,
+            188.47569274902344,
+            83.93777465820312
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "To truly experience the culinary delights of the South of France, here are some restaurants \nyou should consider visiting:",
+          "coordinates": [
+            68.95989990234375,
+            98.48176574707031,
+            520.11572265625,
+            127.53224182128906
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.967,
+          "text": "• \nLe Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering \nexquisite seafood dishes and stunning views of the Mediterranean. Chef Gérald \nPassedat is known for his innovative approach to seafood, creating dishes that are \nboth visually stunning and incredibly flavorful. The restaurant's location on the cliﬀs \noverlooking the sea adds to the overall dining experience.",
+          "coordinates": [
+            87.41131591796875,
+            140.4110107421875,
+            525.450927734375,
+            220.77899169921875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "• \nLa Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred \nrestaurant serves refined Provençal cuisine with breathtaking views of the French \nRiviera. The restaurant's terrace oﬀers panoramic views of the Mediterranean, making\nit the perfect spot for a romantic dinner. The menu features dishes that highlight the \nregion's fresh, seasonal ingredients.",
+          "coordinates": [
+            87.08441162109375,
+            234.2684326171875,
+            535.19970703125,
+            315.09765625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "• \nLe Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a \nunique dining experience with a focus on fresh, local ingredients and innovative \ndishes. Chef Mauro Colagreco's cuisine is inspired by the surrounding landscape, with \nmany ingredients sourced from the restaurant's own gardens. The menu changes with\nthe seasons, ensuring that each visit is a new and exciting experience.",
+          "coordinates": [
+            87.59410095214844,
+            327.09173583984375,
+            534.3549194335938,
+            408.07891845703125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "• \nChez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and\ndelicious snack. Chez Pipo has been serving Socca since 1923 and is a beloved \ninstitution in Nice. The restaurant's simple, no-frills approach allows the quality of the \nSocca to shine through.",
+          "coordinates": [
+            87.41098022460938,
+            421.4118957519531,
+            536.2984619140625,
+            484.54693603515625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "• \nL'Atelier de Jean-Luc Rabanel (Arles): A Michelin-starred restaurant known for its \ncreative and contemporary take on Provençal cuisine. Chef Jean-Luc Rabanel's dishes\nare a feast for the senses, combining bold flavors with artistic presentation. The \nrestaurant's tasting menu oﬀers a journey through the flavors of Provence, with each \ncourse showcasing the region's finest ingredients.",
+          "coordinates": [
+            87.12014770507812,
+            497.5036315917969,
+            533.53857421875,
+            577.91845703125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "• \nLa Table de Plaisance (Saint-Émilion): A two-Michelin-starred restaurant oﬀering a \nsophisticated menu that highlights the flavors of the region. The restaurant is located\nin a historic building in the heart of Saint-Émilion, a town known for its world-class \nwines. The menu features dishes that pair beautifully with the local wines, creating a \ntruly memorable dining experience.",
+          "coordinates": [
+            86.8349380493164,
+            590.3377075195312,
+            528.8756103515625,
+            672.6075439453125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.802,
+          "text": "Wine Regions and Types of Wines",
+          "coordinates": [
+            69.50457000732422,
+            73.31820678710938,
+            245.32595825195312,
+            85.89314270019531
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "The South of France is renowned for its diverse and exceptional wine regions. Here are some\nkey areas to explore and the types of wines they produce:",
+          "coordinates": [
+            68.89631652832031,
+            98.35429382324219,
+            532.7681884765625,
+            128.3852996826172
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.971,
+          "text": "• \nProvence: Famous for its rosé wines, Provence is one of the oldest wine-producing \nregions in France. The region's sunny climate and diverse terroir contribute to the \nproduction of light, refreshing rosés, as well as robust reds and aromatic whites. Key\nappellations include Côtes de Provence, Bandol, and Cassis. Notable grape varieties \ninclude Grenache, Syrah, Mourvèdre, and Cinsault for reds and rosés, and Rolle \n(Vermentino) and Clairette for whites.",
+          "coordinates": [
+            87.42059326171875,
+            140.26065063476562,
+            526.2079467773438,
+            238.3356170654297
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.962,
+          "text": "• \nLanguedoc-Roussillon: This vast region stretches along the Mediterranean coast and is\nknown for its variety of wine styles. Languedoc-Roussillon produces everything from \ncrisp whites and fruity rosés to full-bodied reds. Notable appellations include \nCorbières, Minervois, and Picpoul de Pinet. Key grape varieties include Carignan, \nGrenache, Syrah, and Mourvèdre for reds, and Picpoul, Marsanne, and Roussanne for \nwhites.",
+          "coordinates": [
+            87.29608154296875,
+            251.46485900878906,
+            537.513671875,
+            347.17095947265625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.523,
+          "text": "• \nRhône Valley: The southern part of the Rhône Valley is famous for its powerful red \nwines, particularly those from Châteauneuf-du-Pape. The region also produces \nexcellent whites and rosés. Other important appellations include Gigondas, \nVacqueyras, and Côtes du Rhône. Key grape varieties include Grenache, Syrah, and \nMourvèdre for reds, and Viognier, Marsanne, and Roussanne for whites.",
+          "coordinates": [
+            87.62409210205078,
+            361.0799865722656,
+            521.8991088867188,
+            442.2679748535156
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.744,
+          "text": "• \nRhône Valley: The southern part of the Rhône Valley is famous for its powerful red \nwines, particularly those from Châteauneuf-du-Pape. The region also produces \nexcellent whites and rosés. Other important appellations include Gigondas,",
+          "coordinates": [
+            87.53369903564453,
+            361.0870056152344,
+            520.3099365234375,
+            408.2601318359375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.606,
+          "text": "Vacqueyras, and Côtes du Rhône. Key grape varieties include Grenache, Syrah, and \nMourvèdre for reds, and Viognier, Marsanne, and Roussanne for whites.",
+          "coordinates": [
+            100.0015640258789,
+            413.251708984375,
+            520.5389404296875,
+            442.4775695800781
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.973,
+          "text": "• \nSouth West France (Sud-Ouest): This lesser-known region is home to a variety of \nunique wines made from indigenous grape varieties. The area includes sub-regions \nsuch as Bergerac, Cahors, and Madiran. South West France is known for its robust reds, \naromatic whites, and sweet dessert wines. Key grape varieties include Malbec (known \nlocally as Côt), Tannat, and Négrette for reds, and Gros Manseng, Petit Manseng, and \nColombard for whites.",
+          "coordinates": [
+            87.25558471679688,
+            455.27691650390625,
+            539.7503051757812,
+            551.9089965820312
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "• \nCorsica: Although technically an island, Corsica is often included in discussions of \nSouthern French wine regions. The island's diverse terroir and Mediterranean climate \nproduce a range of wines, including crisp whites, fruity rosés, and spicy reds. Key \nappellations include Ajaccio, Patrimonio, and Vin de Corse. Notable grape varieties \ninclude Nielluccio (Sangiovese), Sciacarello, and Vermentino.",
+          "coordinates": [
+            87.02359008789062,
+            565.3138427734375,
+            532.6212158203125,
+            646.3045043945312
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 8
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.797,
+          "text": "Culinary Experiences",
+          "coordinates": [
+            69.98674774169922,
+            73.54422760009766,
+            180.95333862304688,
+            85.73054504394531
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "In addition to dining at top restaurants, there are several culinary experiences you should\nconsider:",
+          "coordinates": [
+            69.09999084472656,
+            98.33785247802734,
+            515.478759765625,
+            126.1400146484375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.967,
+          "text": "• \nCooking Classes: Many towns and cities in the South of France oﬀer cooking classes\nwhere you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and \ntarte tropézienne. These classes are a great way to immerse yourself in the local \nculture and gain hands-on experience with regional recipes. Some classes even \ninclude a visit to a local market to shop for fresh ingredients.",
+          "coordinates": [
+            87.20116424560547,
+            140.03787231445312,
+            523.9598999023438,
+            220.62059020996094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "• \nFood Markets: Visit local markets such as the Cours Saleya Market in Nice or the \nMarché Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These \nmarkets are a feast for the senses, with stalls overflowing with colorful fruits and \nvegetables, fragrant herbs, and artisanal products. Take the time to chat with the \nvendors and learn about the local specialties.",
+          "coordinates": [
+            87.41089630126953,
+            234.2747039794922,
+            525.4058227539062,
+            313.748779296875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.967,
+          "text": "• \nWine Tours: The South of France is renowned for its wine regions, including Provence \nand Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about \nthe winemaking process. Many wineries oﬀer guided tours and tastings, giving you the\nopportunity to sample a variety of wines and discover new favorites. Don't miss the \nchance to try rosé from Provence, which is famous for its light, refreshing flavor.",
+          "coordinates": [
+            87.53823852539062,
+            327.4467468261719,
+            538.2777099609375,
+            407.8514709472656
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.968,
+          "text": "• \nOlive Oil Tasting: The region is famous for its olive oil. Visit an olive grove to learn \nabout olive oil production and enjoy a tasting session. You'll have the chance to \nsample diﬀerent varieties of olive oil and learn about the nuances of flavor and aroma.\nMany olive groves also produce other products like tapenade and olive soap, which \nmake great souvenirs.",
+          "coordinates": [
+            87.5141830444336,
+            421.395751953125,
+            537.3733520507812,
+            501.812744140625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "• \nTruﬄe Hunting: The South of France is known for its truﬄes, particularly the black \ntruﬄes from the Périgord region. Join a truﬄe hunting tour to experience the thrill of \nsearching for these prized fungi. You'll be accompanied by a trained truﬄe dog and a \nknowledgeable guide who will teach you about the truﬄe's history and culinary uses.\nAfter the hunt, enjoy a truﬄe-themed meal featuring your freshly harvested finds.",
+          "coordinates": [
+            87.28836059570312,
+            514.2040405273438,
+            531.7114868164062,
+            594.9891967773438
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "• \nFarm-to-Table Dining: Many restaurants in the South of France embrace the farm-to-\ntable philosophy, sourcing their ingredients from local farms and producers. Look for \nrestaurants that highlight seasonal, locally grown produce and sustainably raised \nmeats. Dining at a farm-to-table restaurant is a wonderful way to support local \nagriculture and enjoy the freshest ingredients available.",
+          "coordinates": [
+            87.1329116821289,
+            607.5921630859375,
+            530.5354614257812,
+            689.5625610351562
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nCheese Tasting: The South of France is home to a variety of delicious cheeses, \nincluding Roquefort, Banon, and Picodon. Visit a local fromagerie (cheese shop) or a \nfarm to sample these cheeses and learn about their production. Many cheese \nproducers oﬀer tours and tastings, giving you the opportunity to discover the unique\nflavors and textures of the region's cheeses.",
+          "coordinates": [
+            87.3519287109375,
+            73.68772888183594,
+            528.7896728515625,
+            153.7592315673828
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nPastry Workshops: French pastries are renowned worldwide, and the South of France\nis no exception. Join a pastry workshop to learn how to make classic French pastries \nlike croissants, éclairs, and macarons. These workshops are a fun and interactive way \nto improve your baking skills and take home some delicious treats.",
+          "coordinates": [
+            87.53749084472656,
+            166.56846618652344,
+            532.201416015625,
+            231.4196319580078
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 2
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.845,
+          "text": "Conclusion",
+          "coordinates": [
+            70.12644958496094,
+            74.14766693115234,
+            129.0908203125,
+            83.81522369384766
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.962,
+          "text": "The South of France oﬀers a rich and diverse culinary landscape that is sure to delight any \nfood lover. From fresh seafood and Provençal dishes to iconic restaurants and unique culinary\nexperiences, there is something for everyone to enjoy. Whether you're savoring a bowl of \nbouillabaisse by the sea, exploring vibrant food markets, or indulging in a Michelin-starred \nmeal, the flavors of this beautiful region will leave a lasting impression. Use this guide to plan \nyour culinary journey and savor the tastes of the South of France, creating memories that will \nlinger long after your trip has ended. Bon appétit!",
+          "coordinates": [
+            68.98780059814453,
+            98.3167724609375,
+            537.8193969726562,
+            213.8091278076172
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 1
+      }
+    }
+  ]
+}

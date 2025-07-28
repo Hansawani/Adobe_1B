@@ -1,0 +1,4456 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_1.pdf",
+  "total_pages": 29,
+  "processing_time": "154.41s",
+  "layout_time_total": "191.88s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "chart",
+          "confidence": 0.604,
+          "text": "",
+          "coordinates": [
+            0.4426610469818115,
+            2.0702812671661377,
+            612.0,
+            788.8853759765625
+          ]
+        }
+      ],
+      "element_counts": {
+        "chart": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.714,
+          "text": "What’s the best way to create a PDF?",
+          "coordinates": [
+            69.35661315917969,
+            76.98707580566406,
+            451.12835693359375,
+            97.77987670898438
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.971,
+          "text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign® \nfiles, digital images, and more. Diﬀerent types of sources have diﬀerent tools available for PDF\nconversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in \nthe Print dialog box.",
+          "coordinates": [
+            68.39086151123047,
+            115.241943359375,
+            539.0524291992188,
+            178.837890625
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "If a file is open in its authoring application (such as a spreadsheet that is open in Microsoft \nExcel), you can convert it to PDF without opening Adobe Acrobat. Similarly, if Acrobat is \nalready open, you don’t have to open the authoring application to convert a file to PDF.",
+          "coordinates": [
+            68.94930267333984,
+            190.9533233642578,
+            519.3123779296875,
+            238.93080139160156
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "Every PDF balances eﬃciency (small file size) and quality (such as resolution and color). If the\nbalance between the file size and the quality is critical to your task, you must use an \nappropriate conversion method.",
+          "coordinates": [
+            68.73272705078125,
+            250.75015258789062,
+            536.8444213867188,
+            297.3725891113281
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "For example, you can drag files to the Acrobat icon to create PDFs. In this case, Acrobat \napplies the most recently used conversion settings without providing access to those settings.\nIf you want more control over the process, you’ll want to use another method.",
+          "coordinates": [
+            68.73635864257812,
+            310.5120849609375,
+            537.2041015625,
+            356.7891540527344
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.821,
+          "text": "PDF creation methods by file type",
+          "coordinates": [
+            69.4591064453125,
+            370.753662109375,
+            306.4558410644531,
+            386.8873596191406
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.761,
+          "text": "Refer to the following lists to determine the methods available for the diﬀerent types of files.",
+          "coordinates": [
+            69.46247100830078,
+            400.0057067871094,
+            531.490234375,
+            412.35614013671875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "table",
+          "confidence": 0.962,
+          "text": "",
+          "coordinates": [
+            71.86542510986328,
+            425.814453125,
+            538.7745971679688,
+            680.2084350585938
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 5,
+        "table": 1
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "table",
+          "confidence": 0.819,
+          "text": "",
+          "coordinates": [
+            72.42913818359375,
+            73.73069763183594,
+            540.531494140625,
+            677.27880859375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "table",
+          "confidence": 0.936,
+          "text": "",
+          "coordinates": [
+            71.70454406738281,
+            74.17461395263672,
+            540.5715942382812,
+            677.6248779296875
+          ]
+        }
+      ],
+      "element_counts": {
+        "table": 2
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "table",
+          "confidence": 0.969,
+          "text": "",
+          "coordinates": [
+            71.88817596435547,
+            73.78231811523438,
+            539.4351806640625,
+            695.3865356445312
+          ]
+        }
+      ],
+      "element_counts": {
+        "table": 1
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "table",
+          "confidence": 0.969,
+          "text": "",
+          "coordinates": [
+            71.53519439697266,
+            73.41436767578125,
+            539.9237670898438,
+            586.9345703125
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.896,
+          "text": "Balance PDF file size and quality",
+          "coordinates": [
+            69.83084869384766,
+            622.4940185546875,
+            296.06561279296875,
+            637.9555053710938
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.966,
+          "text": "You can select various settings to ensure that your PDF has the best balance between file size,\nresolution, conformity to specific standards, and other factors. The settings you select depend\non your goals for the PDF that you are creating. For example, a PDF intended for high-quality",
+          "coordinates": [
+            68.85317993164062,
+            651.203369140625,
+            537.75830078125,
+            699.9031372070312
+          ]
+        }
+      ],
+      "element_counts": {
+        "table": 1,
+        "paragraph_title": 1,
+        "text": 1
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.85,
+          "text": "commercial printing requires diﬀerent settings than a PDF intended only for onscreen viewing \nand quick downloading over the Internet.",
+          "coordinates": [
+            69.05720520019531,
+            73.63351440429688,
+            539.27294921875,
+            102.97500610351562
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.654,
+          "text": "Once selected, these settings apply across PDFMaker, Acrobat, and Acrobat Distiller.",
+          "coordinates": [
+            69.44341278076172,
+            115.63993072509766,
+            495.7457275390625,
+            127.31560516357422
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.806,
+          "text": "However, some settings are limited to specific contexts or file types. For example, PDFMaker \noptions can vary among the diﬀerent types of Microsoft Oﬃce applications.",
+          "coordinates": [
+            69.10712432861328,
+            132.64920043945312,
+            532.830322265625,
+            162.48638916015625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.789,
+          "text": "For convenience, you can select one of the conversion presets available in Acrobat. You can \nalso create, define, save, and reuse custom presets that are uniquely suited to your purposes.",
+          "coordinates": [
+            69.48113250732422,
+            176.0175323486328,
+            533.351806640625,
+            205.01144409179688
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.83,
+          "text": "For scanned documents, you can choose from Autodetect Color Mode or several scanning \npresets that are optimized for scanning documents and images in color or black and white. \nYou can modify these presets or use your own custom scanning settings.",
+          "coordinates": [
+            69.34696960449219,
+            217.8605499267578,
+            524.7933959960938,
+            264.4111022949219
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.842,
+          "text": "There are various ways to create a PDF file using Acrobat. You can generate a PDF quickly \nusing the convert to PDF tool, menu commands, dragging-and-dropping files onto the \nAcrobat application icon, or converting clipboard data.",
+          "coordinates": [
+            69.36492919921875,
+            276.6263732910156,
+            517.9231567382812,
+            323.5084228515625
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 6
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.583,
+          "text": "Convert a file to PDF using Acrobat menu\ncommands",
+          "coordinates": [
+            69.3561782836914,
+            75.67747497558594,
+            445.71014404296875,
+            120.55415344238281
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.629,
+          "text": "1. Do any of the following:",
+          "coordinates": [
+            101.10963439941406,
+            154.09300231933594,
+            238.0841827392578,
+            164.86981201171875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.715,
+          "text": "• \nIn Acrobat, select Create from the global toolbar.",
+          "coordinates": [
+            150.7545166015625,
+            176.04893493652344,
+            409.4306335449219,
+            186.5088653564453
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.832,
+          "text": "",
+          "coordinates": [
+            70.79157257080078,
+            193.8060760498047,
+            467.2420654296875,
+            292.9236755371094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.749,
+          "text": "The Create a PDF tool opens. On the left rail, Single file is \nselected by default. Choose the Select a file button.",
+          "coordinates": [
+            69.50513458251953,
+            316.0405578613281,
+            350.5289611816406,
+            340.6486511230469
+          ]
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "confidence": 0.794,
+          "text": "",
+          "coordinates": [
+            71.5210189819336,
+            349.99847412109375,
+            456.16375732421875,
+            716.6459350585938
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "paragraph_title": 1,
+        "text": 2,
+        "image": 2
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.556,
+          "text": "• \nSelect the hamburger menu \n > Create > PDF from File (Windows),",
+          "coordinates": [
+            87.07252502441406,
+            72.12926483154297,
+            439.10400390625,
+            85.8268051147461
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.662,
+          "text": "• \nSelect the hamburger menu \n > Create > PDF from File (Windows),\nor File > Create > PDF from File (macOS).",
+          "coordinates": [
+            87.57026672363281,
+            72.39762878417969,
+            439.3382568359375,
+            99.689453125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "2. In the Open dialog box, select the ﬁle that you want to convert. You can browse all ﬁle\ntypes or select a speciﬁc type from the Files Of Type drop-down menu.",
+          "coordinates": [
+            87.0013198852539,
+            110.69828033447266,
+            524.6427001953125,
+            136.01089477539062
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.97,
+          "text": "",
+          "coordinates": [
+            71.39666748046875,
+            145.83486938476562,
+            499.67730712890625,
+            402.72442626953125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "figure_title",
+          "confidence": 0.667,
+          "text": "",
+          "coordinates": [
+            86.8680648803711,
+            412.4818420410156,
+            524.6497802734375,
+            439.4844665527344
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.512,
+          "text": "3. Optionally, select Advanced settings to change the conversion options if you're \nconverting an image file to PDF. The options available vary depending on the file type",
+          "coordinates": [
+            86.8680648803711,
+            412.4818420410156,
+            524.6497802734375,
+            439.4844665527344
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.56,
+          "text": "Note:",
+          "coordinates": [
+            119.07554626464844,
+            463.2783508300781,
+            149.3096923828125,
+            472.4660339355469
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.951,
+          "text": "The Advanced settings button is unavailable if you choose All Files as the file type or \nif no conversion settings are available for the selected file type. (For example, the \nAdvanced settings button is unavailable for Microsoft Word and Microsoft Excel files.)",
+          "coordinates": [
+            118.01183319091797,
+            484.8775634765625,
+            536.2472534179688,
+            525.2744750976562
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.835,
+          "text": "4. Select Create to convert the ﬁle to a PDF.",
+          "coordinates": [
+            87.01063537597656,
+            558.9567260742188,
+            305.736083984375,
+            569.1407470703125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "Depending on the type of ﬁle being converted, the authoring applicaƟon opens \nautomaƟcally, or a progress dialog box appears. If the ﬁle is in an unsupported format, a\nmessage appears, telling you that the ﬁle cannot be converted to PDF.",
+          "coordinates": [
+            104.0479965209961,
+            589.08251953125,
+            534.1102294921875,
+            629.2880249023438
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.764,
+          "text": "5. When the new PDF opens, choose the hamburger menu \n  > Save or Save \nAs (Windows), File > Save or File > Save As (macOS), and then select a name and\nlocation for the PDF.",
+          "coordinates": [
+            87.01253509521484,
+            647.2279052734375,
+            500.3856201171875,
+            686.7857666015625
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 7,
+        "image": 1,
+        "figure_title": 1,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.52,
+          "text": "Note:",
+          "coordinates": [
+            69.58031463623047,
+            73.73542022705078,
+            99.47502136230469,
+            82.34185791015625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.938,
+          "text": "When naming a PDF that’s intended for electronic distribution, limit the filename to eight \ncharacters (with no spaces) and include the .pdf extension. This action ensures that email \nprograms or network servers don’t truncate the filename and that the PDF opens as expected.",
+          "coordinates": [
+            68.69639587402344,
+            96.02295684814453,
+            530.1069946289062,
+            136.18165588378906
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.821,
+          "text": "Convert a file to PDF using the Convert to PDF tool",
+          "coordinates": [
+            69.18925476074219,
+            182.31382751464844,
+            405.2169494628906,
+            195.86866760253906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.825,
+          "text": "1. In Acrobat, select All tools > Convert to PDF.",
+          "coordinates": [
+            101.13691711425781,
+            241.0528106689453,
+            338.2723693847656,
+            251.2242431640625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "2. In the file explorer window that appears, select the file you want to convert to PDF,\nand select Open.",
+          "coordinates": [
+            100.7574234008789,
+            262.9840087890625,
+            526.2001953125,
+            288.2499084472656
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "3. The selected file is converted to PDF and opens in Acrobat. Choose the hamburger\nmenu \n  > Save or Save As (Windows), File > Save or File > Save As (macOS), \nand then select a name and location for the PDF.",
+          "coordinates": [
+            100.95333099365234,
+            299.67437744140625,
+            521.8822631835938,
+            339.8155822753906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.866,
+          "text": "Drag-and-drop to create PDFs",
+          "coordinates": [
+            69.54371643066406,
+            372.9083251953125,
+            268.3934326171875,
+            386.5333557128906
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.971,
+          "text": "This method is best for small, simple files, such as small image files and plain text files, when \nthe balance between file size and output quality is not important. You can use this technique\nwith many other types of files, but you cannot adjust any conversion settings during the \nprocess.",
+          "coordinates": [
+            68.5377197265625,
+            397.9332275390625,
+            522.7780151367188,
+            452.4681091308594
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.856,
+          "text": "1. Select the icons of one or more files in the Windows Explorer or macOS Finder.",
+          "coordinates": [
+            100.81990814208984,
+            463.9338073730469,
+            504.35919189453125,
+            474.1964111328125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "2. Drag the file icons onto the Acrobat application icon. Or (Windows only) drag the files\ninto the open Acrobat window.",
+          "coordinates": [
+            101.07073211669922,
+            486.92620849609375,
+            537.5550537109375,
+            511.5138244628906
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "If a message appears saying that the file could not be opened in Acrobat, then that\nfile type cannot be converted to PDF by the drag-and-drop method. Use one of the\nother conversion methods for that file.",
+          "coordinates": [
+            117.43334197998047,
+            536.238037109375,
+            524.0686645507812,
+            576.2572021484375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.629,
+          "text": "Note:",
+          "coordinates": [
+            118.87515258789062,
+            601.4410400390625,
+            149.28517150878906,
+            610.6286010742188
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "You can also convert PostScript and EPS files to PDF by dragging them onto\nthe Acrobat window or the Acrobat application icon.",
+          "coordinates": [
+            118.11994934082031,
+            623.1499633789062,
+            485.69073486328125,
+            647.7841186523438
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.738,
+          "text": "3. Save the PDF.",
+          "coordinates": [
+            101.04988861083984,
+            660.2297973632812,
+            187.37608337402344,
+            669.899658203125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 9
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.52,
+          "text": "Note:",
+          "coordinates": [
+            118.81201934814453,
+            73.53175354003906,
+            149.44288635253906,
+            82.28081512451172
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.906,
+          "text": "(Windows only) You can also right-click a file in Windows Explorer and select Convert\nto Adobe PDF.",
+          "coordinates": [
+            117.96590423583984,
+            95.7210922241211,
+            537.4174194335938,
+            119.93682861328125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.852,
+          "text": "Convert clipboard content to PDF",
+          "coordinates": [
+            69.15675354003906,
+            153.59133911132812,
+            293.2608337402344,
+            166.2868194580078
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "You can create PDFs from text and images that you copy from applications on macOS or\nWindows.",
+          "coordinates": [
+            68.55204010009766,
+            178.66268920898438,
+            511.18475341796875,
+            205.2972869873047
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.685,
+          "text": "1. Capture content in the Clipboard:",
+          "coordinates": [
+            100.47578430175781,
+            216.72666931152344,
+            289.81658935546875,
+            227.94381713867188
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.862,
+          "text": "• \nUse the copy command in the applications.",
+          "coordinates": [
+            136.3295440673828,
+            238.67417907714844,
+            372.51873779296875,
+            250.59423828125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.865,
+          "text": "• \nPress the PrintScreen key (Windows).",
+          "coordinates": [
+            136.70895385742188,
+            258.4787292480469,
+            346.4570617675781,
+            269.73016357421875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.906,
+          "text": "• \nUse the Screenshot utility (Applications > Utilities > Screenshot), and\nchoose Edit > Copy to place the content on the clipboard (macOS).",
+          "coordinates": [
+            136.72097778320312,
+            277.30615234375,
+            505.4384765625,
+            304.4193420410156
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "• \nIn a PDF file, you can select objects using the Edit Object tool (All \ntools > Use print production > Edit object), and then copy the selected\nobjects.",
+          "coordinates": [
+            136.5393524169922,
+            311.557373046875,
+            513.3841552734375,
+            353.1739807128906
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.732,
+          "text": "2. In Acrobat, choose Create > Clipboard > Create, or choose All tools > Create a\nPDF > Clipboard > Create.",
+          "coordinates": [
+            100.3076171875,
+            379.50311279296875,
+            516.3828735351562,
+            406.0941467285156
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.518,
+          "text": "Note:",
+          "coordinates": [
+            118.92646026611328,
+            432.9507141113281,
+            150.64129638671875,
+            442.40625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "The PDF from Clipboard command appears only when content is copied to the\nClipboard. If the Clipboard is empty, the command is disabled.",
+          "coordinates": [
+            118.44230651855469,
+            454.0938720703125,
+            513.6109619140625,
+            482.1614685058594
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 9,
+        "paragraph_title": 3
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.818,
+          "text": "Create a blank PDF",
+          "coordinates": [
+            69.32368469238281,
+            74.4542236328125,
+            196.34678649902344,
+            86.66020965576172
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.637,
+          "text": "You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning.",
+          "coordinates": [
+            68.71971130371094,
+            99.92354583740234,
+            521.898193359375,
+            111.14898681640625
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.503,
+          "text": "You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning.\nThis process can be useful for creating a one-page PDF. For longer, more complex, or heavily \nformatted documents, it’s better to create the source document in an application that offers\nmore layout and formatting options, such as Adobe InDesign or Microsoft Word.",
+          "coordinates": [
+            68.96037292480469,
+            100.32710266113281,
+            522.6558837890625,
+            164.44602966308594
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.656,
+          "text": "This process can be useful for creating a one-page PDF. For longer, more complex, or heavily \nformatted documents, it’s better to create the source document in an application that offers\nmore layout and formatting options, such as Adobe InDesign or Microsoft Word.",
+          "coordinates": [
+            68.85110473632812,
+            123.28182220458984,
+            522.6368408203125,
+            163.56097412109375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.541,
+          "text": "Do any of the following:",
+          "coordinates": [
+            69.62548828125,
+            173.90907287597656,
+            189.59422302246094,
+            185.0433807373047
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.821,
+          "text": "• \nIn Acrobat, select Create from the global bar.",
+          "coordinates": [
+            100.52645111083984,
+            196.1147003173828,
+            340.8889465332031,
+            206.45663452148438
+          ]
+        },
+        {
+          "id": 7,
+          "type": "image",
+          "confidence": 0.905,
+          "text": "",
+          "coordinates": [
+            70.4286117553711,
+            213.8525848388672,
+            444.5619201660156,
+            307.7978210449219
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.627,
+          "text": "The Create a PDF tool opens. On the leŌ rail, select Blank page, and then select Create.",
+          "coordinates": [
+            69.80221557617188,
+            316.9127197265625,
+            493.0628356933594,
+            327.64312744140625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "figure_title",
+          "confidence": 0.508,
+          "text": "",
+          "coordinates": [
+            69.80221557617188,
+            316.9127197265625,
+            493.0628356933594,
+            327.64312744140625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "image",
+          "confidence": 0.896,
+          "text": "",
+          "coordinates": [
+            71.13980865478516,
+            339.6062316894531,
+            443.1604919433594,
+            649.0394897460938
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.647,
+          "text": "• \nSelect the hamburger menu \n > Create > Blank Page (Windows),\nor File > Create > Blank Page (macOS).",
+          "coordinates": [
+            101.40271759033203,
+            660.4038696289062,
+            439.71270751953125,
+            688.0325317382812
+          ]
+        },
+        {
+          "id": 12,
+          "type": "figure_title",
+          "confidence": 0.539,
+          "text": "",
+          "coordinates": [
+            101.40271759033203,
+            660.4038696289062,
+            439.71270751953125,
+            688.0325317382812
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.582,
+          "text": "Acrobat creates a blank page PDF.",
+          "coordinates": [
+            69.17642974853516,
+            699.0314331054688,
+            237.35235595703125,
+            710.34619140625
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 8,
+        "image": 2,
+        "figure_title": 2
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.539,
+          "text": "Note:",
+          "coordinates": [
+            69.438720703125,
+            73.6937026977539,
+            99.66692352294922,
+            82.42047119140625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "To add a blank page to an existing PDF, open the PDF and then choose Edit > Organize\npages > Insert > Blank page.",
+          "coordinates": [
+            68.68359375,
+            95.85189056396484,
+            491.40692138671875,
+            121.6834945678711
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.864,
+          "text": "Create multiple PDFs from multiple files",
+          "coordinates": [
+            69.13357543945312,
+            156.60716247558594,
+            336.98602294921875,
+            169.80455017089844
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "You can create multiple PDFs from multiple native files, including files of different supported \nformats, in one operation. This method is useful when you must convert a large number of files \nto PDF.",
+          "coordinates": [
+            68.31881713867188,
+            182.17559814453125,
+            536.28271484375,
+            220.53250122070312
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "Note: When you use this method, Acrobat applies the most recently used conversion settings \nwithout offering you access to those settings. If you want to adjust the conversion settings, do\nso before using this method.",
+          "coordinates": [
+            68.51435089111328,
+            233.36656188964844,
+            527.1622924804688,
+            273.5478820800781
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.854,
+          "text": "1. In Acrobat, select Create from the global bar.",
+          "coordinates": [
+            101.05011749267578,
+            285.2327880859375,
+            341.49017333984375,
+            295.4906005859375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "2. The Create a PDF tool opens. On the leŌ rail, select MulƟple ﬁles > Create mulƟple\nPDF ﬁles, and then select Next.",
+          "coordinates": [
+            100.80533599853516,
+            306.94580078125,
+            524.2927856445312,
+            332.0513610839844
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.868,
+          "text": "3. Choose Add Files > Add Files or Add Folders, and then select the ﬁles or folder.",
+          "coordinates": [
+            100.55130767822266,
+            343.7869873046875,
+            504.5968322753906,
+            354.1873779296875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "4. Select OK. The Output opƟons dialog box appears.",
+          "coordinates": [
+            100.60762786865234,
+            366.1519470214844,
+            365.919921875,
+            376.8143310546875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.922,
+          "text": "5. In the Output OpƟons dialog box, specify your target folder and ﬁlename\npreferences, and then select OK.",
+          "coordinates": [
+            100.53589630126953,
+            387.8056945800781,
+            477.2107849121094,
+            413.6563720703125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "Using PDFMaker within an authoring application is a simple, one-click procedure. It involves \nclicking an Acrobat PDFMaker toolbar button or choosing a command on the Adobe PDF menu.",
+          "coordinates": [
+            68.63691711425781,
+            425.11370849609375,
+            534.579345703125,
+            449.9050598144531
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.867,
+          "text": "About Acrobat PDFMaker",
+          "coordinates": [
+            69.44413757324219,
+            478.2402038574219,
+            250.31784057617188,
+            490.6122741699219
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.952,
+          "text": "PDFMaker is an Acrobat feature that operates within many business applications, such as \nMicrosoft Office applications, AutoCAD, and Lotus Notes. When you install Acrobat, \nPDFMaker controls appear in the work area of the authoring application.",
+          "coordinates": [
+            68.91264343261719,
+            503.6618957519531,
+            512.9930419921875,
+            544.4107055664062
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "Note:  Some PDFMaker features are not available in certain versions of the authoring \napplications. For a comparison chart, see Compatible web browsers and PDFMaker \napplications | Acrobat, Reader.",
+          "coordinates": [
+            68.62904357910156,
+            562.5104370117188,
+            495.006591796875,
+            604.2774047851562
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 12,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.793,
+          "text": "Using Create PDF cloud service for PDF\nconversion",
+          "coordinates": [
+            70.3285140991211,
+            92.22945404052734,
+            454.8465270996094,
+            140.29835510253906
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "Acrobat provides an option to use Adobe Create PDF cloud service in addition to a local \nconversion to convert Microsoft Word documents to PDFs. The created PDFs are high-quality \nand provide exceptional visual fidelity. They are well-tagged for better accessibility. They also \ninclude link recognition so that hyperlinks, internal document links, and tables of contents are\ncreated as live links.",
+          "coordinates": [
+            69.27043151855469,
+            163.64695739746094,
+            527.833984375,
+            231.1937255859375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "image",
+          "confidence": 0.822,
+          "text": "",
+          "coordinates": [
+            154.24913024902344,
+            262.63507080078125,
+            201.85809326171875,
+            308.4139709472656
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.523,
+          "text": "",
+          "coordinates": [
+            127.84693145751953,
+            330.1014099121094,
+            228.024169921875,
+            339.0267333984375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.805,
+          "text": "",
+          "coordinates": [
+            102.27531433105469,
+            350.4166259765625,
+            253.1155548095703,
+            379.9943542480469
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.85,
+          "text": "",
+          "coordinates": [
+            98.76591491699219,
+            394.26153564453125,
+            256.7057189941406,
+            434.5874328613281
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.684,
+          "text": "",
+          "coordinates": [
+            169.212890625,
+            465.0641784667969,
+            186.7608642578125,
+            474.6238708496094
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.736,
+          "text": "",
+          "coordinates": [
+            170.4588165283203,
+            492.7168273925781,
+            185.18788146972656,
+            501.1652526855469
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.835,
+          "text": "",
+          "coordinates": [
+            131.99705505371094,
+            522.7136840820312,
+            235.26197814941406,
+            532.4088745117188
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "text": 7,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.694,
+          "text": "Convert a file to PDF using PDFMaker",
+          "coordinates": [
+            69.5920639038086,
+            93.0711441040039,
+            442.2892761230469,
+            112.03978729248047
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.969,
+          "text": "In Windows, Acrobat installs both an Acrobat PDFMaker toolbar and an Adobe PDF menu in \nmany popular authoring applications. You can use either the toolbar buttons or the Adobe \nPDF menu (the Action menu in Lotus Notes) to create PDFs, but the menu also provides access\nto conversion settings. Although many of the conversion options are common to all authoring \napplications, a few are application-specific.",
+          "coordinates": [
+            68.43477630615234,
+            133.18092346191406,
+            532.927001953125,
+            203.08326721191406
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "For Microsoft Office applications such as Word, Excel, and PowerPoint, the options for creating\nPDFs are available from the Acrobat ribbon.",
+          "coordinates": [
+            68.64463806152344,
+            214.0223388671875,
+            534.5703125,
+            239.00799560546875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.709,
+          "text": "Note:",
+          "coordinates": [
+            69.38401794433594,
+            251.915771484375,
+            99.9524154663086,
+            260.4711608886719
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "If you don’t see the PDF toolbar buttons in an application, you must show or activate the PDF\ntoolbar. For other troubleshooting issues, see Troubleshoot Acrobat PDFMaker Problems.",
+          "coordinates": [
+            68.92923736572266,
+            273.10595703125,
+            525.3912963867188,
+            298.91314697265625
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.882,
+          "text": "Show or activate PDFMaker in Microsoft Office and Lotus Notes",
+          "coordinates": [
+            68.92985534667969,
+            331.92620849609375,
+            494.332763671875,
+            343.990966796875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.949,
+          "text": "If the PDF toolbar buttons don’t appear in your Microsoft Office or Lotus Notes application, use\none of the following methods to show or activate PDFMaker.",
+          "coordinates": [
+            68.8196792602539,
+            357.1241455078125,
+            534.9995727539062,
+            382.4153137207031
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.794,
+          "text": "For Lotus Notes 9, choose File > Preferences. In the dialog box that appears,",
+          "coordinates": [
+            68.82356262207031,
+            394.38360595703125,
+            442.8460693359375,
+            404.857177734375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.667,
+          "text": "choose Toolbar > Toolbars, and select the Visible option for Acrobat PDFMaker.",
+          "coordinates": [
+            69.02046966552734,
+            408.1199035644531,
+            462.1845397949219,
+            418.4404602050781
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.723,
+          "text": "For Microsoft Office, follow these steps:",
+          "coordinates": [
+            69.28581237792969,
+            431.5753479003906,
+            268.18402099609375,
+            441.27606201171875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.899,
+          "text": "1. Select the File tab, and then choose Options.",
+          "coordinates": [
+            100.71125793457031,
+            453.21173095703125,
+            340.5686950683594,
+            463.3240051269531
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.901,
+          "text": "2. Select Add-Ins on the left side of the dialog box.",
+          "coordinates": [
+            100.51296997070312,
+            475.1235046386719,
+            353.6961975097656,
+            485.39874267578125
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.713,
+          "text": "3. Do one of the following:",
+          "coordinates": [
+            100.89146423339844,
+            497.0951843261719,
+            239.6489715576172,
+            507.6588439941406
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "• \nIf PDFMOutlook or Acrobat PDFMaker Office COM Add-in isn't listed, choose\nCOM Add-Ins from the Manage pop-up menu and select Go.",
+          "coordinates": [
+            136.3796844482422,
+            519.271728515625,
+            533.5938110351562,
+            544.669921875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "• \nIf PDFMOutlook or Acrobat PDFMaker Office COM Add-in is listed under \nDisabled Application Add-ins, select Disabled Items from the Manage pop-up \nmenu and select Go.",
+          "coordinates": [
+            136.6166534423828,
+            553.1620483398438,
+            531.9154052734375,
+            592.1019287109375
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "4. Select PDFMOutlook or Acrobat PDFMaker Office COM Add-in and select OK.",
+          "coordinates": [
+            100.19048309326172,
+            601.0473022460938,
+            499.3664245605469,
+            611.22314453125
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "5. Restart the Office application.",
+          "coordinates": [
+            100.80601501464844,
+            624.39501953125,
+            267.3224792480469,
+            634.7000732421875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 14
+      }
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.807,
+          "text": "Convert a file to PDF",
+          "coordinates": [
+            69.18132781982422,
+            74.89693450927734,
+            208.28317260742188,
+            86.86507415771484
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "1. Open the file in the application used to create it.",
+          "coordinates": [
+            100.90394592285156,
+            100.42343139648438,
+            357.6427917480469,
+            110.72250366210938
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.787,
+          "text": "2. Select the Convert To Adobe PDF button \n on the Acrobat PDFMaker toolbar.",
+          "coordinates": [
+            100.61700439453125,
+            124.2618408203125,
+            508.99200439453125,
+            137.42710876464844
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.922,
+          "text": "For Microsoft Office applications, such as Word, Excel, and PowerPoint, select \nthe Create PDF button\non the Acrobat ribbon.",
+          "coordinates": [
+            116.16571044921875,
+            162.04164123535156,
+            500.8902893066406,
+            190.93630981445312
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.902,
+          "text": "3. Enter a filename and location for the PDF, and select Save.",
+          "coordinates": [
+            100.84322357177734,
+            203.14158630371094,
+            406.4383850097656,
+            213.0920867919922
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "4. (Optional) Check View Result to open the PDF or enable Protect PDF to specify\nthe Security settings for the PDF.",
+          "coordinates": [
+            100.69141387939453,
+            226.17324829101562,
+            505.6356506347656,
+            250.76138305664062
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.759,
+          "text": "Create a PDF and share the link for viewing or commenting",
+          "coordinates": [
+            68.97337341308594,
+            283.790771484375,
+            462.747802734375,
+            298.1468505859375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.628,
+          "text": "Applicable to Microsoft Word, Excel, and PowerPoint",
+          "coordinates": [
+            69.14892578125,
+            304.340087890625,
+            331.47589111328125,
+            314.78057861328125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.899,
+          "text": "1. Open the file in the application used to create it.",
+          "coordinates": [
+            100.94802856445312,
+            326.431640625,
+            357.9190673828125,
+            336.5760803222656
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.836,
+          "text": "2. Do any of the following:",
+          "coordinates": [
+            100.84608459472656,
+            348.4111633300781,
+            239.02804565429688,
+            358.6470031738281
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.83,
+          "text": "• \nFrom the Home tab, choose Create PDF and share link.",
+          "coordinates": [
+            136.97129821777344,
+            370.5486145019531,
+            426.0755615234375,
+            380.1015319824219
+          ]
+        },
+        {
+          "id": 12,
+          "type": "image",
+          "confidence": 0.908,
+          "text": "",
+          "coordinates": [
+            156.17669677734375,
+            387.2247619628906,
+            473.2773132324219,
+            426.3149719238281
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.757,
+          "text": "• \nSelect File > Share > Create PDF and share link > Create PDF and Share link.",
+          "coordinates": [
+            136.837158203125,
+            435.2599182128906,
+            526.585693359375,
+            445.3477478027344
+          ]
+        },
+        {
+          "id": 14,
+          "type": "image",
+          "confidence": 0.754,
+          "text": "",
+          "coordinates": [
+            157.46542358398438,
+            453.0800476074219,
+            474.8939208984375,
+            513.5072021484375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 10,
+        "image": 2
+      }
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.974,
+          "text": "",
+          "coordinates": [
+            107.48973846435547,
+            91.64427185058594,
+            394.60540771484375,
+            542.2605590820312
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.765,
+          "text": "3. Acrobat converts the file to PDF, displays it in Acrobat, and copies the shareable link.\nYou can share the link with the desired recipients.",
+          "coordinates": [
+            87.40775299072266,
+            550.958251953125,
+            518.7578735351562,
+            575.576171875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.867,
+          "text": "Create a PDF and share via Outlook",
+          "coordinates": [
+            69.13410949707031,
+            603.7578125,
+            307.00616455078125,
+            615.9268188476562
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.862,
+          "text": "Applicable to Microsoft Word, Excel, and PowerPoint",
+          "coordinates": [
+            69.10530090332031,
+            624.0987548828125,
+            331.3961486816406,
+            634.7105712890625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "1. Open the file in the application used to create it.",
+          "coordinates": [
+            101.0372543334961,
+            645.95849609375,
+            357.6056823730469,
+            656.8805541992188
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.771,
+          "text": "2. Do any of the following:",
+          "coordinates": [
+            100.98079681396484,
+            668.2650756835938,
+            239.24859619140625,
+            678.9481811523438
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "• \nFrom the Home tab, choose Create PDF and Share via Outlook.",
+          "coordinates": [
+            136.2530517578125,
+            690.2542114257812,
+            466.0144958496094,
+            700.5194702148438
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "text": 5,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 17,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.77,
+          "text": "",
+          "coordinates": [
+            70.81912994384766,
+            71.6507797241211,
+            537.8152465820312,
+            123.5328598022461
+          ]
+        },
+        {
+          "id": 2,
+          "type": "header_image",
+          "confidence": 0.529,
+          "text": "",
+          "coordinates": [
+            70.81912994384766,
+            71.6507797241211,
+            537.8152465820312,
+            123.5328598022461
+          ]
+        },
+        {
+          "id": 3,
+          "type": "figure_title",
+          "confidence": 0.627,
+          "text": "",
+          "coordinates": [
+            136.6311492919922,
+            151.36175537109375,
+            475.9090270996094,
+            160.9802703857422
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.934,
+          "text": "",
+          "coordinates": [
+            70.20014953613281,
+            168.2545623779297,
+            528.22900390625,
+            242.82907104492188
+          ]
+        },
+        {
+          "id": 5,
+          "type": "figure_title",
+          "confidence": 0.739,
+          "text": "",
+          "coordinates": [
+            136.9720001220703,
+            270.59259033203125,
+            466.4996643066406,
+            280.0267028808594
+          ]
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "confidence": 0.962,
+          "text": "",
+          "coordinates": [
+            70.61961364746094,
+            287.40020751953125,
+            497.46258544921875,
+            587.4033203125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.628,
+          "text": "3. Acrobat converts the file into a PDF, creates a shareable link, and opens Outlook with\nthe link in a new message draft.",
+          "coordinates": [
+            87.04975891113281,
+            596.0078735351562,
+            522.4921264648438,
+            620.46630859375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "figure_title",
+          "confidence": 0.603,
+          "text": "",
+          "coordinates": [
+            87.04975891113281,
+            596.0078735351562,
+            522.4921264648438,
+            620.46630859375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.86,
+          "text": "4. You can edit the message as desired, add the recipient's email addresses, and then\nselect Send.",
+          "coordinates": [
+            86.90968322753906,
+            633.2262573242188,
+            510.0785217285156,
+            656.7704467773438
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 3,
+        "header_image": 1,
+        "figure_title": 3,
+        "text": 2
+      }
+    },
+    {
+      "page_number": 18,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.819,
+          "text": "Create a PDF as an email attachment",
+          "coordinates": [
+            68.97956085205078,
+            74.78778076171875,
+            316.8975830078125,
+            87.24251556396484
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "1. Open the file in the application used to create it.",
+          "coordinates": [
+            100.40180969238281,
+            100.50907135009766,
+            361.0550842285156,
+            112.30068969726562
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.807,
+          "text": "2. Choose Adobe PDF > Convert To Adobe PDF And Email.",
+          "coordinates": [
+            100.37776184082031,
+            122.45877075195312,
+            410.9953308105469,
+            133.49044799804688
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "For Microsoft Office applications, such as Word, Excel, and PowerPoint, click\nthe Create And Share button on the Acrobat ribbon.",
+          "coordinates": [
+            117.67772674560547,
+            157.30047607421875,
+            499.2440490722656,
+            183.2891082763672
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "When the conversion has finished, the PDF is opened in Adobe Acrobat. Click \nthe Send File By Email icon (\n ) in Acrobat. For more information, see Share a\nPDF as an email attachment.",
+          "coordinates": [
+            117.88546752929688,
+            207.23106384277344,
+            524.90771484375,
+            253.30007934570312
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.879,
+          "text": "Attach a file as PDF (Outlook)",
+          "coordinates": [
+            69.05807495117188,
+            288.24749755859375,
+            267.3863220214844,
+            301.9627990722656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "1. In the Outlook email Message window, click Acrobat > Attach as Adobe PDF button.",
+          "coordinates": [
+            100.24002075195312,
+            307.0889892578125,
+            530.6547241210938,
+            318.06439208984375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "2. Select a file to attach, and click Open.",
+          "coordinates": [
+            100.90885162353516,
+            328.9623718261719,
+            304.5345458984375,
+            339.99615478515625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.814,
+          "text": "Convert files to a secured PDF and attach it to an email message\n(Outlook)",
+          "coordinates": [
+            69.2150650024414,
+            374.3215026855469,
+            496.3094482421875,
+            407.00311279296875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "1. In the Outlook email Message window, click the Attach As Secured Adobe\nPDF button\n.",
+          "coordinates": [
+            101.16452026367188,
+            412.1208801269531,
+            482.1516418457031,
+            444.878662109375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.636,
+          "text": "Note:",
+          "coordinates": [
+            118.29928588867188,
+            470.3404541015625,
+            149.9805908203125,
+            479.7667236328125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.604,
+          "text": "The Attach As Secured Adobe PDF button appears only after you’ve configured an\nAdobe Experience Manager Document Security using the All tools > Protect a \nPDF > Set Security Properties > Security Method.",
+          "coordinates": [
+            117.98841094970703,
+            491.8470458984375,
+            522.13330078125,
+            533.0692138671875
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.619,
+          "text": "The Attach As Secured Adobe PDF button appears only after you’ve configured an\nAdobe Experience Manager Document Security using the All tools > Protect a",
+          "coordinates": [
+            118.2120590209961,
+            491.9505920410156,
+            522.4353637695312,
+            518.9046630859375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.509,
+          "text": "PDF > Set Security Properties > Security Method.",
+          "coordinates": [
+            118.21281433105469,
+            521.9409790039062,
+            363.3735656738281,
+            533.2552490234375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "2. Click Browse, select a file to convert, and click Open.",
+          "coordinates": [
+            100.45414733886719,
+            543.7990112304688,
+            378.27972412109375,
+            554.8236083984375
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "3. Specify the users that can open the PDF, and then click OK:",
+          "coordinates": [
+            100.57124328613281,
+            565.8109130859375,
+            408.3277893066406,
+            576.7054443359375
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "• \nTo specify only users that receive the PDF, select Restrict Access Only To \nPeople In This Message’s To:, Cc:, And Bcc: List. In this case, the PDF isn’t \nsecured until you send the email message.",
+          "coordinates": [
+            136.8435821533203,
+            600.9791870117188,
+            515.2939453125,
+            641.6878051757812
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "• \nTo specify only users that are specified by a security policy, select Restrict \nAccess By Applying The Following Security Policy, and then select a security\npolicy in the list. In this case, the PDF is secured before it is attached to the \nemail message.",
+          "coordinates": [
+            136.36842346191406,
+            650.4005737304688,
+            529.4884643554688,
+            704.2753295898438
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 19,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "4. If prompted, enter your user name and password to log in to the Adobe\nLiveCycleRights Management Server.",
+          "coordinates": [
+            100.78567504882812,
+            73.08392333984375,
+            469.7691345214844,
+            99.08841705322266
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.893,
+          "text": "Create a PDF and send it for review",
+          "coordinates": [
+            69.130859375,
+            131.8448944091797,
+            305.5785827636719,
+            143.9106903076172
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "1. Open the file in the application used to create it.",
+          "coordinates": [
+            101.08670043945312,
+            157.17892456054688,
+            357.3866271972656,
+            167.6982421875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "2. Click the Convert To Adobe PDF And Send For Review button \n on the Acrobat \nPDFMaker toolbar, or (if available) choose Adobe PDF > Convert To Adobe PDF And \nSend For Review.",
+          "coordinates": [
+            101.00199127197266,
+            185.76754760742188,
+            530.5281982421875,
+            225.99874877929688
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "3. When the Identity Setup dialog box appears, enter the appropriate information \nabout yourself, and click Complete.",
+          "coordinates": [
+            101.08207702636719,
+            238.28521728515625,
+            509.9121398925781,
+            263.8269348144531
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "4. Follow the directions in the wizard that appears, as described in Start an email-based\nreview.",
+          "coordinates": [
+            100.67005920410156,
+            275.1001892089844,
+            535.225830078125,
+            298.96710205078125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.894,
+          "text": "Create a PDF and run an action",
+          "coordinates": [
+            69.3027572631836,
+            333.1618957519531,
+            276.469970703125,
+            344.8099060058594
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "1. Open the file in the application used to create it.",
+          "coordinates": [
+            101.06437683105469,
+            358.38525390625,
+            357.6990661621094,
+            368.7161865234375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.925,
+          "text": "2. Click the Convert To Adobe PDF And Run Action button on the Acrobat PDFMaker \ntoolbar, or (if available) choose Adobe PDF > Convert To Adobe PDF And Run Action.",
+          "coordinates": [
+            100.5516357421875,
+            380.3426513671875,
+            536.3949584960938,
+            405.4042663574219
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "For Microsoft Office 2010 applications such as Word, Excel, and PowerPoint, click \nthe Create PDF And Run Action button on the Acrobat ribbon.",
+          "coordinates": [
+            115.62229919433594,
+            430.0399475097656,
+            517.7001342773438,
+            455.37481689453125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "3. Click an action to from the button menu, and follow the onscreen prompts to save\nthe files.",
+          "coordinates": [
+            101.08930206298828,
+            467.3018798828125,
+            522.0786743164062,
+            491.37408447265625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "4. The PDF opens in Acrobat. Click Start in the right-hand pane to process the file.",
+          "coordinates": [
+            100.51714324951172,
+            502.99249267578125,
+            504.9435729980469,
+            513.67626953125
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 10,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 20,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.641,
+          "text": "View PDFMaker conversion settings",
+          "coordinates": [
+            69.19607543945312,
+            76.89952850341797,
+            428.18377685546875,
+            97.38017272949219
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.974,
+          "text": "PDFMaker conversion settings vary according to file types. For example, the options available \nfor PowerPoint files aren’t the same as the options available for Outlook files. Once you’ve \nselected conversion settings, those choices apply to all subsequent PDFs you create from that\nfile type. It’s a good idea to review the settings occasionally.",
+          "coordinates": [
+            68.5654067993164,
+            118.11976623535156,
+            527.1170654296875,
+            173.17689514160156
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "1. Open a PDFMaker-enabled application (such as Word or Excel).",
+          "coordinates": [
+            100.91856384277344,
+            183.99508666992188,
+            429.34503173828125,
+            194.86532592773438
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.699,
+          "text": "2. Do one of the following:",
+          "coordinates": [
+            100.86468505859375,
+            206.25177001953125,
+            239.58970642089844,
+            216.6070556640625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.862,
+          "text": "• \n(Lotus Notes) Choose Actions > Change Adobe PDF Conversion Settings.",
+          "coordinates": [
+            136.02542114257812,
+            249.98191833496094,
+            509.5448913574219,
+            260.89404296875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.761,
+          "text": "• \n(Office 2010 applications) In the Acrobat or Adobe PDF ribbon, \nclick Preferences.",
+          "coordinates": [
+            136.70286560058594,
+            268.84716796875,
+            464.7413635253906,
+            294.3460388183594
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.646,
+          "text": "• \n(Office 2010 applications) In the Acrobat or Adobe PDF ribbon,",
+          "coordinates": [
+            136.42889404296875,
+            269.04888916015625,
+            464.5054016113281,
+            279.69000244140625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "• \n(All other applications) Choose Adobe PDF > Change Conversion Settings.",
+          "coordinates": [
+            136.05140686035156,
+            303.037353515625,
+            515.6229248046875,
+            313.8309326171875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "3. (Optional) To revert to the original default settings, click Restore Defaults on \nthe Settings tab.",
+          "coordinates": [
+            101.01592254638672,
+            321.77630615234375,
+            496.10430908203125,
+            347.4815368652344
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.883,
+          "text": "Settings tab of the Adobe PDFMaker preferences",
+          "coordinates": [
+            69.27001190185547,
+            382.5541687011719,
+            395.9599914550781,
+            396.4282531738281
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "The settings available for PDFMaker depend on the application in which you’re using\nPDFMaker.",
+          "coordinates": [
+            69.00629425048828,
+            408.1396789550781,
+            483.598388671875,
+            432.59954833984375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.824,
+          "text": "Conversion Settings",
+          "coordinates": [
+            69.3545913696289,
+            445.2966003417969,
+            170.80169677734375,
+            455.6251525878906
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "Specifies the standard by which the PDF will be optimized. When you choose an item in the\nmenu, a description of that preset appears immediately below it.",
+          "coordinates": [
+            69.09710693359375,
+            467.02667236328125,
+            515.4420776367188,
+            492.70306396484375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.822,
+          "text": "View Adobe PDF Result",
+          "coordinates": [
+            69.56617736816406,
+            504.2332458496094,
+            188.83079528808594,
+            513.662841796875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "Opens the converted document directly into Acrobat. (Exception: when you choose Convert To\nAdobe PDF And Email.)",
+          "coordinates": [
+            69.07460021972656,
+            526.060791015625,
+            534.7666015625,
+            550.9925537109375
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.825,
+          "text": "Prompt For Adobe PDF File Name",
+          "coordinates": [
+            69.76982116699219,
+            563.4594116210938,
+            238.43663024902344,
+            572.8528442382812
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "Lets you enter a custom filename for the resulting PDF. Deselect this option to save the file in\nthe same folder as the source file, using the same name but with a .pdf extension.",
+          "coordinates": [
+            69.0106201171875,
+            585.2440795898438,
+            525.9287109375,
+            610.5921020507812
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.839,
+          "text": "Convert Document Information",
+          "coordinates": [
+            69.57604217529297,
+            622.5604248046875,
+            228.70123291015625,
+            632.0702514648438
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "Adds document information from the Properties dialog box of the source file. This setting\noverrides the printer preferences and settings in the Advanced panel of the Adobe PDF \nSettings dialog box.",
+          "coordinates": [
+            68.8885498046875,
+            644.08544921875,
+            508.2780456542969,
+            683.9965209960938
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.619,
+          "text": "Note:",
+          "coordinates": [
+            69.64546203613281,
+            695.664306640625,
+            99.62184143066406,
+            704.5675048828125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 6,
+        "text": 14
+      }
+    },
+    {
+      "page_number": 21,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "The Advanced Settings button opens the Adobe PDF Settings dialog box, which contains many\nadditional conversion options. These conversion settings apply to all Acrobat features that \ncreate PDFs, such as Acrobat Distiller, PDFMaker, and the Acrobat application itself.",
+          "coordinates": [
+            68.90010833740234,
+            73.24920654296875,
+            533.0675048828125,
+            113.65511322021484
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.847,
+          "text": "PDF/A Compliance",
+          "coordinates": [
+            69.45347595214844,
+            125.26426696777344,
+            165.1555938720703,
+            135.66445922851562
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "Creates the PDF so that it conforms to the selected ISO standard for long-term preservation of\nelectronic documents.",
+          "coordinates": [
+            68.92788696289062,
+            148.1134033203125,
+            530.3117065429688,
+            172.07948303222656
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.883,
+          "text": "Security tab of the Adobe PDFMaker preferences",
+          "coordinates": [
+            69.4645004272461,
+            207.8974151611328,
+            396.635986328125,
+            220.6585235595703
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.932,
+          "text": "The settings available for PDFMaker depend on the application in which you’re using\nPDFMaker.",
+          "coordinates": [
+            69.34921264648438,
+            233.53439331054688,
+            483.82470703125,
+            257.5732727050781
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.818,
+          "text": "Require A Password To Open The Document",
+          "coordinates": [
+            69.51443481445312,
+            270.5983581542969,
+            292.92987060546875,
+            280.2789611816406
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "When selected, makes the Document Open Password option available, where you enter a\npassword that users must use to open the document.",
+          "coordinates": [
+            69.10237884521484,
+            292.4796447753906,
+            511.2181701660156,
+            317.34490966796875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.59,
+          "text": "Restrict Editing And Printing Of The Document",
+          "coordinates": [
+            69.64366149902344,
+            329.4903564453125,
+            303.6095275878906,
+            339.5353698730469
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.524,
+          "text": "Restrict Editing And Printing Of The Document",
+          "coordinates": [
+            69.64366149902344,
+            329.4903564453125,
+            303.6095275878906,
+            339.5353698730469
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "When selected, makes the other Permissions options available.",
+          "coordinates": [
+            69.29216003417969,
+            351.3466796875,
+            380.6429138183594,
+            361.31109619140625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.795,
+          "text": "Change Permissions Password",
+          "coordinates": [
+            69.47937774658203,
+            373.55181884765625,
+            222.6710662841797,
+            383.09039306640625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "Specifies a password you set that users must use in order to do any allowable printing or\nediting.",
+          "coordinates": [
+            69.06199645996094,
+            395.51239013671875,
+            502.9991455078125,
+            420.9162292480469
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.858,
+          "text": "Printing Allowed",
+          "coordinates": [
+            69.77596282958984,
+            432.3562927246094,
+            155.4100799560547,
+            442.59320068359375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.942,
+          "text": "Specifies whether users who use the Permissions Password can print the document and at\nwhat resolution.",
+          "coordinates": [
+            68.9072265625,
+            454.4433898925781,
+            513.9534301757812,
+            478.5968017578125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.846,
+          "text": "Changes Allowed",
+          "coordinates": [
+            69.48396301269531,
+            491.5319519042969,
+            157.94155883789062,
+            501.50921630859375
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.876,
+          "text": "Specifies what changes users who use the Permissions Password can make.",
+          "coordinates": [
+            69.39031982421875,
+            513.4255981445312,
+            440.3385925292969,
+            523.5957641601562
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.67,
+          "text": "Enable Copying Of Text, Images, And Other Contents",
+          "coordinates": [
+            69.77286529541016,
+            536.5637817382812,
+            334.752197265625,
+            546.8099365234375
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "Prevents or allows users from copying from the PDF.",
+          "coordinates": [
+            69.67280578613281,
+            558.4336547851562,
+            327.4808349609375,
+            568.3677368164062
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.733,
+          "text": "Enable Text Access For Screen Reader Devices For The Visually Impaired",
+          "coordinates": [
+            69.64973449707031,
+            580.5022583007812,
+            430.0963439941406,
+            590.5313720703125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "Prevents or allows screen reader devices to read text. (Selected by default.)",
+          "coordinates": [
+            69.60894775390625,
+            602.6317138671875,
+            440.38409423828125,
+            612.7401123046875
+          ]
+        },
+        {
+          "id": 21,
+          "type": "paragraph_title",
+          "confidence": 0.828,
+          "text": "Enable Plaintext Metadata",
+          "coordinates": [
+            69.82414245605469,
+            624.7596435546875,
+            204.9506072998047,
+            633.7487182617188
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "Specifies whether the search engine can read the document metadata. Available only when the\nPDF-compatibility is set to Acrobat 6.0 (PDF 1.5) or later.",
+          "coordinates": [
+            68.98362731933594,
+            646.154052734375,
+            535.890869140625,
+            671.8497314453125
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 14,
+        "paragraph_title": 8
+      }
+    },
+    {
+      "page_number": 22,
+      "elements": [
+        {
+          "id": 1,
+          "type": "doc_title",
+          "confidence": 0.634,
+          "text": "Convert Microsoft Word, PowerPoint, and\nExcel files to PDF",
+          "coordinates": [
+            69.2616958618164,
+            92.51630401611328,
+            489.9261474609375,
+            140.1585235595703
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.566,
+          "text": "Convert Microsoft Word, PowerPoint, and\nExcel files to PDF",
+          "coordinates": [
+            69.2616958618164,
+            92.51630401611328,
+            489.9261474609375,
+            140.1585235595703
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.975,
+          "text": "When creating a PDF from Microsoft Word, PowerPoint, or Excel, you can set conversion \noptions for the current file. You can also select a range of content in the file to convert. The \nconversion options that you can set in the following steps are some of the most commonly used\nsettings from the Acrobat PDFMaker dialog box. Any changes you make to the conversion \noptions apply to the current conversion only.",
+          "coordinates": [
+            68.32701873779297,
+            163.19369506835938,
+            539.2041015625,
+            232.1322021484375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.894,
+          "text": "Convert Excel files to PDF",
+          "coordinates": [
+            68.92854309082031,
+            264.7453308105469,
+            240.08213806152344,
+            276.802490234375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.894,
+          "text": "1. Open a file in Excel.",
+          "coordinates": [
+            101.05030822753906,
+            290.28778076171875,
+            217.16954040527344,
+            300.3515930175781
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.912,
+          "text": "2. Optionally, select the cells to convert.",
+          "coordinates": [
+            100.67034912109375,
+            312.5296325683594,
+            305.3115234375,
+            322.4097900390625
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.907,
+          "text": "3. From the Acrobat ribbon, select one of the Create options.",
+          "coordinates": [
+            100.51438903808594,
+            334.1256103515625,
+            408.9416198730469,
+            344.2868957519531
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "4. In the Acrobat PDFMaker dialog box, select a Conversion Range, then \nchoose Convert To PDF.",
+          "coordinates": [
+            100.53348541259766,
+            356.08184814453125,
+            463.0498352050781,
+            380.9480285644531
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.901,
+          "text": "5. In the Save Adobe PDF File As dialog box, specify a filename and location for the PDF.",
+          "coordinates": [
+            100.41901397705078,
+            392.9137878417969,
+            537.2672119140625,
+            403.5547180175781
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "6. Optionally, select the Options button to change the conversion settings.",
+          "coordinates": [
+            100.215576171875,
+            415.2951965332031,
+            472.5693664550781,
+            425.9410095214844
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.898,
+          "text": "7. Select Save to create the PDF.",
+          "coordinates": [
+            101.11405181884766,
+            437.9503479003906,
+            267.62255859375,
+            447.8035583496094
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.905,
+          "text": "Convert Word and PowerPoint files to PDF",
+          "coordinates": [
+            69.03911590576172,
+            480.7394714355469,
+            353.6950988769531,
+            492.94140625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "1. Open a file in Word or PowerPoint.",
+          "coordinates": [
+            100.76522064208984,
+            506.21478271484375,
+            292.1657409667969,
+            516.2229614257812
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "2. Optionally, select objects and text (Word) or slides (PowerPoint), as needed.",
+          "coordinates": [
+            100.4636459350586,
+            528.121826171875,
+            492.5662841796875,
+            538.9378662109375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "3. (Office 2010) From the Acrobat ribbon, select Create PDF, Create And Attach to Email,\nor Create And Send For Review.",
+          "coordinates": [
+            100.46211242675781,
+            550.968994140625,
+            539.1612548828125,
+            575.2756958007812
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "4. In the Save Adobe PDF File As dialog box, specify a filename and location for the PDF.",
+          "coordinates": [
+            100.27481842041016,
+            587.052734375,
+            537.6199951171875,
+            597.5733032226562
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "5. Optionally, click the Options button to change the conversion settings.",
+          "coordinates": [
+            100.29710388183594,
+            610.138916015625,
+            465.67095947265625,
+            621.0189208984375
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "6. Select a Page Range (Word) or Slide Range (PowerPoint). The Selection option is\navailable only if you have selected content in the file.",
+          "coordinates": [
+            100.36161804199219,
+            631.9892578125,
+            513.54443359375,
+            656.37353515625
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.898,
+          "text": "7. Click OK, then click Save to create the PDF.",
+          "coordinates": [
+            100.97615814208984,
+            668.134521484375,
+            330.01312255859375,
+            678.2857055664062
+          ]
+        }
+      ],
+      "element_counts": {
+        "doc_title": 1,
+        "paragraph_title": 3,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 23,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.715,
+          "text": "Convert email messages to PDFs",
+          "coordinates": [
+            69.63406372070312,
+            93.4409408569336,
+            391.9804382324219,
+            111.99256134033203
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "You can use PDFMaker to convert one or more Microsoft Outlook or Lotus Notes email \nmessages or entire folders of messages to a merged PDF or PDF Portfolio. Within a PDF\nPortfolio, each email message appears as a separate PDF file.",
+          "coordinates": [
+            68.77043151855469,
+            133.01144409179688,
+            497.84613037109375,
+            173.92881774902344
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.95,
+          "text": "The Acrobat PDFMaker Conversion Settings dialog box contains the option that determines\nwhether email messages are merged into one continuous PDF or assembled into a PDF \nPortfolio.",
+          "coordinates": [
+            68.58489990234375,
+            184.92149353027344,
+            519.4178466796875,
+            223.73272705078125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.965,
+          "text": "The controls that activate an email conversion to PDF appear in two places within the email\napplication: on the Acrobat PDFMaker toolbar and on a menu. In Outlook, the menu is \ncalled Adobe PDF and appears to the right of the Outlook Help menu. In Lotus Notes, PDF \ncommands appear under the Actions menu.",
+          "coordinates": [
+            68.73336791992188,
+            235.9857635498047,
+            517.62744140625,
+            290.3780212402344
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.691,
+          "text": "Note:",
+          "coordinates": [
+            69.4565658569336,
+            302.5450134277344,
+            99.58782958984375,
+            311.6202392578125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.957,
+          "text": "You can convert one currently open email message to PDF (not to a PDF Portfolio) by \nchoosing File > Print, and selecting Adobe PDF as the printer in the Print dialog box. The\nPDFMaker conversion settings do not affect this process.",
+          "coordinates": [
+            68.79512786865234,
+            324.8902587890625,
+            500.9400329589844,
+            364.8116760253906
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.883,
+          "text": "Specify whether email messages become merged PDFs or PDF\nPortfolios",
+          "coordinates": [
+            68.84187316894531,
+            399.1971435546875,
+            480.9099426269531,
+            431.312255859375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.689,
+          "text": "1. Do one of the following:",
+          "coordinates": [
+            100.79444885253906,
+            444.764892578125,
+            239.72439575195312,
+            455.5188903808594
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \n(Outlook) Choose Acrobat > Change Conversion Settings.",
+          "coordinates": [
+            136.3132781982422,
+            467.0168151855469,
+            437.4328918457031,
+            477.72991943359375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "• \n(Lotus Notes) Choose Actions > Change Adobe PDF Conversion Settings.",
+          "coordinates": [
+            136.22793579101562,
+            485.8323669433594,
+            509.0670166015625,
+            497.0792236328125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.757,
+          "text": "2. Do one of the following:",
+          "coordinates": [
+            100.80335235595703,
+            508.9814453125,
+            239.7151336669922,
+            519.5935668945312
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "• \nTo convert and merge email messages into a PDF as sequential pages of one \ndocument, deselect Output Adobe PDF Portfolio When Creating A New PDF\nFile.",
+          "coordinates": [
+            136.66409301757812,
+            531.0435180664062,
+            530.0737915039062,
+            569.8666381835938
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "• \nTo assemble converted email messages as components of a PDF Portfolio,\nselect Output Adobe PDF Portfolio When Creating A New PDF File.",
+          "coordinates": [
+            136.7183837890625,
+            578.8870239257812,
+            518.3001708984375,
+            604.4057006835938
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.869,
+          "text": "Convert an open email message to PDF (Outlook)",
+          "coordinates": [
+            68.99604797363281,
+            636.7752685546875,
+            397.9047546386719,
+            650.28173828125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.63,
+          "text": "1. Choose Acrobat > Convert To Adobe PDF.",
+          "coordinates": [
+            100.66001892089844,
+            654.1381225585938,
+            326.4410095214844,
+            664.3186645507812
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "Note: You can also convert a different file to PDF from within an open Outlook email message if\nthe Attach As Adobe PDF toolbar is shown. Clicking this button opens a series of dialog boxes",
+          "coordinates": [
+            68.80847930908203,
+            676.7224731445312,
+            537.2383422851562,
+            702.0223999023438
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 6,
+        "text": 10
+      }
+    },
+    {
+      "page_number": 24,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "for selecting and saving the new PDF and also starts Acrobat, if it is not already running. The\nresulting PDF is attached to the open email message.",
+          "coordinates": [
+            68.71183013916016,
+            73.01522064208984,
+            518.673828125,
+            99.1346206665039
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.877,
+          "text": "Convert email messages to a new PDF",
+          "coordinates": [
+            68.90839385986328,
+            123.96984100341797,
+            324.4434509277344,
+            136.4159393310547
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.897,
+          "text": "1. In Outlook or Lotus Notes, select the individual email messages.",
+          "coordinates": [
+            100.73301696777344,
+            142.40138244628906,
+            431.51751708984375,
+            152.91253662109375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.649,
+          "text": "2. Do one of the following:",
+          "coordinates": [
+            100.53162384033203,
+            164.24459838867188,
+            240.29920959472656,
+            174.40272521972656
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.901,
+          "text": "• \n(Outlook) Choose Acrobat > Selected Messages > Create New PDF.",
+          "coordinates": [
+            136.29721069335938,
+            186.15338134765625,
+            484.6121826171875,
+            196.4027557373047
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.896,
+          "text": "• \n(Lotus Notes) Choose Actions > Convert Selected Messages To Adobe PDF.",
+          "coordinates": [
+            136.2033233642578,
+            204.9155731201172,
+            521.7388916015625,
+            215.5992889404297
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "3. In the Save Adobe PDF As dialog box, select a location, type a filename, and \nclick Save.",
+          "coordinates": [
+            100.6652603149414,
+            223.8509521484375,
+            491.9699401855469,
+            248.70977783203125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.878,
+          "text": "Add email messages or folders to an existing PDF",
+          "coordinates": [
+            68.9283447265625,
+            281.4731750488281,
+            398.22515869140625,
+            295.02227783203125
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "1. In Outlook or Lotus Notes, select the individual email messages or folders.",
+          "coordinates": [
+            100.65581512451172,
+            300.478759765625,
+            481.09429931640625,
+            310.6130065917969
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.556,
+          "text": "2. Do one of the following:",
+          "coordinates": [
+            100.62701416015625,
+            322.40325927734375,
+            240.043212890625,
+            332.4544372558594
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.542,
+          "text": "2. Do one of the following:",
+          "coordinates": [
+            100.62701416015625,
+            322.40325927734375,
+            240.043212890625,
+            332.4544372558594
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \n(Outlook) Choose Acrobat > Selected Messages > Append To Existing PDF,\nor Acrobat > Selected Folders > Append To Existing PDF.",
+          "coordinates": [
+            136.41851806640625,
+            343.8814392089844,
+            520.9097900390625,
+            369.1996765136719
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "Note: If you have already created one or more PDF Portfolios, you can choose from\nrecently created PDF Portfolios in addition to the Append To Existing PDF option.",
+          "coordinates": [
+            118.00923919677734,
+            391.0123291015625,
+            528.0388793945312,
+            416.8029479980469
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \n(Lotus Notes) Choose Actions > Append Selected Message(s) To Existing \nAdobe PDF, or Actions > Append Selected Folder(s) To Existing Adobe PDF.",
+          "coordinates": [
+            136.36599731445312,
+            435.210693359375,
+            525.8264770507812,
+            460.42596435546875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "3. Locate and select the PDF or PDF Portfolio to which you want to add the converted\nemails, and click Open.",
+          "coordinates": [
+            100.71002197265625,
+            468.8966369628906,
+            526.5679321289062,
+            494.5404357910156
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.958,
+          "text": "Note: Do not type a new name for the PDF. If you do, a warning message appears \ntelling you that the PDF was not found. Click OK, and select a PDF without changing\nits name.",
+          "coordinates": [
+            117.59630584716797,
+            518.3636474609375,
+            527.050537109375,
+            557.7379150390625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.704,
+          "text": "4. (Outlook only) If a message appears, alerting you that the existing PDF was created\nusing an earlier version of PDFMaker, do one of the following:",
+          "coordinates": [
+            100.77413177490234,
+            585.125732421875,
+            525.0255737304688,
+            609.8709106445312
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.966,
+          "text": "• \nTo create a PDF Portfolio from the original PDF archive, click Yes, and select a \nname and location for the new archive. (The default name adds _Portfolio to \nthe original PDF filename.) When the conversion is complete and the Creating\nAdobe PDF dialog box closes, the new archive opens in Acrobat.",
+          "coordinates": [
+            136.56895446777344,
+            642.05419921875,
+            536.745361328125,
+            696.5226440429688
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "• \nClick No to cancel the process.",
+          "coordinates": [
+            137.27247619628906,
+            705.5501098632812,
+            305.66741943359375,
+            715.6849365234375
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 16,
+        "paragraph_title": 3
+      }
+    },
+    {
+      "page_number": 25,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.535,
+          "text": "Note:",
+          "coordinates": [
+            69.55047607421875,
+            73.84776306152344,
+            99.60010528564453,
+            82.33343505859375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "For PDF Portfolios of email converted or migrated in Acrobat 8 or later, only new messages—\nthat is, messages that are not already part of the PDF Portfolio—are appended.",
+          "coordinates": [
+            68.66566467285156,
+            96.22604370117188,
+            525.9921875,
+            121.27486419677734
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.869,
+          "text": "Convert email folders to a new PDF",
+          "coordinates": [
+            69.01809692382812,
+            153.8697967529297,
+            305.22186279296875,
+            165.65066528320312
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.954,
+          "text": "PDFMaker can convert multiple folders to PDF in one procedure. It is not necessary to select the\nfolders at the beginning of the process because you can select them in a dialog box that \nappears automatically.",
+          "coordinates": [
+            68.53759002685547,
+            179.27166748046875,
+            538.6259765625,
+            219.6638946533203
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.739,
+          "text": "1. Do one of the following:",
+          "coordinates": [
+            101.01932525634766,
+            231.3040771484375,
+            239.93392944335938,
+            241.55108642578125
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.83,
+          "text": "• \n(Outlook) Choose Acrobat > Selected Folders > Create New PDF.",
+          "coordinates": [
+            136.13604736328125,
+            253.31532287597656,
+            472.3735046386719,
+            263.2710266113281
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.817,
+          "text": "• \n(Lotus Notes) Choose Actions > Convert Selected Folder(s) To Adobe PDF.",
+          "coordinates": [
+            136.3815155029297,
+            272.2179870605469,
+            517.758056640625,
+            282.6130065917969
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.907,
+          "text": "2. In the Convert Folder(s) To PDF dialog box, select the folders. Then select or deselect\nthe Convert This Folder And All Sub Folders option.",
+          "coordinates": [
+            100.54039764404297,
+            291.1470031738281,
+            536.11474609375,
+            316.46893310546875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.558,
+          "text": "3. In the Save Adobe PDF File As, select a location and name for the PDF Portfolio.",
+          "coordinates": [
+            100.00318908691406,
+            328.01739501953125,
+            510.962158203125,
+            338.5042724609375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.629,
+          "text": "When the conversion is complete, the new PDF opens in Acrobat.",
+          "coordinates": [
+            69.02220153808594,
+            350.1973876953125,
+            390.3780822753906,
+            360.65960693359375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 7
+      }
+    },
+    {
+      "page_number": 26,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.643,
+          "text": "Set up automatic email archiving",
+          "coordinates": [
+            69.62531280517578,
+            93.03533172607422,
+            398.0125427246094,
+            113.49360656738281
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.851,
+          "text": "1. Do one of the following:",
+          "coordinates": [
+            101.16793060302734,
+            133.1350860595703,
+            239.78256225585938,
+            143.45606994628906
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "• \n(Outlook) Choose Acrobat > Setup Automatic Archival.",
+          "coordinates": [
+            136.46116638183594,
+            155.95941162109375,
+            426.00604248046875,
+            166.536865234375
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "• \n(Lotus Notes) Choose Actions > Setup Automatic Archival.",
+          "coordinates": [
+            136.71009826660156,
+            175.12306213378906,
+            441.3151550292969,
+            185.50054931640625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.842,
+          "text": "2. On the Automatic Archival tab of the Acrobat PDFMaker dialog box, select Enable \nAutomatic Archival. Then select options for Frequency and the time of day at which\nautomatic archiving occurs.",
+          "coordinates": [
+            100.96292114257812,
+            193.99391174316406,
+            530.53857421875,
+            233.27003479003906
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.855,
+          "text": "3. Select other options, according to your needs:",
+          "coordinates": [
+            101.25515747070312,
+            245.0843505859375,
+            345.9900817871094,
+            255.94850158691406
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.818,
+          "text": "Maintain Log Of Archival",
+          "coordinates": [
+            118.93372344970703,
+            288.28179931640625,
+            245.5959930419922,
+            298.666015625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "Creates a record of each archiving session.",
+          "coordinates": [
+            118.78717803955078,
+            302.65216064453125,
+            327.5119323730469,
+            312.5885314941406
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.793,
+          "text": "Choose File",
+          "coordinates": [
+            118.86732482910156,
+            345.07318115234375,
+            178.99948120117188,
+            354.5115051269531
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "Specifies the name and location of the archiving log.",
+          "coordinates": [
+            118.71018981933594,
+            360.1131896972656,
+            374.61053466796875,
+            371.12933349609375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.847,
+          "text": "Embed Index For Faster Search",
+          "coordinates": [
+            118.75917053222656,
+            402.4561462402344,
+            275.5357971191406,
+            411.640625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "Creates an index that you can search to find specific words or characters instead of\nhaving to search each individual document.",
+          "coordinates": [
+            118.28001403808594,
+            417.1007995605469,
+            525.2604370117188,
+            441.4869384765625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.919,
+          "text": "4. Click Add, and select the email folders and subfolders. Then select or deselect \nthe Convert This Folder And All Sub Folders option, as preferred, and click OK.",
+          "coordinates": [
+            101.09904479980469,
+            453.9441223144531,
+            503.40863037109375,
+            478.52105712890625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "5. In the Save PDF Archive File As dialog box, select a name and location for the\narchived email PDF. Then click Open.",
+          "coordinates": [
+            100.928466796875,
+            490.059326171875,
+            497.82904052734375,
+            515.3115234375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.735,
+          "text": "6. Review the settings and the archive folder names listed in the Acrobat \nPDFMaker dialog box, and do any of the following:",
+          "coordinates": [
+            100.83078002929688,
+            526.8435668945312,
+            464.6830749511719,
+            553.1224975585938
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.892,
+          "text": "• \nTo add other email folders to the list, click Add and select the folder.",
+          "coordinates": [
+            136.67462158203125,
+            564.056640625,
+            491.1664123535156,
+            574.2632446289062
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "• \nTo remove folders from the list, select the folders and click Delete.",
+          "coordinates": [
+            136.68301391601562,
+            583.221435546875,
+            481.51751708984375,
+            593.1751098632812
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nTo change an archive file, select any folder name from the list, click Change\nArchive File, and specify the name and location.",
+          "coordinates": [
+            136.75942993164062,
+            602.322265625,
+            523.0084228515625,
+            627.6975708007812
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nTo start archiving email immediately, click Run Archival Now.",
+          "coordinates": [
+            136.72140502929688,
+            636.0859375,
+            455.330322265625,
+            646.871826171875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 14
+      }
+    },
+    {
+      "page_number": 27,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.602,
+          "text": "Create PDFs from Word mail merges",
+          "coordinates": [
+            69.87091827392578,
+            77.00960540771484,
+            433.3576354980469,
+            97.86982727050781
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.787,
+          "text": "Mail merges from Word generate documents like form letters—for one common example—\nthat are personalized with information like the names and addresses of the recipients. With \nAcrobat PDFMaker, you can save steps by using a Word mail merge document and",
+          "coordinates": [
+            68.3145980834961,
+            118.03804016113281,
+            519.7581176757812,
+            158.23826599121094
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.831,
+          "text": "corresponding data file to output mail merges directly to PDF. You can even set up PDFMaker to\nattach those PDFs to email messages that are generated during the PDF-creation process.",
+          "coordinates": [
+            68.78807067871094,
+            162.26145935058594,
+            539.0208740234375,
+            187.21420288085938
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.561,
+          "text": "Note:",
+          "coordinates": [
+            69.57704162597656,
+            198.63735961914062,
+            99.89000701904297,
+            207.90359497070312
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.85,
+          "text": "For information on setting up files for the Word Mail Merge feature, see Microsoft Office Word\nHelp.",
+          "coordinates": [
+            68.7494888305664,
+            221.0067138671875,
+            535.7294311523438,
+            246.02264404296875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "1. In Microsoft Word, open the template that you have created as the basis of your mail\nmerge, or create the file using the Word Mail Merge toolbar and Mail Merge wizard, \nas needed.",
+          "coordinates": [
+            101.2800064086914,
+            258.1072082519531,
+            536.7427978515625,
+            296.93194580078125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.91,
+          "text": "Note: Do not complete the mail merge in Word. Instead, set up and preview the mail\nmerge as usual, so that you can verify that the merge will work correctly.",
+          "coordinates": [
+            117.79852294921875,
+            322.1235046386719,
+            535.309814453125,
+            348.10296630859375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.748,
+          "text": "2. Do one of the following:",
+          "coordinates": [
+            101.02210998535156,
+            359.13140869140625,
+            239.7271728515625,
+            369.53118896484375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.876,
+          "text": "• \nChoose Acrobat > Mail Merge.",
+          "coordinates": [
+            136.6837615966797,
+            381.4474792480469,
+            308.2577819824219,
+            391.4671630859375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "• \nClick the Mail Merge To Adobe PDF button on the Mail Merge toolbar (View >\nToolbars > Mail Merge).",
+          "coordinates": [
+            136.53475952148438,
+            400.2545166015625,
+            538.2748413085938,
+            425.154541015625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.554,
+          "text": "3. In the Acrobat PDFMaker - Mail Merge dialog box, select the options you want:",
+          "coordinates": [
+            100.70269012451172,
+            434.1665344238281,
+            510.1827087402344,
+            444.7945861816406
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.545,
+          "text": "3. In the Acrobat PDFMaker - Mail Merge dialog box, select the options you want:",
+          "coordinates": [
+            100.70269012451172,
+            434.1665344238281,
+            510.1827087402344,
+            444.7945861816406
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nTo specify which records in the data file will be imported into the merged \nfiles, select All or Current, or enter a range of pages by typing in \nthe From and To boxes.",
+          "coordinates": [
+            137.00787353515625,
+            469.0901184082031,
+            514.8901977539062,
+            507.79833984375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "• \nTo name the PDF that will be created, type in the Specify PDF File Name box.",
+          "coordinates": [
+            136.6958770751953,
+            517.010498046875,
+            531.4357299804688,
+            527.5971069335938
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.843,
+          "text": "Note: The PDF will be named using this text plus a series of numbers. For example, if \nyou type JulyLetter in the Specify PDF File Name box, the mail-merged PDFs \nmight appear as JulyLetter_0000123, JulyLetter_0000124, JulyLetter_0000125, and \nso forth.",
+          "coordinates": [
+            117.9963607788086,
+            548.8304443359375,
+            533.2412719726562,
+            603.4987182617188
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.749,
+          "text": "4. For Automatically Send Adobe PDF Files By Email, do one of the following:",
+          "coordinates": [
+            100.4850082397461,
+            623.11962890625,
+            487.276611328125,
+            633.8325805664062
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "• \nTo create and save merged PDFs for printing or sending later in email, leave\nthe option deselected, and click OK.",
+          "coordinates": [
+            136.6136932373047,
+            645.2572021484375,
+            525.4337158203125,
+            670.5646362304688
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "• \nTo create merged PDFs and attach each one to an email message to the \nappropriate recipient, select this check box, and fill in the other Email options.",
+          "coordinates": [
+            136.47048950195312,
+            679.1400146484375,
+            536.8651733398438,
+            705.292724609375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 13
+      }
+    },
+    {
+      "page_number": 28,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.867,
+          "text": "5. When the Browse For Folder dialog box appears, navigate to the location you want\nto use and click OK.",
+          "coordinates": [
+            100.88623046875,
+            73.3242416381836,
+            526.9013061523438,
+            98.16403198242188
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.863,
+          "text": "Status indicators appear as PDFMaker generates the individual PDFs,",
+          "coordinates": [
+            118.17897033691406,
+            123.29270935058594,
+            455.4420471191406,
+            133.4604034423828
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.903,
+          "text": "6. If you selected Automatically Send Adobe PDF Files By Email, a dialog box appears\nasking for your email profile. Enter the appropriate information and click OK.",
+          "coordinates": [
+            100.6494140625,
+            145.10369873046875,
+            525.3180541992188,
+            170.76119995117188
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.839,
+          "text": "When the job has finished, a message appears, telling you that the process was successful.",
+          "coordinates": [
+            69.28743743896484,
+            182.3374481201172,
+            511.54742431640625,
+            193.28231811523438
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.868,
+          "text": "Email options for PDF mail merges",
+          "coordinates": [
+            69.63119506835938,
+            224.7640380859375,
+            299.1685791015625,
+            238.20982360839844
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "Use the pop-up menu to select the field or column in the associated data file that contains the\nemail addresses in each individual’s record.",
+          "coordinates": [
+            68.92759704589844,
+            273.4820251464844,
+            529.8866577148438,
+            297.20306396484375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.755,
+          "text": "Subject Line",
+          "coordinates": [
+            69.35225677490234,
+            310.4933166503906,
+            132.53628540039062,
+            320.49407958984375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.851,
+          "text": "Type the text that you want to appear in the subject line of each message.",
+          "coordinates": [
+            69.24591827392578,
+            332.8239440917969,
+            432.33184814453125,
+            343.0890808105469
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.604,
+          "text": "Message",
+          "coordinates": [
+            69.69857025146484,
+            354.8323669433594,
+            116.4841537475586,
+            364.9757995605469
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.843,
+          "text": "Type to add or edit text that you want to appear in the body of the email messages.",
+          "coordinates": [
+            69.49431610107422,
+            376.4092712402344,
+            478.4643859863281,
+            387.64154052734375
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 7,
+        "paragraph_title": 3
+      }
+    },
+    {
+      "page_number": 29,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.696,
+          "text": "Convert Visio files to PDF (Acrobat Pro)",
+          "coordinates": [
+            69.58234405517578,
+            92.66448211669922,
+            460.3861999511719,
+            112.79962921142578
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.961,
+          "text": "PDFs created from Visio files preserve page sizes and support layers, searchable text, custom \nproperties, links, bookmarks, and comments, depending on the conversion settings. To specify\nthe properties",
+          "coordinates": [
+            68.61384582519531,
+            133.02407836914062,
+            531.619873046875,
+            173.7665557861328
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.749,
+          "text": "• \n(Visio 2010) From the ribbon choose Acrobat > Preferences",
+          "coordinates": [
+            87.79000854492188,
+            184.98435974121094,
+            398.0769348144531,
+            195.46815490722656
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.963,
+          "text": "When you convert your Visio file, only shapes and guides that are printable and visible in the\nVisio drawing are converted and appear in the PDF. Shapes are converted regardless of their \nprotection or behavior. Shape custom properties can be converted to PDF object data.",
+          "coordinates": [
+            68.47373962402344,
+            207.0469207763672,
+            522.57470703125,
+            246.9656219482422
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.964,
+          "text": "When you convert the Visio file to a PDF, you can preserve all or just some layers, or you can \nflatten all layers. If you flatten layers, the PDF will look like the original drawing, but won’t \ncontain any layer information. When flattened, the contents of only visible and printable layers\nwill appear in the converted PDF.",
+          "coordinates": [
+            68.39080047607422,
+            259.2241516113281,
+            534.9228515625,
+            312.77337646484375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.878,
+          "text": "Convert Visio files",
+          "coordinates": [
+            69.29661560058594,
+            345.5237731933594,
+            191.9656982421875,
+            357.6947021484375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "1. If you want to change the PDFMaker conversion settings, do the following. (For \ninformation about a setting, place the pointer over the setting to display a tool tip\nbelow.)",
+          "coordinates": [
+            101.24790954589844,
+            364.0325927734375,
+            520.0817260742188,
+            402.92431640625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.828,
+          "text": "• \n(Visio 2010) Choose Acrobat > Preferences",
+          "coordinates": [
+            137.13702392578125,
+            415.15716552734375,
+            367.46209716796875,
+            425.5256042480469
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.962,
+          "text": "2. If you want to convert each page in the Visio file to a bookmarked page in the PDF \nfile, choose Adobe PDF > Convert All Pages In Drawing. If this option is deselected,\nonly the current page is converted.",
+          "coordinates": [
+            100.83519744873047,
+            433.73968505859375,
+            524.916748046875,
+            474.89453125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.602,
+          "text": "3. Do one of the following:",
+          "coordinates": [
+            100.78651428222656,
+            485.8585205078125,
+            239.7491455078125,
+            496.8675537109375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.521,
+          "text": "3. Do one of the following:",
+          "coordinates": [
+            100.78651428222656,
+            485.8585205078125,
+            239.7491455078125,
+            496.8675537109375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.902,
+          "text": "• \n(Visio 2010) Choose Acrobat > Create PDF.",
+          "coordinates": [
+            136.55111694335938,
+            507.9761657714844,
+            365.7767028808594,
+            518.5473022460938
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.897,
+          "text": "• \n(Visio 2010) Choose Acrobat > Convert To Adobe PDF.",
+          "coordinates": [
+            136.6467742919922,
+            526.8846435546875,
+            422.8257141113281,
+            537.38916015625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \n(Visio 2010) Choose Acrobat > Create and Attach To Email. The PDF file \nattaches to a new email message in your default email application.",
+          "coordinates": [
+            136.6212158203125,
+            545.9201049804688,
+            507.1346130371094,
+            571.7244262695312
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "• \n(Visio 2010) Choose Acrobat > Create and Send For Review. The file converts\nto an Adobe PDF file, and an email-based review process begins.",
+          "coordinates": [
+            136.37149047851562,
+            580.0089721679688,
+            533.1387329101562,
+            605.377197265625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "4. If you want to include the custom properties of shapes, select that option.",
+          "coordinates": [
+            100.76834869384766,
+            617.0763549804688,
+            481.7846984863281,
+            628.0963134765625
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.866,
+          "text": "5. Click Continue.",
+          "coordinates": [
+            101.15402221679688,
+            639.0903930664062,
+            195.01730346679688,
+            649.0224609375
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "6. Select a layers option to retain or flatten layers in the resulting PDF, and\nclick Continue.",
+          "coordinates": [
+            100.75633239746094,
+            660.9630126953125,
+            471.5060729980469,
+            685.8685913085938
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 3,
+        "text": 15
+      }
+    }
+  ]
+}

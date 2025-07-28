@@ -1,0 +1,1481 @@
+{
+  "document": "CHALLENGE_1B\\Collection 1\\PDFs\\South of France - Tips and Tricks.pdf",
+  "total_pages": 9,
+  "processing_time": "70.41s",
+  "layout_time_total": "55.30s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.907,
+          "text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing,\nPlanning, and Exploring",
+          "coordinates": [
+            69.47197723388672,
+            73.65764617919922,
+            529.0484008789062,
+            102.99744415283203
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.788,
+          "text": "Introduction",
+          "coordinates": [
+            69.81214904785156,
+            115.86869049072266,
+            136.62179565429688,
+            125.74512481689453
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.523,
+          "text": "Planning a trip to the South of France requires thoughtful preparation to ensure a",
+          "coordinates": [
+            69.57252502441406,
+            140.75367736816406,
+            476.5450744628906,
+            152.18186950683594
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.919,
+          "text": "Planning a trip to the South of France requires thoughtful preparation to ensure a \ncomfortable and enjoyable experience. This guide covers everything from packing essentials \nto travel tips, catering to all seasons and various activities. Whether you're traveling solo, with\nkids, or in a group, this guide will help you make the most of your trip.",
+          "coordinates": [
+            69.27937316894531,
+            140.82936096191406,
+            535.2304077148438,
+            204.99810791015625
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 3,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.806,
+          "text": "General Packing Tips and Tricks",
+          "coordinates": [
+            69.605224609375,
+            73.32514953613281,
+            236.65005493164062,
+            85.5953140258789
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.915,
+          "text": "• \nLayering: The weather can vary, so pack layers to stay comfortable in diﬀerent \ntemperatures.",
+          "coordinates": [
+            87.1978759765625,
+            98.20914459228516,
+            500.67669677734375,
+            127.09977722167969
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.921,
+          "text": "• \nVersatile Clothing: Choose items that can be mixed and matched to create multiple\noutfits, helping you pack lighter.",
+          "coordinates": [
+            87.60400390625,
+            140.1424560546875,
+            527.353515625,
+            169.2063446044922
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "• \nPacking Cubes: Use packing cubes to organize your clothes and maximize suitcase \nspace.",
+          "coordinates": [
+            87.4645004272461,
+            183.6295166015625,
+            521.0134887695312,
+            212.39149475097656
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.84,
+          "text": "• \nRoll Your Clothes: Rolling clothes saves space and reduces wrinkles.",
+          "coordinates": [
+            87.84027862548828,
+            225.21005249023438,
+            449.77032470703125,
+            237.2000732421875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.916,
+          "text": "• \nTravel-Sized Toiletries: Bring travel-sized toiletries to save space and comply with\nairline regulations.",
+          "coordinates": [
+            87.88218688964844,
+            250.2930145263672,
+            518.36572265625,
+            279.0233459472656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.838,
+          "text": "• \nReusable Bags: Pack a few reusable bags for laundry, shoes, or shopping.",
+          "coordinates": [
+            87.7599868774414,
+            292.5575256347656,
+            474.6041259765625,
+            304.9308776855469
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.911,
+          "text": "• \nFirst Aid Kit: Include a small first aid kit with band-aids, antiseptic wipes, and any \nnecessary medications.",
+          "coordinates": [
+            88.05091857910156,
+            318.3834533691406,
+            514.433837890625,
+            347.0344543457031
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nCopies of Important Documents: Make copies of your passport, travel insurance, and\nother important documents. Keep them separate from the originals.",
+          "coordinates": [
+            87.72315979003906,
+            360.4725646972656,
+            536.0532836914062,
+            389.4597473144531
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nPortable Laundry Kit: A small laundry kit with detergent and a travel clothesline can \nbe handy for longer trips.",
+          "coordinates": [
+            87.59508514404297,
+            402.4589538574219,
+            532.7581176757812,
+            431.6405334472656
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nMulti-Purpose Shoes: Choose shoes that are comfortable for walking but can also be\nworn to a nice dinner.",
+          "coordinates": [
+            87.83358001708984,
+            445.41058349609375,
+            534.6205444335938,
+            473.3581848144531
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.921,
+          "text": "• \nTravel Pillow and Blanket: A compact travel pillow and blanket can make long flights\nor train rides more comfortable.",
+          "coordinates": [
+            87.80957794189453,
+            487.1627197265625,
+            536.396484375,
+            515.1314697265625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "• \nZiplock Bags: Use ziplock bags for liquids, snacks, or to keep items organized and \nprotected from spills.",
+          "coordinates": [
+            87.50019073486328,
+            529.4754028320312,
+            516.0460205078125,
+            558.5838623046875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.907,
+          "text": "• \nEmergency Contact List: Have a list of emergency contacts, including local embassy\nor consulate information.",
+          "coordinates": [
+            87.57951354980469,
+            572.6041870117188,
+            529.3419799804688,
+            600.5706787109375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 13
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.739,
+          "text": "Packing for All Seasons",
+          "coordinates": [
+            69.70467376708984,
+            73.54008483886719,
+            192.07571411132812,
+            85.03546905517578
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.844,
+          "text": "Spring (March to May)",
+          "coordinates": [
+            69.20885467529297,
+            98.28225708007812,
+            189.0360870361328,
+            110.79299926757812
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nClothing: Light sweaters, long-sleeve shirts, t-shirts, and a light jacket or raincoat.",
+          "coordinates": [
+            87.0232925415039,
+            123.3038101196289,
+            513.765625,
+            136.24853515625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "• \nFootwear: Comfortable walking shoes and sandals.",
+          "coordinates": [
+            87.5042495727539,
+            148.36465454101562,
+            366.0379333496094,
+            159.889892578125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "• \nAccessories: Sunglasses, a hat, and a small umbrella.",
+          "coordinates": [
+            87.56416320800781,
+            174.31936645507812,
+            372.5188903808594,
+            186.28370666503906
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.941,
+          "text": "• \nAdditional Tips: Spring can be unpredictable, so be prepared for both sunny and rainy\ndays. Consider packing a lightweight scarf for cooler evenings.",
+          "coordinates": [
+            87.65482330322266,
+            199.20932006835938,
+            538.3661499023438,
+            228.7390594482422
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.87,
+          "text": "Summer (June to August)",
+          "coordinates": [
+            69.22119903564453,
+            241.40892028808594,
+            204.82322692871094,
+            253.14747619628906
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nClothing: Lightweight, breathable fabrics like cotton and linen. Pack t-shirts, shorts, \nsundresses, and swimwear.",
+          "coordinates": [
+            87.5595932006836,
+            266.0896301269531,
+            524.5643310546875,
+            294.58013916015625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "• \nFootwear: Sandals, flip-flops, and comfortable walking shoes.",
+          "coordinates": [
+            87.6236343383789,
+            309.3385314941406,
+            417.9643249511719,
+            321.34771728515625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "• \nAccessories: Sunglasses, a wide-brimmed hat, sunscreen, and a reusable water bottle.",
+          "coordinates": [
+            87.68803405761719,
+            334.35626220703125,
+            536.3631591796875,
+            346.2320556640625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nAdditional Tips: The South of France can get very hot in the summer, so stay hydrated\nand seek shade during peak sun hours. Pack a cooling towel to help manage the heat.",
+          "coordinates": [
+            87.72766876220703,
+            359.545654296875,
+            537.92333984375,
+            388.42352294921875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "paragraph_title",
+          "confidence": 0.869,
+          "text": "Autumn (September to November)",
+          "coordinates": [
+            69.65412139892578,
+            401.6509094238281,
+            254.6931610107422,
+            412.81494140625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nClothing: Light sweaters, long-sleeve shirts, t-shirts, and a medium-weight jacket.",
+          "coordinates": [
+            87.4983139038086,
+            426.420166015625,
+            515.7142944335938,
+            439.0383605957031
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "• \nFootwear: Comfortable walking shoes and boots.",
+          "coordinates": [
+            87.8357925415039,
+            452.36212158203125,
+            357.07269287109375,
+            463.5863342285156
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "• \nAccessories: Sunglasses, a scarf, and a small umbrella.",
+          "coordinates": [
+            87.4423828125,
+            477.28887939453125,
+            379.88055419921875,
+            489.306884765625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nAdditional Tips: Autumn is a great time to visit vineyards and enjoy the harvest \nseason. Pack layers to adjust to varying temperatures throughout the day.",
+          "coordinates": [
+            87.44056701660156,
+            502.49420166015625,
+            505.0654296875,
+            532.0015258789062
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.876,
+          "text": "Winter (December to February)",
+          "coordinates": [
+            69.61792755126953,
+            544.5077514648438,
+            235.9807586669922,
+            556.063232421875
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.947,
+          "text": "• \nClothing: Warm layers such as sweaters, long-sleeve shirts, and thermal tops. A heavy\ncoat, gloves, and a hat.",
+          "coordinates": [
+            87.22064208984375,
+            570.3522338867188,
+            536.5465087890625,
+            599.3120727539062
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "• \nFootwear: Waterproof boots and comfortable walking shoes.",
+          "coordinates": [
+            87.63304138183594,
+            612.3336181640625,
+            414.5207214355469,
+            624.55078125
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nAccessories: A scarf, sunglasses for sunny winter days, and a travel-sized hand\nwarmer.",
+          "coordinates": [
+            87.2984848022461,
+            637.5438842773438,
+            497.9290466308594,
+            664.8460083007812
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 15
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.955,
+          "text": "• \nAdditional Tips: Winter is mild compared to other regions, but it's still important to\npack warm clothing for cooler evenings. Consider packing thermal underwear for \nextra warmth.",
+          "coordinates": [
+            87.75362396240234,
+            73.29351806640625,
+            523.346923828125,
+            118.05286407470703
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.853,
+          "text": "Packing for Adults",
+          "coordinates": [
+            69.7043685913086,
+            132.51980590820312,
+            166.47142028808594,
+            144.1049041748047
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.825,
+          "text": "Clothing",
+          "coordinates": [
+            69.61420440673828,
+            157.34423828125,
+            116.97395324707031,
+            169.35769653320312
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nCasual Wear: Comfortable clothes for sightseeing and casual dining, like jeans, t-\nshirts, and casual dresses.",
+          "coordinates": [
+            87.66631317138672,
+            183.2176055908203,
+            511.5886535644531,
+            211.85838317871094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "• \nEvening Wear: Dressier outfits for dining out or events. Pack a nice dress or dress \npants and a blouse/shirt.",
+          "coordinates": [
+            87.89759826660156,
+            225.29034423828125,
+            512.5474853515625,
+            253.79031372070312
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.938,
+          "text": "• \nActive Wear: If you plan on hiking or outdoor activities, pack activewear like leggings,\nshorts, and moisture-wicking tops.",
+          "coordinates": [
+            87.64750671386719,
+            267.37213134765625,
+            536.2177734375,
+            296.38226318359375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "• \nSwimwear: Don't forget your swimsuit for beach or pool visits.",
+          "coordinates": [
+            87.52088928222656,
+            310.4906921386719,
+            420.69110107421875,
+            322.23321533203125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "• \nAccessories: A stylish yet functional bag, a lightweight scarf, and a versatile jacket.",
+          "coordinates": [
+            87.56982421875,
+            335.2940673828125,
+            519.19189453125,
+            347.6178283691406
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nAdditional Tips: Pack a few statement pieces that can be dressed up or down, such as\na versatile dress or a pair of stylish shoes.",
+          "coordinates": [
+            87.55696868896484,
+            360.5492248535156,
+            535.995361328125,
+            388.9666748046875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.837,
+          "text": "Toiletries",
+          "coordinates": [
+            69.94026184082031,
+            402.5318603515625,
+            120.7487564086914,
+            412.7463073730469
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.779,
+          "text": "• \nBasic Toiletries: Toothbrush, toothpaste, shampoo, conditioner, body wash, \ndeodorant, and personal hygiene items.",
+          "coordinates": [
+            87.84417724609375,
+            427.1579895019531,
+            486.36700439453125,
+            456.1994934082031
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "• \nSkincare: Sunscreen, moisturizer, and daily skincare products.",
+          "coordinates": [
+            87.57283782958984,
+            470.56982421875,
+            416.8065185546875,
+            482.13909912109375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "• \nMakeup: Pack essentials in a travel-sized makeup bag.",
+          "coordinates": [
+            87.78995513916016,
+            495.5261535644531,
+            381.6047058105469,
+            507.17230224609375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "• \nAdditional Items: A small sewing kit, nail clippers, and a razor.",
+          "coordinates": [
+            87.71110534667969,
+            520.4257202148438,
+            420.03204345703125,
+            532.422119140625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nAdditional Tips: Consider packing a travel-sized perfume or cologne to freshen up on\nthe go.",
+          "coordinates": [
+            87.80888366699219,
+            545.4383544921875,
+            535.2086791992188,
+            575.1328735351562
+          ]
+        },
+        {
+          "id": 16,
+          "type": "paragraph_title",
+          "confidence": 0.86,
+          "text": "Gadgets and Accessories",
+          "coordinates": [
+            69.67652893066406,
+            588.625,
+            200.6821746826172,
+            599.4690551757812
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nElectronics: Smartphone, charger, power bank, and other devices. Bring a travel \nadapter if needed.",
+          "coordinates": [
+            87.14389038085938,
+            613.4742431640625,
+            508.19744873046875,
+            642.0733032226562
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.867,
+          "text": "• \nCamera: Capture memories with a camera, extra batteries, and memory cards.",
+          "coordinates": [
+            87.49658203125,
+            655.5238037109375,
+            499.9737548828125,
+            667.35888671875
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "• \nBooks and Entertainment: A book, e-reader, or tablet for entertainment during\ntravel.",
+          "coordinates": [
+            87.24227142333984,
+            680.7051391601562,
+            506.8009338378906,
+            707.5746459960938
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 15,
+        "paragraph_title": 4
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.91,
+          "text": "• \nAdditional Tips: Download maps and travel guides to your devices for oﬄine use.\nConsider bringing a portable Wi-Fi hotspot for reliable internet access.",
+          "coordinates": [
+            87.8172378540039,
+            73.05575561523438,
+            516.1885375976562,
+            103.020751953125
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 1
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.801,
+          "text": "Packing for Kids",
+          "coordinates": [
+            69.85579681396484,
+            73.43988037109375,
+            155.0240020751953,
+            85.2490463256836
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.817,
+          "text": "Clothing",
+          "coordinates": [
+            69.78279876708984,
+            98.32218170166016,
+            117.21874237060547,
+            110.39439392089844
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.87,
+          "text": "• \nComfortable Wear: T-shirts, shorts, pants, dresses, pajamas, and underwear.",
+          "coordinates": [
+            87.18578338623047,
+            123.28429412841797,
+            490.83233642578125,
+            135.44985961914062
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.876,
+          "text": "• \nLayering: Depending on the season, pack sweaters, jackets, and hats.",
+          "coordinates": [
+            87.32926940917969,
+            148.4132537841797,
+            453.9281921386719,
+            161.01376342773438
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "• \nSwimwear: Swimsuits and cover-ups for beach or pool days.",
+          "coordinates": [
+            87.56748962402344,
+            174.4253387451172,
+            410.9530334472656,
+            186.20379638671875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.87,
+          "text": "• \nAccessories: A sun hat, sunglasses, and a lightweight jacket.",
+          "coordinates": [
+            87.51941680908203,
+            199.52996826171875,
+            408.006103515625,
+            211.34014892578125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nAdditional Tips: Pack extra clothing for kids, as they may need more changes of \nclothes than adults.",
+          "coordinates": [
+            87.67655944824219,
+            224.10934448242188,
+            507.17108154296875,
+            252.3184814453125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.836,
+          "text": "Essentials",
+          "coordinates": [
+            69.98746490478516,
+            266.466552734375,
+            123.94522094726562,
+            276.9464416503906
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "• \nDiapers and Wipes: For babies or toddlers, pack enough diapers and wipes.",
+          "coordinates": [
+            87.34136199951172,
+            291.2239685058594,
+            486.5701904296875,
+            304.000732421875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "• \nSnacks: Bring a variety of snacks for travel and outings.",
+          "coordinates": [
+            88.08182525634766,
+            317.61126708984375,
+            382.7970275878906,
+            329.7279968261719
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nToys and Entertainment: Favorite toys, books, or games. Consider a tablet with pre-\ndownloaded content.",
+          "coordinates": [
+            87.71907806396484,
+            342.6363525390625,
+            529.2417602539062,
+            370.0751037597656
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.929,
+          "text": "• \nAdditional Tips: Pack a small backpack for each child with their essentials to keep \nthem engaged. Include comfort items like a favorite blanket or stuﬀed animal.",
+          "coordinates": [
+            88.33502960205078,
+            384.3417053222656,
+            518.2425537109375,
+            413.5495300292969
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.852,
+          "text": "Toiletries",
+          "coordinates": [
+            70.30941009521484,
+            427.5391845703125,
+            120.68972778320312,
+            437.7139892578125
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "• \nBasic Toiletries: Toothbrush, toothpaste, shampoo, body wash, and personal hygiene\nitems.",
+          "coordinates": [
+            87.6767807006836,
+            452.4545593261719,
+            533.0452270507812,
+            479.951904296875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.848,
+          "text": "• \nSunscreen: Kid-friendly sunscreen.",
+          "coordinates": [
+            87.85639190673828,
+            494.7278137207031,
+            282.7989196777344,
+            505.66033935546875
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.883,
+          "text": "• \nAdditional Items: A small first aid kit with child-specific medications.",
+          "coordinates": [
+            87.49818420410156,
+            519.3667602539062,
+            451.17071533203125,
+            530.599365234375
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.943,
+          "text": "• \nAdditional Tips: Pack extra toiletries for kids, as they may need more frequent use of \nitems like wipes and hand sanitizer.",
+          "coordinates": [
+            87.58647918701172,
+            544.4142456054688,
+            532.372314453125,
+            573.5673217773438
+          ]
+        },
+        {
+          "id": 18,
+          "type": "paragraph_title",
+          "confidence": 0.862,
+          "text": "Safety and Comfort",
+          "coordinates": [
+            69.4039077758789,
+            587.60302734375,
+            174.05992126464844,
+            598.6219482421875
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "• \nCar Seat: Check if a car seat is provided if renting a car. If not, bring your own.",
+          "coordinates": [
+            87.38743591308594,
+            612.3590087890625,
+            494.1110534667969,
+            625.2705688476562
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "• \nStroller: A lightweight, foldable stroller for younger children.",
+          "coordinates": [
+            87.43281555175781,
+            637.2540283203125,
+            411.0838317871094,
+            649.5253295898438
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.931,
+          "text": "• \nBlanket and Pillow: A small blanket and travel pillow for comfort during flights or\nlong car rides.",
+          "coordinates": [
+            87.420654296875,
+            661.9909057617188,
+            516.9027099609375,
+            691.4951171875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 16
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nAdditional Tips: Bring a favorite stuﬀed animal or comfort item to help kids feel at\nhome. Consider packing a travel potty for young children.",
+          "coordinates": [
+            87.64506530761719,
+            73.2338638305664,
+            518.9299926757812,
+            102.92713928222656
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.863,
+          "text": "Special Considerations",
+          "coordinates": [
+            69.33735656738281,
+            140.3751678466797,
+            189.7599639892578,
+            151.5904998779297
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.835,
+          "text": "Beach Trips",
+          "coordinates": [
+            69.71553802490234,
+            165.5471649169922,
+            132.56825256347656,
+            176.83877563476562
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nBeach Bag: A large, waterproof bag for essentials.",
+          "coordinates": [
+            87.53052520751953,
+            191.50198364257812,
+            357.1362609863281,
+            204.1845703125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "• \nTowels: Lightweight, quick-drying beach towels.",
+          "coordinates": [
+            87.74835205078125,
+            216.4049530029297,
+            351.08563232421875,
+            228.42816162109375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nBeach Toys: Buckets, shovels, and toys for kids.",
+          "coordinates": [
+            87.35356140136719,
+            241.3907470703125,
+            345.28082275390625,
+            253.12646484375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nSnorkeling Gear: Bring your own gear for a better fit and comfort.",
+          "coordinates": [
+            87.46947479248047,
+            266.261474609375,
+            437.6156921386719,
+            278.569580078125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nAdditional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and\nsnacks. Consider bringing a waterproof phone case to protect your device.",
+          "coordinates": [
+            87.45539855957031,
+            291.3254699707031,
+            527.8468627929688,
+            321.4978332519531
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.871,
+          "text": "Hiking and Outdoor Activities",
+          "coordinates": [
+            69.59507751464844,
+            334.5466613769531,
+            226.61572265625,
+            345.9381103515625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.884,
+          "text": "• \nBackpack: A sturdy, comfortable backpack for essentials.",
+          "coordinates": [
+            87.76090240478516,
+            359.4718322753906,
+            394.2004699707031,
+            371.3543395996094
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "•\nWater Bottle: A reusable water bottle.",
+          "coordinates": [
+            88.06489562988281,
+            384.62664794921875,
+            299.0630187988281,
+            395.0460205078125
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nFirst Aid Kit: A small kit with band-aids, antiseptic wipes, and medications.",
+          "coordinates": [
+            87.54730224609375,
+            409.4901123046875,
+            481.4031677246094,
+            420.619140625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.881,
+          "text": "• \nInsect Repellent: Protect against bugs and mosquitoes.",
+          "coordinates": [
+            87.76671600341797,
+            435.70660400390625,
+            385.7981262207031,
+            447.5892333984375
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.937,
+          "text": "• \nAdditional Tips: Wear moisture-wicking clothing and sturdy hiking boots. Bring a map\nand compass or GPS device. Pack energy bars or snacks for long hikes.",
+          "coordinates": [
+            87.76686096191406,
+            460.507080078125,
+            537.620849609375,
+            489.6134948730469
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.861,
+          "text": "City Exploration",
+          "coordinates": [
+            69.62451934814453,
+            502.62371826171875,
+            156.246337890625,
+            514.3899536132812
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "• \nDay Bag: A small, secure day bag for carrying essentials like water, snacks, and a\ncamera.",
+          "coordinates": [
+            87.91388702392578,
+            527.3436889648438,
+            508.6265563964844,
+            555.1394653320312
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "• \nComfortable Shoes: Wear comfortable walking shoes for exploring cities.",
+          "coordinates": [
+            87.29341125488281,
+            570.43505859375,
+            475.81207275390625,
+            582.3997802734375
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "• \nGuidebook: A guidebook or map to help navigate and find points of interest.",
+          "coordinates": [
+            87.24442291259766,
+            595.1978149414062,
+            492.2469177246094,
+            607.621826171875
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "• \nAdditional Tips: Use a money belt or hidden pouch to keep valuables safe. Consider\nusing public transportation to explore cities eﬃciently.",
+          "coordinates": [
+            87.52364349365234,
+            620.3148803710938,
+            528.6875,
+            650.1364135742188
+          ]
+        },
+        {
+          "id": 20,
+          "type": "paragraph_title",
+          "confidence": 0.832,
+          "text": "Wine Tours",
+          "coordinates": [
+            69.63512420654297,
+            662.7559204101562,
+            130.5548553466797,
+            672.9342041015625
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nComfortable Clothing: Wear comfortable, casual clothing suitable for walking and\nwine tasting.",
+          "coordinates": [
+            87.03799438476562,
+            687.323974609375,
+            519.9176025390625,
+            717.4107055664062
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 16,
+        "paragraph_title": 5
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "• \nNotebook: Bring a notebook to jot down notes about the wines you taste.",
+          "coordinates": [
+            87.02577209472656,
+            73.5718765258789,
+            478.0777282714844,
+            85.8919677734375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.887,
+          "text": "• \nWater Bottle: Stay hydrated by drinking water between tastings.",
+          "coordinates": [
+            87.31840515136719,
+            98.5396499633789,
+            429.88385009765625,
+            110.83741760253906
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.934,
+          "text": "• \nAdditional Tips: Plan your wine tour route in advance and consider hiring a driver or\njoining a guided tour to avoid drinking and driving.",
+          "coordinates": [
+            87.31005096435547,
+            123.5556411743164,
+            530.5328369140625,
+            153.71585083007812
+          ]
+        },
+        {
+          "id": 4,
+          "type": "paragraph_title",
+          "confidence": 0.873,
+          "text": "Tips and Tricks for Packing",
+          "coordinates": [
+            69.3032455444336,
+            191.724853515625,
+            210.66015625,
+            203.7384033203125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.844,
+          "text": "• \nCheck the Weather: Check the forecast before packing to ensure appropriate clothing.",
+          "coordinates": [
+            87.23260498046875,
+            216.3854522705078,
+            538.5206298828125,
+            229.00408935546875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.928,
+          "text": "• \nMake a Packing List: Create a list to ensure nothing is forgotten. Cross oﬀ items as you\npack.",
+          "coordinates": [
+            87.39080810546875,
+            241.62954711914062,
+            538.8054809570312,
+            270.1545715332031
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "• \nUse Packing Cubes: Organize clothes and maximize space.",
+          "coordinates": [
+            87.53978729248047,
+            283.5339050292969,
+            402.7044677734375,
+            295.5863342285156
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.877,
+          "text": "• \nRoll Your Clothes: Save space and reduce wrinkles.",
+          "coordinates": [
+            87.45125579833984,
+            309.4979553222656,
+            365.4384765625,
+            320.7731628417969
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.875,
+          "text": "• \nPack Dual-Purpose Items: Choose items that serve multiple purposes.",
+          "coordinates": [
+            87.54827117919922,
+            334.5666809082031,
+            460.94879150390625,
+            346.29608154296875
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "• \nWear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase\nspace.",
+          "coordinates": [
+            87.40044403076172,
+            359.51641845703125,
+            531.7344970703125,
+            388.04510498046875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "• \nPack a Day Bag: Bring a small day bag for daily excursions.",
+          "coordinates": [
+            87.4045639038086,
+            401.50848388671875,
+            401.51409912109375,
+            414.07220458984375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.864,
+          "text": "• \nLeave Room for Souvenirs: Leave extra space or bring a foldable bag for souvenirs.",
+          "coordinates": [
+            87.27896881103516,
+            427.2674255371094,
+            524.7353515625,
+            439.4131774902344
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.627,
+          "text": "• \nAdditional Tips: Pack a small travel umbrella, a reusable shopping bag, and a",
+          "coordinates": [
+            87.47817993164062,
+            452.52392578125,
+            495.72967529296875,
+            464.8160095214844
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.558,
+          "text": "portable phone charger. Consider using a luggage scale to avoid overweight baggage\nfees.",
+          "coordinates": [
+            88.49281311035156,
+            468.2071838378906,
+            531.3040161132812,
+            497.3114318847656
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 13,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.839,
+          "text": "Conclusion",
+          "coordinates": [
+            70.277587890625,
+            74.175048828125,
+            129.1322479248047,
+            83.8508529663086
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.96,
+          "text": "Packing for a trip to the South of France involves considering the season, planned activities,\nand the needs of both adults and children. By following this comprehensive guide and \nincorporating the tips and tricks provided, you'll be well-prepared for a comfortable and \nenjoyable trip. Remember to pack light, versatile clothing, and essential items to make the \nmost of your travel experience. Bon voyage!",
+          "coordinates": [
+            69.15789794921875,
+            98.3901138305664,
+            524.6210327148438,
+            179.761474609375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 1
+      }
+    }
+  ]
+}

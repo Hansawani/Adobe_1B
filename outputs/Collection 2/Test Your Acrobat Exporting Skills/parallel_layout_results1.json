@@ -1,0 +1,290 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Test Your Acrobat Exporting Skills.pdf",
+  "total_pages": 2,
+  "processing_time": "75.23s",
+  "layout_time_total": "12.83s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.554,
+          "text": "Export Expert: Test Your Acrobat Exporting Skills",
+          "coordinates": [
+            69.880859375,
+            73.2882308959961,
+            310.6265869140625,
+            84.343505859375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything \nabout saving, converting, and exporting PDFs? It's time to put your knowledge to the test. \nDive into real-world scenarios, answer intriguing questions, and see if you have what it takes \nto be a true PDF exporting pro",
+          "coordinates": [
+            69.09486389160156,
+            107.09587097167969,
+            532.1778564453125,
+            169.26461791992188
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.811,
+          "text": "1. Yes or No: Can you save a PDF in text format to use with a screen reader?",
+          "coordinates": [
+            87.64765167236328,
+            200.19287109375,
+            464.8868713378906,
+            210.7637176513672
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "2. True or False: Saving a digitally signed PDF invalidates the signature.",
+          "coordinates": [
+            87.70153045654297,
+            225.09996032714844,
+            437.9772644042969,
+            236.26258850097656
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.914,
+          "text": "3. Scenario: Imagine you're working on an important report and your computer crashes.\nDo you rely on the Autosave feature to recover your work or start from scratch?",
+          "coordinates": [
+            87.85966491699219,
+            250.10189819335938,
+            524.359619140625,
+            278.0342712402344
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.822,
+          "text": "4. Yes or No: Can you recover the last saved version of a PDF if you accidentally delete it?",
+          "coordinates": [
+            87.63867950439453,
+            292.1271057128906,
+            528.3078002929688,
+            302.9053039550781
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "5. True or False: The Autosave feature in Acrobat saves your work every 15 minutes by \ndefault.",
+          "coordinates": [
+            87.80753326416016,
+            317.2245788574219,
+            518.2030639648438,
+            344.03961181640625
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.899,
+          "text": "6. Scenario: You're preparing a presentation for a big meeting. Do you use Acrobat to \nconvert your PDF to a PowerPoint file or manually recreate the slides?",
+          "coordinates": [
+            87.67018127441406,
+            359.18841552734375,
+            509.7547607421875,
+            386.677734375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.81,
+          "text": "7. Yes or No: Can you export a PDF to a reusable format like Microsoft Word?",
+          "coordinates": [
+            88.01605987548828,
+            401.1242980957031,
+            470.76300048828125,
+            411.4731750488281
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.918,
+          "text": "8. True or False: Acrobat Reader users can save a copy of a PDF if the creator has enabled\nusage rights.",
+          "coordinates": [
+            87.93119812011719,
+            426.4100646972656,
+            529.4367065429688,
+            453.90118408203125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "9. Scenario: You're a graphic designer who needs to save a copy of a PDF Portfolio for a \nclient. Do you use \"File > Save\" or \"File > Save As\"?",
+          "coordinates": [
+            87.69111633300781,
+            468.26104736328125,
+            518.5100708007812,
+            495.390625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "10. Yes or No: Does the Autosave feature work if a document's security settings are \nchanged?",
+          "coordinates": [
+            88.6178207397461,
+            510.3934631347656,
+            494.3723449707031,
+            537.4332885742188
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.863,
+          "text": "11. True or False: You can convert a PDF to a Microsoft PowerPoint presentation using \nAcrobat.",
+          "coordinates": [
+            88.48809051513672,
+            552.3466796875,
+            507.3894348144531,
+            578.758056640625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.914,
+          "text": "12. Scenario: You're a student who needs to convert a PDF to a DOCX file for your thesis. Do\nyou use the \"Convert\" button in Acrobat or retype the entire document?",
+          "coordinates": [
+            88.41153717041016,
+            594.3579711914062,
+            535.84130859375,
+            621.6448974609375
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.813,
+          "text": "13. Yes or No: Can you export images from a PDF to another format using Acrobat?",
+          "coordinates": [
+            88.31720733642578,
+            636.1036376953125,
+            494.01776123046875,
+            646.9115600585938
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "14. True or False: Higher resolutions, like 2400 ppi, are suitable for small page sizes.",
+          "coordinates": [
+            88.2466812133789,
+            661.4618530273438,
+            495.3294982910156,
+            672.1102294921875
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.905,
+          "text": "15. Scenario: You're a photographer who wants to save a PDF as a JPEG image for your \nportfolio. Do you use the \"Convert to JPEG\" option or take a screenshot?",
+          "coordinates": [
+            88.35682678222656,
+            686.4956665039062,
+            510.4862060546875,
+            713.8564453125
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 16
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.647,
+          "text": "16. Yes or No: Can you export a PDF to XML format using Acrobat?",
+          "coordinates": [
+            88.3697738647461,
+            73.25544738769531,
+            412.9105529785156,
+            84.03773498535156
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.618,
+          "text": "17. True or False: You can use the Snapshot tool to copy selected content as an image.",
+          "coordinates": [
+            88.53559875488281,
+            98.47561645507812,
+            508.2190246582031,
+            109.37419891357422
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.67,
+          "text": "18. Scenario: You're a web developer who needs to export a PDF to HTML for your website.\nDo you use the \"Convert to HTML\" option or manually code the content?",
+          "coordinates": [
+            88.65670776367188,
+            123.39918518066406,
+            533.0833740234375,
+            150.98648071289062
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.575,
+          "text": "19. Yes or No: Can you select and copy text and images from a PDF using the Select tool?",
+          "coordinates": [
+            88.56307220458984,
+            165.3846435546875,
+            520.883056640625,
+            176.12698364257812
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.63,
+          "text": "20. True or False: The Autosave feature is disabled by default in Acrobat.",
+          "coordinates": [
+            88.40686798095703,
+            190.51776123046875,
+            441.4561767578125,
+            200.9043731689453
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 5
+      }
+    }
+  ]
+}

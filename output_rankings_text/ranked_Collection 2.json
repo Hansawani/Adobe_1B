@@ -1,0 +1,205 @@
+[
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\The Ultimate PDF Sharing Checklist.pdf",
+    "file": "",
+    "page": 2,
+    "text": "• Have you decided if clients can comment on the document or\njust view it? •  Add Clients and Stakeholders • Did you enter the email addresses of clients, agents, and other\nstakeholders?",
+    "similarity": 0.3279
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\The Ultimate PDF Sharing Checklist.pdf",
+    "file": "",
+    "page": 3,
+    "text": "• Are you tracking who has accessed the document and \nfollowing up with clients for feedback or next steps?",
+    "similarity": 0.2828
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\The Ultimate PDF Sharing Checklist.pdf",
+    "file": "",
+    "page": 1,
+    "text": "• Have you added a personal touch to the subject and message\nfields?",
+    "similarity": 0.2803
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_1.pdf",
+    "file": "",
+    "page": 3,
+    "text": "When the AI Assistant analyzes a document, it identifies sentences most likely to support the\nanswer to your question. Attribution can take the form of clickable citations or other helpful cues indicating where generated information came from. However, because the AI Assistant is \npowered by generative AI models, and the technology is still evolving and not perfect, not all \nanswers are helpful or accurate. As a result, the AI Assistant may not find and display answers \nto your questions — even when the information is in your document. And rarely, the AI \nAssistant may provide incorrect attributions. For example, you may receive a clickable citation\nor cue that takes you to an unrelated section instead of providing helpful information on \nwhere the answer came from in the document. Please double-check all AI-generated \nresponses. Please note that in our current version, if the language of the question and response is \ndifferent than the language of your document, AI Assistant won't provide any attribution. In\nsuch scenarios, you can try asking questions in the language of the document to receive \nclickable citations in the response.",
+    "similarity": 0.2802
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "file": "",
+    "page": 11,
+    "text": "Also indicates whether the element is a heading or style in the Word document.",
+    "similarity": 0.278
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_2.pdf",
+    "file": "",
+    "page": 16,
+    "text": "If you have multiple profiles associated with your organization-provided Adobe account, you\nmust first choose which profile to sign in with. Then, request a product from that profile. The \nrequest will be routed to the organization and administrators associated with that profile.",
+    "similarity": 0.272
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_2.pdf",
+    "file": "",
+    "page": 12,
+    "text": "If you're an admin, you can purchase an AI Assistant for Acrobat add-on subscription through\nthe Admin Console if your team members have consumed the free requests or require more \nlicenses. 1. Launch Acrobat and sign in as an administrator. 2. From the AI Assistant for Acrobat, select Subscribe now. 3. In the dialog that appears, select Continue. If you have already purchased the AI \nAssistant for Acrobat add-on subscription, select the Assign a license link to assign \nlicenses to users from the Admin Console. 4. You're redirected to the Add license page to purchase an AI Assistant for Acrobat add-\non subscription. Specify your payment details, and then select Place secure order. 5. Once your purchase is complete, you can assign licenses to users from the Add users \nto this product page. \nYour team members receive an email notification when the product is provisioned to\ntheir account. They can select the link to launch Acrobat to access AI Assistant for \nAcrobat. 5. Once your purchase is complete, you can assign licenses to users from the Add users\nto this product page. Your team members receive an email notification when the product is provisioned to\ntheir account. They can select the link to launch Acrobat to access AI Assistant for \nAcrobat.",
+    "similarity": 0.2667
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Request e-signatures_1.pdf",
+    "file": "",
+    "page": 10,
+    "text": "1. List the participants required. • \nThe Sign action is assigned by default. • \nThe Sign action allows the participant to enter field data and sign the\nagreement. • \nUp to 50 participants are supported. • \nEach participant listed receives their own agreement. 2. Enter recipient email addresses followed by commas, or copy and paste a list of \nemail addresses into the Email field. 3. Configure participant authentication by clicking the key icon to the right of the\nparticipant. • \nEmail is the default authentication method for confirming the identity of each \nparticipant and is sufficient to obtain a legal signature in most cases. Password authentication can be added to increase security. When configured, the participant\nmust enter the password before they can interact with the agreement.",
+    "similarity": 0.2528
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_1.pdf",
+    "file": "",
+    "page": 4,
+    "text": "We provide a feedback mechanism directly within the AI Assistant to help us improve \naccuracy and other performance issues. This is an ongoing process, and we will continue to\nwork together with our customers and community to harness the power of this new \ntechnology responsibly.",
+    "similarity": 0.2456
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Share_2.pdf",
+    "file": "",
+    "page": 2,
+    "text": "In Acrobat Pro, you can add tags to your comments so that readers with motion or vision\nlimitations can read them using assistive technologies.",
+    "similarity": 0.2331
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_2.pdf",
+    "file": "",
+    "page": 16,
+    "text": "If your request is denied, you'll receive an email explaining why. Once declined, you can re-\nrequest AI Assistant for Acrobat from your organization.",
+    "similarity": 0.2326
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_1.pdf",
+    "file": "",
+    "page": 25,
+    "text": "If you're an admin and want to revoke access to generative AI features for your team or org,\ncontact Adobe Customer Care.",
+    "similarity": 0.2318
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Request e-signatures_1.pdf",
+    "file": "",
+    "page": 10,
+    "text": "4. . (Optional) Add yourself and/or CC'd parties • \nClick Add me to add yourself as a counter signer. • \nClick Add cc to add people you want to be copied when the agreement is sent\nand complete.",
+    "similarity": 0.2281
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Request e-signatures_1.pdf",
+    "file": "",
+    "page": 12,
+    "text": "• \nName your agreement. All agreements generated from the Send in\nbulk template will have the same agreement name. • \nChange the default text in the Message field as appropriate.",
+    "similarity": 0.2249
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_2.pdf",
+    "file": "",
+    "page": 16,
+    "text": "Adobe's AI Assistant for enterprises extends generative AI features to Acrobat on the web, \nmobile, and desktop platforms. It provides centralized license management and enterprise-\nlevel technical support for adequate user support at scale.",
+    "similarity": 0.223
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Export_1.pdf",
+    "file": "",
+    "page": 21,
+    "text": "Specifies the fonts to be included in the PostScript. Embedded fonts are taken from the PDF;\nthe referenced fonts are taken from the computer.",
+    "similarity": 0.2191
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_2.pdf",
+    "file": "",
+    "page": 16,
+    "text": "I have multiple profiles associated with my Adobe account. How do I select which profile to\nsend a request from?",
+    "similarity": 0.2167
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\The Ultimate PDF Sharing Checklist.pdf",
+    "file": "",
+    "page": 3,
+    "text": "Make sure to emphasize important property details in your message to\ncapture your clients' attention.",
+    "similarity": 0.2147
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\The Ultimate PDF Sharing Checklist.pdf",
+    "file": "",
+    "page": 2,
+    "text": "• Are you tracking who has accessed the document and\nfollowing up as needed?",
+    "similarity": 0.2127
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_1.pdf",
+    "file": "",
+    "page": 4,
+    "text": "We do not look at your document, prompt(s), or generated responses except in the instances\ndescribed below. • \nReported content, bugs, or vulnerabilities. When you report content (e.g., for being \nharmful, illegal, offensive, etc.), we investigate it by manually reviewing the document, \nprompt(s), and generated responses to make adjustments to the service to address the\nissue. • \nUser-Provided Feedback. For Acrobat Individual users* and Acrobat Reader users that\nprovide feedback, you have the option to share with us your document, prompt(s), \nand generated responses during a document session for product improvement purposes that do not include training a Large Language Model (“LLM”). Examples of \nproduct improvement include improving the operability of generative AI in Acrobat \nand Acrobat Reader, as well as reducing hallucination, bias, and toxicity. If you do not \nwish to share your content, please uncheck the product improvement checkbox when\nyou first provide feedback on a document. If manual review of your content takes place, a limited group of trained Adobe personnel\nexamine the content within an encrypted repository with access controls.",
+    "similarity": 0.2108
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Export_1.pdf",
+    "file": "",
+    "page": 21,
+    "text": "Specifies the level of PostScript compatibility. Use Language Level 3 only if the target output \ndevice supports it. Language Level 2 is suitable for EPS files placed in another document and \ncolor-separated as part of that document. Use Language Level 2 for EPS files that you import\ninto Microsoft applications.",
+    "similarity": 0.2104
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Request e-signatures_2.pdf",
+    "file": "",
+    "page": 6,
+    "text": "When document integrity is critical for your signature workflow, you can enable 'View \ndocuments in Preview mode', and then sign the document. This feature analyzes the \ndocument for content that may alter the look and feel of the document and suppresses such\ncontent to allow you to view and sign the document in a static and secure state. By signing in preview mode, you can find if the document contains: • \nAny dynamic content or external dependencies. • \nAny constructs such as form fields, multimedia, or JavaScript™ that may affect its look\nand feel. After reviewing the report, you can contact the author of the document about the problems\nlisted in the report.",
+    "similarity": 0.2098
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Request e-signatures_1.pdf",
+    "file": "",
+    "page": 21,
+    "text": "Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web \ncontracting. With Acrobat Sign, you can get PDF, Microsoft Word, and other documents sent,\nsigned, and filed instantly. And best of all, Adobe hosts it securely, so your IT department \ndoesn’t have to do the work of setting up a signature infrastructure.",
+    "similarity": 0.2097
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Export_1.pdf",
+    "file": "",
+    "page": 16,
+    "text": "Specifies that multiple HTML files are created when you export to HTML. Choose one of the\ncriteria to split the document into multiple HTML files. • \nSplit by Document Headings • \nSplit by Document Bookmarks",
+    "similarity": 0.2077
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_2.pdf",
+    "file": "",
+    "page": 12,
+    "text": "2. In the Request access dialog, specify a business reason for requesting access to the AI\nAssistant for Acrobat. 3. Select Send request. Your access request is submitted to the admin for review and \napproval. After the admin approves your request, you'll receive an email confirming\nthat the AI Assistant for Acrobat is available. Note: To check the status of your request, select Refresh on the AI Assistant. For more information on requesting access to Adobe products and services, see Request\naccess to an Adobe product and Manage product requests.",
+    "similarity": 0.2069
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Generative AI_1.pdf",
+    "file": "",
+    "page": 3,
+    "text": "The generative AI features in Acrobat and Acrobat Reader significantly improve comprehension, help you get insights, and produce high-quality content quickly. Here are the\nmain benefits. - \nImproved comprehension: You can better understand complex PDF documents \nbecause the features provide insights and more context around the content. - \nEnhanced productivity: Work across multiple PDFs and documents in various formats,\nincluding Teams and Zoom meeting transcripts, streamlining your workflow and \nsaving time for higher-priority tasks. - \nImpactful content: You can use the content suggestions that the features generate for\nimpactful emails, presentations, meeting notes, and more.",
+    "similarity": 0.2043
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Request e-signatures_1.pdf",
+    "file": "",
+    "page": 8,
+    "text": "A signer receives an email with a link to sign the agreement. Also, if the signer uses Acrobat or\nAcrobat Reader desktop application, the signer sees a notification that an agreement has \nbeen shared for signing. Note: Signers are not required to sign up or purchase any Adobe product to sign agreements.\nThey can sign agreements using a web browser, mobile device, or Acrobat / Acrobat Reader \ndesktop application. Send in bulk allows you to upload a form and use that as a template to create and send many\n(hundreds!) of unique agreements, each dedicated to one external signer. Each agreement is \ninsulated from the others and contains its own audit report. Each recipient is unaware of all \nother recipients. The sender has access to the agreements through their Home or Documents tab or through \nthe Send in bulk template, which contains an Agreements report that tracks the overall status\nof the child agreements created from the template. Additionally, the sender can export the \nfield-level data of all completed agreements in a CSV format using the Download Form Field \nData action. To access the Send in bulk feature, do one of the following: • \nIn the Acrobat desktop app, go to the Tools center, scroll down to the E-Sign section,\nand then select Send in bulk. • \nSign in to Acrobat online, select the E-Sign menu in the top navigation bar, and then\nselect Send in bulk.",
+    "similarity": 0.2039
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_1.pdf",
+    "file": "",
+    "page": 28,
+    "text": "Type to add or edit text that you want to appear in the body of the email messages.",
+    "similarity": 0.202
+  },
+  {
+    "doc": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_1.pdf",
+    "file": "",
+    "page": 12,
+    "text": "PDFMaker is an Acrobat feature that operates within many business applications, such as \nMicrosoft Office applications, AutoCAD, and Lotus Notes. When you install Acrobat, \nPDFMaker controls appear in the work area of the authoring application. Note:  Some PDFMaker features are not available in certain versions of the authoring \napplications. For a comparison chart, see Compatible web browsers and PDFMaker \napplications | Acrobat, Reader. Acrobat provides an option to use Adobe Create PDF cloud service in addition to a local \nconversion to convert Microsoft Word documents to PDFs. The created PDFs are high-quality \nand provide exceptional visual fidelity. They are well-tagged for better accessibility. They also \ninclude link recognition so that hyperlinks, internal document links, and tables of contents are\ncreated as live links.",
+    "similarity": 0.2008
+  }
+]

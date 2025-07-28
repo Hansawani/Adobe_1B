@@ -1,0 +1,2872 @@
+[
+  {
+    "heading": "What\u2019s the best way to create a PDF?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "PDF creation methods by file type",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Balance PDF file size and quality",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "1. Do any of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "4. Select Create to convert the \ufb01le to a PDF.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert a file to PDF using the Convert to PDF tool",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Drag-and-drop to create PDFs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "3. Save the PDF.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert clipboard content to PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "1. Capture content in the Clipboard:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Create a blank PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Create multiple PDFs from multiple files",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "About Acrobat PDFMaker",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert a file to PDF using PDFMaker",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Show or activate PDFMaker in Microsoft Office and Lotus Notes",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert a file to PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Create a PDF and share the link for viewing or commenting",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Create a PDF and share via Outlook",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Create a PDF as an email attachment",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Attach a file as PDF (Outlook)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert files to a secured PDF and attach it to an email message\n(Outlook)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Create a PDF and send it for review",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Create a PDF and run an action",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "View PDFMaker conversion settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Settings tab of the Adobe PDFMaker preferences",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Conversion Settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "View Adobe PDF Result",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Prompt For Adobe PDF File Name",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert Document Information",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "PDF/A Compliance",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Security tab of the Adobe PDFMaker preferences",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Require A Password To Open The Document",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Restrict Editing And Printing Of The Document",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Change Permissions Password",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Printing Allowed",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Changes Allowed",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Enable Plaintext Metadata",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert Microsoft Word, PowerPoint, and\nExcel files to PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert Excel files to PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert Word and PowerPoint files to PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert email messages to PDFs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Specify whether email messages become merged PDFs or PDF\nPortfolios",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "1. Do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "2. Do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert an open email message to PDF (Outlook)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert email messages to a new PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Add email messages or folders to an existing PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "2. Do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert email folders to a new PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "1. Do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Set up automatic email archiving",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "1. Do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Maintain Log Of Archival",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Choose File",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Embed Index For Faster Search",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Create PDFs from Word mail merges",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "2. Do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "3. In the Acrobat PDFMaker - Mail Merge dialog box, select the options you want:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "4. For Automatically Send Adobe PDF Files By Email, do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Email options for PDF mail merges",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Subject Line",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Message",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert Visio files to PDF (Acrobat Pro)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Convert Visio files",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "3. Do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_1"
+  },
+  {
+    "heading": "Select Visio layers to convert (Acrobat Pro)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "4. Optionally, do any of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert AutoCAD files when AutoCAD is installed",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "2. Do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Select AutoCAD layers to convert",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "2. To show specific AutoCAD layers in the Layers In Drawing list, do any of the\nfollowing:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "3. To select the AutoCAD layers to convert, do any of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "4. To add the selected AutoCAD layers to the Layers In PDF list, do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "5. Optionally, do any of the following in the Layers In PDF list:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert AutoCAD files in batches",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "3. In the DWG List, do any of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "4. Click Convert.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Application-specific PDFMaker settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Settings tab options available from within most applications",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Attach Source File",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Create Bookmarks",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Add Links",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Enable Accessibility And Reflow With Tagged Adobe PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Excel-specific options on the Settings tab",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert Comments",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Actual Size",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Fit To Paper Width",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Prompt For Selecting Excel Sheets",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "PowerPoint-specific options on the Settings tab",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Preserve Slide Transitions",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert Hidden Slides To PDF Pages",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert Speaker Notes",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Email-specific options on the Settings tab",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Compatibility",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Attachments",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Output Adobe PDF Portfolio When Creating A New PDF File",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Do Not Include Folder Name Information",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Embed Index For Faster Search",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Block Download Of External Content",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Page Layout options",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Show This Number Of Recent Archives (Outlook only)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Show \u201cAttach As Adobe PDF\u201d Buttons",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "AutoCAD-specific options on the Settings tab (Acrobat Pro)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Compliance Standard",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Open Layers Pane When Viewed In Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Embed Scale Information",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Do Not Convert Model Space To 3D",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Choose Layout Option",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Exclude Model Space",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Choose Layer Option",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Visio-specific options on the Settings tab (Acrobat Pro)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Include Visio Custom Properties As Object Data In The Adobe PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Exclude Visio Objects With No Custom Properties",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert Comments To Adobe PDF Comments",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Always Flatten Layers In Adobe PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Open Layers Pane When Viewed In Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Word tab settings (Microsoft Word)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert Displayed Comments To Notes In Adobe PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Reviewer",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Include",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Notes Open",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Color",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "# Of Comments",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert Footnote And Endnote Links",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Bookmarks tab settings (Microsoft Word)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert Word Headings To Bookmarks",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert Word Styles To Bookmarks",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Convert Word Bookmarks",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Element list",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Element",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Type",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Bookmark",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Level",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Create PDFs by printing to file",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Create a PDF using the Print command (Windows)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Create a PDF using the Print command (Mac OS X)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Adobe PDF printing preferences (Windows)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "To access printing preferences:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Adobe PDFConversion Settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Adobe PDF Security",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Adobe PDF Page Size menu",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Replace Existing PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "View Adobe PDF Results",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Add Document Information",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Rely On System Fonts Only; Do Not Use Document Fonts",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Delete Log Files For Successful Jobs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Set Adobe PDF printer properties (Windows)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Set Adobe PDF printer properties",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Reassign the port that the Adobe PDF printer uses",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Delete a folder and reassign the Adobe PDF printer to the default port",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Create and Convert_2"
+  },
+  {
+    "heading": "Edit text in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Set the default font for adding and editing text",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Change, replace, or delete text",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "3. Edit the text by doing one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Format text",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Add new text",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Move, rotate, or resize a text box",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "3. Do any of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Add or edit lists",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Change font color",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Change font",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Change font size",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Redo text in Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Undo text in Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Change paragraph spacing",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Edit images or objects in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "About editing text and images",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Add images in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Modify images in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Delete images from a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Add Objects to PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "2. To add a button:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "3. To add a video:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "4. To add sound to the PDF:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "5. To add 3D Media to the video:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "Edit an image outside Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_1"
+  },
+  {
+    "heading": "1. Make the desired changes in the app. Bear in mind the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Export PDF images to another format",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Rotate, move, delete, extract, or renumber\npages in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Rotate pages in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Extract pages from a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Extract random pages from a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "3. In the dialog, select one or more of the following before you select Extract:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Split PDFs into multiple documents",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Number of pages",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "File Size",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Top-level Bookmarks",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Split multiple PDFs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Number of pages",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "File Size",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Top-level Bookmarks",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Move or copy pages in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Move or copy a page",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Copy a page between two PDFs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Delete or replace pages in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Delete multiple pages in a PDF\nNote: You can't undo the Delete command.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Delete a page in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Replace pages in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Replace pages between multiple PDFs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Renumber pages in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Edit Scanned PDFs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Recognize text on scanned PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "1. Open the scanned file, and then from the top banner that appears, select Get\nstarted.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Edit a scanned document",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Enhance scanned file or camera images for\nclear PDFs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Enhance camera image",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Edit_2"
+  },
+  {
+    "heading": "Export",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Save a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "1. Do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "About the Autosave feature",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Recover lost changes",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Set up automatic saving",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Recover lost changes after an unexpected shutdown",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to DOCX",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to DOC",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to PPTX",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "4. Select Convert to PPTX.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "File format op\u019fons for PDF export in Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Adobe PDF options",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Image conversion settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "File settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Color management",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "RGB/CMYK/Grayscale",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Conversion",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Colorspace/Resolution",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "File settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Interlace",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Filter: Lets you select a filtering algorithm.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Color management",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "RGB/Grayscale",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Conversion",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Colorspace/Resolution",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "PDF to TIFF conversion settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "File settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Monochrome",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Color management",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "RGB/CMYK/Grayscale/Other",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Conversion",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Colorspace/Resolution",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "PDF to Microso\u014c Word conversion se\u01abngs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Comments Settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Image Settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Text Recognition Settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to RTF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "PDF to RTF conversion se\u01abngs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Layout Settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Comments Settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Image Settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Text Recognition Settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to HTML Web Page",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "PDF to HTML conversion se\u01abngs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Single html page",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Multiple html pages",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Content se\u01abngs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Include Images",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Text recogni\u019fon se\u01abngs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Recognize Text If Needed",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Set Language",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to Microsoft Excel (XLSX)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to XML",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Numeric Settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Text recogni\u019fon se\u01abngs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Set Language",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to PostScript or Encapsulated\nPostScript (EPS)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Printer Description File",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "ASCII or Binary",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "PostScript",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Font Inclusion",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Include Comments",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert True Type to Type 1",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Include Preview",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Page Range",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to Text and XML 1.0",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to XML 1.0",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to text",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Output file settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Encoding",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Generate Bookmarks",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Generate Tags For Untagged Files",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Image file settings",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Generate Images",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Use Sub-Folder",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Use Prefix",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Output Format",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Downsample To",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to JPEG or JPEG 2000",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to TIFF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert PDF to PNG",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "6. Select Save.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Overview",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Export images from PDFs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "7. Select Save.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Export selections from a PDF to another format",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Select and copy text and images",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Select text and images",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Select a column of text",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Select all the text on a page",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Copy selected text",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Paste copied text and images",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Convert selected content to other formats",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "\u2022\nPowerPoint",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_1"
+  },
+  {
+    "heading": "Copy images",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_2"
+  },
+  {
+    "heading": "Export objects to separate PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_2"
+  },
+  {
+    "heading": "Take a snapshot of a page",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_2"
+  },
+  {
+    "heading": "2. Do one of the following:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Export_2"
+  },
+  {
+    "heading": "Types of PDF forms",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Fill and sign PDF forms",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "To fill text fields:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "To fill radio option fields:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "To add signature and initials:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "2. To add a signature:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "3. To add your initials:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Fill in PDF Forms",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Is the form fillable?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Fill in interactive forms",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Enable the Auto-Complete option",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Delete an entry from the Auto-Complete memory",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Change flat forms to fillable (Acrobat Pro)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Interactive form",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Flat form",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Save forms",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Print forms",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Clear unsaved form entries",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Sign an agreement",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Sign using Acrobat/Reader desktop application",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Sign using the email link",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Remove your signature or initials",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Fill and Sign"
+  },
+  {
+    "heading": "Overview of generative AI features",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Benefits of generative AI features",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Turn off generative AI features",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "User Guidelines",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Attributions",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Feedback",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Content usage and handling practices",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Will adobe ever look at your content while you\u2019re using generative ai in acrobat and\nacrobat reader?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "What steps do we take to protect your content when you share it with us as part of \nproviding feedback?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "If you flag content as being harmful, illegal, or offensive or if you contribute content as\nfeedback, how long do we retain that content?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "If I\u2019m signed into my adobe account, does acrobat\u2019s generative ai features automatically\nstart processing my documents when I launch the application, or open a file in the \napplication?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "What LLMS are we leveraging to power generative ai in acrobat?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Managing chat history",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "What is chat history?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "How can I see my chat history?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Where is my chat history stored?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Can I export my chat history in AI Assistant?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "How can I clear my chat history in AI Assistant?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Can I disable chat history in AI Assistant?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Can i share my chat history with others?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "What happens if I disconnect acrobat from other third-party cloud storage services such as\ngoogle drive or OneDrive?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Before You Begin",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "File considerations",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Account and login",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Usage",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Get AI-generated answers",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "AI Assistant",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "To get started:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "2. Select Get started.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Accessing chat history in Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Get AI-generated overviews and summaries",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "2. If prompted, select Get started.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Streaming summaries for long PDFs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Use generative AI features in meeting apps",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Prerequisites",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "View meeting details in Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Access Zoom meeting transcripts in Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Manually open meeting transcripts in Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Use generative AI features in Acrobat Reader",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Like or dislike the response",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Report inappropriate content",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "2. Choose from the options, or provide details in the text box. Then select Submit",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "desktop",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Turn off generative AI features in Acrobat on the web",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Using AI Assistant in Acrobat mobile",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "1. Open the document you want to work on, and then select AI Assistant.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "2. Select Agree.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Turn off AI Assistant",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Persistent chat history",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Clear chat history",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "To clear chat history:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Copy chat history",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Read-aloud generated responses",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Change the playback speed",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Custom voice for read-aloud feature",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Multiple document support in AI Assistant",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Remove files from a collection",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Request access in Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "1. Launch Acrobat, and select Get access from the AI Assistant for Acrobat.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Request access from the Admin Console (Teams hybrid admins)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Review the status of your request",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Common questions",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "I have multiple profiles associated with my Adobe account. How do I select which profile to\nsend a request from?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "What if I can\u2019t find the option to request access to AI Assistant for Acrobat?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "What notifications do I receive if a request is approved, declined, or pending?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "What happens if my request is declined?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Administer AI Assistant for enterprises",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Prerequisites",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "\u2022 \nEnable new Acrobat.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "License deployment",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Generative AI_2"
+  },
+  {
+    "heading": "Send a document to get signatures from\nothers",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "\u2022 \nSimplified mode for single signer",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "\u2022 \nSimplified mode for multiple signers",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "\u2022 \nAdvanced mode for multiple signers",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Signer's experience",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Steps to send in bulk",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "2.\nAdd a file:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "3. Add participants:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "4. . (Optional) Add yourself and/or CC'd parties",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "6. Add Agreement Details:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "7. Edit the Agreement settings (Optional):",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "8. Click Next in the upper right corner of the window.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "9. Prepare the Agreement and Add Fields:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "11. Review and Send",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "12. Confirmation",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Manage your bulk sends",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Why use certificate signatures?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "What can I do with certificate IDs?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Sign documents",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Validate documents",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Set privileges and permissions for others",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "What if my organization isn\u2019t prepared to set up certificate-\nbased signatures?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Resources",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Managing Digital IDs: Help pages for digital ID management.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Steps to add a certificate-based signature to a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Certifying and signing documents",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Digitally sign",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Setting up certificate-based signatures",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Set signing preferences",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Customizing signature workflows using seed values",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Create the appearance of a certificate-based signature",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "No Graphic",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Imported Graphic",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Name",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Set up a roaming ID account",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "1. Open the Preferences dialog box.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "PKCS#12 modules and tokens",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Store certificates on directory servers",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Import directory server settings (Windows only)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Export directory server settings (Windows only)",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Add a timestamp to certificate-based signatures",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Configure a timestamp server",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Set a timestamp server as the default",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_1"
+  },
+  {
+    "heading": "Adobe LiveCycle Rights Management\n(ALCRM) servers",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "What is a digital signature?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Why validate a digital signature?",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Set preferences for validating digital signatures",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Set the trust level of a certificate",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "6. Select OK.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Sign in preview mode for document integrity",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Certify a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Timestamp a document",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Validate a digital signature",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Validate all digital signatures",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "View previous versions of a digitally signed document",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Compare versions of a signed document",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Trust a signer\u2019s certificate",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Sign component PDFs and PDF Portfolios",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Digitally sign on attachments to component PDFs",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "View signed and certified PDF Portfolios",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "XML data signatures",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Establish long-term signature validation",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Add verification information at signing",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Add verification information after signing",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "To add verification information after signing:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Request e-signatures_2"
+  },
+  {
+    "heading": "Share",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "PDF sharing options",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Send an anonymous or public link in an email",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Mark up text",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Using Select Text Tool",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Using Markup Tool",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Change the color of the markup",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Delete The Markup",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Add a comment to the markup",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Replace text",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Insert text",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Export text edits",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Share a PDF for review",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Send an anonymous or public link in an email",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Reviewer experience",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Send personalized invitations for commenting",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "3. Enter the email addresses of the recipients or choose from the Address Book.",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Initiate a review using @mention in a PDF",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Reviewer experience",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Hosting a shared review on SharePoint or Office 365",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Initiate SharePoint-based shared review\nusing Acrobat",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_1"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Show annotations and drawing markup tools",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Keep an annotation tool selected",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Add a comment",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Steps to add a comment",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Edit a comment",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Change font size of annotation comments",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Copy partial text in a comment",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Delete a comment",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Add a text comment",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Add reactions to comments on shared files",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Add an arrow, or shape",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "2. Draw in the PDF:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Add a line",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Group and ungroup markups",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Group markups",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Ungroup markups",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Add comments in a text box or callout",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Note:",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Add a comment in text box",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Set or change properties for the text box",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Add a comment in callout",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Commenting preferences",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Viewing comments",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Font, Font Size",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Pop-up Opacity",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Enable Text Indicators And Tooltips",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Print Notes And Pop-ups",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Show Lines Connecting Comment Markups To Their Pop-ups On Mouse Rollover",
+    "level": "paragraph_title",
+    "doc_title": "Learn Acrobat - Share_2"
+  },
+  {
+    "heading": "Export Expert: Test Your Acrobat Exporting Skills",
+    "level": "paragraph_title",
+    "doc_title": "Test Your Acrobat Exporting Skills"
+  },
+  {
+    "heading": "The Ultimate PDF Sharing Checklist",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "General Sharing Checklist",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "\u2022  Open Your PDF",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "\u2022  Set Permissions",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "\u2022  Add Recipients",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "\u2022  Customize Your Message",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "\u2022\nCreate and Share the Link",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "\u2022  Follow Up",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "Professional Tip: Clear Instructions",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "Real Estate Sharing Checklist",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "\u2022  Set Permissions",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "\u2022  Customize Your Message",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "\u2022  Follow Up",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "Professional Tip: Highlight Key Details",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  },
+  {
+    "heading": "Conclusion",
+    "level": "paragraph_title",
+    "doc_title": "The Ultimate PDF Sharing Checklist"
+  }
+]

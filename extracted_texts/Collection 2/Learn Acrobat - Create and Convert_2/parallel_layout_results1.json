@@ -1,0 +1,530 @@
+[
+  {
+    "title": "Select Visio layers to convert (Acrobat Pro)",
+    "text": "You can convert a Visio drawing that contains layers to a PDF and retain some or all of the \nlayers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers \nin layer sets, which are folders in the Acrobat Layers panel. 1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and\nselect Retain Some Layers In The Selected Page. Note: If the Retain Some Layers In The Selected Page option is not available, deselect\nthe Convert All Pages In Drawing option. 2. Select one or more layers in the Layers In Visio Drawing list. 3. To add the selected Visio layers to the list of layers to convert to the PDF file, do one\nof the following: • \nTo convert the selected Visio layers to individual PDF layers within a PDF layer\nset, click Create Layer Set, and optionally, type a layer name. • \nTo convert the selected Visio layers to individual layers (but not grouped\nunder a layer set), click the Add Layer(s) button. Note: The name of a layer in the Layers In Visio Drawing list is unavailable if that \nlayer is included in the Layers In PDF list. When you select that layer in the Layers In \nPDF list, a bullet appears next to the layer’s name in the Layers In Visio Drawing list.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 1
+  },
+  {
+    "title": "4. Optionally, do any of the following:",
+    "text": "• \nTo reorder the layers in the Layers In PDF list, drag an item up or down in the\nlist. • \nTo include a visibility property that can be switched on or off in Acrobat, deselect Locked On adjacent to the PDF layer; to lock the resulting PDF layer’s\nvisibility on, select Locked On. • \nTo save the current settings of Visio layers selected, click Save PDF Settings,\nand click OK. These settings are used the next time you convert the current \nVisio file to a PDF file. 5. Click Convert To PDF, specify a folder in the Save In box in which to save the PDF file,\ntype a filename, and then click Save. Note: Visio layers that were selected for conversion and that have Visio settings for \nvisible, printable, or lock are converted to PDF layers; the visible and printable \nproperties are included in the resulting PDF layers. If the Visio file contains a \nbackground page, header, or footer, the PDF file automatically has PDF layers named\nfor those items. Use PDFMaker to convert AutoCAD files from within the AutoCAD application. You can also use\nthe Batch Conversion feature to convert many AutoCAD files in one operation. Acrobat \nPDFMaker preserves selected layers and layouts when converting AutoCAD files to PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 1
+  },
+  {
+    "title": "Convert AutoCAD files when AutoCAD is installed",
+    "text": "When converting individual AutoCAD files, you don't usually need to change page size and \nplotting settings. PDFMaker uses the appropriate layout page size and plotting information to\ncreate a correctly sized PDF file. Note: Acrobat can't convert DWG to PDF without AutoCAD installed. 1. To change the PDF conversion settings, choose Adobe PDF > Change Conversion\nSettings in AutoCAD.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 3
+  },
+  {
+    "title": "2. Do one of the following:",
+    "text": "2. Do one of the following: • \nClick a button in the Adobe PDF toolbar: Convert To Adobe \nPDF \n or Convert To Adobe PDFAnd Send For Review \n. • \nChoose Adobe PDF > Convert To Adobe PDF. • \nChoose Adobe PDF > Convert To Adobe PDF And Email. • \nChoose Adobe PDF > Convert To Adobe PDFAnd Send For Review. 3. In the Choose Layouts dialog box, add or remove layouts as needed. To reorder the\nlayouts, select a layout from the Layouts In PDF list, and click Move Up or Move \nDown. 4. To determine how the AutoCAD layers are converted, select one of the following, and\nthen click Continue: • \nFlatten All Layers. When layers are flattened, only those entities belonging to \nlayers that are not frozen and are printable appear in the converted PDF. • \nRetain All Or Some Layers. In the next dialog box, specify the layers to include\nin the resulting PDF. 5. Specify a filename and location in the Save As dialog box, and click Save.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 3
+  },
+  {
+    "title": "Select AutoCAD layers to convert",
+    "text": "If you choose to retain all or some AutoCAD layers when converting to PDF, you can specify\nwhich layers are preserved in the PDF. 1. In AutoCAD, start to convert an AutoCAD file and select the Retain All Or Some\nLayers option. 2. To show specific AutoCAD layers in the Layers In Drawing list, do any of the\nfollowing:",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 4
+  },
+  {
+    "title": "2. To show specific AutoCAD layers in the Layers In Drawing list, do any of the\nfollowing:",
+    "text": "• \nChoose an option from the Named Layer Filters menu to list all layers that fit \nthat criterion. • \nSelect the Invert option to list all layers except those layers that are described\nby the selected choice in the Named Layer Filters menu. • \nTo change the sort order of the layers, click the headings. Note: To change the On, Frozen, or Plot properties for a layer, click Cancel, change\nthe properties in the AutoCAD drawing, and restart the procedure.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 4
+  },
+  {
+    "title": "3. To select the AutoCAD layers to convert, do any of the following:",
+    "text": "3. To select the AutoCAD layers to convert, do any of the following: • \nChoose a previously saved set of layers from the PDF Layer Settings menu. • \nSelect one or more layers from the Layers In Drawing List. • \nTo convert all of the layers in the drawing, click Add All Layers, and go to step\n5.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 4
+  },
+  {
+    "title": "4. To add the selected AutoCAD layers to the Layers In PDF list, do one of the following:",
+    "text": "• \nTo convert the selected AutoCAD layers to individual layers within a PDF layer\nset, click Create Layer Set. This action creates a folder of layers in \nthe Layers navigation pane in Acrobat. • \nTo convert the selected AutoCAD layers to individual layers, click Add\nLayer(s).",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 4
+  },
+  {
+    "title": "5. Optionally, do any of the following in the Layers In PDF list:",
+    "text": "• \nTo reorder layers, drag an item up or down in the list. • \nTo include a visibility property that can be switched on or off in Acrobat,\ndeselect Locked On for the PDF layer. To lock the resulting PDF layer’s \nvisibility on, select Locked On. • \nTo save the current list of selected AutoCAD layers, click Add PDF Setting.\nLater, you can retrieve this list from the PDF Layer Settings menu. 6. Click Convert, specify a filename and location, and then click Save.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 4
+  },
+  {
+    "title": "Convert AutoCAD files in batches",
+    "text": "1. Choose Adobe PDF > Batch Conversion. 2. Specify your preferences for layers, page size, plot style, and output PDFs.\nClick Conversion Settings to specify the Acrobat PDFMaker settings. 3. In the DWG List, do any of the following:",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 5
+  },
+  {
+    "title": "3. In the DWG List, do any of the following:",
+    "text": "•\nClick Add Folder or Add Files, and then specify the folder or files. • \nTo load a previously saved list of files, click Append List, and then specify the\nlist. • \nAs needed, expand individual files and select or deselect the items you want,\nsuch as model space and layouts. To exclude or include all model space, click \nthe associated buttons. • \nTo exclude a file from the conversion, deselect the file box. As needed, select \nor deselect all of the files in the list, change the order of the files, remove files,\nor clear the list. • \nTo show the complete file paths, select Expand File Name(s). • \nTo save the DWG list for later use, click Save List. This action saves the list in\nits current state, including the file order and file selections. You can retrieve \nthis list at any time by clicking Append List.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 5
+  },
+  {
+    "title": "4. Click Convert.",
+    "text": "5. Once the conversion has finished, you can click Save Details to save a log file of the\nconversion.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 5
+  },
+  {
+    "title": "Application-specific PDFMaker settings",
+    "text": "Sometimes the conversion settings in one PDFMaker-enabled application are different from the\nsettings in a different application. Some PDFMaker settings are common to several or most applications. Some options are unique\nto a specific application.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "Settings tab options available from within most applications",
+    "text": "The following settings appear on the Settings tab available from within most PDFMaker-\nenabled applications.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "Attach Source File",
+    "text": "Includes the document being converted as an attachment to the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "Create Bookmarks",
+    "text": "Converts certain elements in original Office documents to PDF bookmarks: Word headings, \nExcel worksheet names, or PowerPoint titles. Selecting this option overrides any settings on\nthe Bookmarks tab of the Conversion Settings dialog box.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "Add Links",
+    "text": "Includes active links and hypertext in the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "Note:",
+    "text": "If this option is deselected, but the recipient of the PDF has the create Links From URLs\npreference selected, URLs in the PDF are still active.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "Enable Accessibility And Reflow With Tagged Adobe PDF",
+    "text": "Embeds tags in the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "Convert Comments",
+    "text": "Converts user-created Excel comments to notes and lists them in the Acrobat Comments panel.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "Actual Size",
+    "text": "Uses actual size specified in the worksheet. Worksheets are not resized. Fit Worksheet To A Single Page Adjusts the size of each worksheet so that all the entries on that worksheet appear on the same\npage of the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 6
+  },
+  {
+    "title": "Fit To Paper Width",
+    "text": "Adjusts the width of each worksheet so that all the columns on that worksheet appear on one\npage in the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Prompt For Selecting Excel Sheets",
+    "text": "Opens a dialog box at the beginning of the file conversion process. In this dialog box, you can \nspecify which worksheets are included in the PDF and the order in which the sheets appear in\nthe PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Preserve Slide Transitions",
+    "text": "Converts PowerPoint slide transition effects to PDF transition effects.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Convert Hidden Slides To PDF Pages",
+    "text": "Converts any PowerPoint slides that are not seen in the usual playing of the presentation to\nPDF pages.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Convert Speaker Notes",
+    "text": "Converts any speaker notes for the PowerPoint presentation into Text notes in the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Email-specific options on the Settings tab",
+    "text": "The following options appear when you open the PDFMaker settings from within Microsoft\nOutlook or Lotus Notes.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Compatibility",
+    "text": "Sets the compatibility level of the PDF. Use the most recent version (in this case, version 1.7\nADBE-3) to include all the latest features and functionality. If you’re creating PDFs that are \ndistributed widely, choose an earlier level to ensure that all users can view and print the \ndocument.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Attachments",
+    "text": "Indicates whether all files attached to email messages are included in the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Output Adobe PDF Portfolio When Creating A New PDF File",
+    "text": "When selected, always converts individual messages as component files of a PDF Portfolio.\nWhen deselected, merges individual messages as separate pages of a PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 7
+  },
+  {
+    "title": "Do Not Include Folder Name Information",
+    "text": "When selected, excludes mail folder names from PDFs.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Embed Index For Faster Search",
+    "text": "Creates an embedded index, which speeds up searches, especially when you convert large\nnumbers of email messages or message folders.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Block Download Of External Content",
+    "text": "When selected, prevents the downloading of any external Internet content, such as images,\nCSS, and JavaScript.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Page Layout options",
+    "text": "Specifies page properties, like the properties found in the Print dialog box: page dimensions,\norientation, and margins.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Show This Number Of Recent Archives (Outlook only)",
+    "text": "When converting email messages and folders, the Adobe PDF > [Convert Selected Messages and Convert Selected Folders] menus can list recently created PDFs to append. This\noption specifies the maximum number of PDFs to list in the menus.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Show “Attach As Adobe PDF” Buttons",
+    "text": "If selected, the Attach As Adobe PDF button appears in the Outlook email message window.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "AutoCAD-specific options on the Settings tab (Acrobat Pro)",
+    "text": "The following options appear when you open the PDFMaker settings from within Autodesk\nAutoCAD.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Compliance Standard",
+    "text": "Specify the PDF/A or PDF/E compliance standard, or none.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Open Layers Pane When Viewed In Acrobat",
+    "text": "Open Layers Pane When Viewed In Acrobat Shows the layers structure when a PDF is opened in Acrobat.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Embed Scale Information",
+    "text": "Preserves drawing-scale information, which is usable with the Acrobat measurement tools.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Do Not Convert Model Space To 3D",
+    "text": "When selected, the model space layout is not converted to a 3D annotation in the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Choose Layout Option",
+    "text": "Specifies whether Current Layout, All Layouts, or Selected Layouts are included in the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 8
+  },
+  {
+    "title": "Exclude Model Space",
+    "text": "(Available only when Convert All Layouts Without Prompting is selected from Choose Layout\nOption.) When selected, all layouts except the model space are included in the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Choose Layer Option",
+    "text": "Specifies whether All Layers, Selected Layers, or No Layers are included as layers in the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Visio-specific options on the Settings tab (Acrobat Pro)",
+    "text": "The following options appear when you open the PDFMaker settings from within Microsoft \nVisio.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Include Visio Custom Properties As Object Data In The Adobe PDF",
+    "text": "Indicates whether custom properties of the Visio image are included as object data in the new\nPDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Exclude Visio Objects With No Custom Properties",
+    "text": "Indicates whether the new PDF excludes Visio objects without custom properties.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Convert Comments To Adobe PDF Comments",
+    "text": "Indicates whether the comments in the Visio file are converted to PDF comments in the new\nPDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Always Flatten Layers In Adobe PDF",
+    "text": "Specifies if the layers are flattened. If you flatten layers, the PDF looks like the original drawing,\nbut doesn’t contain any layer information. All shapes in the Visio drawing are converted, \nregardless of their protection or behavior, and shape custom properties can be converted to \nPDF object data. Specifies if the layers are flattened. If you flatten layers, the PDF looks like the original drawing,\nbut doesn’t contain any layer information. All shapes in the Visio drawing are converted, regardless of their protection or behavior, and shape custom properties can be converted to \nPDF object data.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Open Layers Pane When Viewed In Acrobat",
+    "text": "Shows the layers structure when a PDF is opened in Acrobat.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Convert Displayed Comments To Notes In Adobe PDF",
+    "text": "Changes any Word comment entries to PDF comments. If the currently open Word document\ncontains comments, more options appear in the Comments list on this tab:",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Reviewer",
+    "text": "Lists the names of reviewers who have entered comments in the current Word document.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 9
+  },
+  {
+    "title": "Include",
+    "text": "When deselected, does not include the comments in the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Notes Open",
+    "text": "Specifies whether the PDF comment windows automatically open or are closed for that\nreviewer’s comments.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Color",
+    "text": "Shows the color for that reviewer’s comment icons. Clicking the color icon repeatedly cycles\nthrough a limited set of available colors.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "# Of Comments",
+    "text": "Shows the number of comments that the reviewer made. Convert Footnote And Endnote Links",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Convert Footnote And Endnote Links",
+    "text": "Integrates these into the PDF. Convert signature fields specified by pdfmarks Converts signature fields indicated by pdfmarks. Enable Advanced Tagging Integrates this into the PDF.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Bookmarks tab settings (Microsoft Word)",
+    "text": "The options you specify on this tab determine which items are converted into PDF bookmarks\nin the PDF. Note: To include bookmarks in the conversion process, you must select the Add Bookmarks To \nAdobe PDF option on the Settings tab. If you deselect that option, you override any options you\nselect on this tab, and no bookmarks are created.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Convert Word Headings To Bookmarks",
+    "text": "Selects all the headings in the Elements list for conversion to PDF bookmarks.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Convert Word Styles To Bookmarks",
+    "text": "Selects all the text styles in the Elements list for conversion to PDF bookmarks (deselected by\ndefault).",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Convert Word Bookmarks",
+    "text": "Converts any user-created Word bookmarks to PDF bookmarks.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 10
+  },
+  {
+    "title": "Element list",
+    "text": "Specifies which Word headings and styles are converted to PDF bookmarks.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 11
+  },
+  {
+    "title": "Element",
+    "text": "Lists the names of all available Word headings and styles. The icons \nfor Headings \n and Styles  indicate the element types. Lists the names of all available Word headings and styles. The icons for Headings \n and Styles  indicate the element types.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 11
+  },
+  {
+    "title": "Type",
+    "text": "Also indicates whether the element is a heading or style in the Word document.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 11
+  },
+  {
+    "title": "Bookmark",
+    "text": "Displays X’s, indicating whether individual elements are converted to PDF bookmarks. Clicking\nan individual Bookmark option changes the selection status for that element.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 11
+  },
+  {
+    "title": "Level",
+    "text": "Specifies where the element fits in the hierarchy structure of the PDF Bookmarks panel.\nClicking an individual Level number opens a menu that you can use to change the value.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 11
+  },
+  {
+    "title": "Note:",
+    "text": "When some but not all of the available Word headings and styles are selected for conversion to \nPDF bookmarks, the marker in the corresponding check boxes at the top of the tab change. If all\nelements of the type are selected, a check mark appears. If only some of the elements of that \ntype are selected, a colored square appears. Otherwise, the check box is empty.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 11
+  },
+  {
+    "title": "Create PDFs by printing to file",
+    "text": "In many authoring applications, you can use the Print command with the Adobe PDF printer to \nconvert your file to PDF. Your source document is converted to PostScript and fed directly to \nDistiller for conversion to PDF, without manually starting Distiller. The current Distiller \npreference settings and Adobe PDF settings are used to convert the file. If you’re working with \nnonstandard page sizes, create a custom page size. preference settings and Adobe PDF settings are used to convert the file. If you’re working with\nnonstandard page sizes, create a custom page size.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 12
+  },
+  {
+    "title": "Note:",
+    "text": "(Windows) For Microsoft Office documents, the Adobe PDF printer does not include some of \nthe features that are available from PDFMaker. For example, you cannot create bookmarks and\nhyperlinks using the Adobe PDF printer. If you’re creating a PDF from a Microsoft \nOffice document and you want to use these features, use PDFMaker. The Adobe PDF printer creates untagged PDFs. A tagged structure is required for reflowing\ncontent to a handheld device and is preferable for producing reliable results with a screen \nreader.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 12
+  },
+  {
+    "title": "Create a PDF using the Print command (Windows)",
+    "text": "1. Open the file in its authoring application, and choose File > Print. 2. Choose Adobe PDF from the printers menu. 3. Click the Properties (or Preferences) button to customize the Adobe PDF printer \nsetting. (In some applications, you may need to click Setup in the Print dialog box to\nopen the list of printers, and then click Properties or Preferences.) 4. In the Print dialog box, click OK. Note: Your PDF is saved in the folder specified by the setting of the Adobe \nPDF Output Folder in the Preferences dialog box; the default location is My \nDocuments. If you specify Prompt For Adobe PDF Filename, then a Save As dialog\nopens when you print.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 12
+  },
+  {
+    "title": "Create a PDF using the Print command (Mac OS X)",
+    "text": "The method for creating PDFs using the Print command changed in Mac OS v10.6 Snow \nLeopard with Acrobat 9.1 and later. The following procedure describes the method in both\nSnow Leopard and earlier versions of Mac OS X. 1. Open the file in its authoring application, and choose File > Print. 2. Choose Save As Adobe PDF from the PDF menu at the bottom of the dialog box. 3. For Adobe PDF Settings, choose one of the default settings, or customize the settings\nusing Distiller. Any custom settings that you have defined are listed. For most users, the default Adobe PDF conversion settings are adequate. 4. For After PDF Creation, specify whether to open the PDF. 5. Click Continue. 6. Select a name and location for your PDF, and click Save. Note: By default, your PDF is saved with the same filename and a .pdf extension.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 12
+  },
+  {
+    "title": "Adobe PDF printing preferences (Windows)",
+    "text": "Printing preferences apply to all applications that use the Adobe PDF printer, unless you change\nthe settings in an authoring application by using the Page Setup,Document Setup, or Print \nmenu.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 14
+  },
+  {
+    "title": "Note:",
+    "text": "The dialog box for setting printing preferences is named Adobe PDFPrinting Preferences, \nAdobe PDF Printing Defaults, or Adobe PDFDocument Properties, depending on how you\naccess it.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 14
+  },
+  {
+    "title": "To access printing preferences:",
+    "text": "• \nOpen the Printers window from the Start menu. Right-click the Adobe PDF printer, and\nchoose Printing Preferences. • \nIn an authoring application such as Adobe InDesign, choose File > Print. Select Adobe \nPDF as the printer, and click the Properties (or Preferences) button. (In some \napplications, you may need to click Setup in the Print dialog box to access the list of \nprinters, and then click Properties or Preferences to customize the Adobe PDF settings.) • \nIn an authoring application such as Adobe InDesign, choose File > Print. Select Adobe \nPDF as the printer, and click the Properties (or Preferences) button. (In some PDF-specific options appear on the Adobe PDF Settings tab. The Paper Quality tab and Layout \ntab contain other familiar options for the paper source, printer ink, page orientation, and \nnumber of pages per sheet.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 14
+  },
+  {
+    "title": "Note:",
+    "text": "Printing Preferences are different from printer Properties. The Preferences include Adobe PDF-\nspecific options for the conversion process; the Properties dialog box contains tabs of options \nthat are available for any type of printer.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 15
+  },
+  {
+    "title": "Adobe PDFConversion Settings",
+    "text": "Select a predefined set of options from the Default Settings menu or click Edit to view or\nchange the settings in the Adobe PDF Settings dialog box.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 15
+  },
+  {
+    "title": "Adobe PDF Security",
+    "text": "To add security to the PDF, choose one of the following options, or click Edit to view or change\nthe security settings: • \nReconfirm Security For Each Job: Opens the Adobe PDF Security dialog box each time \nyou create a PDF using the Adobe PDF printer. Specify the desired settings in the dialog\nbox. • \nUse The Last Known Security Settings: Uses the same security settings that were used\nthe last time a PDF was created using the Adobe PDF printer on your computer. Choose an output folder for the converted PDF, or click Browse to add or change the output \nfolder. Choose Prompt For Adobe PDF Filename to specify a location and filename at the time\nof conversion.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 15
+  },
+  {
+    "title": "Adobe PDF Page Size menu",
+    "text": "Select a custom page size that you have defined.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "Replace Existing PDF",
+    "text": "Choose if you want to replace the existing PDF Always, Ask Everytime, or Never replace.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "View Adobe PDF Results",
+    "text": "Automatically starts Acrobat and displays the converted document immediately.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "Add Document Information",
+    "text": "Includes information such as the filename and date and time of creation.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "Rely On System Fonts Only; Do Not Use Document Fonts",
+    "text": "Deselect this option to download fonts when creating the PDF. All your fonts will be available in\nthe PDF, but it will take longer to create it. Leave this option selected if you are working with \nAsian-language documents.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "Delete Log Files For Successful Jobs",
+    "text": "Automatically deletes the log files unless the job fails.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 16
+  },
+  {
+    "title": "Set Adobe PDF printer properties (Windows)",
+    "text": "In Windows, you can usually leave the Adobe PDF printer properties unchanged, unless you\nhave configured printer sharing or set security.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 17
+  },
+  {
+    "title": "Note:",
+    "text": "Note: Printing Properties are different from printer Preferences. The Properties dialog box contains\ntabs of options that apply to any type of printer; the Preferences include conversion options \nspecifically for the Adobe PDF printer.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 17
+  },
+  {
+    "title": "Set Adobe PDF printer properties",
+    "text": "1. Open Devices and Printers from the Start menu, and right-click the Adobe\nPDF printer. 2. Choose Properties. 3. Click the tabs, and select options as needed.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 17
+  },
+  {
+    "title": "Reassign the port that the Adobe PDF printer uses",
+    "text": "1. Quit Distiller if it is running, and allow all queued jobs to the Adobe PDF printer to\ncomplete. 2. Open Devices and Printers from the Start menu. 3. Right-click the Adobe PDF printer, and choose Printer Properties. 4. Click the Ports tab, and then click Add Port. 5. Select Adobe PDF Port (Windows XP) or Adobe PDF Port Monitor (Vista/Windows 7) \nfrom the list of available port types, and click New Port. 6. Select a local folder for PDF output files, and click OK. Then click Close to quit the\nPrinter Ports dialog box. 7. In the Adobe PDF Properties dialog box, click Apply, and then click OK. Note: For best results, select a folder on the same system where Distiller is installed. \nAlthough remote or network folders are supported, they have limited user access and\nsecurity issues.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 17
+  },
+  {
+    "title": "Delete a folder and reassign the Adobe PDF printer to the default port",
+    "text": "1. Quit Distiller if it is running, and allow a few minutes for all queued jobs to Adobe\nPDF to complete. 2. Open Devices and Printers from the Start menu. 3. Right-click the Adobe PDF printer, and choose Printer Properties. 4. Click the Ports tab. 5. Select the default port, Documents, and click Apply. 6. Select the port to delete, click Delete Port, and then click OK to confirm the deletion. 7. Select the Documents port again and click Close.",
+    "doc_title": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Create and Convert_2.pdf",
+    "page_number": 18
+  }
+]

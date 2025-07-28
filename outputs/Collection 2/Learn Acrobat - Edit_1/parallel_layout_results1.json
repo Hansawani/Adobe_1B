@@ -1,0 +1,2434 @@
+{
+  "document": "CHALLENGE_1B\\Collection 2\\PDFs\\Learn Acrobat - Edit_1.pdf",
+  "total_pages": 16,
+  "processing_time": "110.34s",
+  "layout_time_total": "178.43s",
+  "optimization": "multiprocessing+in-memory+shared-model",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "id": 1,
+          "type": "chart",
+          "confidence": 0.792,
+          "text": "",
+          "coordinates": [
+            0.2990652322769165,
+            1.8271186351776123,
+            612.0,
+            788.986572265625
+          ]
+        }
+      ],
+      "element_counts": {
+        "chart": 1
+      }
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.521,
+          "text": "Edit text in a PDF",
+          "coordinates": [
+            70.8353042602539,
+            77.05038452148438,
+            249.31642150878906,
+            96.10565185546875
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.516,
+          "text": "Open the PDF you want to edit in Acrobat, and then select Edit in the global bar.",
+          "coordinates": [
+            69.58264923095703,
+            102.11323547363281,
+            471.1802978515625,
+            114.6853256225586
+          ]
+        },
+        {
+          "id": 3,
+          "type": "image",
+          "confidence": 0.908,
+          "text": "",
+          "coordinates": [
+            72.4197998046875,
+            124.50213623046875,
+            498.3562316894531,
+            271.4043273925781
+          ]
+        },
+        {
+          "id": 4,
+          "type": "figure_title",
+          "confidence": 0.697,
+          "text": "",
+          "coordinates": [
+            69.3372802734375,
+            285.3962097167969,
+            537.16845703125,
+            320.23040771484375
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.559,
+          "text": "The PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a\nscanned document, Acrobat automatically runs OCR to make the text and images editable.",
+          "coordinates": [
+            69.3372802734375,
+            285.3962097167969,
+            537.16845703125,
+            320.23040771484375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "image",
+          "confidence": 0.956,
+          "text": "",
+          "coordinates": [
+            74.66098022460938,
+            334.6705322265625,
+            486.3919372558594,
+            602.8216552734375
+          ]
+        },
+        {
+          "id": 7,
+          "type": "figure_title",
+          "confidence": 0.754,
+          "text": "",
+          "coordinates": [
+            69.05072784423828,
+            639.2640991210938,
+            536.4390258789062,
+            718.3026123046875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.531,
+          "text": "The Edit panel includes options to modify the page, add content, redact a PDF, and convert \nvarious documents to PDF forms. You can use the options in the Edit panel to replace, edit, or\nadd text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment, \nadd superscripts or subscripts, and resize text or paragraphs.",
+          "coordinates": [
+            69.05072784423828,
+            639.2640991210938,
+            536.4390258789062,
+            718.3026123046875
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 3,
+        "image": 2,
+        "figure_title": 2
+      }
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.836,
+          "text": "Set the default font for adding and editing text",
+          "coordinates": [
+            69.01536560058594,
+            96.63111114501953,
+            391.46966552734375,
+            112.54020690917969
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.968,
+          "text": "When you add text in a PDF, by default Acrobat chooses nearby font attributes for the new \ntext. When you edit text, any font that isn't available on the system is substituted by a default \nfall-back font for the particular script. For example, Minion Pro is the default fall-back font for \nRoman script fonts. The substitution of unavailable fonts by default fonts can introduce \ninconsistency in the look and feel of text in a PDF document. To avoid inconsistency, choose a\nspecific font for any text that is added or modified in the PDF document from Font \nOptions under Content Editing.",
+          "coordinates": [
+            68.61094665527344,
+            124.39371490478516,
+            536.996826171875,
+            271.1166687011719
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.516,
+          "text": "1. From the hamburger menu \n (Windows) or the Acrobat menu (macOS),",
+          "coordinates": [
+            86.8974609375,
+            301.7492370605469,
+            473.2128601074219,
+            314.9575500488281
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.519,
+          "text": "1. From the hamburger menu \n (Windows) or the Acrobat menu (macOS), \nchoose Preferences. The Preferences dialog box is displayed. \n(Alternatively, you can press Ctrl+K keys on Windows® or Command+K keys on \nmacOS.)",
+          "coordinates": [
+            86.51575469970703,
+            301.8379821777344,
+            504.2502136230469,
+            381.11260986328125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.619,
+          "text": "(Alternatively, you can press Ctrl+K keys on Windows® or Command+K keys on\nmacOS.)",
+          "coordinates": [
+            99.25520324707031,
+            347.2497253417969,
+            503.6872863769531,
+            381.351318359375
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.813,
+          "text": "2. In the dialog box, select Content Editing under Categories to display Font Options.",
+          "coordinates": [
+            86.87857055664062,
+            391.4786376953125,
+            518.2115478515625,
+            404.1343688964844
+          ]
+        },
+        {
+          "id": 7,
+          "type": "image",
+          "confidence": 0.882,
+          "text": "",
+          "coordinates": [
+            72.2464599609375,
+            414.80206298828125,
+            536.65185546875,
+            575.366943359375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.705,
+          "text": "3. Select an appropriate font in the drop-down lists:",
+          "coordinates": [
+            87.0583724975586,
+            586.495361328125,
+            352.4253234863281,
+            598.361083984375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.872,
+          "text": "1. Fallback font for Editing.",
+          "coordinates": [
+            123.09645080566406,
+            608.6109619140625,
+            265.9274597167969,
+            620.5465698242188
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.865,
+          "text": "2. Default font for Add Text and Font Size.",
+          "coordinates": [
+            123.12125396728516,
+            630.5081176757812,
+            340.9453125,
+            641.0944213867188
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.825,
+          "text": "4. Select OK to save the changes and close the Preferences dialog box.",
+          "coordinates": [
+            87.15640258789062,
+            652.2548217773438,
+            444.8510437011719,
+            664.8573608398438
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 1,
+        "text": 9,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.858,
+          "text": "Change, replace, or delete text",
+          "coordinates": [
+            69.70529174804688,
+            74.73564910888672,
+            283.8010559082031,
+            90.54637145996094
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.969,
+          "text": "When you edit text, the text in the paragraph reflows within its text box to accommodate the \nchanges. Each text box is independent, and inserting text in one text block doesn’t push down\nan adjacent text box or reflow to the next page.",
+          "coordinates": [
+            68.84703063964844,
+            102.4541244506836,
+            536.599609375,
+            159.52035522460938
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "1. Select Edit in the global bar.",
+          "coordinates": [
+            87.26509094238281,
+            169.42935180664062,
+            248.3428192138672,
+            181.3077392578125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.938,
+          "text": "2. Select the text that you want to edit. The text-box turns blue upon selection, and a\nrotation handle appears at the top of the selected text-box.",
+          "coordinates": [
+            86.96405792236328,
+            191.384521484375,
+            516.4099731445312,
+            225.2138214111328
+          ]
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "confidence": 0.929,
+          "text": "",
+          "coordinates": [
+            72.5932388305664,
+            236.23060607910156,
+            537.73583984375,
+            398.5618591308594
+          ]
+        },
+        {
+          "id": 6,
+          "type": "paragraph_title",
+          "confidence": 0.818,
+          "text": "3. Edit the text by doing one of the following:",
+          "coordinates": [
+            87.34436798095703,
+            408.31671142578125,
+            321.4006652832031,
+            420.5927429199219
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "1. Type new text to replace the selected text, or press Delete to remove it.",
+          "coordinates": [
+            123.02588653564453,
+            430.74237060546875,
+            498.52435302734375,
+            443.20538330078125
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "2. To rotate the text box, use the rotation handle at the top of the selected text\nbox.",
+          "coordinates": [
+            123.06607818603516,
+            453.46246337890625,
+            522.26611328125,
+            485.65472412109375
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.956,
+          "text": "3. Manage list items using the list controls (bulleted and numbered) in the left \nFormat panel. You can create lists and, conversely, convert a list item to a \nparagraph or change list types.",
+          "coordinates": [
+            123.50823211669922,
+            497.0586853027344,
+            519.2866821289062,
+            554.5995483398438
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.962,
+          "text": "4. Select a font, font size, or other formatting options in the left Format panel. You\ncan also try the advanced format options, such as line spacing, character \nspacing, horizontal scaling, stroke width, and color.",
+          "coordinates": [
+            123.41127014160156,
+            563.2334594726562,
+            537.32763671875,
+            620.4381713867188
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 2,
+        "text": 7,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.972,
+          "text": "",
+          "coordinates": [
+            73.50090026855469,
+            72.04593658447266,
+            468.2598876953125,
+            336.3794250488281
+          ]
+        },
+        {
+          "id": 2,
+          "type": "figure_title",
+          "confidence": 0.787,
+          "text": "",
+          "coordinates": [
+            87.67543029785156,
+            347.375,
+            431.1412048339844,
+            358.8475341796875
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.824,
+          "text": "Format text",
+          "coordinates": [
+            87.77847290039062,
+            404.5908508300781,
+            170.7643280029297,
+            416.4734802246094
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.867,
+          "text": "1. Select Edit in the global bar.",
+          "coordinates": [
+            87.34625244140625,
+            432.10009765625,
+            248.22183227539062,
+            444.1970520019531
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "2. Select the text that you want to change.",
+          "coordinates": [
+            87.19681549072266,
+            454.40625,
+            305.11187744140625,
+            466.8088073730469
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.959,
+          "text": "3. In the Format Text section on the left panel, select a font, font size, bold, or other \nformatting options. You can also try the advanced format options, such as line spacing,\ncharacter spacing, horizontal scaling, stroke width, and color.",
+          "coordinates": [
+            87.16734313964844,
+            476.4093322753906,
+            536.9820556640625,
+            533.4874267578125
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "figure_title": 1,
+        "paragraph_title": 1,
+        "text": 3
+      }
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.96,
+          "text": "",
+          "coordinates": [
+            73.62969207763672,
+            74.41263580322266,
+            451.4469299316406,
+            324.87506103515625
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.76,
+          "text": "Formatting options on the left pane",
+          "coordinates": [
+            87.618896484375,
+            336.6309509277344,
+            267.438720703125,
+            348.46075439453125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "•\nBold : Bolds the text.",
+          "coordinates": [
+            87.9949951171875,
+            358.6927490234375,
+            212.4595489501953,
+            368.7964782714844
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "•\nItalic : Makes the text italic.",
+          "coordinates": [
+            88.01583862304688,
+            380.7345886230469,
+            244.49171447753906,
+            390.87335205078125
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.882,
+          "text": "• \nUnderline: Underlines the text.",
+          "coordinates": [
+            87.93315887451172,
+            403.8025817871094,
+            263.2026062011719,
+            414.1200256347656
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.891,
+          "text": "• \nSuperscript : Converts the selected text into superscript.",
+          "coordinates": [
+            87.46022033691406,
+            425.8525390625,
+            386.41534423828125,
+            437.507080078125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.886,
+          "text": "• \nSubscript: Converts the sleected text into subscript.",
+          "coordinates": [
+            87.7281723022461,
+            447.5893249511719,
+            363.6004943847656,
+            459.1834411621094
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.829,
+          "text": "4. Select outside the selection to deselect it and start over.",
+          "coordinates": [
+            87.661865234375,
+            492.6341857910156,
+            383.5245361328125,
+            503.3172912597656
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.57,
+          "text": "Add new text",
+          "coordinates": [
+            70.03511047363281,
+            538.0047607421875,
+            164.6126251220703,
+            551.2512817382812
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.706,
+          "text": "You can add or insert new text into a PDF using any of the fonts installed on the system.",
+          "coordinates": [
+            69.3341064453125,
+            565.1585083007812,
+            506.35784912109375,
+            577.408935546875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.755,
+          "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add \nContent.",
+          "coordinates": [
+            86.68656921386719,
+            588.0010375976562,
+            494.07269287109375,
+            621.1980590820312
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.871,
+          "text": "2. Drag to define the width of the text block that you want to add.",
+          "coordinates": [
+            87.05946350097656,
+            632.0174560546875,
+            421.9560241699219,
+            644.480712890625
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "3. The Add text tool intelligently detects the following text properties of text close to the\npoint of click:",
+          "coordinates": [
+            87.2459945678711,
+            654.3124389648438,
+            533.94873046875,
+            687.74560546875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.847,
+          "text": "• \nFont name, size, and color",
+          "coordinates": [
+            123.4229736328125,
+            699.5036010742188,
+            275.0983581542969,
+            710.9231567382812
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 1,
+        "text": 12,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.646,
+          "text": "• \nCharacter, paragraph, and line spacing",
+          "coordinates": [
+            123.4156494140625,
+            73.61714935302734,
+            335.68328857421875,
+            86.55341339111328
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.653,
+          "text": "• \nHorizontal scaling",
+          "coordinates": [
+            123.75914764404297,
+            95.8113021850586,
+            234.62222290039062,
+            107.9621810913086
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.649,
+          "text": "These text properties are automatically applied to the text that you add at the point of click.",
+          "coordinates": [
+            70.11917114257812,
+            117.41577911376953,
+            526.0358276367188,
+            130.72055053710938
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.586,
+          "text": "You can change the text properties using the options under Format in the left pane.",
+          "coordinates": [
+            69.3840103149414,
+            161.6331787109375,
+            487.10699462890625,
+            174.4578399658203
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.676,
+          "text": "4. Type the text.",
+          "coordinates": [
+            87.82008361816406,
+            184.733154296875,
+            176.6087188720703,
+            196.95994567871094
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.774,
+          "text": "5. To resize the text box, drag a selection handle.",
+          "coordinates": [
+            87.5353775024414,
+            206.34609985351562,
+            338.4491882324219,
+            218.5943145751953
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.704,
+          "text": "6. To move the text box, place the pointer over the line of the bounding box (avoid the \nselection handles). When the cursor changes to Move pointer \n, drag the box to the\nnew location. To maintain alignment with the other list items, press Shift as you drag.",
+          "coordinates": [
+            87.86283874511719,
+            228.7087860107422,
+            532.8807983398438,
+            289.42669677734375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "paragraph_title",
+          "confidence": 0.817,
+          "text": "Move, rotate, or resize a text box",
+          "coordinates": [
+            69.90509796142578,
+            323.7047119140625,
+            299.3569030761719,
+            337.0800476074219
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.649,
+          "text": "You can move or rotate text boxes on a page. The Edit tool outlines each text box, so it's clear \nwhat text is affected. Edits are confined to the page. You can't drag a text block to another \npage, or move or rotate individual characters or words within a text box. However, you can \ncopy text boxes and paste them on another page.",
+          "coordinates": [
+            69.34819030761719,
+            350.56915283203125,
+            538.8726806640625,
+            430.44049072265625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.793,
+          "text": "Resizing a text box causes the text to reflow within the new text box boundaries. It doesn't \nchange the size of the text. As with other text edits, resizing is limited to the current page. Text \ndoesn't flow to the next page.",
+          "coordinates": [
+            69.33423614501953,
+            439.8284606933594,
+            538.1884155273438,
+            495.66534423828125
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.567,
+          "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add",
+          "coordinates": [
+            87.10700988769531,
+            506.4501647949219,
+            494.43023681640625,
+            518.54833984375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.761,
+          "text": "2. Select the text box that you want to move, rotate, or resize.",
+          "coordinates": [
+            87.17670440673828,
+            550.9352416992188,
+            401.4958801269531,
+            562.6973266601562
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 11,
+        "paragraph_title": 1
+      }
+    },
+    {
+      "page_number": 8,
+      "elements": [
+        {
+          "id": 1,
+          "type": "image",
+          "confidence": 0.926,
+          "text": "",
+          "coordinates": [
+            71.3212661743164,
+            72.21549987792969,
+            503.3227844238281,
+            224.48350524902344
+          ]
+        },
+        {
+          "id": 2,
+          "type": "paragraph_title",
+          "confidence": 0.837,
+          "text": "3. Do any of the following:",
+          "coordinates": [
+            87.11227416992188,
+            255.03053283691406,
+            228.2906036376953,
+            268.2139892578125
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.953,
+          "text": "1. Move: Place the pointer over the line of the bounding box (avoid the selection\nhandles). When the cursor changes to Move pointer \n, drag the box to the \ndesired location. Hold down the Shift key as you drag to constrain the \nmovement vertically or horizontally.",
+          "coordinates": [
+            123.22228240966797,
+            277.04180908203125,
+            534.1857299804688,
+            360.5723876953125
+          ]
+        },
+        {
+          "id": 4,
+          "type": "formula",
+          "confidence": 0.578,
+          "text": "",
+          "coordinates": [
+            404.2944030761719,
+            296.8191833496094,
+            423.06781005859375,
+            316.5357971191406
+          ]
+        },
+        {
+          "id": 5,
+          "type": "image",
+          "confidence": 0.955,
+          "text": "",
+          "coordinates": [
+            71.56433868408203,
+            391.1800231933594,
+            448.0279235839844,
+            640.0545654296875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.652,
+          "text": "2. Rotate: Click and hold the  Rotation pointer \n, drag in the direction you\nwant it to rotate.",
+          "coordinates": [
+            123.62361145019531,
+            656.5062255859375,
+            518.1812744140625,
+            693.1461791992188
+          ]
+        },
+        {
+          "id": 7,
+          "type": "figure_title",
+          "confidence": 0.583,
+          "text": "",
+          "coordinates": [
+            123.62361145019531,
+            656.5062255859375,
+            518.1812744140625,
+            693.1461791992188
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.78,
+          "text": "3. Resize: Place the pointer over any of the circular selection handles, and drag",
+          "coordinates": [
+            123.1850357055664,
+            704.9750366210938,
+            523.3805541992188,
+            717.9769897460938
+          ]
+        }
+      ],
+      "element_counts": {
+        "image": 2,
+        "paragraph_title": 1,
+        "text": 3,
+        "formula": 1,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 9,
+      "elements": [
+        {
+          "id": 1,
+          "type": "header",
+          "confidence": 0.588,
+          "text": "",
+          "coordinates": [
+            141.47003173828125,
+            73.71245574951172,
+            314.21392822265625,
+            84.21173858642578
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.536,
+          "text": "the handle to resize the text block.",
+          "coordinates": [
+            141.47003173828125,
+            73.71245574951172,
+            314.21392822265625,
+            84.21173858642578
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.868,
+          "text": "Add or edit lists",
+          "coordinates": [
+            69.28209686279297,
+            122.81195068359375,
+            180.60157775878906,
+            135.72596740722656
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "You can add items to a numbered or bulleted list, create list items, convert a paragraph to a\nlist item, and conversely. You can also change list types.",
+          "coordinates": [
+            68.98634338378906,
+            150.26927185058594,
+            525.9479370117188,
+            184.62840270996094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.857,
+          "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add \nContent.",
+          "coordinates": [
+            86.8199462890625,
+            195.2161102294922,
+            494.1307678222656,
+            227.90994262695312
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.759,
+          "text": "2. To add or remove items from a numbered or bulleted list:",
+          "coordinates": [
+            86.63577270507812,
+            239.23268127441406,
+            396.6827392578125,
+            250.26690673828125
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.903,
+          "text": "• Note: You can add or remove items to the list at all nested levels using the \nsame familiar controls that you use in Microsoft® Office. For example, \npress Enter at the end of a list item to insert a new row. Press Backspace to \nremove the new row and position the cursor back to the end of the previous\nlist item.",
+          "coordinates": [
+            122.84772491455078,
+            262.5849609375,
+            523.3563232421875,
+            361.1136474609375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.7,
+          "text": "To create a numbered or bulleted list:",
+          "coordinates": [
+            69.41216278076172,
+            372.6613464355469,
+            261.3615417480469,
+            383.1432189941406
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.865,
+          "text": "1. Place the cursor in the document at the location where you want to add a list.",
+          "coordinates": [
+            86.87348175048828,
+            395.52435302734375,
+            492.9742736816406,
+            406.68951416015625
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.827,
+          "text": "2. Choose the appropriate list type under Format Text.",
+          "coordinates": [
+            87.22990417480469,
+            417.5667419433594,
+            369.43505859375,
+            429.26025390625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.776,
+          "text": "To convert an existing paragraph to a list item:",
+          "coordinates": [
+            69.29135131835938,
+            440.0172119140625,
+            304.1561584472656,
+            451.3941650390625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.893,
+          "text": "• \nPlace the cursor in the paragraph, and then choose the appropriate list type \nunder Format Text.",
+          "coordinates": [
+            87.25762939453125,
+            461.6048278808594,
+            483.591796875,
+            493.8887634277344
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.782,
+          "text": "To convert an existing list item to a paragraph:",
+          "coordinates": [
+            69.47389221191406,
+            506.96307373046875,
+            304.1553039550781,
+            518.7447509765625
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.851,
+          "text": "1. Select all items in the list. The appropriate list type is highlighted under Format Text.",
+          "coordinates": [
+            86.52843475341797,
+            528.5029296875,
+            527.5178833007812,
+            540.449462890625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.867,
+          "text": "2. Click the highlighted list type.",
+          "coordinates": [
+            86.90325164794922,
+            550.4840698242188,
+            255.61138916015625,
+            562.6197509765625
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.848,
+          "text": "To convert from one list type to another:",
+          "coordinates": [
+            69.60678100585938,
+            572.69580078125,
+            275.573486328125,
+            583.6943359375
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.895,
+          "text": "1. Place the cursor in the list item or select all items.",
+          "coordinates": [
+            86.91653442382812,
+            594.61376953125,
+            353.0490417480469,
+            605.4498291015625
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "2. Choose the appropriate list type under Format Text.",
+          "coordinates": [
+            86.71540832519531,
+            617.6646118164062,
+            368.4459533691406,
+            629.7095336914062
+          ]
+        },
+        {
+          "id": 19,
+          "type": "paragraph_title",
+          "confidence": 0.862,
+          "text": "Change font color",
+          "coordinates": [
+            69.70934295654297,
+            662.7101440429688,
+            196.05349731445312,
+            678.5263061523438
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.874,
+          "text": "1. Select Edit in the global bar.",
+          "coordinates": [
+            87.12165069580078,
+            691.5459594726562,
+            247.97280883789062,
+            703.6778564453125
+          ]
+        }
+      ],
+      "element_counts": {
+        "header": 1,
+        "text": 17,
+        "paragraph_title": 2
+      }
+    },
+    {
+      "page_number": 10,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.74,
+          "text": "2. Select the text that you want to change.",
+          "coordinates": [
+            87.53932189941406,
+            73.92306518554688,
+            305.0111083984375,
+            85.85054779052734
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.786,
+          "text": "3. In the Format Text section on the Edit panel, select Font color next to Font size.",
+          "coordinates": [
+            87.4840316772461,
+            95.77731323242188,
+            503.5558166503906,
+            107.12640380859375
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.858,
+          "text": "4. For Windows: You see a color panel for Windows to choose the color you want. Select\nthe color you want your text to change into.",
+          "coordinates": [
+            87.47763061523438,
+            117.77886962890625,
+            538.9338989257812,
+            152.02297973632812
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.852,
+          "text": "For macOS: You see a Color dialog box with options to change the font color. You can\nselect the color you want and then close the dialog box to change the font color.",
+          "coordinates": [
+            101.95484924316406,
+            162.7769012451172,
+            538.4689331054688,
+            197.10525512695312
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 4
+      }
+    },
+    {
+      "page_number": 11,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.865,
+          "text": "Change font",
+          "coordinates": [
+            69.6074447631836,
+            74.57453155517578,
+            157.1050262451172,
+            90.1802749633789
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.909,
+          "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add \nContent.",
+          "coordinates": [
+            86.92859649658203,
+            102.06878662109375,
+            493.74603271484375,
+            135.9506072998047
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.88,
+          "text": "2. Select the text that you want to change.",
+          "coordinates": [
+            87.04523468017578,
+            147.47454833984375,
+            305.5239562988281,
+            159.94825744628906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.944,
+          "text": "3. In the Format Text section on the Edit panel, from the Font drop-down menu, select\nthe Font you want for the selected text.",
+          "coordinates": [
+            86.94942474365234,
+            169.4287872314453,
+            527.916259765625,
+            203.36326599121094
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.875,
+          "text": "Change font size",
+          "coordinates": [
+            69.54145050048828,
+            244.6636962890625,
+            185.45155334472656,
+            260.35809326171875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.917,
+          "text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add\nContent.",
+          "coordinates": [
+            87.04388427734375,
+            273.1707763671875,
+            493.6239318847656,
+            305.8006896972656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "2. Select the text that you want to change.",
+          "coordinates": [
+            86.90674591064453,
+            317.58514404296875,
+            305.6715393066406,
+            329.87322998046875
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "3. In the Format Text section on the Edit panel, from the Font size menu, select the font \nsize you want for the selected text.",
+          "coordinates": [
+            86.99152374267578,
+            339.2809143066406,
+            531.6300659179688,
+            374.2937927246094
+          ]
+        },
+        {
+          "id": 9,
+          "type": "paragraph_title",
+          "confidence": 0.883,
+          "text": "Redo text in Acrobat",
+          "coordinates": [
+            69.35771942138672,
+            408.0097961425781,
+            215.12281799316406,
+            420.370361328125
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.879,
+          "text": "1. Open the PDF in which you want to redo the text.",
+          "coordinates": [
+            87.1211166381836,
+            435.5433044433594,
+            354.832275390625,
+            447.1756591796875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.93,
+          "text": "2. (Windows) Select the hamburger menu in the upper left. Then select Undo, Redo &\nmore > Redo.",
+          "coordinates": [
+            85.39210510253906,
+            458.2108154296875,
+            524.3602905273438,
+            491.09381103515625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.842,
+          "text": "(macOS) Select Edit in the upper left. Then select Undo, Redo and More > Redo.",
+          "coordinates": [
+            69.19300842285156,
+            502.0931701660156,
+            474.2080383300781,
+            514.2180786132812
+          ]
+        },
+        {
+          "id": 13,
+          "type": "paragraph_title",
+          "confidence": 0.881,
+          "text": "Undo text in Acrobat",
+          "coordinates": [
+            69.27693176269531,
+            548.9117431640625,
+            216.75787353515625,
+            561.4386596679688
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "1. Open the PDF in which you want to redo the text.",
+          "coordinates": [
+            87.18534088134766,
+            576.4075317382812,
+            354.8300476074219,
+            588.2227783203125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.936,
+          "text": "2. (Windows) Select the hamburger menu in the upper left. Then select Undo, Redo &\nmore > Undo.",
+          "coordinates": [
+            86.21714782714844,
+            598.3885498046875,
+            524.4124145507812,
+            632.0191040039062
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.856,
+          "text": "(macOS) Select Edit in the upper left. Then select Undo, Redo and More > Undo.",
+          "coordinates": [
+            69.0411148071289,
+            643.0511474609375,
+            475.15618896484375,
+            655.5475463867188
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.84,
+          "text": "Change paragraph spacing",
+          "coordinates": [
+            69.55197143554688,
+            689.0914916992188,
+            255.66043090820312,
+            704.9724731445312
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 5,
+        "text": 12
+      }
+    },
+    {
+      "page_number": 12,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.685,
+          "text": "You can change paragraph spacing in Acrobat using format text options:",
+          "coordinates": [
+            69.32783508300781,
+            73.7629165649414,
+            432.01763916015625,
+            86.45240783691406
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.776,
+          "text": "1. Select Edit from the global bar in the upper left.",
+          "coordinates": [
+            87.23675537109375,
+            95.42645263671875,
+            345.20208740234375,
+            107.63693237304688
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.814,
+          "text": "2. Select the text for which you want to modify the paragraph spacing.",
+          "coordinates": [
+            86.98725128173828,
+            117.651611328125,
+            443.9112548828125,
+            130.20909118652344
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.845,
+          "text": "3. From the FORMAT TEXT panel, select Paragraph spacing after drop-down menu and\nthen select the value to adjust spacing as needed.",
+          "coordinates": [
+            87.24064636230469,
+            139.38656616210938,
+            535.4044189453125,
+            174.8080596923828
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 4
+      }
+    },
+    {
+      "page_number": 13,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.569,
+          "text": "Edit images or objects in a PDF",
+          "coordinates": [
+            71.00117492675781,
+            76.22088623046875,
+            389.4195861816406,
+            100.72260284423828
+          ]
+        },
+        {
+          "id": 2,
+          "type": "doc_title",
+          "confidence": 0.5,
+          "text": "Edit images or objects in a PDF",
+          "coordinates": [
+            71.00117492675781,
+            76.22088623046875,
+            389.4195861816406,
+            100.72260284423828
+          ]
+        },
+        {
+          "id": 3,
+          "type": "paragraph_title",
+          "confidence": 0.794,
+          "text": "About editing text and images",
+          "coordinates": [
+            69.56824493408203,
+            138.66685485839844,
+            280.2040710449219,
+            154.6151123046875
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.675,
+          "text": "Adobe Acrobat provides powerful tools and capabilities for editing PDF images and text.",
+          "coordinates": [
+            68.8653793334961,
+            164.10830688476562,
+            510.3262939453125,
+            176.55624389648438
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.577,
+          "text": "You might encounter formatting challenges that require manual adjustments. Acrobat's \nimage-editing capabilities are limited, and using high-resolution images can lead to",
+          "coordinates": [
+            68.55294799804688,
+            186.26193237304688,
+            507.0290222167969,
+            213.6852569580078
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.5,
+          "text": "performance issues due to larger file sizes. To address this, improve images using other tools\nbefore adding them to PDF documents.",
+          "coordinates": [
+            68.66114044189453,
+            217.28163146972656,
+            529.9177856445312,
+            243.19325256347656
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.946,
+          "text": "If the original font isn't available, font substitutions may occur, altering the text's appearance.\nTo maintain consistency across devices, we suggest you use the available fonts or embed \nthem within the PDF.",
+          "coordinates": [
+            68.62378692626953,
+            253.3581085205078,
+            529.7470703125,
+            293.16351318359375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.916,
+          "text": "You can also enhance document accessibility using Acrobat's features, such as adding \nalternative text for images and proper content tagging.",
+          "coordinates": [
+            68.84457397460938,
+            305.1445617675781,
+            497.1205139160156,
+            331.4326171875
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "Refer to the following topics to learn how to add, resize, move, or replace images and objects\nin a PDF using Acrobat.",
+          "coordinates": [
+            68.76050567626953,
+            342.2680969238281,
+            534.4826049804688,
+            368.16107177734375
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.813,
+          "text": "Add images in a PDF",
+          "coordinates": [
+            69.42247009277344,
+            399.80035400390625,
+            215.26353454589844,
+            414.5208740234375
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.896,
+          "text": "1. Open the PDF in Acrobat. Select Edit a PDF from the All tools menu and then\nselect Image.",
+          "coordinates": [
+            87.13296508789062,
+            418.033203125,
+            494.359619140625,
+            445.207275390625
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.927,
+          "text": "2. From the drop-down menu, select Choose image to select an image from your device\nor Select Generate image to generate an image from text.",
+          "coordinates": [
+            87.08869934082031,
+            455.450439453125,
+            535.2305297851562,
+            482.1439514160156
+          ]
+        },
+        {
+          "id": 13,
+          "type": "image",
+          "confidence": 0.972,
+          "text": "",
+          "coordinates": [
+            107.914306640625,
+            492.0636901855469,
+            368.9197692871094,
+            658.5527954101562
+          ]
+        },
+        {
+          "id": 14,
+          "type": "paragraph_title",
+          "confidence": 0.645,
+          "text": "Note:",
+          "coordinates": [
+            69.6535873413086,
+            671.1821899414062,
+            100.90287780761719,
+            680.56640625
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.555,
+          "text": "To learn how to generate images from text, go to Generate unique AI images from text.",
+          "coordinates": [
+            69.82645416259766,
+            693.416748046875,
+            504.2634582519531,
+            706.2513427734375
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "doc_title": 1,
+        "text": 9,
+        "image": 1
+      }
+    },
+    {
+      "page_number": 14,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.805,
+          "text": "3. In the dialog, select the image file you want to insert.",
+          "coordinates": [
+            87.16851806640625,
+            73.14468383789062,
+            369.45843505859375,
+            85.7449722290039
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.829,
+          "text": "4. Select where you want to insert the image or select drag to resize it as you insert.",
+          "coordinates": [
+            87.04693603515625,
+            95.13101959228516,
+            507.8773193359375,
+            107.5185317993164
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.885,
+          "text": "A copy of the image file appears on the page, with the same resolution as the original\nfile.",
+          "coordinates": [
+            98.70146942138672,
+            117.12700653076172,
+            530.7982177734375,
+            143.0365753173828
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.789,
+          "text": "5. Once the image is added, you can take any of the following actions:",
+          "coordinates": [
+            87.24170684814453,
+            153.9601593017578,
+            443.7567138671875,
+            166.74462890625
+          ]
+        },
+        {
+          "id": 5,
+          "type": "text",
+          "confidence": 0.935,
+          "text": "• \nTo move the image, hover over the image, press and hold the move icon, and\nthen drag the image to the desired location.",
+          "coordinates": [
+            123.20759582519531,
+            177.03018188476562,
+            530.052734375,
+            203.39382934570312
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.926,
+          "text": "• \nTo resize the image, select the image, hold the resize corner handles, and then\ndrag the handles in or out to reduce or enlarge the image size.",
+          "coordinates": [
+            123.18722534179688,
+            211.01797485351562,
+            531.806640625,
+            237.74972534179688
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.864,
+          "text": "Modify images in a PDF",
+          "coordinates": [
+            69.60296630859375,
+            265.2162170410156,
+            233.2644500732422,
+            281.5618896484375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.912,
+          "text": "To modify images in a PDF, select Edit from the global bar. Select the image you want to \nmodify, then from the Edit panel, under Adjust Objects, select one of the following tools:",
+          "coordinates": [
+            68.94251251220703,
+            292.1663513183594,
+            513.3666381835938,
+            319.96539306640625
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.704,
+          "text": "• \n Flip Vertical: Flips the image vertically, on the horizontal axis.",
+          "coordinates": [
+            87.68617248535156,
+            334.7605285644531,
+            407.7323303222656,
+            351.8477478027344
+          ]
+        },
+        {
+          "id": 10,
+          "type": "formula",
+          "confidence": 0.576,
+          "text": "",
+          "coordinates": [
+            106.37175750732422,
+            355.8606872558594,
+            146.9980926513672,
+            376.9415588378906
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.861,
+          "text": "• \n Flip Horizontal: Flips the image horizontally, on the vertical axis.",
+          "coordinates": [
+            88.07025146484375,
+            356.31298828125,
+            421.7396545410156,
+            377.74822998046875
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.758,
+          "text": "• \n Rotate left: Rotates the selected image 90° in the counterclockwise direction.",
+          "coordinates": [
+            87.35338592529297,
+            384.12451171875,
+            478.34161376953125,
+            402.7026672363281
+          ]
+        },
+        {
+          "id": 13,
+          "type": "formula",
+          "confidence": 0.529,
+          "text": "",
+          "coordinates": [
+            107.20445251464844,
+            406.2996520996094,
+            126.13987731933594,
+            425.22186279296875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.744,
+          "text": "• \n Rotate right: Rotates the selected image 90° in the clockwise direction.",
+          "coordinates": [
+            87.66268157958984,
+            410.6179504394531,
+            449.723388671875,
+            428.09259033203125
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.685,
+          "text": "• \n Crop image: Crops or clips the selected image. Drag a selection handle to crop the image.",
+          "coordinates": [
+            87.54974365234375,
+            434.5305480957031,
+            537.9475708007812,
+            458.544677734375
+          ]
+        },
+        {
+          "id": 16,
+          "type": "formula",
+          "confidence": 0.529,
+          "text": "",
+          "coordinates": [
+            106.81494140625,
+            460.25531005859375,
+            128.5928192138672,
+            481.8604736328125
+          ]
+        },
+        {
+          "id": 17,
+          "type": "text",
+          "confidence": 0.828,
+          "text": "• \n Replace image: From the drop-down menu, select Choose image to select an image\nfrom your device or Select Generate image to an image from text.",
+          "coordinates": [
+            87.39383697509766,
+            469.7886047363281,
+            515.8928833007812,
+            497.7091979980469
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.849,
+          "text": "• \n Align objects: To align multiple objects on a side - left, vertical center, right, top, \nhorizontal, center, and bottom.",
+          "coordinates": [
+            88.18287658691406,
+            514.3912353515625,
+            494.9663391113281,
+            540.947998046875
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "When you align objects relative to each other by their edges, one of the objects remains \nstationary. For example, the left option aligns the left edges of the selected objects with the\nleftmost object.",
+          "coordinates": [
+            101.86500549316406,
+            542.9500122070312,
+            521.7315063476562,
+            581.356201171875
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.889,
+          "text": "• \n Arrange objects: To move an image or object in front of or behind other elements. You\ncan push an item forward or back on just one level. Alternatively, you can send it to the front\nor back of the stacking order of elements on the page.",
+          "coordinates": [
+            90.27918243408203,
+            599.3510131835938,
+            528.6924438476562,
+            640.1633911132812
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.9,
+          "text": "Place the pointer just outside a selection handle to rotate the selected image manually. When the\ncursor changes to the rotation pointer\n, drag in the direction you want it to turn.",
+          "coordinates": [
+            69.5022201538086,
+            678.8187255859375,
+            514.6233520507812,
+            717.2756958007812
+          ]
+        },
+        {
+          "id": 22,
+          "type": "formula",
+          "confidence": 0.579,
+          "text": "",
+          "coordinates": [
+            249.66806030273438,
+            694.4049072265625,
+            263.3317565917969,
+            712.2243041992188
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 17,
+        "paragraph_title": 1,
+        "formula": 4
+      }
+    },
+    {
+      "page_number": 15,
+      "elements": [
+        {
+          "id": 1,
+          "type": "paragraph_title",
+          "confidence": 0.807,
+          "text": "Delete images from a PDF",
+          "coordinates": [
+            69.77995300292969,
+            107.44837951660156,
+            252.09523010253906,
+            123.22512817382812
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.825,
+          "text": "1. Open the PDF document in Adobe Acrobat. Select Edit from the global bar.",
+          "coordinates": [
+            86.76765441894531,
+            126.25398254394531,
+            482.3504943847656,
+            138.05624389648438
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.914,
+          "text": "2. Select the image you want to delete, and a contextual menu opens. Select \nDelete   from the contextual menu.",
+          "coordinates": [
+            87.17008209228516,
+            148.34552001953125,
+            475.7711181640625,
+            174.27345275878906
+          ]
+        },
+        {
+          "id": 4,
+          "type": "image",
+          "confidence": 0.922,
+          "text": "",
+          "coordinates": [
+            72.2632064819336,
+            185.78482055664062,
+            443.0050964355469,
+            422.11541748046875
+          ]
+        },
+        {
+          "id": 5,
+          "type": "figure_title",
+          "confidence": 0.589,
+          "text": "",
+          "coordinates": [
+            69.44195556640625,
+            433.9781799316406,
+            349.9354553222656,
+            445.5376281738281
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.565,
+          "text": "Alternatively, you can also select the image and press Delete.",
+          "coordinates": [
+            69.44195556640625,
+            433.9781799316406,
+            349.9354553222656,
+            445.5376281738281
+          ]
+        },
+        {
+          "id": 7,
+          "type": "paragraph_title",
+          "confidence": 0.844,
+          "text": "Add Objects to PDF",
+          "coordinates": [
+            69.32026672363281,
+            481.5088806152344,
+            207.800048828125,
+            496.2652893066406
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.837,
+          "text": "1. Open a PDF, and then from the All tools menu, select Edit a PDF.",
+          "coordinates": [
+            87.1053695678711,
+            500.1419982910156,
+            429.59368896484375,
+            511.9234313964844
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.938,
+          "text": ".From the left panel, select More from under Add Content to expand the menu and\nselect a desired tool.",
+          "coordinates": [
+            102.68267822265625,
+            523.3167724609375,
+            518.4182739257812,
+            547.8447875976562
+          ]
+        },
+        {
+          "id": 10,
+          "type": "paragraph_title",
+          "confidence": 0.757,
+          "text": "2. To add a button:",
+          "coordinates": [
+            87.07486724853516,
+            560.4965209960938,
+            191.7891387939453,
+            570.6717529296875
+          ]
+        },
+        {
+          "id": 11,
+          "type": "text",
+          "confidence": 0.878,
+          "text": "1. From the left menu, select Button.",
+          "coordinates": [
+            126.03201293945312,
+            582.646484375,
+            314.7667541503906,
+            593.1799926757812
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.94,
+          "text": "2. Once the button coordinates appear, move the mouse to a desired location\nand place the button.",
+          "coordinates": [
+            126.11608123779297,
+            601.3146362304688,
+            518.5056762695312,
+            627.3897094726562
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.89,
+          "text": "3. In the dialog that appears, provide a name to the button.",
+          "coordinates": [
+            126.36174774169922,
+            635.412353515625,
+            426.02764892578125,
+            647.5106201171875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.939,
+          "text": "4. To change the properties of the button, double-click the button and then select\nin the dialog that appears, set the properties as desired.",
+          "coordinates": [
+            126.3036880493164,
+            655.2716674804688,
+            538.0260009765625,
+            681.32373046875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "paragraph_title",
+          "confidence": 0.831,
+          "text": "3. To add a video:",
+          "coordinates": [
+            87.75171661376953,
+            689.5095825195312,
+            185.51101684570312,
+            699.9818725585938
+          ]
+        }
+      ],
+      "element_counts": {
+        "paragraph_title": 4,
+        "text": 9,
+        "image": 1,
+        "figure_title": 1
+      }
+    },
+    {
+      "page_number": 16,
+      "elements": [
+        {
+          "id": 1,
+          "type": "text",
+          "confidence": 0.869,
+          "text": "1. From the left menu, select Video.",
+          "coordinates": [
+            125.70687103271484,
+            73.67894744873047,
+            310.5838317871094,
+            84.19525146484375
+          ]
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "confidence": 0.888,
+          "text": "2. Drag your cursor on the document where you want to add the video.",
+          "coordinates": [
+            125.68640899658203,
+            92.86367797851562,
+            486.7012939453125,
+            104.44445037841797
+          ]
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "confidence": 0.924,
+          "text": "3. In the Insert Video dialog that appears, browse and select the video file that you\nwant to add.",
+          "coordinates": [
+            126.21443176269531,
+            112.65289306640625,
+            537.906982421875,
+            137.2135009765625
+          ]
+        },
+        {
+          "id": 4,
+          "type": "text",
+          "confidence": 0.867,
+          "text": "4. Select OK.",
+          "coordinates": [
+            126.67487335205078,
+            146.51986694335938,
+            196.13726806640625,
+            156.58401489257812
+          ]
+        },
+        {
+          "id": 5,
+          "type": "paragraph_title",
+          "confidence": 0.576,
+          "text": "4. To add sound to the PDF:",
+          "coordinates": [
+            87.14826202392578,
+            165.6324920654297,
+            236.86239624023438,
+            175.66766357421875
+          ]
+        },
+        {
+          "id": 6,
+          "type": "text",
+          "confidence": 0.518,
+          "text": "4. To add sound to the PDF:",
+          "coordinates": [
+            87.14826202392578,
+            165.6324920654297,
+            236.86239624023438,
+            175.66766357421875
+          ]
+        },
+        {
+          "id": 7,
+          "type": "text",
+          "confidence": 0.897,
+          "text": "1. From the left menu, select Sound.",
+          "coordinates": [
+            125.96286010742188,
+            187.59228515625,
+            313.4775695800781,
+            198.20458984375
+          ]
+        },
+        {
+          "id": 8,
+          "type": "text",
+          "confidence": 0.901,
+          "text": "2. Drag the cursor over the text or image that you want to add sound to.",
+          "coordinates": [
+            126.03331756591797,
+            207.60658264160156,
+            490.1434326171875,
+            219.34725952148438
+          ]
+        },
+        {
+          "id": 9,
+          "type": "text",
+          "confidence": 0.948,
+          "text": "3. In the Insert Sound dialog that appears, browse and select the audio file that\nyou want to add.",
+          "coordinates": [
+            126.55137634277344,
+            226.7700653076172,
+            520.0095825195312,
+            253.02365112304688
+          ]
+        },
+        {
+          "id": 10,
+          "type": "text",
+          "confidence": 0.877,
+          "text": "4. Select OK.",
+          "coordinates": [
+            126.6703872680664,
+            260.82476806640625,
+            195.6621856689453,
+            270.37603759765625
+          ]
+        },
+        {
+          "id": 11,
+          "type": "paragraph_title",
+          "confidence": 0.582,
+          "text": "5. To add 3D Media to the video:",
+          "coordinates": [
+            87.34716796875,
+            279.6299133300781,
+            261.12152099609375,
+            289.8851318359375
+          ]
+        },
+        {
+          "id": 12,
+          "type": "text",
+          "confidence": 0.523,
+          "text": "5. To add 3D Media to the video:",
+          "coordinates": [
+            87.34716796875,
+            279.6299133300781,
+            261.12152099609375,
+            289.8851318359375
+          ]
+        },
+        {
+          "id": 13,
+          "type": "text",
+          "confidence": 0.899,
+          "text": "1. From the left menu, select 3D Media.",
+          "coordinates": [
+            125.94403839111328,
+            302.6712646484375,
+            329.77630615234375,
+            313.1875
+          ]
+        },
+        {
+          "id": 14,
+          "type": "text",
+          "confidence": 0.945,
+          "text": "2. Once the button coordinates appear, move the mouse to a desired location\nand place the button.",
+          "coordinates": [
+            125.93787384033203,
+            321.6304931640625,
+            518.5228881835938,
+            347.35418701171875
+          ]
+        },
+        {
+          "id": 15,
+          "type": "text",
+          "confidence": 0.898,
+          "text": "3. In the dialog that appears, browse and select the file.",
+          "coordinates": [
+            126.2303237915039,
+            355.4393615722656,
+            405.4888610839844,
+            367.08428955078125
+          ]
+        },
+        {
+          "id": 16,
+          "type": "text",
+          "confidence": 0.873,
+          "text": "4. Select Ok.",
+          "coordinates": [
+            126.78138732910156,
+            374.6658935546875,
+            194.0830841064453,
+            384.5485534667969
+          ]
+        },
+        {
+          "id": 17,
+          "type": "paragraph_title",
+          "confidence": 0.875,
+          "text": "Edit an image outside Acrobat",
+          "coordinates": [
+            69.61186218261719,
+            415.1262512207031,
+            280.3560791015625,
+            430.0807189941406
+          ]
+        },
+        {
+          "id": 18,
+          "type": "text",
+          "confidence": 0.979,
+          "text": "You can edit an image or graphic using another application, such as Photoshop, Illustrator, or \nMicrosoft® Paint. When you save the image or graphic, Acrobat automatically updates the PDF\nwith the changes. The applications that appear in the Edit using menu depend upon what \nyou've installed and the type of image or graphic you've selected. Optionally, you can specify \nthe application you want to use.",
+          "coordinates": [
+            68.42533111572266,
+            440.7403564453125,
+            536.48193359375,
+            512.2819213867188
+          ]
+        },
+        {
+          "id": 19,
+          "type": "text",
+          "confidence": 0.608,
+          "text": "1. Open the PDF in Acrobat, choose Edit, and then select the image or object.",
+          "coordinates": [
+            87.09294891357422,
+            522.6134643554688,
+            480.2139587402344,
+            534.2666625976562
+          ]
+        },
+        {
+          "id": 20,
+          "type": "text",
+          "confidence": 0.933,
+          "text": "Note: Select multiple items if you want to edit them together in the same file. To edit all the\nimages and objects on the page, choose Select All from the context menu.",
+          "coordinates": [
+            68.7930679321289,
+            559.4989624023438,
+            527.2608032226562,
+            586.36767578125
+          ]
+        },
+        {
+          "id": 21,
+          "type": "text",
+          "confidence": 0.792,
+          "text": "2. Under Adjust Objects in the Edit panel, select Edit using, and then choose an editor. \nTo choose a different editor than offered on the menu, select Open with, find the app, and the app\nand select Open.",
+          "coordinates": [
+            68.73652648925781,
+            604.431396484375,
+            520.1717529296875,
+            641.5360107421875
+          ]
+        },
+        {
+          "id": 22,
+          "type": "text",
+          "confidence": 0.92,
+          "text": "Note: If a message asks whether to convert to ICC profiles, choose Don’t Convert. If the image\nwindow displays a checkerboard pattern when it opens, the image data couldn't be read.",
+          "coordinates": [
+            68.76145935058594,
+            658.1685180664062,
+            501.13818359375,
+            683.4860229492188
+          ]
+        }
+      ],
+      "element_counts": {
+        "text": 19,
+        "paragraph_title": 3
+      }
+    }
+  ]
+}
